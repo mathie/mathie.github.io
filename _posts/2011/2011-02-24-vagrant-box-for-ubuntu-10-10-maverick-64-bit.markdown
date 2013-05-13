@@ -12,19 +12,19 @@ I didn't really intend this to turn into a series, but hey ho. I needed to build
 
 So, without further ado, here we are: [Vagrant Base Box for Ubuntu 10.10 "Maverick" (64-bit)](http://mathie-vagrant-boxes.s3.amazonaws.com/maverick64.box). Getting started with it is pretty simple. First of all, make sure you've got [VirtualBox 4.0.4](http://virtualbox.org/) or greater installed, along with Vagrant 0.7.0 or greater. Then all you need to do is:
 
-<pre lang="bash">
+{% highlight bash %}
 vagrant box add maverick64 http://mathie-vagrant-boxes.s3.amazonaws.com/maverick64.box
-</pre>
+{% endhighlight %}
 
 This will take a while to download the box and unpack it in the way that Vagrant likes to do. Finally, let's just test it out:
 
-<pre lang="bash">
+{% highlight bash %}
 mkdir maverick_demo
 cd maverick_demo
 vagrant init maverick64
 vagrant up
 vagrant ssh
-</pre>
+{% endhighlight %}
 
 which should wind up with you ssh'd into a pristine minimal Ubuntu 10.10 environment.
 

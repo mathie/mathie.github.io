@@ -58,29 +58,29 @@ How do you get started? Well, personally, I'd just choose one piece of
 configuration to manage. Let's say, for example, that you want to manage your
 tmux configuration. Let's create a cookbook for that. Start with a repository:
 
-<pre lang="bash">
+{% highlight bash %}
 mkdir personal-chef
 cd personal-chef
 touch README
 git init
 git add .
 git commit -m "First post."
-</pre>
+{% endhighlight %}
 
 I like to use bundler to manage gem dependencies. There's only one dependency
 right now -- chef -- but we might as well start out sensibly. Create a
 `Gemfile` in the root of your repository and give it the following content:
 
-<pre lang="ruby">
+{% highlight ruby %}
 source :rubygems
 gem 'chef'
-</pre>
+{% endhighlight %}
 
 Save that and run:
 
-<pre lang="bash">
+{% highlight bash %}
 bundle
-</pre>
+{% endhighlight %}
 
 which will install chef & its dependencies. You might want to noodle around
 with a `.rvmrc` to get an isolated gemset for the project too (I do), but
@@ -91,7 +91,7 @@ put things in the right place, and to find its roles & cookbooks. Create a
 `config` folder in your new repository and add the following to
 `config/solo.rb`:
 
-<pre lang="ruby">
+{% highlight ruby %}
 root_path = File.expand_path(File.join(File.dirname(__FILE__), '..'))
 
 cookbook_path   File.join(root_path, 'cookbooks')
@@ -105,7 +105,7 @@ checksum_path    "#{state_root_path}/checksums"
 sandbox_path     "#{state_root_path}/sandbox"
 file_backup_path "#{state_root_path}/backup"
 cache_options[:path] = file_cache_path
-</pre>
+{% endhighlight %}
 
 I haven't caught all the paths pointing to `/var/chef` but it has been enough
 for chef to stop whining at me so far. ;-)
@@ -115,50 +115,50 @@ ourselves. As the configuration grows larger, I'm probably going to want to
 introduce roles, but let's keep it simple for now. Create `config/mathie.json`
 (adjust to taste!) and fill it in with the following:
 
-<pre lang="javascript">
+{% highlight javascript %}
 {
   "run_list": [ "recipe[tmux]" ]
 }
-</pre>
+{% endhighlight %}
 
 Very simple for now. The final bit of context we're going to want before we get
 to the interesting bits is a quick script to run chef. Here's one I prepared
 earlier, called `converge.sh`:
 
-<pre lang="bash">
+{% highlight bash %}
 #!/bin/bash
 chef-solo -c config/solo.rb -j config/mathie.json $*
-</pre>
+{% endhighlight %}
 
 (That should probably be `bundle exec chef-solo` but it failed the time I tried
 it, and I haven't yet tracked down why.) Make it executable:
 
-<pre lang="bash">
+{% highlight bash %}
 chmod +x ./converge.sh
-</pre>
+{% endhighlight %}
 
 Add that lot to your git repository and commit if you haven't been doing so
 already (little and often!). The last thing we need to do before we can verify
 the machinery is working is create a skeleton for the cookbook itself:
 
-<pre lang="bash">
+{% highlight bash %}
 mkdir -p cookbooks/tmux/recipes
 touch cookbooks/tmux/recipes/default.rb
-</pre>
+{% endhighlight %}
 
 All being well, the next thing we can do is test that it's all wired up
 correctly:
 
-<pre lang="bash">
+{% highlight bash %}
 ./converge.sh
-</pre>
+{% endhighlight %}
 
 which should spit out ~6 lines from chef saying that it's starting, finishing
 and tidying up. If that doesn't work so well, try:
 
-<pre lang="bash">
+{% highlight bash %}
 ./converge.sh -l debug
-</pre>
+{% endhighlight %}
 
 (which is why we stuck the `$*` on the end of the `chef-solo` invocation in
 there!) and see if you can see what's going wrong. If you can't, drop me a
@@ -170,9 +170,9 @@ So, we've got the infrastructure in place. Next thing we need to figure out is
 installing packages. Chef has some neat separation between what it refers to as
 'resources' and 'providers' so that, in your recipes, you can say:
 
-<pre lang="ruby">
+{% highlight ruby %}
 package 'tmux'
-</pre>
+{% endhighlight %}
 
 and it will do the right thing, no matter what platform you're on.
 Unfortunately, Chef doesn't ship with the ability to manage packages with
@@ -184,12 +184,12 @@ strategy](http://www.kernel.org/pub/software/scm/git/docs/howto/using-merge-subt
 (which, since we're DevOps Ninjas, in this situation, is pretty much the way
 forward):
 
-<pre lang="bash">
+{% highlight bash %}
 git remote add -f homebrew git://github.com/mathie/chef-homebrew.git
 git merge -s ours --no-commit homebrew/master
 git read-tree --prefix cookbooks/homebrew -u homebrew/master
 git commit -m "Pull in mathie's awesome Homebrew cookbook."
-</pre>
+{% endhighlight %}
 
 (If I've just lost you, or you're not using Git, head to
 <https://github.com/mathie/chef-homebrew> and stick the contents of that
@@ -198,10 +198,10 @@ repository in `cookbooks/homebrew`.)
 Now we should be good to go with getting tmux installed through Homebrew. Edit
 `cookbooks/tmux/recipes/default.rb` so that it contains:
 
-<pre lang="ruby">
+{% highlight ruby %}
 include_recipe 'homebrew'
 package 'tmux'
-</pre>
+{% endhighlight %}
 
 Save and commit (early and often!). Now run `./converge.sh`. It should bumble
 around for a bit, installing Homebrew if you haven't got it already, and
@@ -214,25 +214,25 @@ Last thing we're going to do here, just to demonstrate managing configuration
 too, is installing a managed `~/.tmux.conf` file. Add the following to
 `cookbooks/tmux/recipes/default.rb`:
 
-<pre lang="ruby">
+{% highlight ruby %}
 template "#{ENV['HOME']}/.tmux.conf" do
   source "tmux.conf.erb"
 end
-</pre>
+{% endhighlight %}
 
 and create `cookbooks/tmux/templates/default/tmux.conf` with your favourite
 tmux configuration. Let's say, for example, that you're on Mac OS X and you
 want to know the current battery level in your status bar:
 
-<pre>
+{% highlight bash %}
 set -g status-right "#[fg=green]#(pmset -g ps |awk 'BEGIN { FS=\"\t\" } /InternalBattery/ { print $2 }')"
-</pre>
+{% endhighlight %}
 
 (kinda useful, huh?) Now run:
 
-<pre lang="bash">
+{% highlight bash %}
     ./converge.sh
-</pre>
+{% endhighlight %}
 
 and your tmux configuration will magically be installed into `~/.tmux.conf`.
 Neat, huh?

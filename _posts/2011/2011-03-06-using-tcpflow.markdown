@@ -67,12 +67,14 @@ Breaking that down:
 
 Let's see what that gets us. I've created a Ruby script, the essence of which is:
 
-<pre lang="ruby">EM.run do
+{% highlight ruby %}
+EM.run do
   request = EventMachine::HttpRequest.new('http://api.example.com/')
   deferrable = request.get :path => '/api/v2/chickens.json'
   deferrable.callback { puts "It worked"; EM.stop }
   deferrable.errback  { puts "It failed"; EM.stop }
-end</pre>
+end
+{% endhighlight %}
 
 Let's see what the on-the-wire communication turns into:
 
@@ -94,7 +96,8 @@ That's annoying, because I'd specifically requested `/api/v2/chickens.json`, but
 
 The second problem is a little more subtle. I got to the stage where the first request was working successfully, but subsequent requests reusing the same `HttpRequest` would fail miserably, just waiting for no response to occur. An example:
 
-<pre lang="ruby">EM.run do
+{% highlight ruby %}
+EM.run do
   request = EventMachine::HttpRequest.new('http://api.example.com/')
   deferrable = request.get :path => '/api/v2/chickens.json'
   deferrable.callback do
@@ -103,7 +106,8 @@ The second problem is a little more subtle. I got to the stage where the first r
     deferred_eggs.errback  { puts "Egg retrieval failed"; EM.stop }
   end
   deferrable.errback  { puts "It failed"; EM.stop }
-end</pre>
+end
+{% endhighlight %}
 
 Let's take a wee look at the over-the-wire conversation as captured by `tcpflow`:
 

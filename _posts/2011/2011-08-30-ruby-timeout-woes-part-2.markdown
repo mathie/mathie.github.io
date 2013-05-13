@@ -28,7 +28,7 @@ I started digging into Delayed Job, our code, and the `Timeout` implementation t
 
 There are a few problems with that implementation (every call to `Timeout.timeout` creates a new thread, and it makes use of `Thread.raise` and `Thread.kill` which, as [Charles Nutter pointed out a few years back](http://headius.blogspot.com/2008/02/rubys-threadraise-threadkill-timeoutrb.html) is a little broken), but we'll gloss over them for now. That's not what was causing my woes today. Let's reduce the problem to a simple example:
 
-<pre lang="ruby">
+{% highlight ruby %}
 require 'timeout'
 
 puts "#{Time.now}: Starting"
@@ -46,7 +46,7 @@ rescue Timeout::Error => e
 else
   puts "#{Time.now}: Never timed out."
 end
-</pre>
+{% endhighlight %}
 
 Let's see what happens when we run that wee snippet:
 
