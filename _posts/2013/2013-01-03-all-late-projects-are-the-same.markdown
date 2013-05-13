@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: All late projects are the same
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2013-01-03 08:32:19.000000000 +00:00
+date: 2013-01-03 08:32:19 +00:00
 categories:
 - Commentary
-tags: []
-comments: []
 ---
 This is  the first in a series of posts where I actually digest and write about articles I've read elsewhere. What better way to understand something you've read than try to write about it? Of course, with this blog's track record, it may well be a series of one. :)
 

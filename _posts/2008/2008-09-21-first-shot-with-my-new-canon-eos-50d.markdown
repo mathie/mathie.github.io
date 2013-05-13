@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: First shot with my new Canon EOS 50D!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-09-21 11:21:56.000000000 +01:00
+date: 2008-09-21 11:21:56 +01:00
 categories:
 - Personal
 - Photography
-tags: []
 comments:
 - id: 1019
   author: PhotoDoc

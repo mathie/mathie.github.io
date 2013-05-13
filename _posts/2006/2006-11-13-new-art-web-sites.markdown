@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: New art web sites
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-11-13 15:33:30.000000000 +00:00
+date: 2006-11-13 15:33:30 +00:00
 categories:
 - Geekery
 - Photography
@@ -18,7 +12,6 @@ tags:
 - Photography
 - Ruby and Rails
 - Work
-comments: []
 ---
 I've just recently launched another small web site for a local Edinburgh
 artist, [John V Gardner](http://www.johnvgardner.com/). This joins the

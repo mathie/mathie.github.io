@@ -1,19 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Shower Power
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2012-04-30 20:38:57.000000000 +01:00
+date: 2012-04-30 20:38:57 +01:00
 categories:
 - Geekery
 - Personal
 - Ruby and Rails
 - Work
-tags: []
 comments:
 - id: 1480
   author: stu taylor

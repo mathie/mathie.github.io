@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Opening files in TextMate from less(1)
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-28 17:20:48.000000000 +01:00
+date: 2005-09-28 17:20:48 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 123
   author: Sune Foldager

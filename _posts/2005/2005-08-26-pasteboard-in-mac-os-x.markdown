@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Pasteboard in Mac OS X
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-26 12:13:23.000000000 +01:00
+date: 2005-08-26 12:13:23 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 82
   author: Gavin Kistner

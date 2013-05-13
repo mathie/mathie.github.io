@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Re: Windows'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-04-19 11:55:31.000000000 +01:00
+date: 2006-04-19 11:55:31 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 385
   author: Mark Brown

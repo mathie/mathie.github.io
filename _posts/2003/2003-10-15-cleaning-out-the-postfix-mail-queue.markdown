@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Cleaning out the (Postfix) mail queue
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2003-10-15 13:04:18.000000000 +01:00
+date: 2003-10-15 13:04:18 +01:00
 categories:
 - Geekery
 tags:

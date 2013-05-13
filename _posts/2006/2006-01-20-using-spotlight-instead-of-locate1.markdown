@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Using Spotlight instead of locate(1)
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-20 13:10:15.000000000 +00:00
+date: 2006-01-20 13:10:15 +00:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 259
   author: Mike Quin

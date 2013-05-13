@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: The &quot;Foo needs ...&quot; Google meme
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-07 16:51:25.000000000 +01:00
+date: 2005-10-07 16:51:25 +01:00
 categories:
 - Personal
 - Web surfing
-tags: []
-comments: []
 ---
 OK, it's Friday afternoon, I'm bored.  So, following up to <a href="http://www.livejournal.com/users/ibbs/10228.html">'Annabel needs...' google meme</a>:
 

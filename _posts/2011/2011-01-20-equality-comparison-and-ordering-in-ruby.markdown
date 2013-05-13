@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Equality, Comparison and Uniqueness in Ruby
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2011-01-20 19:50:26.000000000 +00:00
+date: 2011-01-20 19:50:26 +00:00
 categories:
 - Ruby and Rails
 tags:

@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Seeing the point of Spotlight
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-12 09:59:37.000000000 +00:00
+date: 2006-01-12 09:59:37 +00:00
 categories:
 - Geekery
-tags: []
-comments: []
 ---
 After having used Mac OS X 10.4 since within days of its release, and having gotten to the stage of <em>turning off</em> <a href="http://www.apple.com/macosx/features/spotlight/">Spotlight</a> as I was aware of how much CPU time <code>mds</code> and <code>mdimport</code> were uselessly consuming, I have finally found a use for it.  (It was re-enabled when I reinstalled my laptop and I thought I'd leave it for a while, just to see if it grew on me.)
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: My Dream App results are in
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-10-27 08:28:48.000000000 +01:00
+date: 2006-10-27 08:28:48 +01:00
 categories:
 - Geekery
 tags:
 - Geekery
-comments: []
 ---
 [My Dream App](http://mydreamapp.com/) is a competition run by four talented indie Mac developers.  People propose their dream application for the Mac that's currently missing, the public votes on their favourite and the developers implement it.
 

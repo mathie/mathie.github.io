@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: ISBN validation, part 2
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-09 09:25:59.000000000 +01:00
+date: 2005-09-09 09:25:59 +01:00
 categories:
 - Geekery
 - Python
-tags: []
 comments:
 - id: 106
   author: digitalkatie

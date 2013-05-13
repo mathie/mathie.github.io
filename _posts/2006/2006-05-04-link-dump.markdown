@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Link Dump
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-05-04 13:54:32.000000000 +01:00
+date: 2006-05-04 13:54:32 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 417
   author: Annabel

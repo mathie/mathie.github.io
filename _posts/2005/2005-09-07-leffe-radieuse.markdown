@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Leffe Radieuse
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-07 12:32:46.000000000 +01:00
+date: 2005-09-07 12:32:46 +01:00
 categories:
 - Photography
-tags: []
-comments: []
 ---
 <a href="http://woss.name/wp-content/leffe_radieuse.jpg"><img src='http://woss.name/wp-content/thumb-leffe_radieuse.jpg' alt='Leffe Radieuse with glass'  class="alignright" /></a> As an addendum to the previous post, I've selected the shot I'm most happy with.  I had to give up taking pictures when both Saffy and Tiko decided to investigate my 'tableaux', Saffy batting the white sheet (actually a towel...) from underneath the stool, Tiko threatening to pounce on it from the desk!  Click on the image for a larger version.
 

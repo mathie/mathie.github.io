@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Accidental Placing
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-07-23 12:11:09.000000000 +01:00
+date: 2007-07-23 12:11:09 +01:00
 categories:
 - Geekery
 - Ruby and Rails

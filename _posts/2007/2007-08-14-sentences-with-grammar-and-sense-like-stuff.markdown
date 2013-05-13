@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Sentences with grammar and sense like stuff
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-08-14 16:18:34.000000000 +01:00
+date: 2007-08-14 16:18:34 +01:00
 categories:
 - Work
 tags:

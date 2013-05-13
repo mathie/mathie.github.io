@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Reminders to self
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-04-19 11:59:49.000000000 +01:00
+date: 2006-04-19 11:59:49 +01:00
 categories:
 - Geekery
 - Work
-tags: []
-comments: []
 ---
 I really should write up something about the RoR course I was on last week.  It was absolutely fantastic, and I learned loads, but I should really tell you all in more detail what a god (and ncie guy!) [Chad Fowler](http://www.chadfowler.com/) really is.
 

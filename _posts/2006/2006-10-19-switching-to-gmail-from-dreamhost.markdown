@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Switching to Gmail from DreamHost
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-10-19 13:31:01.000000000 +01:00
+date: 2006-10-19 13:31:01 +01:00
 categories:
 - Geekery
 tags:

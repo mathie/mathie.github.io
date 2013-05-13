@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Rails: Normalizing data in the model'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-04-04 17:41:19.000000000 +01:00
+date: 2006-04-04 17:41:19 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 359
   author: Luke Redpath

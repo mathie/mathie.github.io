@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: SourceForge CVS down
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-11 12:40:01.000000000 +00:00
+date: 2005-11-11 12:40:01 +00:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
 comments:
 - id: 211
   author: Rob Cakebread

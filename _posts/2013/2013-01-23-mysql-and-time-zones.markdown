@@ -1,15 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: MySQL and time zones
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-wordpress_id: 692
-wordpress_url: http://woss.name/?p=692
-date: 2013-01-23 14:47:57.000000000 +00:00
+date: 2013-01-23 14:47:57 +00:00
 categories:
 - Geekery
 - Databases
@@ -21,7 +13,6 @@ tags:
 - activerecord
 - timestamp
 - datetime
-comments: []
 ---
 It turns out that MySQL has support for time zones, but doesn't have the necessary information to support named time zones out of the box. The instructions on getting time zone support are described in [MySQL Server Time Zone Support](http://dev.mysql.com/doc/refman/5.5/en/time-zone-support.html) section of the manual, but the short version is to run this script and then pass the results into MySQL to create the appropriate tables in the `mysql` db:
 

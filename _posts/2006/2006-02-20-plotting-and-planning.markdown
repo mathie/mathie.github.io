@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Plotting and planning
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-02-20 11:59:57.000000000 +00:00
+date: 2006-02-20 11:59:57 +00:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 296
   author: jim

@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: General Health
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-24 14:03:45.000000000 +01:00
+date: 2005-10-24 14:03:45 +01:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 169
   author: annabel

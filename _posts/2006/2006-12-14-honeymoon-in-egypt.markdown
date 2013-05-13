@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Honeymoon in Egypt
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-12-14 14:08:36.000000000 +00:00
+date: 2006-12-14 14:08:36 +00:00
 categories:
 - Personal
 - Photography

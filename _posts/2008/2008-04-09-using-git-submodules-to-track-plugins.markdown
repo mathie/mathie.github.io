@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Using git submodules to track plugins
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-04-09 13:20:02.000000000 +01:00
+date: 2008-04-09 13:20:02 +01:00
 categories:
 - Geekery
 - Ruby and Rails

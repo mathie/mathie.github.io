@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Reading : since April &#039;05'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-09 23:17:45.000000000 +01:00
+date: 2005-08-09 23:17:45 +01:00
 categories:
 - Entertainment
 - Personal
-tags: []
 comments:
 - id: 35
   author: Peter

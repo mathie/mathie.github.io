@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Installing DBI::mysql on Solaris 10
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-05-21 12:24:20.000000000 +01:00
+date: 2006-05-21 12:24:20 +01:00
 categories:
 - Geekery
 - Solaris
 - Work
-tags: []
 comments:
 - id: 464
   author: Peter Tribble

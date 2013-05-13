@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: New Sofas
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-05 16:29:40.000000000 +01:00
+date: 2005-10-05 16:29:40 +01:00
 categories:
 - Personal
-tags: []
-comments: []
 ---
 <a href="http://woss.name/wp-content/sofa.jpg"><img src='http://woss.name/wp-content/thumb-sofa.jpg' alt='One of the new sofas' class="alignright" /></a> The sofas have finally arrived.  Now our living room is looking complete.  Completely full, in fact.  And now we'll actually feel we can invite people round to the house, given that there's somewhere comfortable to sit!  I've spent the remainder of the afternoon, since they were delivered, working from home to test them out.  They're very comfortable, a bit lighter coloured than I remember, but most excellent.  This evening's task is to get pizza from <a href="http://www.dominos.co.uk" title="Dominos pizza take away">Dominos</a> (any pizza, any size, currently &pound;5.99 around here, if you collect!), a couple of DVDs from <a href="http://www.blockbuster.co.uk/" title="Blockbuster movie rental">Blockbuster</a> and give the sofas a proper test drive. :-)  Maybe we'll get around to rearranging all the furniture so it fits sometime tomorrow...
 

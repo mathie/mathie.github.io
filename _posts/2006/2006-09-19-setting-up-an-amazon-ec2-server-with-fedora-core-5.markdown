@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Setting up an Amazon EC2 server with Fedora Core 5
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-09-19 19:09:52.000000000 +01:00
+date: 2006-09-19 19:09:52 +01:00
 categories:
 - Geekery
 tags:

@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Wedding Photographer booked
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-02 10:40:28.000000000 +01:00
+date: 2005-08-02 10:40:28 +01:00
 categories:
 - Personal
 - Photography
-tags: []
 comments:
 - id: 6
   author: annabel

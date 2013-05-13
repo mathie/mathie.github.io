@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Megabyte minutes!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-01-29 19:23:25.000000000 +00:00
+date: 2007-01-29 19:23:25 +00:00
 categories:
 - Geekery
 - Ruby and Rails

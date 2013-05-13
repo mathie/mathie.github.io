@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: The dangers of using temporary visual layouts
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-11-12 21:10:57.000000000 +00:00
+date: 2006-11-12 21:10:57 +00:00
 categories:
 - Geekery
 - Ruby and Rails

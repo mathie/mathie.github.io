@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Inserting CSV data into a MySQL database
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-03 15:07:38.000000000 +00:00
+date: 2005-11-03 15:07:38 +00:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 184
   author: Craig Atkinson

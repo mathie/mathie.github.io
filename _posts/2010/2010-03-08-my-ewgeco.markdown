@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: My Ewgeco
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2010-03-08 15:43:01.000000000 +00:00
+date: 2010-03-08 15:43:01 +00:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p><span class="full-image-float-left ssNonEditable"><span><img src="/storage/200eg_000.jpg?__SQUARESPACE_CACHEVERSION=1268043550658" alt="" /></span><span class="thumbnail-caption" style="width: 95px;">Ewgeco E200</span></span></p>
 <p>We've had a test <a href="http://www.ewgeco.com/">Ewgeco</a> unit kicking around the office for a while now, and since we've moved out the office, it's been lying in a box with all the other equipment. Over the weekend, I rescued it from storage and hooked it up in the house. And it's been a huge success.</p>

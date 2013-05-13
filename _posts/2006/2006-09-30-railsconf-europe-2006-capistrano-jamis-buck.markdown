@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'RailsConf Europe 2006: Capistrano - Jamis Buck'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-09-30 16:56:38.000000000 +01:00
+date: 2006-09-30 16:56:38 +01:00
 categories:
 - Geekery
 - Ruby and Rails
@@ -16,7 +10,6 @@ tags:
 - Geekery
 - railsconfeurope
 - Ruby and Rails
-comments: []
 ---
 > This is the third in a series of articles of me writing up my notes from
 > from RailsConf Europe 2006. They are all first drafts, probably

@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Rails tip
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-04-03 12:34:20.000000000 +01:00
+date: 2006-04-03 12:34:20 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 357
   author: David Goodlad

@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Wedding speeches
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-20 16:57:51.000000000 +00:00
+date: 2006-01-20 16:57:51 +00:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 261
   author: ap

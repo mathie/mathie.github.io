@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Thank you, Akismet
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-10-23 16:38:09.000000000 +01:00
+date: 2006-10-23 16:38:09 +01:00
 categories:
 - Meta
 tags:
 - Meta
-comments: []
 ---
 > #### Caught Spam
 >

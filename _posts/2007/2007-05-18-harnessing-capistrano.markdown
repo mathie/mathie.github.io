@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Harnessing Capistrano
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-05-18 00:24:11.000000000 +01:00
+date: 2007-05-18 00:24:11 +01:00
 categories:
 - Uncategorized
 - Geekery

@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Dublin, Ireland in a Nutshell?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-06-28 11:09:32.000000000 +01:00
+date: 2006-06-28 11:09:32 +01:00
 categories:
 - Personal
 tags:
 - Personal
-comments: []
 ---
 We're off to Dublin for the weekend for a wedding reception in Bray on Saturday night.  But we've got the rest of the weekend to explore Dublin and the surrounding area.  Any recommendations of where we should visit?  Any Ruby/Rails folks fancy meeting up for a swift 'alf somewhere?
 

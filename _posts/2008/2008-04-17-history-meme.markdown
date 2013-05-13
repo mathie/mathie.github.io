@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: History meme
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-04-17 11:01:39.000000000 +01:00
+date: 2008-04-17 11:01:39 +01:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 I see from [Mark](http://diveintomark.org/archives/2008/04/15/history-meme)
 and [Tim](http://www.tbray.org/ongoing/When/200x/2008/04/15/History-Meme)

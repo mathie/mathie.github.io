@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Default toolbar configuration for new Mac OS X applications
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-11-15 14:14:59.000000000 +00:00
+date: 2006-11-15 14:14:59 +00:00
 categories:
 - Geekery
 tags:

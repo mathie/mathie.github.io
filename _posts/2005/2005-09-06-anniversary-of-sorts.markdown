@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Anniversary of sorts
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-06 15:21:16.000000000 +01:00
+date: 2005-09-06 15:21:16 +01:00
 categories:
 - Personal
 - Work
-tags: []
-comments: []
 ---
 I've now been working for <a href="http://www.logicalware.com/">Logicalware Ltd</a> (n&eacute;e Logical Progression Ltd) for exactly a year as of today.  What an incredibly exciting year it's been, too. :-)

@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Macro Lenses
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-28 18:30:43.000000000 +01:00
+date: 2005-08-28 18:30:43 +01:00
 categories:
 - Photography
-tags: []
-comments: []
 ---
 In an unsubtle attempt at looking for birthday present ideas (what with my birthday being in 10 days!), I spent yesterday dragging Annabel around Jessops, looking at macro lenses for my camera.  I tried out 3 lenses:
 

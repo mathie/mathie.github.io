@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Using SagePay in your Ruby Projects
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2011-01-27 11:48:25.000000000 +00:00
+date: 2011-01-27 11:48:25 +00:00
 categories:
 - Geekery
 - Ruby and Rails
@@ -19,7 +13,6 @@ tags:
 - active_merchant
 - payment
 - gem
-comments: []
 ---
 Once upon a time, in a galaxy far, far away ... Ok, I'll stop now. A few years back, I was working on a client project and they needed to integrate with a billing platform. They'd already picked Protx (now [SagePay](http://www.sagepay.com/)) as their platform of choice, and in particular, the Server variant. Wait, I'll backtrack. SagePay has three variants:
 

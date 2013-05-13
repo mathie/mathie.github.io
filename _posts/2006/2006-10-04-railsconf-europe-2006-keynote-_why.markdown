@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'RailsConf Europe 2006: Keynote - _why'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-10-04 10:48:52.000000000 +01:00
+date: 2006-10-04 10:48:52 +01:00
 categories:
 - Geekery
 - Ruby and Rails

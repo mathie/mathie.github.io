@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Kathy Sierra receives death threats
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-03-27 08:44:11.000000000 +01:00
+date: 2007-03-27 08:44:11 +01:00
 categories:
 - Current Affairs
 - Geekery

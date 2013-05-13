@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: A weekend of drunkness, debauchery, pizza and kilts
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-28 10:11:11.000000000 +00:00
+date: 2005-11-28 10:11:11 +00:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 234
   author: Mark Brown

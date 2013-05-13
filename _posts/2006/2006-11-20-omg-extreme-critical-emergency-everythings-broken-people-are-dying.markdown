@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: OMG! EXTREME CRITICAL EMERGENCY!! EVERYTHING&#039;S BROKEN! People are DYING!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-11-20 12:04:06.000000000 +00:00
+date: 2006-11-20 12:04:06 +00:00
 categories:
 - Geekery
 - Work

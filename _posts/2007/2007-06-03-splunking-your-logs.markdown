@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Splunking your logs
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-06-03 18:32:43.000000000 +01:00
+date: 2007-06-03 18:32:43 +01:00
 categories:
 - Geekery
 - Solaris

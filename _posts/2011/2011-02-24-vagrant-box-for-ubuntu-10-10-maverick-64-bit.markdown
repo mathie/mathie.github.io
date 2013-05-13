@@ -1,20 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Vagrant box for Ubuntu 10.10 Maverick (64 bit)
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2011-02-24 07:32:59.000000000 +00:00
+date: 2011-02-24 07:32:59 +00:00
 categories:
 - Geekery
 - Mac OS X
 - Software Configuration Management
 - Work
-tags: []
-comments: []
 ---
 I didn't really intend this to turn into a series, but hey ho. I needed to build a 64-bit [Ubuntu 10.10](https://help.ubuntu.com/community/Server/TechSpecs/1010) vagrant image for a client project I'm working on. (I still need to get around to he RHEL-a-like image, I'll get there one day!)
 

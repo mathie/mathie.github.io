@@ -1,20 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: What do I most love about git?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-11-25 16:53:00.000000000 +00:00
+date: 2008-11-25 16:53:00 +00:00
 categories:
 - Geekery
 - Ruby and Rails
 - Software Configuration Management
 - Work
-tags: []
-comments: []
 ---
 Scott Chacon just asked on Twitter:
 

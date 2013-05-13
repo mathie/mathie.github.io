@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Search Engine Optimisation
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-07-31 11:09:23.000000000 +01:00
+date: 2005-07-31 11:09:23 +01:00
 categories:
 - Geekery
 - Work
-tags: []
-comments: []
 ---
 I've been meaning to put this together for a while.  It's my newest idea for a t-shirt I want:
 

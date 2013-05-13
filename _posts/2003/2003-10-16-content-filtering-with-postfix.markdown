@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Content filtering with Postfix
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2003-10-16 17:46:33.000000000 +01:00
+date: 2003-10-16 17:46:33 +01:00
 categories:
 - Geekery
 tags:
 - Geekery
-comments: []
 ---
 I'm not overly enthused about the way our mail filter machine works.  What appears to happen is that the Postfix SMTP server listens for connections from duh Interweb at large.  It does some very basic checks ("Are you trying to use me as an open relay?" basically), then accepts the mail, hook line and sinker.  It writes the mail to an incoming queue and responsibility passes onto the queue manager to do something with it.  The queue manager then passes it through the content filter (in our case, <a href="http://www.ijs.si/software/amavisd/">amavisd-new</a>) which happens to talk SMTP.  If amavisd-new happens to think the message has a high enough score (ie "I have absolutely no doubt in my mind that this is spam") then it will <strong>reject it at the SMTP stage</strong>.  Postfix is then left with this message that it feels obliged to bounce.  Herein lies the problem.  I want to be able to pass the buck upstream (often to the spammers themselves, or at least their ISP) and reject spam at the initial SMTP stage.  This strikes me as much cleaner and stops my mail queue filling up with messages from MAILER-DAEMON to non-existant addresses.
 

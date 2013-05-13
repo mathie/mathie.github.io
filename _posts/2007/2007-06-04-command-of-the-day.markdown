@@ -1,20 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Command of the day
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-06-04 18:04:58.000000000 +01:00
+date: 2007-06-04 18:04:58 +01:00
 categories:
 - Geekery
 - Solaris
 tags:
 - Geekery
 - Solaris
-comments: []
 ---
 Yes, it's that exciting today:
 

@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Scotland on Rails Registration Open!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-02-17 10:56:52.000000000 +00:00
+date: 2008-02-17 10:56:52 +00:00
 categories:
 - Geekery
 - Python
@@ -20,7 +14,6 @@ tags:
 - ruby
 - rubyonrails
 - scotlandonrails
-comments: []
 ---
 <a href="http://www.flickr.com/photos/mathie/2266245909/" title="Malcolm pimping Scotland on Rails"><img src="http://farm3.static.flickr.com/2380/2266245909_ce85eb1517_m.jpg" alt="Malcolm pimping Scotland on Rails" class="alignright" style="border: solid 1px #000000; float: right;" /></a>Registration for <a href="http://www.scotlandonrails.com/">Scotland on Rails</a> has now opened!  With Keynotes from <a href="http://www.koziarski.net/">Michael Koziarski</a> (nzkoz) and <a href="http://dablog.rubypal.com/">David A Black</a>, along with another 15 Rails luminaries doing talks on bleeding-edge topics, it's set to be the best Rails conference this side of the pond!<br />
 <br />

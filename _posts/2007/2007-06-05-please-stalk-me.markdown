@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Please stalk me!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-06-05 13:39:04.000000000 +01:00
+date: 2007-06-05 13:39:04 +01:00
 categories:
 - Geekery
 - Personal

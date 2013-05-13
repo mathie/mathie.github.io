@@ -1,20 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Back in the U-U-U-K
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-01-03 11:28:08.000000000 +00:00
+date: 2007-01-03 11:28:08 +00:00
 categories:
 - Gaming
 - Geekery
 tags:
 - Gaming
 - Geekery
-comments: []
 ---
 Well, finally we're back in Edinburgh, after a fantastic holiday.  It's been an incredible relaxing time over the past (nearly) three weeks, lying in the sun, touring round temples and enjoying a belated Christmas with Annabel's parents.  So I'm nice and rested, ready for a new year.  Of course, I've now got a massive pile of email to catch up on, never mind the colossal number of articles in NetNewsWire.
 

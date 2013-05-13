@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: How to annoy your web host
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-15 11:29:56.000000000 +01:00
+date: 2005-08-15 11:29:56 +01:00
 categories:
 - Geekery
-tags: []
-comments: []
 ---
 <ul>
   <li>Install <a href="http://websvn.tigris.org/">websvn</a> to provide a web interface to your subversion repository.</li>

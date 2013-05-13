@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Buying music online
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-26 15:27:01.000000000 +01:00
+date: 2005-10-26 15:27:01 +01:00
 categories:
 - Entertainment
 - Geekery
-tags: []
 comments:
 - id: 175
   author: Mark Brown

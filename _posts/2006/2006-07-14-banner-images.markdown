@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Banner Images
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-07-14 14:50:10.000000000 +01:00
+date: 2006-07-14 14:50:10 +01:00
 categories:
 - Meta
 - Photography

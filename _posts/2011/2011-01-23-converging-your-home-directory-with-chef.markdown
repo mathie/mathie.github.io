@@ -1,16 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Converging your Home Directory with Chef
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
 excerpt: ! "In this tutorial, I'll take you through using Chef and Homebrew to manage
   your\r\nhome directory in Mac OS X. I've also included a neat cookbook which will
   allow\r\nyou to use Homebrew as your native packaging system in Chef."
-date: 2011-01-23 17:24:06.000000000 +00:00
+date: 2011-01-23 17:24:06 +00:00
 categories:
 - Geekery
 - Ruby and Rails
@@ -24,7 +18,6 @@ tags:
 - configuration
 - rvm
 - tutorial
-comments: []
 ---
 In this tutorial, I'll take you through using Chef and Homebrew to manage your
 home directory in Mac OS X. I've also included a neat cookbook which will allow

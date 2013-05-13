@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Aperture 1.5 out
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-09-30 11:38:20.000000000 +01:00
+date: 2006-09-30 11:38:20 +01:00
 categories:
 - Geekery
 tags:
 - Geekery
-comments: []
 ---
 Along with a slew of other updates to support it, [Aperture](http://www.apple.com/aperture) 1.5 has been released.  It's a free upgrade and seems to turn up after the 10.4.8 update has been installed and rebooted.
 

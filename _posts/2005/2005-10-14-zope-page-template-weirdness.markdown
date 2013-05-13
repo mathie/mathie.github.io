@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Zope Page Template weirdness
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-14 15:20:59.000000000 +01:00
+date: 2005-10-14 15:20:59 +01:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
 comments:
 - id: 157
   author: Tres Seaver

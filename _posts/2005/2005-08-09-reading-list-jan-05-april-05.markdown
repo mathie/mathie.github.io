@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Reading list: Jan &#039;05 - April &#039;05'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-09 22:43:22.000000000 +01:00
+date: 2005-08-09 22:43:22 +01:00
 categories:
 - Entertainment
 - Personal
-tags: []
-comments: []
 ---
 For a while now, I've been meaning to update the list of books I've read this year.  The challenge set at the start of the year was to read my height (187 cm) in books over the course of 2005.  I am currently well behind on this lofty challenge, but it would be a good idea to list the books I've read and the stage I've attained all the same.
 

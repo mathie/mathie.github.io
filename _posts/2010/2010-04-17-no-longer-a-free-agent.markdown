@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: No longer a Free Agent!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2010-04-17 15:45:56.000000000 +01:00
+date: 2010-04-17 15:45:56 +01:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>If you've been <a href="http://twitter.com/mathie">following me on Twitter</a>, you may have heard that my career has taken a slightly different direction in the past few weeks. I've been running <a href="http://www.rubaidh.com/">Rubaidh</a> for over 4 years now and for the most part it's been a hugely enjoyable experience. I've learned a number of new skills both in technology and, most of all, in terms of what's needed to run a successful business. I've also had the opportunity to work with a lot of really awesome people and on a number of great projects.</p>
 <p>However, last year was pretty tough. I know it was tough for everyone, what with the media exacerbating a blip in the economy, but there were a couple of particular incidents (that I won't go into because it wouldn't be professional to do so) which made me decide if that's how people do business, I really don't want to do business.</p>

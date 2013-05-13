@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Database scalability
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-12-05 15:12:48.000000000 +00:00
+date: 2006-12-05 15:12:48 +00:00
 categories:
 - Geekery
 - Ruby and Rails

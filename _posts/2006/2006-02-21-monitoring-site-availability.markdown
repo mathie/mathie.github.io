@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Monitoring site availability
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-02-21 15:57:37.000000000 +00:00
+date: 2006-02-21 15:57:37 +00:00
 categories:
 - Geekery
 - Python
-tags: []
 comments:
 - id: 309
   author: Tim

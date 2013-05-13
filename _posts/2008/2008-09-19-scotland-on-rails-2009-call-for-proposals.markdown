@@ -1,20 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Scotland on Rails 2009: Call for Proposals'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-09-19 10:20:33.000000000 +01:00
+date: 2008-09-19 10:20:33 +01:00
 categories:
 - Edinburgh Local
 - Geekery
 - Ruby and Rails
 - Work
 - RailsConf Europe
-tags: []
 comments:
 - id: 1018
   author: James

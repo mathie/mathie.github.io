@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Windows
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-04-18 11:39:33.000000000 +01:00
+date: 2006-04-18 11:39:33 +01:00
 categories:
 - Geekery
 - Work

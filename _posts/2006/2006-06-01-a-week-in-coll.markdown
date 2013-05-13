@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: A week in Coll
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-06-01 01:00:00.000000000 +01:00
+date: 2006-06-01 01:00:00 +01:00
 categories:
 - Personal
 - Photography

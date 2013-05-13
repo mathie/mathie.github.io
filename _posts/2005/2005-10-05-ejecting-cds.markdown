@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Ejecting CDs
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-05 10:49:33.000000000 +01:00
+date: 2005-10-05 10:49:33 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 139
   author: Kisin

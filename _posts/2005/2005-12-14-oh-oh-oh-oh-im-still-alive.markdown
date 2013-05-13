@@ -1,20 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Oh oh oh oh, I&#039;m still alive!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-12-14 16:35:41.000000000 +00:00
+date: 2005-12-14 16:35:41 +00:00
 categories:
 - Geekery
 - Personal
 - Photography
 - Python
 - Work
-tags: []
 comments:
 - id: 242
   author: annabel

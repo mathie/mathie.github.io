@@ -1,19 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: MySQL, Zope and Unicode
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-03 19:30:57.000000000 +00:00
+date: 2005-11-03 19:30:57 +00:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
-comments: []
 ---
 OK, I think I can debunk <a href="http://mail.zope.org/pipermail/zope-db/2005-March/003990.html">the real hack</a> (that you can append UNICODE=1 to the connection string to set the MySQL connection to Unicode) after poking around in the source a little.  This is the code in question which parses the connection string, from <a href="http://cvs.sourceforge.net/viewcvs.py/mysql-python/ZMySQLDA/lib/python/Products/ZMySQLDA/db.py?rev=1.21&view=auto">db.py</a>:
 [code lang="python"]  def _parse_connection_string(self, connection):

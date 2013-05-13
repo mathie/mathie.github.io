@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: We&#039;re getting married in the morning!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-12-19 09:59:07.000000000 +00:00
+date: 2005-12-19 09:59:07 +00:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 243
   author: Mike Quin

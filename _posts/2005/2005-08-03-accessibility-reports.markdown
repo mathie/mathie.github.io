@@ -1,19 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Accessibility reports
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-03 11:20:24.000000000 +01:00
+date: 2005-08-03 11:20:24 +01:00
 categories:
 - Geekery
 - Meta
 - Work
-tags: []
-comments: []
 ---
 Anyway, the reason I got onto fiddling with language settings was to improve my conformance with the W3C <a href="http://www.w3.org/TR/WAI-WEBCONTENT/" title="Web Content Accessibility Guidelines 1.0">accessibility standards</a>.  According to an automated report produced by <a href="http://www.contentquality.com/mynewtester/cynthia.exe" title="Cynthia Says - Web content accessibility report">Cynthia Says</a>, I conform to the priority 1 portion of the standard, but unfortunately not priorities 2 or 3.
 

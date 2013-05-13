@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Models, Views &amp; Controllers
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-08 09:35:46.000000000 +01:00
+date: 2005-09-08 09:35:46 +01:00
 categories:
 - Geekery
-tags: []
-comments: []
 ---
 I guess I need to re-read more detail on the <acronym title="Model View Controller">MVC</acronym> split.  It's obvious to me what the model is -- that's the interface to the underlying data, and it's almost always going to refer to a noun.  'Book', for example, for stuff I was messing around with last night &amp; this morning.  But when it came to the View/Controller split, I'm getting a bit confused.  I'd done:
 

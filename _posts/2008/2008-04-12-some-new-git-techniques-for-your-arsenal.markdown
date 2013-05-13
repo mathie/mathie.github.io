@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Some new git techniques for your arsenal
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-04-12 16:45:56.000000000 +01:00
+date: 2008-04-12 16:45:56 +01:00
 categories:
 - Geekery
 - Ruby and Rails
 - Software Configuration Management
-tags: []
 comments:
 - id: 1001
   author: tomtt

@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Finding the extra disk space on your OpenSolaris EC2 Image
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-05-21 12:35:03.000000000 +01:00
+date: 2008-05-21 12:35:03 +01:00
 categories:
 - Geekery
 - Solaris
-tags: []
 comments:
 - id: 1017
   author: David Comay

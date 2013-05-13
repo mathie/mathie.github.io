@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Bad days, beer and books
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-01 10:08:59.000000000 +01:00
+date: 2005-09-01 10:08:59 +01:00
 categories:
 - Entertainment
 - Personal
 - Work
-tags: []
 comments:
 - id: 87
   author: annabel

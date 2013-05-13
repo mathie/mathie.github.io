@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Recommendations for Learning Solaris 10?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-04-21 09:37:46.000000000 +01:00
+date: 2006-04-21 09:37:46 +01:00
 categories:
 - Geekery
 - Solaris
 - Work
-tags: []
 comments:
 - id: 401
   author: Annabel

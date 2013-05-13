@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'RailsConf 2007: Is Javascript over-rated?'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-05-17 20:59:25.000000000 +01:00
+date: 2007-05-17 20:59:25 +01:00
 categories:
 - Geekery
 - Ruby and Rails
@@ -18,7 +12,6 @@ tags:
 - RailsConf Europe
 - railsconf07
 - Ruby and Rails
-comments: []
 ---
 The first tutorial of the weekend I signed up for was "Is Javascript Overrated? (Or how I learned to stop worrying and love Prototype & script.aculo.us)".  I never quite get around to doing enough JS work, instead finding other <del>willing victims</del> colleagues who are more into that kind of thing.  But I'm definitely interested in being able to do more of the front end UI myself.  So, I figured this tutorial would be useful.
 

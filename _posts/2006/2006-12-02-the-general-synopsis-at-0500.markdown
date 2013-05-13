@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: The general synopsis at 0500
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-12-02 07:29:24.000000000 +00:00
+date: 2006-12-02 07:29:24 +00:00
 categories:
 - Entertainment
 - Personal

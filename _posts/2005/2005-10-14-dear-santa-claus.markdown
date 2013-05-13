@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Dear Santa Claus
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-14 11:42:16.000000000 +01:00
+date: 2005-10-14 11:42:16 +01:00
 categories:
 - Geekery
 - Personal
-tags: []
 comments:
 - id: 152
   author: Mike

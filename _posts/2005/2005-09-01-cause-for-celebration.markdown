@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Cause for celebration?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-01 12:10:33.000000000 +01:00
+date: 2005-09-01 12:10:33 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 89
   author: annabel

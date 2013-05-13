@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Best Practice with sudo
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-06-12 10:31:24.000000000 +01:00
+date: 2007-06-12 10:31:24 +01:00
 categories:
 - Geekery
 - Work

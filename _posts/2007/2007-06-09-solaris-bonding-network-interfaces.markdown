@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Solaris: Bonding network interfaces'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-06-09 13:54:37.000000000 +01:00
+date: 2007-06-09 13:54:37 +01:00
 categories:
 - Geekery
 - Solaris

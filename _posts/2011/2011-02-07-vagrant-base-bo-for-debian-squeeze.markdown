@@ -1,16 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Vagrant base box for Debian Squeeze
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
 excerpt: I've built a Vagrant base box for the newly released Debian 6.0 "Squeeze"
   which went live over the weekend. I figured I'd share it to save you the bother
   of building one too.
-date: 2011-02-07 10:57:36.000000000 +00:00
+date: 2011-02-07 10:57:36 +00:00
 categories:
 - Geekery
 - Software Configuration Management

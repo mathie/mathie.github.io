@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Worst nightmares?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-03 09:55:50.000000000 +01:00
+date: 2005-10-03 09:55:50 +01:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 136
   author: Peter

@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Pulling an Espresso
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2013-01-19 07:58:15.000000000 +00:00
+date: 2013-01-19 07:58:15 +00:00
 categories:
 - Food and drink
 tags:

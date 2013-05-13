@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Duplicate suppression in procmail
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2003-10-13 09:26:40.000000000 +01:00
+date: 2003-10-13 09:26:40 +01:00
 categories:
 - Geekery
 tags:
 - Geekery
-comments: []
 ---
 <p>I had previously discarded using duplicate suppression in procmail because a number of lists I was on at the time (notably the FreeBSD lists) are regularly cross-posted amongst.  Mail that was cross-posted to two or more lists I was subscribed to would wind up in one of the mailboxes, depending on which mail arrived first.  This was irritating because it made reading a thread more difficult.  Of course, this is only a problem because I filter each mailing lists into a separate mailbox.</p>
 

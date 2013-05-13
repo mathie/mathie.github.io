@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Waiting to Leave Pireaus
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-16 17:15:50.000000000 +01:00
+date: 2005-09-16 17:15:50 +01:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 117
   author: Notes from a messy desk &raquo; Blog Archive &raquo; Writeup of Greece

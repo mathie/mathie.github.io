@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Sauce with Postfix
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2003-10-16 08:09:58.000000000 +01:00
+date: 2003-10-16 08:09:58 +01:00
 categories:
 - Geekery
 tags:
 - Geekery
-comments: []
 ---
 I spent a little time yesterday morning trying to configure <a href="http://www.chiark.greenend.org.uk/~ian/sauce/">SAUCE</a> on this machine to handle some of my domains, alleviating some of the load for the <em>vast</em> volume of spam and mail to non-existant mailboxes.  SAUCE is designed to work with <a href="http://www.exim.org/">Exim</a> and, while I gather it is a rather shiny MTA, I'm perfectly happy with <a href="http://www.postfix.org/">Postfix</a> and have no great desire to change.
 

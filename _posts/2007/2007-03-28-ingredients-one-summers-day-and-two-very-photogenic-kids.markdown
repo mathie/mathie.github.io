@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Ingredients: one summer&#039;s day and two very photogenic kids'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-03-28 11:12:20.000000000 +01:00
+date: 2007-03-28 11:12:20 +01:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <a href="http://www.flickr.com/photos/mathie/437372477/" title="013_Daniel"><img src="http://farm1.static.flickr.com/168/437372477_7b77d7bcbb_m.jpg" alt="013_Daniel" class="alignright" style="border: solid 1px #000000; float: right;" /></a>It's taken me far too long to do something with these photos from last summer, but finally I took them as the opportunity to try out Lightroom properly.  (A proper review of Lightroom will appear shortly!)<br />
 <br />

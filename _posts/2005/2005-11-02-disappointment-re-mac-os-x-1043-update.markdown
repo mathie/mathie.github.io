@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Disappointment re Mac OS X 10.4.3 update
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-02 15:48:45.000000000 +00:00
+date: 2005-11-02 15:48:45 +00:00
 categories:
 - Geekery
 - Photography
-tags: []
 comments:
 - id: 182
   author: Ian

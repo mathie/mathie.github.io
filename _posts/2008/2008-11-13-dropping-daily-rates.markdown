@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Dropping Daily Rates
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-11-13 13:50:19.000000000 +00:00
+date: 2008-11-13 13:50:19 +00:00
 categories:
 - Geekery
 - Ruby and Rails
 - Work
-tags: []
 comments:
 - id: 1023
   author: Taryn

@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Mucking around with Typo
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-16 08:47:02.000000000 +00:00
+date: 2005-11-16 08:47:02 +00:00
 categories:
 - Geekery
 - Meta
-tags: []
 comments:
 - id: 212
   author: Blog

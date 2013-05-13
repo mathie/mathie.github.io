@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Dyson DC14 Animal
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-14 09:13:27.000000000 +01:00
+date: 2005-08-14 09:13:27 +01:00
 categories:
 - Geekery
 - Photography
-tags: []
-comments: []
 ---
 <img src="http://woss.name/wp-content/dysondc14animal.gif" alt="Dyson DC14 Animal" class="alignright" />The shiniest new toy I have bought recently would have to be the <a href="http://www.dyson.co.uk/range/feature_frame.asp?model=DC14-ANIMAL" title="The DC-14 on Dyson's UK web site">Dyson DC14 Animal</a>.  In the new house, we have <strong>four</strong> cats.  There's always cat hair (and little bits of cat litter!) everywhere.  And in the living room, we have a lovely, squishy, deep pile carpet, which never likes to relinquish the cat hair.
 

@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Using git submodules to track vendor/rails
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-04-11 11:57:40.000000000 +01:00
+date: 2008-04-11 11:57:40 +01:00
 categories:
 - Geekery
 - Ruby and Rails
-tags: []
 comments:
 - id: 997
   author: George Anderson

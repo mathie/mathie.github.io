@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Selecting Options with TAL and XHTML
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-29 14:14:00.000000000 +01:00
+date: 2005-08-29 14:14:00 +01:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
 comments:
 - id: 86
   author: keith

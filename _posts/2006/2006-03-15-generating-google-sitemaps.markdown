@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Generating Google Sitemaps
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-03-15 15:00:49.000000000 +00:00
+date: 2006-03-15 15:00:49 +00:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 326
   author: Doug

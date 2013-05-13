@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Strobist Boot Camp entry
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-06-29 12:32:07.000000000 +01:00
+date: 2006-06-29 12:32:07 +01:00
 categories:
 - Photography
 tags:
 - Photography
-comments: []
 ---
 <a href="http://www.flickr.com/photos/mathie/177623618/" title="_MG_9534"><img src="http://static.flickr.com/44/177623618_1f346c4a17_m.jpg" alt="_MG_9534" class="alignright" style="border: solid 1px #000000; float: right;" /></a>[Strobist](http://strobist.blogspot.com/) is running a [boot camp](http://strobist.blogspot.com/2006/06/strobist-boot-camp-rules-guidelines.html)  on using lighting creatively in your photography.  This time the assignment was:
 

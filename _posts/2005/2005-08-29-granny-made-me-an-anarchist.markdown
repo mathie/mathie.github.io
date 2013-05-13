@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Granny Made me an Anarchist
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-29 17:20:28.000000000 +01:00
+date: 2005-08-29 17:20:28 +01:00
 categories:
 - Entertainment
-tags: []
-comments: []
 ---
 <img class="alignright" src="http://images-eu.amazon.com/images/P/0743259181.02._SCMZZZZZZZ_.jpg" alt="Book Cover"/>On the plus side, what with all the time I spent sitting on the loo (whaddaya mean Too Much Information?) last week, I did manage to finish reading <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0743259181/mathieoftheen-21">Granny Made Me an Anarchist</a> by Stuart Christie.  It's an autobiographical account of Stuart's childhood around Glasgow &amp; Blantyre (just next door to Hamilton, where I was brought up), how he became involved in a plot to blow up General Franco, spending three years in a Spanish jail for the privilege, then, within a few years of returning to the UK, being involved in the longest ever trial (at the time) in the UK as a defendant.
 

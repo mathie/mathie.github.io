@@ -1,19 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Internationalising MailManager
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-21 14:10:50.000000000 +00:00
+date: 2005-11-21 14:10:50 +00:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
-comments: []
 ---
 I meant to post all about this on Friday, but teh Interweb was being mean to me.  I spent the whole of Friday getting <a href="http://www.logicalware.com/">MailManager</a> ready for the i18n hordes to start creating translations.  We've already spent a reasonable amount of time making sure that the page templates themselves have <code>i18n:translate</code> and <code>i18n:attributes</code> tags where necessary (I guess we're still missing a few, but they'll soon come out in the wash).  That all happened in version 1.1, and the recently page template rewrite has managed to keep them surprisingly intact.
 

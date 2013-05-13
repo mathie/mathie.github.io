@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Note to self
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-03-28 17:31:44.000000000 +01:00
+date: 2006-03-28 17:31:44 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 329
   author: Forrest

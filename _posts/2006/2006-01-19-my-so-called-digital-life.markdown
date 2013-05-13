@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: My so-called digital life
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-19 14:14:57.000000000 +00:00
+date: 2006-01-19 14:14:57 +00:00
 categories:
 - Geekery
-tags: []
-comments: []
 ---
 [Ethan](http://blackrimglasses.com/) is running a series of blog articles about his 'so-called digital life' which makes interesting reading.  Normally I'd just bung these in my [del.icio.us](http://del.icio.us/) feed to appear in a daily summary (and the sidebar), but they're way more exciting than that.  So:
 

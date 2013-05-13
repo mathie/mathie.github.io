@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Michael Lynn, Cisco and ISS
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-09 10:40:35.000000000 +01:00
+date: 2005-08-09 10:40:35 +01:00
 categories:
 - Current Affairs
 - Geekery
-tags: []
-comments: []
 ---
 Apparently I've been hiding under a rock recently or something, since the first I heard about 'Ciscogate' was this morning, catching up with <a href="http://www.schneier.com/blog/archives/2005/08/more_lynncisco.html" title="More Lynn/Cisco Information">Bruce Schneier's blog</a>.  I've read through the slides from the presentation and it sounds very interesting, though I don't pretend to understand it all.  However, the real meat is the furore surrounding it and whether what Michael did was responsible or legal.  I've still to wade through the rest of the detail, so I'm just listing some links here to flick through at lunchtime.
 

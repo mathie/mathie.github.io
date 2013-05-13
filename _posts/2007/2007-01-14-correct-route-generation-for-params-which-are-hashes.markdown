@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Correct route generation for params which are hashes
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-01-14 16:39:45.000000000 +00:00
+date: 2007-01-14 16:39:45 +00:00
 categories:
 - Geekery
 - Ruby and Rails

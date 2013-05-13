@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Edge Rails (pre-2.2), iconv, transliteration and Solaris
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-10-16 15:20:34.000000000 +01:00
+date: 2008-10-16 15:20:34 +01:00
 categories:
 - Ruby and Rails
 - Solaris
 - Work
-tags: []
 comments:
 - id: 1021
   author: Andy Steingruebl

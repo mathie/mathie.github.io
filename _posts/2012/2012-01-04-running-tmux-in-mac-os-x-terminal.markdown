@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Running tmux in Mac OS X Terminal
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2012-01-04 12:06:19.000000000 +00:00
+date: 2012-01-04 12:06:19 +00:00
 categories:
 - Geekery
 - Mac OS X
@@ -18,7 +12,6 @@ tags:
 - terminal
 - screen
 - launchd
-comments: []
 ---
 I've been a fan of [screen](http://www.gnu.org/software/screen/) for ... a while now. But since I like being one of the cool kids, I've been using [tmux](http://tmux.sourceforge.net/) for the past year or so. Last week, I noticed that every time I launch a new terminal, I wind up typing `tmux attach-session`. Let's streamline, a little bit.
 

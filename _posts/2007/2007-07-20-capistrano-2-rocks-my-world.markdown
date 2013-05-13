@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Capistrano 2 Rocks My World
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-07-20 09:27:09.000000000 +01:00
+date: 2007-07-20 09:27:09 +01:00
 categories:
 - Edinburgh Local
 - Geekery

@@ -1,16 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Retrieving BigDecimals from a database with Anorm & Scala
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
 excerpt: In which I take a long, long time just to retrieve a couple of numbers from
   a DB and display them on a web page. Ah, the joys of learning a new programming
   language, framework and ecosystem, all at once!
-date: 2012-04-02 11:07:05.000000000 +01:00
+date: 2012-04-02 11:07:05 +01:00
 categories:
 - Geekery
 - Scala
@@ -19,7 +13,6 @@ tags:
 - anorm
 - bigdecimal
 - postgresql
-comments: []
 ---
 I spent a wee while yesterday kicking the tyres on the [Play 2.0](http://www.playframework.org/) framework with Scala. Aside: I think that concurrency/asynchronous processing is *really* important in the age of multi-core CPUs, and that [Akka's](http://akka.io/) actor-based system is *really* interesting, and Play uses Akka 2 under the hood, so I'm becoming *really* interested in becoming proficient in Scala & Play 2. That said, so far I'm struggling to come to terms with Scala's type system, and it reminds of the struggles I had with ML at University, so this could be an uphill battle!
 

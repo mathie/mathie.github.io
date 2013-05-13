@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Photographing Hale-Bopp
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-10-02 14:44:54.000000000 +01:00
+date: 2006-10-02 14:44:54 +01:00
 categories:
 - Photography
 tags:
 - Photography
-comments: []
 ---
 I just stumbled across an old article on [Strobist](http://strobist.blogspot.com/) (for some reason, I have old news feeds on my laptop that NNW didn't sync to my desktop -- strange) about how to light a comet.  It tells the story of [John Moran](http://www.johnmoranphoto.com/) building a contraption to counteract the Earth's rotation, lighting the foreground, and capturing an *incredible* picture of Hale-Bopp.  I'm totally in awe.
 

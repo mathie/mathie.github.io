@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Waa, my subversion is broken!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-06-11 11:24:12.000000000 +01:00
+date: 2007-06-11 11:24:12 +01:00
 categories:
 - Geekery
 - Solaris

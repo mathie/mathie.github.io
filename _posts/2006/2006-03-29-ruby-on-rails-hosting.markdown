@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Ruby on Rails hosting
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-03-29 09:08:13.000000000 +01:00
+date: 2006-03-29 09:08:13 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 331
   author: Paul Ingles

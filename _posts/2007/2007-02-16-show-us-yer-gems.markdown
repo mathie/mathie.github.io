@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Show us yer gems!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-02-16 16:40:09.000000000 +00:00
+date: 2007-02-16 16:40:09 +00:00
 categories:
 - Geekery
 - Ruby and Rails
@@ -16,7 +10,6 @@ tags:
 - Geekery
 - Ruby and Rails
 - Work
-comments: []
 ---
 Seeing as [everyone](http://www.clarkware.com/cgi/blosxom/2007/02/10#GemSurvey) [else](http://chadfowler.com/2007/2/11/show-us-your-gems) [has](http://smartic.us/2007/2/11/show-us-your-gems) [contributed](http://blog.alancfrancis.com/2007/02/gemmin_with_the.html), here's the gems currently installed on my machine:
 

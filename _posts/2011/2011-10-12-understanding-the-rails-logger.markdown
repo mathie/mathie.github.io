@@ -1,19 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Understanding the Rails Logger
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2011-10-12 20:35:47.000000000 +01:00
+date: 2011-10-12 20:35:47 +01:00
 categories:
 - Geekery
 - Ruby and Rails
 - Work
-tags: []
-comments: []
 ---
 I post here fairly infrequently and irregularly. I'm sure the fact that I'm posting over at the [FreeAgent Engineering Blog](http://engineering.freeagent.com/) too isn't going to help that at all.
 

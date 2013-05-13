@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Work&#039;s diary for the week
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-14 11:02:42.000000000 +01:00
+date: 2005-10-14 11:02:42 +01:00
 categories:
 - Work
-tags: []
 comments:
 - id: 150
   author: annabel

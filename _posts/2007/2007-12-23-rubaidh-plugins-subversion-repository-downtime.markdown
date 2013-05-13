@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Rubaidh plugins subversion repository downtime
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-12-23 19:38:08.000000000 +00:00
+date: 2007-12-23 19:38:08 +00:00
 categories:
 - Uncategorized
-tags: []
 comments:
 - id: 956
   author: Bob Miller

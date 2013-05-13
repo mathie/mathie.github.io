@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: OK, now I want to eat some nuts...
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-27 12:55:57.000000000 +01:00
+date: 2005-10-27 12:55:57 +01:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 176
   author: annabel

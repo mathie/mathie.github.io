@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Packing Photography Gear (AKA &quot;What Gear does mathie own?&quot;)
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-06-02 01:00:00.000000000 +01:00
+date: 2006-06-02 01:00:00 +01:00
 categories:
 - Photography
 tags:

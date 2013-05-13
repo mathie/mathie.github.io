@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Bride of Frankenstein
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-02-08 22:05:58.000000000 +00:00
+date: 2007-02-08 22:05:58 +00:00
 categories:
 - Personal
 - Photography

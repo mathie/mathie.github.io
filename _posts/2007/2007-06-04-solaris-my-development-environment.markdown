@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Solaris: My development environment'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-06-04 20:23:20.000000000 +01:00
+date: 2007-06-04 20:23:20 +01:00
 categories:
 - Geekery
 - Ruby and Rails

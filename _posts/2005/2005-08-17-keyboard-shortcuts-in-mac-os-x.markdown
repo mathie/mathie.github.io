@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Keyboard shortcuts in Mac OS X
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-17 16:23:29.000000000 +01:00
+date: 2005-08-17 16:23:29 +01:00
 categories:
 - Geekery
 - To do
-tags: []
-comments: []
 ---
 I intend to write up a more full-featured post later, but I've been investigating how Mac OS X does key bindings for shortcuts.  In particular, I would like to know (and possibly modify) the full set of keyboard shortcuts for writing text.  As a long-time (X)Emacs user, I am prone to navigating around text with arcane shortcuts, some of which already appear to work in Mac OS X, some of which don't.  Hopefully my investigation will achieve two things:
 

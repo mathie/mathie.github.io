@@ -1,20 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Keeping track of Rubaidh&#039;s shennanigans
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-01-30 17:52:31.000000000 +00:00
+date: 2007-01-30 17:52:31 +00:00
 categories:
 - Geekery
 - Work
 tags:
 - Geekery
 - Work
-comments: []
 ---
 I've decided to try out [Campaign Monitor](http://www.campaignmonitor.com/) in an attempt to have a closer relationship with the clients of my company, [Rubaidh Ltd](http://www.rubaidh.com/).  So far, I haven't actually composed a newsletter -- hopefully that'll be a task for this weekend, alongside updating a web site that hasn't seen any care and attention for a few months -- but I'm collecting subscribers.  In order to subscribe, fill out this wee form:
 

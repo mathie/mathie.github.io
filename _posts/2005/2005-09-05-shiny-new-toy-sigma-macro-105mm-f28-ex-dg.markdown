@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Shiny New Toy: Sigma Macro 105mm f/2.8 EX DG'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-05 13:18:22.000000000 +01:00
+date: 2005-09-05 13:18:22 +01:00
 categories:
 - Photography
-tags: []
-comments: []
 ---
 Well, yesterday I cracked.  I'm now the proud owner of a <a href="http://www.sigmaphoto.com/lenses/lenses_all_details.asp?id=3253&navigator=5">Sigma Macro 105mm f/2.8 EX DG</a> lens.  I've not yet had the chance to see any output from it on my laptop or in print, but I can just <em>tell</em> it's wonderful.  I can fill the entire frame with mere specs of dust and the short depth of field at f/2.8 produces some wonderfully composed images.  I think I need to take a walk somewhere with lots of detail stuff to shoot sometime in the next few days.
 

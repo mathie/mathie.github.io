@@ -1,19 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Irregular expressions
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-02 11:04:56.000000000 +01:00
+date: 2005-09-02 11:04:56 +01:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
-comments: []
 ---
 Looking through some sample data for <a href="http://www.logicalware.com/">MailManager</a>, I came across the following:
 

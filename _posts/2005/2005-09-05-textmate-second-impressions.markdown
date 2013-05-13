@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Textmate: Second Impressions'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-05 13:58:04.000000000 +01:00
+date: 2005-09-05 13:58:04 +01:00
 categories:
 - Geekery
 - Work
-tags: []
-comments: []
 ---
 Well, I finally got around to registering <a href="http://macromates.com/">TextMate</a> (by conning my work into registering me a copy, no less!) so I'm sticking with it for the long term.  It has finally ousted <a href="http://www.xemacs.org/">XEmacs</a> from my main toolset, and has even pushed <a href="http://vim.org/" title="Vi IMproved!">vim</a> from being <code>$EDITOR</code> and <code>$VISUAL</code> on the command line!
 

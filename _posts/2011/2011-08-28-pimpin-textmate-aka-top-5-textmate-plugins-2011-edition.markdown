@@ -1,16 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Pimpin' TextMate (aka Top 5 TextMate Plugins, 2011 Edition)
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
 excerpt: I've put together a list of the indispensable TextMate plugins that take
   a great editor and make it awesome, including enhanced file finding, project search
   and Lion full screen support.
-date: 2011-08-28 10:59:05.000000000 +01:00
+date: 2011-08-28 10:59:05 +01:00
 categories:
 - Geekery
 - Mac OS X

@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Solaris: Upgrading to Sun Studio 12'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-06-24 16:57:12.000000000 +01:00
+date: 2007-06-24 16:57:12 +01:00
 categories:
 - Geekery
 - Solaris

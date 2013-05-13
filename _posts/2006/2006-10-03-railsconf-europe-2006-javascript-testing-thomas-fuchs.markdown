@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'RailsConf Europe 2006: Javascript Testing -- Thomas Fuchs'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-10-03 15:07:38.000000000 +01:00
+date: 2006-10-03 15:07:38 +01:00
 categories:
 - Geekery
 - Ruby and Rails

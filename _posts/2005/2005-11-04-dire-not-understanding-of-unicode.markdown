@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Dire not-understanding of Unicode
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-04 13:44:20.000000000 +00:00
+date: 2005-11-04 13:44:20 +00:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
 comments:
 - id: 196
   author: annabel

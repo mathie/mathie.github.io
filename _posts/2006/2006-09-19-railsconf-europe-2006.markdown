@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Railsconf Europe 2006
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-09-19 12:18:14.000000000 +01:00
+date: 2006-09-19 12:18:14 +01:00
 categories:
 - Geekery
 - Ruby and Rails

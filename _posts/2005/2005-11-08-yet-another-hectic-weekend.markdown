@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Yet another hectic weekend!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-08 18:39:18.000000000 +00:00
+date: 2005-11-08 18:39:18 +00:00
 categories:
 - Geekery
 - Personal
-tags: []
-comments: []
 ---
 Well, we now have wedding rings, we now have a marriage license in process.  We've sent out about 70 of the wedding invitations.  And my bit of it is lagging slightly: the online RSVP system.  I took a couple of half-days off work this week and I've finally gotten it just about cracked though -- a couple more tweaks tonight and it'll be ready to go live!  Woo!  Keep an eye on <a href="http://wedding.mathieson.name/">http://wedding.mathieson.name/</a> for the full functionality to be unveiled!
 

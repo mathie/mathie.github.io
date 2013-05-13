@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'For Sale: Cat'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-16 10:52:50.000000000 +00:00
+date: 2005-11-16 10:52:50 +00:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 213
   author: annabel

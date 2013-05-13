@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Aperture has shipped!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-12-02 00:00:14.000000000 +00:00
+date: 2005-12-02 00:00:14 +00:00
 categories:
 - Geekery
 - Photography
-tags: []
 comments:
 - id: 238
   author: Derek Ross

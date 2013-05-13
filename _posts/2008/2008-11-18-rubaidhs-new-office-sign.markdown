@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Rubaidh&#039;s new office sign
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-11-18 12:55:27.000000000 +00:00
+date: 2008-11-18 12:55:27 +00:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <a href="http://www.flickr.com/photos/mathie/3040930662/" title="Rubaidh's new office sign"><img src="http://farm4.static.flickr.com/3143/3040930662_007fafd7db_m.jpg" alt="Rubaidh's new office sign" class="alignright" style="border: solid 1px #000000; float: right;" /></a><a href="http://www.rubaidh.com/">Rubaidh Ltd</a> has recently moved in to new offices in Musselburgh, and this morning I came in to discover that the folks who run the building have put up a sign for our office.  Shiny, eh?<br />
 <br />

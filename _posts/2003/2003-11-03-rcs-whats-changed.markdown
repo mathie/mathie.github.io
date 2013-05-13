@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'RCS: What&#039;s changed?'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2003-11-03 13:36:39.000000000 +00:00
+date: 2003-11-03 13:36:39 +00:00
 categories:
 - Geekery
 tags:
 - Geekery
-comments: []
 ---
 <p>I manage configuration files on most of my hosts with RCS.  This is probably less than perfect when I'm making exactly the same changes on a dozen machines, but there's only one domain where I manage more than one machine under the same administrative hat and <a href="http://www.cfengine.org/">cfengine</a> will make a return there one of these days.  Anyway, yes, RCS.  On these hosts, I'm a member of the <code>adm</code> group.  Generally the first thing that happens when I install a new package which creates its own configuration directory under /etc is along the lines of:</p>
 

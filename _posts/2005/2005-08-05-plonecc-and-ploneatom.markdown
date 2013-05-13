@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: PloneCC and PloneAtom
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-05 10:53:06.000000000 +01:00
+date: 2005-08-05 10:53:06 +01:00
 categories:
 - Geekery
 - Python
-tags: []
-comments: []
 ---
 I'm seeing lots of 404s in my web logs for the distributions of PloneCC and PloneAtom.  I'll update the relevent categories with the right information this weekend, but for now here are the tarballs:
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: What&#039;s missing?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-11-06 19:01:10.000000000 +00:00
+date: 2006-11-06 19:01:10 +00:00
 categories:
 - Geekery
 tags:
 - Geekery
-comments: []
 ---
 So I spent most of the weekend (and part of today, in the background) installing bits and pieces on the shiny new thing.  It's taken 'til this afternoon to figure out what's missing.  Everytime there was a *blip* from an application (usually somebody logging in or out of some messaging service) I'd look at the top right of my screen and wonder "what's that?"
 

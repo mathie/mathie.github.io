@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Reading of late
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-15 22:06:00.000000000 +00:00
+date: 2005-11-15 22:06:00 +00:00
 categories:
 - Entertainment
 - Personal
-tags: []
-comments: []
 ---
 I realise that it's nearly two months since I last updated my reading list.  Oops.  I suppose I haven't exactly been consuming books at any rate recently anyway.  OK, so what have I read since I last posted...?
 

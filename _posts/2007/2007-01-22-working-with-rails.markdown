@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Working With Rails
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-01-22 15:19:51.000000000 +00:00
+date: 2007-01-22 15:19:51 +00:00
 categories:
 - Geekery
 - Ruby and Rails
@@ -16,7 +10,6 @@ tags:
 - Geekery
 - Ruby and Rails
 - Work
-comments: []
 ---
 OK, so I stumbled upon <a href="http://workingwithrails.com/">Working With Rails</a> a while back when there was a little controversy about their methods for populating the database with Rails developers and I figured I should claim my record.  I filled in a few details then forgot about it.  I visited again today to mention that I'm a Rails core contributor (well, I've had a patch or two accepted, which is good enough for me!) after reading that <a href="http://weblog.rubyonrails.com/2007/1/8/hackfest-2007-and-cdbaby-sprint">CD Baby is sponsoring conferences passes for the top 20 contributors</a> between now and the conference registration opening for <a href="http://conferences.oreillynet.com/rails/">RailsConf '07</a>.  I sincerely doubt that, with my current workload, I'll either contribute much or make it to the American RailsConf, but why not sign up anyway? :-)
 

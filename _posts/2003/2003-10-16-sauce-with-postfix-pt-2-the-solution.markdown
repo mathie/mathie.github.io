@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Sauce with Postfix Pt. 2: The solution'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2003-10-16 12:14:36.000000000 +01:00
+date: 2003-10-16 12:14:36 +01:00
 categories:
 - Geekery
 tags:
 - Geekery
-comments: []
 ---
 <p>Further to my previous entry <a href="http://www.endless.org.uk/blog/archives/2003/10/16/000463.html">Sauce with Postfix</a>, inspiration struck as to getting it to work.  I've implemented it locally and it appears to be functional, but I'd like somebody smart to go over my working (please just leave a comment here) before I even think of sending it in the general direction of Mr Jackson.  It should also be noted that these instructions are only tested on SAUCE version 0.7.14 and Postfix 2.0.16, both running on Debian Sarge.  I make no guarantees about it working with anything else at all.</p>
 

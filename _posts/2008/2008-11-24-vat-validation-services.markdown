@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: VAT Validation Services
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-11-24 18:32:08.000000000 +00:00
+date: 2008-11-24 18:32:08 +00:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 You may have noticed in the news that the [UK VAT rate has temporarily been dropped from 17.5% to 15%](http://news.bbc.co.uk/1/hi/uk_politics/7745340.stm).  This change is effective from next Monday (1st December 2008) for 13 months.
 

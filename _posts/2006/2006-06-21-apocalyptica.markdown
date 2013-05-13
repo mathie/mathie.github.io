@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Apocalyptica
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-06-21 11:12:42.000000000 +01:00
+date: 2006-06-21 11:12:42 +01:00
 categories:
 - Entertainment
 - Photography

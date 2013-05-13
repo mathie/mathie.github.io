@@ -1,17 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Installing on my Mac at home
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
 excerpt: This is a short tutorial on connecting back to your home Mac via SSH, through
   the magic of MobileMe, then downloading some software, mounting the disk image and
   installing it, all without the need of the Mac OS X GUI. I use VirtualBox as an
   example, but it should work for any standard Mac OS X installer.
-date: 2011-02-04 11:42:55.000000000 +00:00
+date: 2011-02-04 11:42:55 +00:00
 categories:
 - Geekery
 - Mac OS X
@@ -22,7 +16,6 @@ tags:
 - virtualbox
 - vagrant
 - dns
-comments: []
 ---
 I'm in the office and I want to start installing some software on my laptop at home so it's ready to try when I get back to my laptop. (The test suite is running and I know the install will take a while, so it can get going while I commute!) In particular, I was looking to try [Vagrant](http://vagrantup.com/), which requires [VirtualBox](http://www.virtualbox.org/).
 

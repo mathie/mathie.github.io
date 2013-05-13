@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Mighty Mouse: Second Impressions'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-17 17:45:04.000000000 +01:00
+date: 2005-08-17 17:45:04 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 44
   author: Nerfboy

@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Build of Carbon XEmacs 21.5.20 beta 2 for Mac OS X 10.4
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-04 12:03:50.000000000 +01:00
+date: 2005-08-04 12:03:50 +01:00
 categories:
 - Geekery
 - To do
-tags: []
 comments:
 - id: 18
   author: anon

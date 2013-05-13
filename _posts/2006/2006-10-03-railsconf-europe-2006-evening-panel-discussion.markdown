@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'RailsConf Europe 2006: Evening Panel Discussion'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-10-03 15:08:41.000000000 +01:00
+date: 2006-10-03 15:08:41 +01:00
 categories:
 - Geekery
 - Ruby and Rails
@@ -16,7 +10,6 @@ tags:
 - Geekery
 - railsconfeurope
 - Ruby and Rails
-comments: []
 ---
 > This is the seventh in a series of articles of me writing up my notes from
 > from RailsConf Europe 2006. They are all first drafts, probably

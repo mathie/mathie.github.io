@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Scottish Ruby User Group
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-05-11 11:49:26.000000000 +01:00
+date: 2006-05-11 11:49:26 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 453
   author: digital.goth.geek &raquo; Blog Archive &raquo; Scottish Ruby User Group

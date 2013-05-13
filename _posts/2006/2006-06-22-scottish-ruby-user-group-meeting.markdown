@@ -1,20 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Scottish Ruby User Group meeting
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-06-22 09:11:53.000000000 +01:00
+date: 2006-06-22 09:11:53 +01:00
 categories:
 - Geekery
 - Ruby and Rails
 tags:
 - Geekery
 - Ruby and Rails
-comments: []
 ---
 Just a wee reminder that the second Scottish Ruby User Group meeting is
 tonight at The Regent, Montrose Terrace, Edinburgh. You can find out the full

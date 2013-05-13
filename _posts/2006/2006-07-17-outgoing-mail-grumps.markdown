@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Outgoing Mail Grumps
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-07-17 14:36:55.000000000 +01:00
+date: 2006-07-17 14:36:55 +01:00
 categories:
 - Work
 tags:

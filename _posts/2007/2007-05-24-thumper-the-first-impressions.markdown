@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Thumper: The first impressions'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-05-24 18:56:23.000000000 +01:00
+date: 2007-05-24 18:56:23 +01:00
 categories:
 - Geekery
 - Solaris

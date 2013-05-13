@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'For Sale: 31/1 Easter Road, Edinburgh'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-12 13:30:07.000000000 +01:00
+date: 2005-10-12 13:30:07 +01:00
 categories:
 - Personal
-tags: []
-comments: []
 ---
 Since the market has been unbelievably slow in Edinburgh, but is apparently picking back up again, we're making a last-ditch attempt to sell our old flat before putting it on the market to rent.  So it's back on the market at the bargain-basement price of Offers Over &pound;69,000.
 

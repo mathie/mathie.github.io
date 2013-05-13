@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Kinkless Getting Things Done
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-04 14:24:25.000000000 +01:00
+date: 2005-10-04 14:24:25 +01:00
 categories:
 - Personal
 - To do
 - Work
-tags: []
 comments:
 - id: 138
   author: Jeff Shell

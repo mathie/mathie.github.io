@@ -1,19 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: MailManager migration woes
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-03 18:55:28.000000000 +00:00
+date: 2005-11-03 18:55:28 +00:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
-comments: []
 ---
 Here I am, trying to convince <a href="http://www.logicalware.com/">MailManager</a> to cleanly migrate from version 1.1 (which used the ZODB backend to store message data) straight to 2.0.3 on MySQL.  And you know, incredibly, I think I've just convinced it to work!  Now it just needs tidied up enough to commit (and to check the PostgreSQL migrations still work).  There were a couple of problems:
 

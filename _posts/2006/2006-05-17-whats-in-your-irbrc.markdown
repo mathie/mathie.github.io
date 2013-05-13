@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: What&#039;s in your irbrc?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-05-17 12:58:04.000000000 +01:00
+date: 2006-05-17 12:58:04 +01:00
 categories:
 - Geekery
-tags: []
-comments: []
 ---
 I've been mucking around a bit this morning with my `~/.irbrc`, prompted by [why's](http://redhanded.hobix.com/) post about [MethodFinder](http://www.nobugs.org/developer/ruby/method_finder.html) (very shiny!).  And now I'm wondering what everybody else has in their `~/.irbrc`.  What do I have?  Well:
 

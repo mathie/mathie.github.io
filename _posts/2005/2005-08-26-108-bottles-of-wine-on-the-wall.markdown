@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: 108 Bottles of Wine on the Wall
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-26 09:17:02.000000000 +01:00
+date: 2005-08-26 09:17:02 +01:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 75
   author: annabel

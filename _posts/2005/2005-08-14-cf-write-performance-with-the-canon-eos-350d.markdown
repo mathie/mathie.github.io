@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: CF Write performance with the Canon EOS 350D
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-14 11:49:45.000000000 +01:00
+date: 2005-08-14 11:49:45 +01:00
 categories:
 - Photography
-tags: []
-comments: []
 ---
 After having been wittering on about getting a faster CF card for my camera, I went searching for some performance statistics.  The <a href="http://www.dpreview.com/articles/mediacompare/" title="Digital film comparison at dpreview.com">article at dpreview.com</a> is seriously out of date, with the last entry having been added in October 2001.  It rates the fastest RAW write performance in a Canon EOS-1D (top of the line wotsit!) to be in the region of 2.6MB/s in real world tests.  Eek!  I hope things have improved since then!
 

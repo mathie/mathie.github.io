@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'TextMate: The Missing Editor for OS X'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-09 17:48:56.000000000 +01:00
+date: 2005-08-09 17:48:56 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 32
   author: Allan Odgaard

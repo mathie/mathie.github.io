@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Nice surprises
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-27 16:54:06.000000000 +01:00
+date: 2005-09-27 16:54:06 +01:00
 categories:
 - Entertainment
 - Personal
-tags: []
 comments:
 - id: 120
   author: annabel

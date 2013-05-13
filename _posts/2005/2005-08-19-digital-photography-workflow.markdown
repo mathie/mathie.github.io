@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Digital Photography Workflow
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-19 22:50:08.000000000 +01:00
+date: 2005-08-19 22:50:08 +01:00
 categories:
 - Geekery
 - Photography
-tags: []
 comments:
 - id: 56
   author: Breton

@@ -1,12 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Boosting Mac OS X
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
 excerpt: ! 'I''ve been mucking around with <a href="http://www.boost.org/" title="Boost
   C++ Library">Boost</a> over the past couple of evenings to see if I can get it setup
   on my laptop and get back into a bit of C++ development.  I''ve succeeded, but it
@@ -18,10 +12,9 @@ excerpt: ! 'I''ve been mucking around with <a href="http://www.boost.org/" title
 
 
 '
-date: 2005-08-03 20:30:50.000000000 +01:00
+date: 2005-08-03 20:30:50 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 14
   author: Lally

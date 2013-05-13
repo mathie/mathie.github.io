@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: My photography kit
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-13 19:44:03.000000000 +01:00
+date: 2005-08-13 19:44:03 +01:00
 categories:
 - Photography
-tags: []
 comments:
 - id: 39
   author: Notes from a messy desk &raquo; Blog Archive &raquo; Digital Photography

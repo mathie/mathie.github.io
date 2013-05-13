@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Using git to fix up other projects
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-03-29 12:54:40.000000000 +00:00
+date: 2008-03-29 12:54:40 +00:00
 categories:
 - Geekery
 - Ruby and Rails
 - Work
-tags: []
 comments:
 - id: 978
   author: Tom Lazar

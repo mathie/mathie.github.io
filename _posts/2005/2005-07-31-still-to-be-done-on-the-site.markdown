@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Still to be done on the site
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-07-31 12:34:43.000000000 +01:00
+date: 2005-07-31 12:34:43 +01:00
 categories:
 - Meta
 - To do
-tags: []
-comments: []
 ---
 What's still to be done on the web site.  Some of it is stuff I'd like to get done today, some, I guess, is stuff that will take a while to get around to.  But here goes, off the top of my head:
 

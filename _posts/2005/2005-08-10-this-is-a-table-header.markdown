@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: This is a table header!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-10 16:52:40.000000000 +01:00
+date: 2005-08-10 16:52:40 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 37
   author: OliverBrown.me.uk

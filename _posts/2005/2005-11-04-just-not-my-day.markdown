@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Just not my day
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-04 12:46:46.000000000 +00:00
+date: 2005-11-04 12:46:46 +00:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
 comments:
 - id: 194
   author: phil

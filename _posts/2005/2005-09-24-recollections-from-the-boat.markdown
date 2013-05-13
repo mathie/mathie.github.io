@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Recollections from the boat
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-24 10:54:54.000000000 +01:00
+date: 2005-09-24 10:54:54 +01:00
 categories:
 - Personal
-tags: []
-comments: []
 ---
 <p>After finishing yesterday's marathon entry, we did pick up the ferry tickets pack to Pireaus, leaving at 09:45 on Saturday.  (Note to self: the outbound journey was &euro;1 cheaper than the return; perhaps it makes more sense to buy both legs of the journey at Pireaus next time?)  Then we nipped into the supermarket to pick up a bottle of Kitron and one of the nice bottles of Retsina we'd had at lunch the previous day.  After going back to the apartment, for a shower, we dropped in to tell Nikos we were leaving the next day and to pay the bill -- 8 nights at &euro;50/night totalling &euro;400.  Not bad for a two bedroom (each with en suite) apartment, I think?</p>
 

@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: What noise does a stag make?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-25 16:21:01.000000000 +01:00
+date: 2005-10-25 16:21:01 +01:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 172
   author: Derek

@@ -1,12 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Writing an auto responder
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
 excerpt: ! "<p>OK, mostly these are notes just now, as I do a little research for
   <a href=\"https://sourceforge.net/tracker/index.php?func=detail&aid=1350425&group_id=85788&atid=577305\">#1350425</a>.
   \ I'm trying to figure out what the 'correct' behaviour for an email auto responder
@@ -29,12 +23,11 @@ excerpt: ! "<p>OK, mostly these are notes just now, as I do a little research fo
   \ For dropping the message, I agree with everything but point 3 (which I'm not entirely
   sure about).  And I'm not convinced that the algorithm for choosing the reply address
   is robust enough.  So let's start digging into the RFCs.</p>\n"
-date: 2005-11-09 15:55:26.000000000 +00:00
+date: 2005-11-09 15:55:26 +00:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
 comments:
 - id: 205
   author: Andrew Veitch

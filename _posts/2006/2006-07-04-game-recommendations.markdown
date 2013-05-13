@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Game Recommendations?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-07-04 14:47:53.000000000 +01:00
+date: 2006-07-04 14:47:53 +01:00
 categories:
 - Geekery
 - Personal

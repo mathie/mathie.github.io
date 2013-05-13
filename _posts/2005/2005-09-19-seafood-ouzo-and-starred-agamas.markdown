@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Seafood, ouzo and starred agamas
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-19 19:30:16.000000000 +01:00
+date: 2005-09-19 19:30:16 +01:00
 categories:
 - Personal
-tags: []
-comments: []
 ---
 <p>So we didn't get around to writing diaries yesterday 'cos Annabel didn't feel like it.  I suspect that really she will suffering from the previous night.  Which is where I left of, so...</p>
 

@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Updating the path everywhere on Ubuntu 09.10
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2010-03-15 15:43:51.000000000 +00:00
+date: 2010-03-15 15:43:51 +00:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 [Ubuntu](http://www.ubuntu.com/) is my Linux of choice. It has been for a long time. I've been a huge fan of [Debian](http://www.debian.org/) since the late '90s -- I was a Debian Developer stuck in the NM queue for a few years -- but the release cycle was *way* too long for my tastes (which invariably meant I kept most of my systems running testing or unstable). So I switched to Ubuntu pretty early on.
 

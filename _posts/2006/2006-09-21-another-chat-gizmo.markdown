@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Another chat gizmo
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-09-21 13:07:30.000000000 +01:00
+date: 2006-09-21 13:07:30 +01:00
 categories:
 - Geekery
 tags:
@@ -19,7 +13,6 @@ tags:
 - jabber
 - messaging
 - skype
-comments: []
 ---
 Since you can never have enough IM/phone clients on enough networks, I've now
 signed up for [Gizmo](http://www.gizmoproject.com/). I'm `mathie_wossname`.

@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Yojimbo: 10 seconds of impressions'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-24 10:20:15.000000000 +00:00
+date: 2006-01-24 10:20:15 +00:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 288
   author: Jonathan

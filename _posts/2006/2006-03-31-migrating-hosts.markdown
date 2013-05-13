@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Migrating hosts
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-03-31 09:12:55.000000000 +01:00
+date: 2006-03-31 09:12:55 +01:00
 categories:
 - Geekery
 - Work
-tags: []
-comments: []
 ---
 Well, yesterday was fun.  After all the kind comments I received, I decided to go shopping for a VPS to host my applications.  And, from [Paul](http://www.oobaloo.co.uk/)'s recommendation, decided to give [Rimuhosting](http://rimuhosting.com/) a shot.  The host was set up within a couple of hours of my application, along with a personal, friendly email introducing me to the service.  (Good customer service!  +1!)
 

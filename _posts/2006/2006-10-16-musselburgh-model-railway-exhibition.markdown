@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Musselburgh Model Railway Exhibition
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-10-16 10:50:36.000000000 +01:00
+date: 2006-10-16 10:50:36 +01:00
 categories:
 - Photography
 tags:

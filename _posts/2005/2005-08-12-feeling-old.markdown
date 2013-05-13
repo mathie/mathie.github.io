@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Feeling Old
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-12 09:55:34.000000000 +01:00
+date: 2005-08-12 09:55:34 +01:00
 categories:
 - Personal
-tags: []
-comments: []
 ---
 I gather that today is <a href="http://www.un.org/esa/socdev/unyin/iyouthday.htm" title="Youth at the United Nations: 12 August - International Youth Day">International Youth Day</a>.  But that's not the scary part.  According to the UN definition:
 

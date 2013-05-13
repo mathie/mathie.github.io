@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Indexing and searching
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-25 13:05:28.000000000 +01:00
+date: 2005-08-25 13:05:28 +01:00
 categories:
 - Geekery
 - Work
-tags: []
-comments: []
 ---
 On a completely unrelated web search last night, I came across the <a href="http://www.xapian.org/">Xapian</a> project.  Funny that, what with it being an indexing and searching library for C++.  So I had a quick play around and it seems pretty neat.  And pretty fast.  I'm wondering if we could put it to use as a backend-independent search engine for <a href="http://www.logicalware.com" title="MailManager email response management system">MailManager</a> instead of our current implementation, which makes use of whatever the database backend provides.   In the case of PostgreSQL, this is <a href="http://www.sai.msu.su/~megera/postgres/gist/tsearch/V2/">tsearch2</a>, which by all accounts seems to be pretty good.  MySQL also has its own <a href="http://dev.mysql.com/doc/mysql/en/fulltext-search.html">full text search</a> support.  (And the ZODB we were using in 1.x has zcatalog et al to provide the searching capability.)
 

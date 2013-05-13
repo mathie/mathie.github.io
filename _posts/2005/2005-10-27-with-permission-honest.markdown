@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: With permission, honest!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-27 14:03:45.000000000 +01:00
+date: 2005-10-27 14:03:45 +01:00
 categories:
 - Entertainment
 - Personal
-tags: []
 comments:
 - id: 177
   author: annabel

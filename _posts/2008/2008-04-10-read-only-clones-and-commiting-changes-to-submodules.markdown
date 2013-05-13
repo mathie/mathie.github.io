@@ -1,19 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Read-only clones and commiting changes to submodules
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-04-10 18:26:37.000000000 +01:00
+date: 2008-04-10 18:26:37 +01:00
 categories:
 - Geekery
 - Mac OS X
 - Ruby and Rails
 - Software Configuration Management
-tags: []
 comments:
 - id: 996
   author: Theo

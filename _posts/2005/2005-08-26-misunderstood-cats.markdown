@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Misunderstood cats
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-26 15:33:43.000000000 +01:00
+date: 2005-08-26 15:33:43 +01:00
 categories:
 - Personal
-tags: []
-comments: []
 ---
 From an email conversation today:
 

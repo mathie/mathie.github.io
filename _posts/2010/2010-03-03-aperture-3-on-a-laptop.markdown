@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Aperture 3 on a laptop
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2010-03-03 15:41:59.000000000 +00:00
+date: 2010-03-03 15:41:59 +00:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>I was awoken early last week by my laptop's hard drive making a clicking noise. The fact that I hadn't reconfigured Time Machine since installing Snow Leopard sent me into a blind panic. A quick trip to Amazon UK later, and I'd ordered a&nbsp;<a href="http://www.drobo.com/products/drobo.php">2nd gen Drobo</a>, along with 3&nbsp;<a href="http://www.wdc.com/en/products/Products.asp?DriveID=773">1TB Western Digital Caviar Green</a>&nbsp;disks. It all turned up the next day, and the data shifting started.</p>
 <p>The short version of the story is that I've now got at least two copies of everything, one on the Drobo (which should cover against particular types of failures all by itself). And the internal drive in my Macbook Pro hasn't made any funny noises since.&nbsp;<strong>phew</strong></p>

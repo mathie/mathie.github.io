@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Feed burning and trackbacks
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-07-31 09:36:35.000000000 +01:00
+date: 2005-07-31 09:36:35 +01:00
 categories:
 - Meta
-tags: []
-comments: []
 ---
 OK, that's the feeds replaced with <a href="http://www.feedburner.com/">Feedburner's</a> 'SmartFeed', which is supposed to allow me some interesting statistics, and make sure that every client who requests a feed gets what is most suitable for it (be it RSS or Atom in their various incarnations).  I'll play with it anyway, see how well it works.
 

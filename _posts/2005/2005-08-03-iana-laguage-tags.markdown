@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: IANA Language Tags
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-03 10:36:57.000000000 +01:00
+date: 2005-08-03 10:36:57 +01:00
 categories:
 - Geekery
 - Web surfing
-tags: []
-comments: []
 ---
 I was browsing the format of language tags defined by the <acronym title="Internet Assigned Numbers Association">IANA</acronym> to see exactly the incantation I should use in an HTML <code>lang</code> attribute to express that the section is written in British English.  It turns out to be defined in <a href="http://www.faqs.org/rfcs/rfc3066.html" title="Tags for the Identification of Languages">RFC 3066</a> and is, in ABNF:
 

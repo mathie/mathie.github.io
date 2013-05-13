@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Sleepy
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-01 10:27:38.000000000 +01:00
+date: 2005-08-01 10:27:38 +01:00
 categories:
 - Meta
 - Personal
-tags: []
-comments: []
 ---
 Hrm.  I still feel like I've been short-changed on my sleep, after Saturday night's debacle.  And my coffee cup is empty!
 

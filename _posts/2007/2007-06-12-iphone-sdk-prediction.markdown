@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: iPhone SDK prediction
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-06-12 12:27:58.000000000 +01:00
+date: 2007-06-12 12:27:58 +01:00
 categories:
 - Geekery
 - Web surfing

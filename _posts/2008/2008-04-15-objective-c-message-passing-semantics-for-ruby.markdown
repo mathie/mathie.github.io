@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Objective-C message passing semantics for Ruby
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-04-15 16:11:07.000000000 +01:00
+date: 2008-04-15 16:11:07 +01:00
 categories:
 - Geekery
 - Mac OS X
 - Ruby and Rails
-tags: []
 comments:
 - id: 1006
   author: Bruce

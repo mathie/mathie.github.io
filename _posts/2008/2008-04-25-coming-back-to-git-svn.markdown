@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Coming back to git-svn
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-04-25 10:41:09.000000000 +01:00
+date: 2008-04-25 10:41:09 +01:00
 categories:
 - Geekery
 - Software Configuration Management
-tags: []
 comments:
 - id: 1013
   author: Joe

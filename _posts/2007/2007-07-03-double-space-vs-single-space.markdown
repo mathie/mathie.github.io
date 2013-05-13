@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Double space vs. Single space
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-07-03 11:00:38.000000000 +01:00
+date: 2007-07-03 11:00:38 +01:00
 categories:
 - Geekery
 - Ruby and Rails

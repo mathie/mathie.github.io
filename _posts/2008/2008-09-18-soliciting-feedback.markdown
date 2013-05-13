@@ -1,19 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Soliciting Feedback
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-09-18 12:28:32.000000000 +01:00
+date: 2008-09-18 12:28:32 +01:00
 categories:
 - Meta
 - Ruby and Rails
 - Work
-tags: []
-comments: []
 ---
 It's been a while since I posted here, hasn't it?  I'm hoping to be able to pick things up again soon, but I've been absolutely swamped with work and family life...
 

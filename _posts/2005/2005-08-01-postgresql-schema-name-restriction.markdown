@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: PostgreSQL schema name restriction
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-01 11:26:17.000000000 +01:00
+date: 2005-08-01 11:26:17 +01:00
 categories:
 - Geekery
 - Work
-tags: []
-comments: []
 ---
 I've just spent the past 20 minutes trying to figure out what <a href="http://www.postgresql.org/docs/current/static/ddl-schemas.html" title="PostgreSQL documentation: Schemas">schema</a> names one can use in a <a href="http://www.postgresql.org/">PostgreSQL</a> database.  The documentation wasn't much use, so tracking through the source, in <code>postgresql-8.0.3/backend/parser/</code> I discovered that a schema name is subject to the same restrictions as a column id (which seems to be a generic identifier shared by column names, table names, etc).  This is defined as being an <code>IDENT</code> at the lexer level, which is defined as:
 

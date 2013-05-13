@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Break
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-05 14:55:29.000000000 +00:00
+date: 2006-01-05 14:55:29 +00:00
 categories:
 - Personal
-tags: []
-comments: []
 ---
 Happy New Year, y'all!  I've had an incredibly relaxing, stress-free Christmas break, barely touching a computer (well, I reinstalled Mac OS X Tiger onto my laptop, but that's as far as I got).  Which is why here's been pretty quiet.  You'll be pleased to know that I have lots of writing planned for here, and lots of geeking I want to do.
 

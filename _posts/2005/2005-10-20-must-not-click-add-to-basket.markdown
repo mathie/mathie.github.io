@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Must not click &#039;Add to basket&#039;
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-20 11:01:09.000000000 +01:00
+date: 2005-10-20 11:01:09 +01:00
 categories:
 - Geekery
 - Personal
 - Photography
-tags: []
 comments:
 - id: 163
   author: annabel

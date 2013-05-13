@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Using Twitter for business
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2010-02-26 15:41:02.000000000 +00:00
+date: 2010-02-26 15:41:02 +00:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>I started writing an email, ranting about the dos and don'ts of using Twitter to promote your business. What originally irked me was somebody asking for examples of businesses who have successfully used Twitter to generate sales leads. This is my response, which got off-topic enough that I ditched the email, but I think there's some element of truth to it at least:</p>
 <p>Having been involved in Twitter since the relatively early days (I joined in November 2006, apparently), and having talked to people at conferences about how to successfully use Twitter for business, I've got a few opinions about how to do it right. It should not be (directly) a tool for generating sales leads. It's a tool for engaging with your community (or starting to actually develop a community in the first place, if you've never had a two-way channel with your customers before now). If you're going to give the Twitter account to one department in your company, don't give it to sales, give it to customer support.</p>

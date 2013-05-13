@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: ISBN validation
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-08 16:41:17.000000000 +01:00
+date: 2005-09-08 16:41:17 +01:00
 categories:
 - Geekery
 - Python
-tags: []
 comments:
 - id: 102
   author: Kisin

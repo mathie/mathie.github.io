@@ -1,12 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Mapping MailManager to Atom
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
 excerpt: ! "I'm working on adding Atom (and RSS) support to MailManager and I'm trying
   to work out how to map various entities back and forth.  This is mostly for my own
   reference as I go to implement it, but I figured I might as well share it with other
@@ -14,13 +8,11 @@ excerpt: ! "I'm working on adding Atom (and RSS) support to MailManager and I'm 
   example of how to map an application that predates (popular) syndication to support
   RSS and Atom.</li>\n</ul>\n\nI'll cut it away from general view since it's probably
   not of interest to most of the readers here; click below if you'd like to read.\n"
-date: 2005-10-10 17:56:03.000000000 +01:00
+date: 2005-10-10 17:56:03 +01:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
-comments: []
 ---
 I'm working on adding Atom (and RSS) support to MailManager and I'm trying to work out how to map various entities back and forth.  This is mostly for my own reference as I go to implement it, but I figured I might as well share it with other people, for two reasons:
 

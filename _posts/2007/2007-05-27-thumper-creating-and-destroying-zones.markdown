@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Thumper: Creating and destroying zones'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-05-27 20:26:40.000000000 +01:00
+date: 2007-05-27 20:26:40 +01:00
 categories:
 - Geekery
 - Solaris

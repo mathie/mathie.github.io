@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'New in Edge Rails: Kine!'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-06-24 11:22:42.000000000 +01:00
+date: 2007-06-24 11:22:42 +01:00
 categories:
 - Geekery
 - Ruby and Rails

@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Aperture: Second Impressions'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-12-03 10:07:37.000000000 +00:00
+date: 2005-12-03 10:07:37 +00:00
 categories:
 - Geekery
 - Photography
-tags: []
-comments: []
 ---
 We spent last night, in the pub, sorting through Annabel's photographs from her hen weekend with her mum in Barcelona.  In <a href="http://www.apple.com/aperture/">Aperture</a>, naturally.  The import of 280 photos (all shot in RAW) took a few minutes, but once the initial import was done, it was really fast to flick through photos, rejecting or selecting images, grouping them together.  We decided that full screen mode was the was forward for that, using the keyboard shortcuts that I'm gradually learning.
 

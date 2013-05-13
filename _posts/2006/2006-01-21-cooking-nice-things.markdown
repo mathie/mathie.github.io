@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Cooking nice things
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-21 21:08:41.000000000 +00:00
+date: 2006-01-21 21:08:41 +00:00
 categories:
 - Personal
 tags:

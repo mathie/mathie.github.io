@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Late Christmas Presents
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-06 11:29:51.000000000 +00:00
+date: 2006-01-06 11:29:51 +00:00
 categories:
 - Geekery
-tags: []
-comments: []
 ---
 <a href="http://macromates.com/">TextMate</a>'s author, Allan Odgaard, has announced the final release of <a href="http://macromates.com/blog/archives/2006/01/06/textmate-15/">TextMate 1.5</a>.  I joined the Cult of TextMate around 1.1b15, and have been using it daily since then, for all my software development, most of my documentation, web site development, pretty much everything in the world ever, in fact.  It's absolutely wonderful.  In fact, in some (work-internal) documentation I was creating recently I wrote:
 

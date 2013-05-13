@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Macbook Pro
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-11-05 10:55:58.000000000 +00:00
+date: 2006-11-05 10:55:58 +00:00
 categories:
 - Geekery
 tags:

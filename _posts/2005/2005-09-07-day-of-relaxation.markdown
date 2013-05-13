@@ -1,19 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Day of Relaxation
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-07 11:56:22.000000000 +01:00
+date: 2005-09-07 11:56:22 +01:00
 categories:
 - Geekery
 - Personal
 - Photography
-tags: []
-comments: []
 ---
 It's nice to have a day off once in a while, when everybody else is out working.  I get to slob around, relax, read all the lovely birthday cards the postman delivered this morning, eat sausages &amp; hash browns for breakfast, drink freshly brewed coffee, start reading the copy of <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0316725234/mathieoftheen-21">All Fun and Games Until Somebody Loses an Eye</a> that I unwrapped today in bed and just generally, well, relax.
 

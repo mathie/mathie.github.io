@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Getting something done?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-03-08 13:06:47.000000000 +00:00
+date: 2006-03-08 13:06:47 +00:00
 categories:
 - Geekery
 - Personal
-tags: []
-comments: []
 ---
 Do you ever have one of those days where you've got *so* much to do that it's so daunting and your GTD system is falling apart because there's so much to do that you can't keep it up to date?  That's how I'm feeling today.
 

@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The Ruby Community
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2010-03-29 15:44:35.000000000 +01:00
+date: 2010-03-29 15:44:35 +01:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>Most of you will already know that I am part of the triumvirate who runs the <a href="http://scottishrubyconference.com/">Scottish Ruby Conference</a> (n&eacute;e Scotland on Rails) each year in Edinburgh. We've just wrapped up this year's conference and it has been utterly awesome. I may write more about that later, but that's not where I'm going today.</p>
 <p>On the Saturday morning, I turned up, feeling the last whisky from the night before wasn't such a great idea as it seemed at the time. Noticing that the battery was very low, I plugged my iPhone into my laptop, which was behind the registration desk, then disappeared off with <a href="http://www.markconnell.co.uk/">Mark</a> to eat the breakfasts we'd acquired from Greggs on the way in. From there, we headed straight in to <a href="http://www.tbray.org/ongoing/">Tim Bray</a>'s keynote (by the second morning, the conference practically runs itself!). Afterwards, I popped out to pick up my phone, knowing it would have been recharged by then.</p>

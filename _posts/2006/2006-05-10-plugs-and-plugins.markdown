@@ -1,19 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Plugs and plugins
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-05-10 15:22:30.000000000 +01:00
+date: 2006-05-10 15:22:30 +01:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
-comments: []
 ---
 <img src="http://www.rubaidh.com/images/logo-graphic.gif" class="alignleft" /> I don't think I've ever 'officially' mentioned here what I'm up to these days.  Just over two months ago (1st March, to be precise), I quit my day job and started my own company:  [Rubaidh Ltd](http://www.rubaidh.com/).  I'm a one-man consultancy doing [Ruby on Rails](http://www.rubyonrails.org/) development and hosting.  For my sins, I also still do some Python, Zope & Plone work -- it pays the rent. :)
 

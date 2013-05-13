@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: In, Out, In, Out, Skype it all about
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-12-16 18:40:16.000000000 +00:00
+date: 2005-12-16 18:40:16 +00:00
 categories:
 - Geekery
 - Personal
-tags: []
-comments: []
 ---
 OK, so I've been fiddling late on this afternoon, instead of writing <a href="http://www.logicalware.com/">MailManager</a> documentation, like I'm supposed to be doing.  I've rediscovered <a href="http://www.skype.com/">Skype</a>, a telephone service utilising some strange VoIP technology.  I've bunged on some credit for SkypeOut and created myself a SkypeIn number (Edinburgh-based).  It's &pound;20 for a full year's subscription to SkypeIn -- I think I can cope with splashing out that much to play with it. :-)
 

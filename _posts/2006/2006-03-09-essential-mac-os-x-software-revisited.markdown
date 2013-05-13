@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Essential Mac OS X software revisited
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-03-09 10:27:14.000000000 +00:00
+date: 2006-03-09 10:27:14 +00:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 320
   author: Mike

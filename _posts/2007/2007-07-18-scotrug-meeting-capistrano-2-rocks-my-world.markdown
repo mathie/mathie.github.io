@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'ScotRUG Meeting: Capistrano 2 rocks my world'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-07-18 08:49:21.000000000 +01:00
+date: 2007-07-18 08:49:21 +01:00
 categories:
 - Edinburgh Local
 - Geekery

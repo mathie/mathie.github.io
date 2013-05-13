@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Nintendo DS Lite
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-06-29 11:01:59.000000000 +01:00
+date: 2006-06-29 11:01:59 +01:00
 categories:
 - Geekery
 - Personal

@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Authentication plugins
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-09-23 11:03:32.000000000 +01:00
+date: 2007-09-23 11:03:32 +01:00
 categories:
 - Geekery
 - Ruby and Rails

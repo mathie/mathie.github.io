@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Getting excited about Ruby on Rails
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-25 10:37:05.000000000 +01:00
+date: 2005-10-25 10:37:05 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 171
   author: Eli

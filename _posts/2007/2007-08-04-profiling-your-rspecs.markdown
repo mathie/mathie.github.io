@@ -1,20 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Profiling your rspecs
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-08-04 13:27:03.000000000 +01:00
+date: 2007-08-04 13:27:03 +01:00
 categories:
 - Geekery
 - Ruby and Rails
 tags:
 - Geekery
 - Ruby and Rails
-comments: []
 ---
 I have a whole pile of [rspec](http://rspec.rubyforge.org/) specs in one particular application.  I've been really good with this one and stuck to working in a behaviour-driven manner.  Well, mostly, I'm still not perfect, sometimes I go fill in the gaps later when I feel I'm under pressure.
 

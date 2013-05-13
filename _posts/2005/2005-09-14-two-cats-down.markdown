@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Two cats down
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-14 13:33:04.000000000 +01:00
+date: 2005-09-14 13:33:04 +01:00
 categories:
 - Personal
-tags: []
-comments: []
 ---
 The other event on Friday was that my two cats -- Saffy &amp; Tiko -- have been reclaimed by my parents.  My mother was missing them a lot, Annabel was getting fed up with the breakages that they were alleged to have been involved in, and I was beginning to realise that it wasn't fair on <em>any</em> of the cats to have four couped up in the same flat.  They had been getting on reasonably well, but there were regular clumps of cat hair lying around the carpet (remains of a fight, by the looks of them), and both Benjy &amp; Jess had obvious injuries.  Feeding time was always an argument, and cleaning out a litter tray after four cats is, well, not the most fun you can have of an evening!
 

@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The power behind the blog
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-07-31 09:06:03.000000000 +01:00
+date: 2005-07-31 09:06:03 +01:00
 categories:
 - Meta
-tags: []
 comments:
 - id: 4
   author: Jeffrey

@@ -1,16 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: Collaboa
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-12-14 18:11:47.000000000 +00:00
+date: 2005-12-14 18:11:47 +00:00
 categories:
 - Geekery
-tags: []
-comments: []
 ---
 Hmm, <a href="http://collaboa.org/">Collaboa</a> looks like it could be interesting.  It seems to be just like something I had in the back of my mind to play around with creating: <a href="http://www.edgewall.com/trac/">Trac on Rails</a>.  Unfortunately it requires the Ruby bindings for Subversion, so it's not something that will be easy to installed on <a href="http://www.dreamhost.com/r.cgi?wossname">DreamHost</a>, but I might play around with a copy locally next week.

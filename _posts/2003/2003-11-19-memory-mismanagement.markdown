@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Memory mismanagement
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2003-11-19 15:50:08.000000000 +00:00
+date: 2003-11-19 15:50:08 +00:00
 categories:
 - Geekery
 tags:
 - Geekery
-comments: []
 ---
 <p>Cocoa (and, I think, Objective-C in general) has a slightly unusual memory management architecture.  There's the equivalent of <code>new</code> and <code>delete</code> â€” <code>[<em>class</em> alloc]</code> and <code>[<em>object</em> release]</code> â€” with the notable difference that <code>alloc</code> doesn't call any constructor, so you'll most often see the idiom <code>[[<em>class</em> alloc] init]</code>.  Strictly speaking, <code>release</code> is part of a reference counting system.  <code>alloc</code> bumps the reference count to 1 and you can do <code>[<em>object</em> retain]</code> to increment it yourself.  <code>release</code> decrements the reference count and, when it reaches 0, frees the object.  Familiar territory so far, more or less.</p>
 

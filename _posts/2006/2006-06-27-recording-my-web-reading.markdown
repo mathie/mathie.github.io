@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Recording my web reading?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-06-27 11:31:43.000000000 +01:00
+date: 2006-06-27 11:31:43 +01:00
 categories:
 - Geekery
 - Web surfing

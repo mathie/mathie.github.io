@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The joys of having a willing subject
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2008-04-21 11:41:04.000000000 +01:00
+date: 2008-04-21 11:41:04 +01:00
 categories:
 - Photography
-tags: []
 comments:
 - id: 1010
   author: Rob Lazzurs

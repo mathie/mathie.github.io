@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Social Networking
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-07-21 14:15:45.000000000 +01:00
+date: 2007-07-21 14:15:45 +01:00
 categories:
 - Geekery
 - Personal
@@ -16,7 +10,6 @@ tags:
 - Geekery
 - Personal
 - Work
-comments: []
 ---
 I seem to have been sucked into [Facebook](http://www.facebook.com/).  I don't know quite what it is, but it does seem to be addictive.  My theory is that it's the news feed, telling you what new things your friends are up to and who/what they've discovered on the site, which allows you to discover new things too.  That's definitely a concept I'll be incorporating into a couple of web apps I'm currently working on. :-)
 

@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Blogging from TextMate
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-05-29 01:00:00.000000000 +01:00
+date: 2006-05-29 01:00:00 +01:00
 categories:
 - Meta
 tags:

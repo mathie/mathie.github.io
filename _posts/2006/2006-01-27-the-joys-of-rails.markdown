@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: The Joys of Rails
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-27 09:47:54.000000000 +00:00
+date: 2006-01-27 09:47:54 +00:00
 categories:
 - Geekery
-tags: []
-comments: []
 ---
 The past week or so has been interesting.  I've been doing a lot of development in my spare time, with <a href="http://www.rubyonrails.org/">Ruby on Rails</a>, putting together a basis for three different projects.  OK, since I haven't got all the spare time in the world ever, I should really be focusing on getting one of those projects to a releasable state before fiddling with the rest, but I'm just so *infused* with ideas right now that I can't help myself.
 

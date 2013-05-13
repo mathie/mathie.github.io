@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Re: Mighty Mouse'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-03 16:51:18.000000000 +01:00
+date: 2005-08-03 16:51:18 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 12
   author: Madcat's Web Technology Blog

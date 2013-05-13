@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Symlink corruption on Mac OS X
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2012-01-29 11:35:52.000000000 +00:00
+date: 2012-01-29 11:35:52 +00:00
 categories:
 - Geekery
 - Mac OS X
@@ -18,7 +12,6 @@ tags:
 - corruption
 - thunderbolt
 - genius bar
-comments: []
 ---
 Mac OS X on my desktop computer (a newish 27" iMac, using a Promise Thunderbolt disk array for the root filesystem) seems to be having filesystem troubles. I notice it through symlinks going awry, though I'm sure they're not the only victim. I tidied all the errant symlinks up two weeks ago, hoping it was a temporary glitch, but they're back again today. Here's an example:
 

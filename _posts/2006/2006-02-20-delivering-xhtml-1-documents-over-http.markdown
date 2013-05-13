@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Delivering XHTML 1 documents over HTTP
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-02-20 18:04:59.000000000 +00:00
+date: 2006-02-20 18:04:59 +00:00
 categories:
 - Geekery
 - Python
-tags: []
 comments:
 - id: 298
   author: Aigars Mahinovs

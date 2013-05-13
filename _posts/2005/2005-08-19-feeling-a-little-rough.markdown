@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Feeling a little rough...
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-19 09:36:15.000000000 +01:00
+date: 2005-08-19 09:36:15 +01:00
 categories:
 - Entertainment
 - Personal
-tags: []
 comments:
 - id: 53
   author: Peter

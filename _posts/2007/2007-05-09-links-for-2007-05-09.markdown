@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: links for 2007-05-09
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-05-09 01:38:57.000000000 +01:00
+date: 2007-05-09 01:38:57 +01:00
 categories:
 - Web surfing
-tags: []
-comments: []
 ---
 <ul class="delicious">
 	<li>

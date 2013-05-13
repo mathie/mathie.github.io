@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Automating the creation of rails apps in svn
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-04-05 14:33:54.000000000 +01:00
+date: 2006-04-05 14:33:54 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 365
   author: Jordan Arentsen

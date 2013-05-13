@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Unusual afternoons
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-30 18:07:43.000000000 +00:00
+date: 2005-11-30 18:07:43 +00:00
 categories:
 - Meta
 - Work
-tags: []
-comments: []
 ---
 I've just spent the afternoon doing an odd mashup between the <a href="http://www.logicalware.com/">MailManager</a> user interface and the public web site of a potential customer that Andy is visiting tomorrow.  All done in Photoshop, since I'd need to have tweaked some background images anyway, and it was easier just to do that lot in one.  It probably wouldn't be appreciated if I posted the results, but suffice to say I think they look really good.  My l33t Ph0t0sh0p sk1llz are coming along nicely. :-)
 

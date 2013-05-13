@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: We&#039;re having a baby!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-05-09 15:33:29.000000000 +01:00
+date: 2007-05-09 15:33:29 +01:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <a href="http://www.flickr.com/photos/mathie/491272559/" title="Baby Scan 2"><img src="http://farm1.static.flickr.com/221/491272559_525f985d53_m.jpg" alt="Baby Scan 2" class="alignright" style="border: solid 1px #000000; float: right;" /></a>I know this place has been a bit quiet of late.  It's because I've had some really exciting news that I've been dying to tell everyone, but I was sworn to secrecy.  We're going to have a baby!  How exciting is that?!?<br />
 <br />

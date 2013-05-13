@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'RailsConf Europe 2006: Integrating Asterisk &amp; Rails'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-09-30 16:41:45.000000000 +01:00
+date: 2006-09-30 16:41:45 +01:00
 categories:
 - Geekery
 - Ruby and Rails
@@ -16,7 +10,6 @@ tags:
 - Geekery
 - railsconfeurope
 - Ruby and Rails
-comments: []
 ---
 > This is the second in a series of articles of me writing up my notes from RailsConf Europe 2006.  They are all first drafts, probably technically inaccurate and slanderously misquoting people.  Let me know and I'll fix them.  You can follow this series of posts by looking at articles in the [RailsConf Europe](/index.php?s=RailsConf+Europe+2006) category.
 

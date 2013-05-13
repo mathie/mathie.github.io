@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'It&#039;s official: Ruby is a fast programming language!'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-02-16 12:53:24.000000000 +00:00
+date: 2007-02-16 12:53:24 +00:00
 categories:
 - Geekery
 - Ruby and Rails

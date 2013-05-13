@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: PragProWriMo
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2009-11-04 15:39:52.000000000 +00:00
+date: 2009-11-04 15:39:52 +00:00
 categories:
 - Uncategorized
-tags: []
-comments: []
 ---
 <p>I've committed to getting involved in <a href="http://praglife.typepad.com/pragmatic_life/2009/10/prag-pro-wri-mo.html">PragProWriMo</a>, which is piggybacking on top of NaNoWriMo, the National Novel Writing Month. The concept is simple: write 4 pages of prose every day for the month of November. By 1st December, you should have about 50,000 words towards a book. Or you won't, and you'll have a better idea of how much effort is involved in writing the book you've always promised to write.</p>
 <p>I've always wanted to write a book (actually, what I want &nbsp;is to have a book published and available for sale in the local Borders, but the writing is a necessary prerequisite). I've even approached the Pragmatic Programmers in the past with a couple of ideas. (Their response has always been, "sounds interesting, write a proposal", which has been enough to weed me out so far.)</p>

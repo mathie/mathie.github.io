@@ -1,12 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Misinteraction between Zope and Safari?
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
 excerpt: ! 'This is something I submitted to Apple''s <a href="http://bugreport.apple.com/"
   title="Apple Bug Reporter">radar</a> a couple of weeks ago, and I thought I''d reproduce
   it here in the hope that it might be <a href="http://www.google.com/" title="The
@@ -14,11 +8,10 @@ excerpt: ! 'This is something I submitted to Apple''s <a href="http://bugreport.
   format below is that recommended by Apple.
 
 '
-date: 2005-08-04 10:18:32.000000000 +01:00
+date: 2005-08-04 10:18:32 +01:00
 categories:
 - Geekery
 - Python
-tags: []
 comments:
 - id: 16
   author: Xavier Garreau

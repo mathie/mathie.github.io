@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Snazzy version names
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-18 16:03:28.000000000 +01:00
+date: 2005-08-18 16:03:28 +01:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
 comments:
 - id: 50
   author: David Russell

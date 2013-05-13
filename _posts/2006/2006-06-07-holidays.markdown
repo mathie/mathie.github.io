@@ -1,20 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Holidays
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-06-07 18:24:13.000000000 +01:00
+date: 2006-06-07 18:24:13 +01:00
 categories:
 - Personal
 - Photography
 tags:
 - Personal
 - Photography
-comments: []
 ---
 Well, I'm currently sitting out in the garden of the Coll Hotel, overlooking Ariganour Bay.  I can see Mull in the distance.  The wind is absolutely still (which brings the traditional Scottish problem: midges!) and it's quite balmy really.  The weather has been fantastic all week -- I'm beginning to think (after a week in Harris last year, too) that it *never* rains in the Hebrides!
 

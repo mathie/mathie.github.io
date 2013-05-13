@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Tip: Mark all those annoying iPhone blog posts as &#039;read&#039;'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-07-02 13:48:03.000000000 +01:00
+date: 2007-07-02 13:48:03 +01:00
 categories:
 - Web surfing
 tags:

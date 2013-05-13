@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Project Blackbox
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-10-18 14:12:54.000000000 +01:00
+date: 2006-10-18 14:12:54 +01:00
 categories:
 - Geekery
 - Web surfing

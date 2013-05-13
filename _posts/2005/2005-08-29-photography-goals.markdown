@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Photography goals
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-29 11:01:07.000000000 +01:00
+date: 2005-08-29 11:01:07 +01:00
 categories:
 - Personal
 - Photography
-tags: []
 comments:
 - id: 85
   author: kwame

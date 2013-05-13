@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Recent reading
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-29 19:32:51.000000000 +01:00
+date: 2005-09-29 19:32:51 +01:00
 categories:
 - Entertainment
-tags: []
 comments:
 - id: 130
   author: Mike

@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: DTrace with Ruby on Rails
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-05-02 09:50:16.000000000 +01:00
+date: 2006-05-02 09:50:16 +01:00
 categories:
 - Geekery
 - Web surfing
 - Work
-tags: []
 comments:
 - id: 412
   author: John Levon

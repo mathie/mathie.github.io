@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Quicken is scary
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-06 20:19:31.000000000 +01:00
+date: 2005-10-06 20:19:31 +01:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 144
   author: annabel

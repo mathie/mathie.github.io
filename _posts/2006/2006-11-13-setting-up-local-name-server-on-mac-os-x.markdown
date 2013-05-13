@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Setting up a local name server on Mac OS X
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-11-13 12:17:55.000000000 +00:00
+date: 2006-11-13 12:17:55 +00:00
 categories:
 - Geekery
 - Ruby and Rails

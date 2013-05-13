@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Places I can be found on the Internet
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-12-08 12:57:08.000000000 +00:00
+date: 2006-12-08 12:57:08 +00:00
 categories:
 - Geekery
 - Personal
@@ -16,7 +10,6 @@ tags:
 - Geekery
 - Personal
 - Web surfing
-comments: []
 ---
 There are a few public Internet-based tools I use on a regular basis and I figured, since I can't think of anything exciting to say this morning, I should list them here:
 

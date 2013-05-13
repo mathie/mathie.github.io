@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Howto: Using Switchtower with Ruby on Rails and DreamHost'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-22 19:31:57.000000000 +00:00
+date: 2006-01-22 19:31:57 +00:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 273
   author: bp

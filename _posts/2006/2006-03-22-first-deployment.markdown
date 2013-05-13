@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: First Deployment
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-03-22 18:12:13.000000000 +00:00
+date: 2006-03-22 18:12:13 +00:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 328
   author: b922182dcab8

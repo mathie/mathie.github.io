@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: NetBSD Ports Collection (aka pkgsrc) available for Solaris
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-05-23 11:25:20.000000000 +01:00
+date: 2006-05-23 11:25:20 +01:00
 categories:
 - Geekery
 - Solaris
 - Work
-tags: []
 comments:
 - id: 468
   author: Peter Tribble

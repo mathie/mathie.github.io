@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Migrating your Rails application to Unicode
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-10-25 15:46:00.000000000 +01:00
+date: 2006-10-25 15:46:00 +01:00
 categories:
 - Geekery
 - Ruby and Rails

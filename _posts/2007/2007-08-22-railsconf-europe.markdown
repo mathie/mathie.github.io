@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: RailsConf Europe
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-08-22 12:45:08.000000000 +01:00
+date: 2007-08-22 12:45:08 +01:00
 categories:
 - Geekery
 - Ruby and Rails
@@ -18,7 +12,6 @@ tags:
 - RailsConf Europe
 - Ruby and Rails
 - Work
-comments: []
 ---
 Finally, I've gotten around to booking up everything for [RailsConf Europe](http://www.railsconfeurope.com/) -- flights, hotel, the conference itself.  I'm signed up for the all-day charity tutorial because, well, it's just a fundamentally good idea and well worth supporting/encouraging.  Though I hope Dave doesn't go quite as overboard about charitable donations as he did at RailsConf -- I'm paying a lot of money to go and talk to people about Rails, not to be lectured at about the money I give to charity!  I already give as much as I feel I can afford, thank you very much!
 

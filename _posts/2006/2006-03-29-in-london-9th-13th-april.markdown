@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: In London 9th-13th April
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-03-29 11:12:14.000000000 +01:00
+date: 2006-03-29 11:12:14 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 346
   author: Annabel

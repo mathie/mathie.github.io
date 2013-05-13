@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Howto: Using Mail.app to archive your GMail email'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-11-20 13:57:31.000000000 +00:00
+date: 2006-11-20 13:57:31 +00:00
 categories:
 - Geekery
 tags:

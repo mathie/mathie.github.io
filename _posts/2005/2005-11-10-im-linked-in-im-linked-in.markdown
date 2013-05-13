@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: I&#039;m Linked In, I&#039;m Linked In
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-10 11:13:00.000000000 +00:00
+date: 2005-11-10 11:13:00 +00:00
 categories:
 - Geekery
 - Personal
 - Work
-tags: []
 comments:
 - id: 208
   author: annabel

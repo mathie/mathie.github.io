@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Outages
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-05-06 12:26:00.000000000 +01:00
+date: 2006-05-06 12:26:00 +01:00
 categories:
 - Geekery
 - Work
-tags: []
-comments: []
 ---
 I guess it's somebody telling me that it's Saturday and I should *step away from the computer*, but half of teh Interweb seems to be down just now.  At least the half I'm trying to work with!  One LDAP server, on svn repository, two projects stalled.  I should really investigate `svk` more closely, since that would solve one of the issues at least...

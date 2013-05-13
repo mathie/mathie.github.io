@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Server monitoring, pt. 2
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-02-24 16:35:10.000000000 +00:00
+date: 2006-02-24 16:35:10 +00:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 314
   author: Kisin

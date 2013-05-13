@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Firefox 1.5 beta 1
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-13 12:43:27.000000000 +01:00
+date: 2005-09-13 12:43:27 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 113
   author: Nerfboy

@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Quicksilver triggers
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-03-09 09:54:03.000000000 +00:00
+date: 2006-03-09 09:54:03 +00:00
 categories:
 - Geekery
-tags: []
-comments: []
 ---
 Prompted by [Quicksilver basics: shake hand with your preferences](http://www.tuaw.com/2006/03/08/quicksilver-basics-shake-hands-with-your-preferences/) I was having a quick flick through my [Quicksilver](http://quicksilver.blacktree.com/) setup, in particular the active triggers.
 

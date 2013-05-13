@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Getting started
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-07-31 08:08:17.000000000 +01:00
+date: 2005-07-31 08:08:17 +01:00
 categories:
 - Meta
 - Personal
-tags: []
-comments: []
 ---
 Welcome to my new home.  I hope you like it.  I think I'm now happy with the general setup of my new web site, using a blog format for creating new content rapidly.  Hopefully that means it will stay more fluid and up to date than a static web site otherwise would.  I will be adding the content from my previous version of the site over the next few days, so stay tuned.
 

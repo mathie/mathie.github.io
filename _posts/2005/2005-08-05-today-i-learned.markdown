@@ -1,18 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Today I learned
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-05 16:00:46.000000000 +01:00
+date: 2005-08-05 16:00:46 +01:00
 categories:
 - Geekery
 - Python
-tags: []
-comments: []
 ---
 ... that XML namespaces are not actually valid in XHTML, even in <a href="http://www.w3.org/TR/xhtml11/" title="XHTML 1.1 - Module-based XHTML">XHTML 1.1</a>.  This comes as quite a surprise, since I thought that's how <a href="http://www.w3.org/Math/" title="W3C Math home">MathML</a> was built on top of it.  The reason for discovering this is that I'm working with Zope's <a href="http://www.plope.com/Books/2_7Edition/ZPT.stx" title="Zope Page Templates">page templates</a> to revamp the user interface for <a href="http://mailmanager.sourceforge.net" title="Email response management system">MailManager</a>.  And working with the source templates, one of the steps I'm taking it to run them through <a href="http://www.cogsci.ed.ac.uk/~richard/rxp.html" title="Richard's (?) XML Parser">RXP</a> to verify they are correct and validate them.  So I'm starting off with page templates that are something like the following:
 

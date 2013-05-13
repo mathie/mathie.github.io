@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Google Analytics Plugin
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-05-09 15:47:21.000000000 +01:00
+date: 2006-05-09 15:47:21 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 421
   author: Joakim Westin

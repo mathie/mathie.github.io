@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'RailsConf Europe 2006: Unicode for Rails -- Dominic Mitchell'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-10-11 09:07:36.000000000 +01:00
+date: 2006-10-11 09:07:36 +01:00
 categories:
 - Geekery
 - Ruby and Rails

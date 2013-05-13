@@ -1,16 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: Lurgy
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-12 10:09:27.000000000 +01:00
+date: 2005-10-12 10:09:27 +01:00
 categories:
 - Personal
-tags: []
-comments: []
 ---
 Great.  I've got the lurgy again.  I'm feeling quite nastily flu-ey.  So I'm wrapped up in bed supping the last of the honey &amp; lemon that Annabel made for me before she left for work, waiting for the painkillers to kick in, in the hope that I can go back to sleep for a bit.  *sniff*

@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Top 20 Geek Books I&#039;ve Read
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-22 12:35:43.000000000 +00:00
+date: 2005-11-22 12:35:43 +00:00
 categories:
 - Entertainment
-tags: []
 comments:
 - id: 219
   author: annabel

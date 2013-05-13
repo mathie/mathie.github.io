@@ -1,19 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Page templates, macros and slots
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-11 11:45:43.000000000 +01:00
+date: 2005-08-11 11:45:43 +01:00
 categories:
 - Geekery
 - Python
 - Work
-tags: []
-comments: []
 ---
 I'm just writing this down so I get it clear in my head, so I can be consistent when I'm writing this code.  From playing around with it this morning, I've noticed the following rules with respect to METAL macros, slots and how they interact to produce the final HTML page:
 

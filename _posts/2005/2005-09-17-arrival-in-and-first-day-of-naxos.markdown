@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Arrival in, and first day of, Naxos
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-17 21:30:24.000000000 +01:00
+date: 2005-09-17 21:30:24 +01:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 119
   author: ! '&raquo; Writeup of Greece (Notes from a messy desk)'

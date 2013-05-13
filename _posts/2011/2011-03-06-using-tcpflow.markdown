@@ -1,18 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Using tcpflow
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
 excerpt: Sometimes, when you're writing applications that use a library to talk over
   the wire to a remote service, it's difficult to see how the high level API the library
   exposes translates into the on-the-wire protocol. Funnily enough, I was having that
   very problem yesterday, so I dug `tcpflow` out my toolbox to better understand what
   was happening.
-date: 2011-03-06 13:15:18.000000000 +00:00
+date: 2011-03-06 13:15:18 +00:00
 categories:
 - Geekery
 - Mac OS X

@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Ruby and Amazon
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-21 18:52:09.000000000 +00:00
+date: 2006-01-21 18:52:09 +00:00
 categories:
 - Geekery
 - Python

@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Quake III Source Released
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-22 12:47:52.000000000 +01:00
+date: 2005-08-22 12:47:52 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 58
   author: annabel

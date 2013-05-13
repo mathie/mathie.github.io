@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: MailTags
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-25 16:07:50.000000000 +01:00
+date: 2005-08-25 16:07:50 +01:00
 categories:
 - Geekery
-tags: []
-comments: []
 ---
 OK, I've already linked to it on <a href="http://del.icio.us/mathie">my del.icio.us</a>, but I think this deserves a proper post.  <a href=http://www.indev.ca/MailTags.html">MailTags</a> is a plugin for Mac OS X 10.4's Mail.app which allows you to add extra metadata to messages.  I can tag messages with a project, a priority, a due date and add extra comments.  It's like being able to stick post-it notes to your email!  I leave everything that I've still to deal with in my Inbox (not the <a href="http://en.wikipedia.org/wiki/Gtd" title="Getting Things Done">GTD</a> way, but I haven't read the book anyway!), but it gets no further information than <q>ooh, look, you still have to do something about me!</q>  So now I can.  All the messages that are still in my inbox (only 20 of them since I just cleaned it out at the same time) now have an action, a project they're related to and a due date.  Some even have a priority.
 

@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Abandoned!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-25 12:41:12.000000000 +00:00
+date: 2005-11-25 12:41:12 +00:00
 categories:
 - Personal
-tags: []
-comments: []
 ---
 Well, Annabel and Margaret (her mum) will currently be on a plane, flying south to Barcelona, for their 'hen weekend'.  And I've been abadoned to my own devices for the weekend.  Well, not really, since <a href="http://drossy.net/blog/">Derek</a> is turning up this evening for a quiet weekend of kilt-measuring-up and maybe a couple of beers here or there.  (Current known plans: this evening at The Regent from around 17:30 onwards, tomorrow night at The Holyrood from about 18:00 onwards -- join us if you want!)  Yeah, maybe just a couple of beers... :-)
 

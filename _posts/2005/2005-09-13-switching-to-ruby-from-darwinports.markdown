@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Switching to Ruby from DarwinPorts
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-13 11:08:49.000000000 +01:00
+date: 2005-09-13 11:08:49 +01:00
 categories:
 - Geekery
-tags: []
-comments: []
 ---
 OK, so last night I got fed up with the copy of <a href="http://www.ruby-lang.org" title="Ruby programming language">Ruby</a> that ships with Mac OS X Tiger.  There are a number of problems with it,  and people have been fixing them with varying degrees of success.  The one that finally broke the camel's back (no that doesn't mean I'm switching back to Perl!) was that readline support has been omitted, and so most of the Rails irb-related scripts don't work.
 

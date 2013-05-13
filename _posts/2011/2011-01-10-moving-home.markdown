@@ -1,20 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Moving Home
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2011-01-10 06:40:40.000000000 +00:00
+date: 2011-01-10 06:40:40 +00:00
 categories:
 - Meta
 tags:
 - wordpress
 - squarespace
 - blogging again
-comments: []
 ---
 So, it's been a while, hasn't it?
 

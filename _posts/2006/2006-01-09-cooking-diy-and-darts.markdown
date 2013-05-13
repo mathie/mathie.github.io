@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Cooking, DIY and Darts
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-09 16:43:54.000000000 +00:00
+date: 2006-01-09 16:43:54 +00:00
 categories:
 - Personal
-tags: []
 comments:
 - id: 249
   author: Denver Trouton

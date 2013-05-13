@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: The disadvantage of `svn:externals`
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-03-31 10:26:20.000000000 +01:00
+date: 2006-03-31 10:26:20 +01:00
 categories:
 - Geekery
 - Work
-tags: []
 comments:
 - id: 352
   author: Matt Palmer

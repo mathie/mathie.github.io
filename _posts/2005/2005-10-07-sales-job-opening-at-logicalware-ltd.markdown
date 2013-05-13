@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Sales job opening at Logicalware Ltd
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-10-07 11:39:43.000000000 +01:00
+date: 2005-10-07 11:39:43 +01:00
 categories:
 - Work
-tags: []
-comments: []
 ---
 I guess it's not likely that many of the folks reading this will be looking for a sales job, but it never hurts to try!
 

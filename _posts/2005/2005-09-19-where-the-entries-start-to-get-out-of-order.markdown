@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Where the entries start to get out of order...
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-19 16:23:22.000000000 +01:00
+date: 2005-09-19 16:23:22 +01:00
 categories:
 - Personal
-tags: []
-comments: []
 ---
 <p>Well this seems to have turned into one of these best-laid-plans things.  It's now Friday morning and I've got about five days of missing diary entries!  OK, so I last wrote four days ago, but that was describing the previous day...  Maybe I should start by writing up Thursday and working back.  At least its details are clearer.</p>
 

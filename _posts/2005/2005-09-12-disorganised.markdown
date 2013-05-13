@@ -1,17 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Disorganised
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-09-12 12:33:27.000000000 +01:00
+date: 2005-09-12 12:33:27 +01:00
 categories:
 - Personal
 - Work
-tags: []
 comments:
 - id: 109
   author: annabel

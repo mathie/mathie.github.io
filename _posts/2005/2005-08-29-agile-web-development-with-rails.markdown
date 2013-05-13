@@ -1,19 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Agile Web Development with Rails
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-29 09:06:47.000000000 +01:00
+date: 2005-08-29 09:06:47 +01:00
 categories:
 - Entertainment
 - Geekery
 - Python
-tags: []
-comments: []
 ---
 <a href="http://www.amazon.co.uk/exec/obidos/ASIN/097669400X/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/097669400X.02._SCMZZZZZZZ_.jpg" alt="Cover of Agile Web Development with Rails" class="alignright" /></a> Annabel and I spent Saturday afternoon in Borders, perusing the book stacks and drinking coffee.  One of the books I picked up, that I've been reading ever since, is <a href="http://www.amazon.co.uk/exec/obidos/ASIN/097669400X/mathieoftheen-21">Agile Web Development with Rails</a>, part of the <a href="http://www.pragmaticprogrammer.com/">Pragmatic Programmer</a> series.
 

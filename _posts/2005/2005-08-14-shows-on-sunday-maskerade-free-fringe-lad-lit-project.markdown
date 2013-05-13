@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Shows on Sunday: Maskerade, Free Fringe, Lad Lit Project'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-14 13:08:10.000000000 +01:00
+date: 2005-08-14 13:08:10 +01:00
 categories:
 - Entertainment
-tags: []
-comments: []
 ---
 Last Sunday, we saw a few shows at the <a href="http://www.edfringe.com/" title="Edinburgh Fringe Festival">Fringe</a>.  It's taken me a week, but here are some notes...
 

@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Attacked by neds!
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-08 11:00:13.000000000 +01:00
+date: 2005-08-08 11:00:13 +01:00
 categories:
 - Work
-tags: []
-comments: []
 ---
 One of our hosts at work is being attacked by a ned!
 

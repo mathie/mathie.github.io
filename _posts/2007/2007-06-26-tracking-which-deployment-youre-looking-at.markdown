@@ -1,20 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Tracking which deployment you&#039;re looking at
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-06-26 02:15:30.000000000 +01:00
+date: 2007-06-26 02:15:30 +01:00
 categories:
 - Geekery
 - Ruby and Rails
 tags:
 - Geekery
 - Ruby and Rails
-comments: []
 ---
 Inspired by PJ's Err the Blog post [Cappin' the Stat](http://errtheblog.com/post/5961), I decided to put together a similar recipe of my own.  Sometimes I want to know which version was actually deployed and when.  This is more useful when I'm working in a team and there are a couple of people who are allowed to deploy the app, but sometimes it's just handy to know that the current live version is r73 from Subversion and that it was deployed at 3am.
 

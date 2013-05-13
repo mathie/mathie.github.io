@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Shiny new Toy: X4500 (AKA Thumper)'
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-05-24 11:38:35.000000000 +01:00
+date: 2007-05-24 11:38:35 +01:00
 categories:
 - Geekery
 - Ruby and Rails

@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Mutating all the values of a hash
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-07-22 14:49:14.000000000 +01:00
+date: 2007-07-22 14:49:14 +01:00
 categories:
 - Geekery
 - Ruby and Rails

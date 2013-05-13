@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: No gnus is bad gnus
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-09-20 14:20:37.000000000 +01:00
+date: 2006-09-20 14:20:37 +01:00
 categories:
 - Geekery
 tags:

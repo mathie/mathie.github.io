@@ -1,16 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Breaking-non-space
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-08-17 18:22:23.000000000 +01:00
+date: 2005-08-17 18:22:23 +01:00
 categories:
 - Geekery
-tags: []
 comments:
 - id: 48
   author: Alden Bates

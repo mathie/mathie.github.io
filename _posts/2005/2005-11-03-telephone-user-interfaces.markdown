@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Telephone User Interfaces
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2005-11-03 15:18:31.000000000 +00:00
+date: 2005-11-03 15:18:31 +00:00
 categories:
 - Geekery
 - Personal
 - Work
-tags: []
 comments:
 - id: 188
   author: Mark Brown

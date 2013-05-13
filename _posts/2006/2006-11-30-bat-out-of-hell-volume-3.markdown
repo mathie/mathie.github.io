@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Bat out of Hell Volume 3
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-11-30 11:56:22.000000000 +00:00
+date: 2006-11-30 11:56:22 +00:00
 categories:
 - Entertainment
 - Personal

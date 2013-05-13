@@ -1,18 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Downtime
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-03-20 09:52:56.000000000 +00:00
+date: 2007-03-20 09:52:56 +00:00
 categories:
 - Geekery
 tags:
 - Geekery
-comments: []
 ---
 I apologise for the abysmal availability of [Notes from a Messy Desk](http://woss.name/) over the past couple of weeks.  Apparently the server that it was hosted on (at [DreamHost](http://www.dreamhost.com/) for now) had a number of DDoS attacks.  In order to mitigate the problem, the server had its IP address changed.  Unfortunately, during one of the IP changes, they failed to update the DNS (which is also managed by DH for now) so woss.name was pointing to an IP that was no longer in use.
 

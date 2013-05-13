@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Electricity Consumption
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2007-02-14 09:47:22.000000000 +00:00
+date: 2007-02-14 09:47:22 +00:00
 categories:
 - Geekery
 - Personal

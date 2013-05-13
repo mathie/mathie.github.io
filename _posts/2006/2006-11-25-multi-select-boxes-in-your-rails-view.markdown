@@ -1,13 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Multi-select boxes in your rails view
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-11-25 14:43:59.000000000 +00:00
+date: 2006-11-25 14:43:59 +00:00
 categories:
 - Geekery
 - Ruby and Rails

@@ -1,17 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Replica Lightsabers
-author: Graeme Mathieson
-author_login: mathie
-author_email: mathie@woss.name
-author_url: http://woss.name/
-date: 2006-01-06 09:59:18.000000000 +00:00
+date: 2006-01-06 09:59:18 +00:00
 categories:
 - Web surfing
-tags: []
-comments: []
 ---
 OK, I really have to get one of these: <a href="http://masterreplicas.com/customer/starwars/starwars_product_list.php?cid=9&cookie_check=1">Force FX Replica Lightsabers</a>.  Check out the Quicktime movies of them in action -- stunning!  If only I'd discovered this site <em>before</em> Christmas...
 
