@@ -17,8 +17,8 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;joyeur.com&#47;2007&#47;05&#47;07&#47;dtrace-for-ruby-is-available">DTrace for Ruby is available<&#47;a><&#47;div>
-		<div class="delicious-extended">DTrace probes for Ruby 1.8.5.  Now to actually learn how to use DTrace, rather than just knowing it's a good thing!<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;solaris">solaris<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;dtrace">dtrace<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;deployment">deployment<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;debugging">debugging<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://joyeur.com/2007/05/07/dtrace-for-ruby-is-available">DTrace for Ruby is available</a></div>
+		<div class="delicious-extended">DTrace probes for Ruby 1.8.5.  Now to actually learn how to use DTrace, rather than just knowing it's a good thing!</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/solaris">solaris</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/dtrace">dtrace</a> <a href="http://del.icio.us/mathie/deployment">deployment</a> <a href="http://del.icio.us/mathie/debugging">debugging</a>)</div>
+	</li>
+</ul>

@@ -26,10 +26,10 @@ comments:
   content: ! '<p>I do something similar with a shell script, not a neat 1 liner like
     you.  I''m trying to fix a friend''s mail server that has over 141k messages in
     the queue right now.  It takes almost an hour just to parse the mailq output.  I
-    wish there were a faster way to do this.<&#47;p>
+    wish there were a faster way to do this.</p>
 
 
-    <p>-M<&#47;p>'
+    <p>-M</p>'
 - id: 3
   author: Mark Hogben
   author_email: mhogben@mmpandora.com
@@ -38,16 +38,16 @@ comments:
     MjAwOC0wNC0yNSAyMDoyNjo1NSArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wNC0yNSAxOToyNjo1NSArMDEwMA==
-  content: ! '<p>A spambot utilizing a clients email is clogging my ques.<&#47;p>
+  content: ! '<p>A spambot utilizing a clients email is clogging my ques.</p>
 
 
-    <p>Thanks for taking the time to post this solution<&#47;p>
+    <p>Thanks for taking the time to post this solution</p>
 
 
-    <p>it worked great<&#47;p>'
+    <p>it worked great</p>'
 ---
-<p>Due to our mail architecture, the main filter machine will wind up with a lot of messages from MAILER-DAEMON sitting in its queue which remote hosts are refusing to accept.  Here is the command I use to clear out these messages:<&#47;p>
+<p>Due to our mail architecture, the main filter machine will wind up with a lot of messages from MAILER-DAEMON sitting in its queue which remote hosts are refusing to accept.  Here is the command I use to clear out these messages:</p>
 
-<pre>mailq|awk ' &#47;^[0-9A-F][0-9A-F]*[^*].*MAILER-DAEMON$&#47; {print $1}'|sudo xargs -rn1 postsuper -d<&#47;pre>
+<pre>mailq|awk ' /^[0-9A-F][0-9A-F]*[^*].*MAILER-DAEMON$/ {print $1}'|sudo xargs -rn1 postsuper -d</pre>
 
-<p>It's entirely specific to Postfix, of course.  Note the <code>[^*]<&#47;code> there which will skip messages from MAILER-DAEMON that it's currently in the process of trying to deliver.  I thought I'd share it with you because otherwise one of these days it's going to fall out of my <code>~&#47;.bash_history<&#47;code> and I'll have to figure it out again...<&#47;p>
+<p>It's entirely specific to Postfix, of course.  Note the <code>[^*]</code> there which will skip messages from MAILER-DAEMON that it's currently in the process of trying to deliver.  I thought I'd share it with you because otherwise one of these days it's going to fall out of my <code>~/.bash_history</code> and I'll have to figure it out again...</p>

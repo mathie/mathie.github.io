@@ -26,7 +26,7 @@ tags:
 - dns
 comments: []
 ---
-I'm in the office and I want to start installing some software on my laptop at home so it's ready to try when I get back to my laptop. (The test suite is running and I know the install will take a while, so it can get going while I commute!) In particular, I was looking to try [Vagrant](http:&#47;&#47;vagrantup.com&#47;), which requires [VirtualBox](http:&#47;&#47;www.virtualbox.org&#47;).
+I'm in the office and I want to start installing some software on my laptop at home so it's ready to try when I get back to my laptop. (The test suite is running and I know the install will take a while, so it can get going while I commute!) In particular, I was looking to try [Vagrant](http://vagrantup.com/), which requires [VirtualBox](http://www.virtualbox.org/).
 
 First step: Back to my Mac. Turns out, if you're sensible enough to have SSH running on your Mac (enable it under Sharing in System Preferences), it's available from other Macs where you have your MobileMe account set up. Simply run:
 
@@ -40,21 +40,21 @@ gets me to my laptop. (Interestingly, this doesn't resolve on hosts where you're
 
 Next up, let's grab VirtualBox. Head across to the web site to figure out the latest download URL, and download it with curl:
 
-    curl -LO http:&#47;&#47;[...]&#47;VirtualBox-4.0.2-69518-OSX.dmg
+    curl -LO http://[...]/VirtualBox-4.0.2-69518-OSX.dmg
 
 Once it's downloaded, we have to mount the disk image. The simplest way with Mac OS X is to use `hdiutil`:
 
     hdiutil attach VirtualBox-4.0.2-69518-OSX.dmg
 
-This will mount the disk image on `&#47;Volumes&#47;VirtualBox`. Now we have to run the installer, which we can do headless:
+This will mount the disk image on `/Volumes/VirtualBox`. Now we have to run the installer, which we can do headless:
 
-    sudo installer -pkg &#47;Volumes&#47;VirtualBox&#47;VirtualBox.mpkg -target &#47; -verbose
+    sudo installer -pkg /Volumes/VirtualBox/VirtualBox.mpkg -target / -verbose
 
 This needs to run as root, hence `sudo`. Since it's verbose, it'll spit out a bunch of progress stuff, because we asked it to be verbose. But that's it. Thanks to having a standard installer, we can install Mac OS X packages without a GUI. Win.
 
 We should tidy up after ourselves by unmounting the disk image:
 
-    hdiutil detach &#47;Volumes&#47;VirtualBox
+    hdiutil detach /Volumes/VirtualBox
 
 And we're done. VirtualBox is installed, and I can get onto the long running download of grabbing the demo Ubuntu 10.04 LTS image for Vagrant (which clocks in at nearly 500MB). Getting started with Vagrant is another story entirely, which I'm sure I'll talk about sometime soon.
 

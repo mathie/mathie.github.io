@@ -32,7 +32,7 @@ comments:
     MjAwNy0wNS0xOCAxNDoyMjowMyArMDEwMA==
   content: <p>This tutorial was great. I was pretty much able to knock out a whole
     Capfile for a project I'm working on, complete with observation and server manipulation
-    tasks, over the course of the tutorial.  Engaging speaker. Good stuff.<&#47;p>
+    tasks, over the course of the tutorial.  Engaging speaker. Good stuff.</p>
 - id: 812
   author: Mark Imbriaco
   author_email: mark@37signals.com
@@ -44,7 +44,7 @@ comments:
   content: <p>Nice writeup, Graeme.  We use runit at 37signals for process supervision.  I
     highly recommend using it over mongrel_cluster for managing individual Mongrel
     processes.  We've been using that approach with Highrise and it's been working
-    great.<&#47;p>
+    great.</p>
 - id: 813
   author: mathie
   author_email: mathie@rubaidh.com
@@ -53,13 +53,13 @@ comments:
     MjAwNy0wNS0xOSAxNzoxODoxNCArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wNS0xOSAxNjoxODoxNCArMDEwMA==
-  content: ! '<p>Mark: Thanks for the pointer to runit.  I''ve been using <a href="http:&#47;&#47;www.tildeslash.com&#47;monit&#47;"
-    rel="nofollow">monit<&#47;a> lately to keep track of my mongrels, but I''m always
-    on the lookout for better alternatives.<&#47;p>
+  content: ! '<p>Mark: Thanks for the pointer to runit.  I''ve been using <a href="http://www.tildeslash.com/monit/"
+    rel="nofollow">monit</a> lately to keep track of my mongrels, but I''m always
+    on the lookout for better alternatives.</p>
 
 
     <p>I don''t suppose you''d like to share your capistrano customisations for integrating
-    with runit?<&#47;p>'
+    with runit?</p>'
 - id: 814
   author: Mark Imbriaco
   author_email: mark@37signals.com
@@ -68,15 +68,15 @@ comments:
     MjAwNy0wNS0xOSAxOToxMTo1OSArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wNS0xOSAxODoxMTo1OSArMDEwMA==
-  content: ! "<p>I actually have a script called 'mongrelctl' that stops&#47;starts&#47;restarts
-    my Mongrels using the basic runit commands, and I just call that from Capistrano:<&#47;p>\n\n<p>%w(start
+  content: ! "<p>I actually have a script called 'mongrelctl' that stops/starts/restarts
+    my Mongrels using the basic runit commands, and I just call that from Capistrano:</p>\n\n<p>%w(start
     stop status restart).each do |action|\n  desc \"#{action.capitalize} Mongrel\"\n
-    \ task \"#{action}\", :roles => :app do\n    sudo \"#{current_path}&#47;script&#47;mongrelctl
-    production #{action}; true\"\n  end\nend<&#47;p>\n\n<p>mongrelctl is really simple,
+    \ task \"#{action}\", :roles =&gt; :app do\n    sudo \"#{current_path}/script/mongrelctl
+    production #{action}; true\"\n  end\nend</p>\n\n<p>mongrelctl is really simple,
     the only reason it exists is to make it easier to manage production vs. staging
-    environments:<&#47;p>\n\n!&#47;bin&#47;sh\n\n<p>cd &#47;var&#47;service&#47;highrise-$1\nfor
-    f in mongrel-* ; do\n  if [ $1 = 'staging' ]; then\n    sv $2 highrise-staging&#47;$f\n
-    \ else\n    sv $2 highrise&#47;$f\n  fi\ndone<&#47;p>\n\n<p>Hope that helps.<&#47;p>"
+    environments:</p>\n\n!/bin/sh\n\n<p>cd /var/service/highrise-$1\nfor f in mongrel-*
+    ; do\n  if [ $1 = 'staging' ]; then\n    sv $2 highrise-staging/$f\n  else\n    sv
+    $2 highrise/$f\n  fi\ndone</p>\n\n<p>Hope that helps.</p>"
 - id: 815
   author: Mark Imbriaco
   author_email: mark@37signals.com
@@ -86,11 +86,10 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNS0xOSAxODo0MToyNCArMDEwMA==
   content: ! "<p>That mongrelctl script isn't quite right.\nThat mongrelctl I pasted
-    isn't quite right.  Should look more like:<&#47;p>\n\n<pre>\n#!&#47;bin&#47;sh\n\nif
-    [ $1 = 'staging' ]; then\n  SVCDIR=&#47;var&#47;service&#47;highrise-staging\nelse\n
-    \ SVCDIR=&#47;var&#47;service&#47;highrise\nfi\n\ncd $SVCDIR\nfor f in mongrel-*
-    ; do\n  if [ $1 = 'staging' ]; then\n    sv $2 highrise-staging&#47;$f\n  else\n
-    \   sv $2 highrise&#47;$f\n  fi\ndone\n<&#47;pre>"
+    isn't quite right.  Should look more like:</p>\n\n<pre>\n#!/bin/sh\n\nif [ $1
+    = 'staging' ]; then\n  SVCDIR=/var/service/highrise-staging\nelse\n  SVCDIR=/var/service/highrise\nfi\n\ncd
+    $SVCDIR\nfor f in mongrel-* ; do\n  if [ $1 = 'staging' ]; then\n    sv $2 highrise-staging/$f\n
+    \ else\n    sv $2 highrise/$f\n  fi\ndone\n</pre>"
 ---
 These are my notes from Jamis Buck's tutorial on Harnessing Capistrano, all in bullet form.
 
@@ -102,7 +101,7 @@ These are my notes from Jamis Buck's tutorial on Harnessing Capistrano, all in b
 
 * Server maintenance: package management, synchronising configuration files.
 
-* 2.0 preview: `gem install -s http:&#47;&#47;gems.rubyonrails.com&#47; capistrano` but you must have the prerequisites installed first (net-ssh, net-sftp & highline).
+* 2.0 preview: `gem install -s http://gems.rubyonrails.com/ capistrano` but you must have the prerequisites installed first (net-ssh, net-sftp & highline).
 
 * Requires a POSIX (*nix) target, ssh access & ssh keys (or identical passwords on all your servers).
 
@@ -112,7 +111,7 @@ These are my notes from Jamis Buck's tutorial on Harnessing Capistrano, all in b
 
 * `cap -T` (which used to be `cap show_tasks`) doesn't show tasks which don't have a description. So we can hide 'internal' tasks which are only called by other tasks.
 
-* Use `cap invoke` to run arbitrary commands on remote systems. Doesn't even need a `Capfile` if you specify everything on the command line. For example `cap HOSTS="app1,app2" COMMAND="tail &#47;var&#47;log&#47;syslog" SUDO=1 invoke`.
+* Use `cap invoke` to run arbitrary commands on remote systems. Doesn't even need a `Capfile` if you specify everything on the command line. For example `cap HOSTS="app1,app2" COMMAND="tail /var/log/syslog" SUDO=1 invoke`.
 
 * For running multiple `cap invoke` commands sequentially, use `cap shell` instead because it will cache the connection.
 
@@ -134,15 +133,15 @@ These are my notes from Jamis Buck's tutorial on Harnessing Capistrano, all in b
 
 * Assumptions: using source code control, you're deploying a rails application, your production environment is all ready to go (dbs, web server, etc) and you're using standalone fastcgi listeners.
 
-* `capify .` creates a minimal Capfile and a basic `config&#47;deploy.rb`. The `Capfile` only loads the deployment recipes and the `config&#47;deploy.rb`.
+* `capify .` creates a minimal Capfile and a basic `config/deploy.rb`. The `Capfile` only loads the deployment recipes and the `config/deploy.rb`.
 
 * The deployment recipes in cap 2 are now opt-in so that there's less noise for folks using it in non-deployment scenarios.
 
 * Capistrano 2 can check for dependencies before deploying -- do the appropriate directories exist, is subversion installed? -- done with `cap deploy:check`. Some deps are local, some are remote. We can customise these. Wow, this is neat: `depend :remote, :gem, 'tzinfo', '>=0.3.3'`
 
-* For fcgi listeners, still need `script&#47;spin` to tell capistrano how to start up your app from cold. Can just call script&#47;process&#47;spawner with the appropriate args.
+* For fcgi listeners, still need `script/spin` to tell capistrano how to start up your app from cold. Can just call script/process/spawner with the appropriate args.
 
-* 37Signals have started using process supervision (didn't specify whether it was init&#47;svscan&#47;runit) to keep an eye on their fcgi listeners. Recommends you get your app working before you start messing with it, 'cos it requires a bit more upfront configuration.
+* 37Signals have started using process supervision (didn't specify whether it was init/svscan/runit) to keep an eye on their fcgi listeners. Recommends you get your app working before you start messing with it, 'cos it requires a bit more upfront configuration.
 
 * Cap 2 introduces deployment strategies which encapsulates the mechanism by which the source code is acquired. Default is 'checkout' which will check out a copy from your scm repository. 'remote cache' sounds pretty useful to me, which uses the scm repository but caches what's checked out, so the checkout becomes `svn up` which should be a bit faster. Controlled by `set :deploy_via, :whatever`.
 
@@ -166,6 +165,6 @@ These are my notes from Jamis Buck's tutorial on Harnessing Capistrano, all in b
 
 * Compat mode to aid the transition. Do `cap -Ff compat` or `load 'compat'` to load it. Mostly it's there to help you learn what the new namespaced task names are.
 
-* `cap -Ff upgrade` gives you the `upgrade:revisions` task which will create `#{release_path}&#47;REVISION` retrospectively for existing deployments.
+* `cap -Ff upgrade` gives you the `upgrade:revisions` task which will create `#{release_path}/REVISION` retrospectively for existing deployments.
 
 * The `render` helper has disappeared.

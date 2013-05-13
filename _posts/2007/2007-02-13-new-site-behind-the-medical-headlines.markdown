@@ -34,12 +34,12 @@ comments:
     of the risks. This is a good site and congratulations to the medicos who commissioned
     it.
 
-    Don''t change anything.<&#47;p>'
+    Don''t change anything.</p>'
 ---
-After way too long in development, [Rubaidh](http:&#47;&#47;www.rubaidh.com&#47;) is pleased to announce the launch of [Behind the Medical Headlines](http:&#47;&#47;www.behindthemedicalheadlines.com&#47;), a site for the general public which intends to give y'all an authoritative, unbiased view of what's currently being talked about in the media.  I've been developing it (part time, because of funding) for about 10 months now, with quite a few iterations which eventually produced the current site.
+After way too long in development, [Rubaidh](http://www.rubaidh.com/) is pleased to announce the launch of [Behind the Medical Headlines](http://www.behindthemedicalheadlines.com/), a site for the general public which intends to give y'all an authoritative, unbiased view of what's currently being talked about in the media.  I've been developing it (part time, because of funding) for about 10 months now, with quite a few iterations which eventually produced the current site.
 
-I think you can tell that my UI design skills could use some work, since this was all my own effort (inspired by [Bulletproof Web Design](http:&#47;&#47;www.simplebits.com&#47;publications&#47;bulletproof&#47;) but generally it seems to work and has all the features they were wanting.  Most of the effort is actually in the back end (which you don't get to see) allowing non-technical people to create these articles in an intuitive manner, integrating with their workflow.
+I think you can tell that my UI design skills could use some work, since this was all my own effort (inspired by [Bulletproof Web Design](http://www.simplebits.com/publications/bulletproof/) but generally it seems to work and has all the features they were wanting.  Most of the effort is actually in the back end (which you don't get to see) allowing non-technical people to create these articles in an intuitive manner, integrating with their workflow.
 
-And the great news?  The copyright has been officially signed over to [Rubaidh](http:&#47;&#47;www.rubaidh.com&#47;) so I can bring the same integrated article publication system to your web site!
+And the great news?  The copyright has been officially signed over to [Rubaidh](http://www.rubaidh.com/) so I can bring the same integrated article publication system to your web site!
 
 Anyway, I'd appreciate feedback, so let loose in the comments. :-)

@@ -39,7 +39,7 @@ comments:
     relationships between data..  One example I have found of this kind of documentation
     is to create models that aren't tied to ActiveRecord, and have its save methods
     perform the multi-model sequence of savings. Any thoughts on this "big picture"
-    stuff?<&#47;p>
+    stuff?</p>
 - id: 599
   author: mathie
   author_email: mathie@woss.name
@@ -53,9 +53,9 @@ comments:
     week or so and, once it''s out there, my next task will be to clean things up
     (yeah, that''s probably the wrong way round, but I''m running to a tight deadline!).  One
     of those tasks is to make the controllers more RESTful, and I''ll be tackling
-    some of the issues you''re talking about.<&#47;p>'
+    some of the issues you''re talking about.</p>'
 ---
-> This is the first in a series of articles of me writing up my notes from RailsConf Europe 2006.  They are all first drafts, probably technically inaccurate and slanderously misquoting people.  Let me know and I'll fix them.  You can follow this series of posts by looking at articles in the [RailsConf Europe](&#47;index.php?s=RailsConf+Europe+2006) category.
+> This is the first in a series of articles of me writing up my notes from RailsConf Europe 2006.  They are all first drafts, probably technically inaccurate and slanderously misquoting people.  Let me know and I'll fix them.  You can follow this series of posts by looking at articles in the [RailsConf Europe](/index.php?s=RailsConf+Europe+2006) category.
 
 Exciting news: Rails 1.2 is nearly ready for release. A release candidate
 should be up on gems.rubyonrails.org by now. New features include:
@@ -88,13 +88,13 @@ There's going to be a new scaffold (don't know if it's landed yet, but DHH did
 demo) in 1.2 which uses the new restful style. It still looks butt-ugly, but
 that's the point! Scaffolds are just that, a quick starting place for getting
 in data. You're meant to customise, or completely replace them as you develop
-a site. `script&#47;generate resources_scaffold` will generate a controller, model
-and migration for you, and add a resource map to `config&#47;routes.rb`.
+a site. `script/generate resources_scaffold` will generate a controller, model
+and migration for you, and add a resource map to `config/routes.rb`.
 
 The scaffolding code also uses `respond_to` and will generate XML out of the
 box. In addition to the current `respond_to` behaviour where it looks at the
 HTTP Accept: header, it will interpret extensions as wanting a particular
-type. For example, asking for <http:&#47;&#47;localhost&#47;posts.xml> will call the
+type. For example, asking for <http://localhost/posts.xml> will call the
 `index` action on `PostController` and `respond_to` will indicate that you're
 looking for an XML response.
 
@@ -122,7 +122,7 @@ For example, a `div` showing a post might look somethingg along the lines of:
 
     <div id="post_<%= @post.id %>" class="post">
       ...
-    <&#47;div>
+    </div>
 
 It's a common idiom because you'll want to style your post with CSS (hence the
 class) and you might want to manipulate the post with JS (hence the id). So
@@ -139,7 +139,7 @@ There are new conventions for partials too:
 
 which is equivalent to:
 
-    <% render :partial => 'company&#47;company', :object => @company %>
+    <% render :partial => 'company/company', :object => @company %>
 
 in current code. It certainly makes code more readable and imposes more
 conventions on naming of partials. There are similar improvements for

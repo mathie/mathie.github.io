@@ -17,13 +17,13 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;wanderingbarque.com&#47;nonintersecting&#47;2006&#47;11&#47;15&#47;the-s-stands-for-simple&#47;">Pete Lacey&acirc;&euro;&trade;s Weblog :: The S stands for Simple<&#47;a><&#47;div>
-		<div class="delicious-extended">A nice overview of how lovely SOAP is. :-)<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;soap">soap<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rest">rest<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;humor">humor<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;webservices">webservices<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://wanderingbarque.com/nonintersecting/2006/11/15/the-s-stands-for-simple/">Pete Laceyâ€™s Weblog :: The S stands for Simple</a></div>
+		<div class="delicious-extended">A nice overview of how lovely SOAP is. :-)</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/soap">soap</a> <a href="http://del.icio.us/mathie/rest">rest</a> <a href="http://del.icio.us/mathie/humor">humor</a> <a href="http://del.icio.us/mathie/webservices">webservices</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;eigenclass.org&#47;hiki.rb?ftsearch+repository+accessible">FTSearch full-text search engine for Ruby<&#47;a><&#47;div>
-		<div class="delicious-extended">FTSearch is a new full-text search engine for Ruby that claims to outperform Ferret.  It's pretty early in development but what interests me more is that it claims to be more *stable* than Ferret...<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;searching">searching<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://eigenclass.org/hiki.rb?ftsearch+repository+accessible">FTSearch full-text search engine for Ruby</a></div>
+		<div class="delicious-extended">FTSearch is a new full-text search engine for Ruby that claims to outperform Ferret.  It's pretty early in development but what interests me more is that it claims to be more *stable* than Ferret...</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/searching">searching</a>)</div>
+	</li>
+</ul>

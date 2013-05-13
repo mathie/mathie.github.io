@@ -24,7 +24,7 @@ comments:
   date_gmt: !binary |-
     MjAwOC0wNC0yNSAxMDoyNjowNCArMDEwMA==
   content: <p>What's with the partial feeds? I'm switching to Fav.or.it so I'll be
-    dumping all partials. {if your bothered...}<&#47;p>
+    dumping all partials. {if your bothered...}</p>
 - id: 1014
   author: Graeme Mathieson
   author_email: mathie@woss.name
@@ -35,12 +35,12 @@ comments:
     MjAwOC0wNC0yNSAxMDo1Nzo0MiArMDEwMA==
   content: ! '<p>@Joe I''m syndicated in lots and lots of places, and I''d quite like
     to drive traffic in to my site.  Of course, it''s not just a ploy to generate
-    ad revenue or anything. :-)<&#47;p>
+    ad revenue or anything. :-)</p>
 
 
-    <p>Really, I just get a warm fuzzy glow when I read my Feedburner&#47;Analytics
-    stats and see how many people actually care enough to read my articles that they
-    follow the link to the full article.<&#47;p>'
+    <p>Really, I just get a warm fuzzy glow when I read my Feedburner/Analytics stats
+    and see how many people actually care enough to read my articles that they follow
+    the link to the full article.</p>'
 - id: 1015
   author: Mark Brown
   author_email: broonie@sirena.org.uk
@@ -53,7 +53,7 @@ comments:
     work with git in remote patch queue mode when your data source is svn - it''s
     just the same flow as if you were checking in tarballs by hand and maintaining
     patch queues on top of them, with automated stuff for getting the "tarball" from
-    svn.<&#47;p>
+    svn.</p>
 
 
     <p>FWIW I very rarely follow partial RSS feeds at all; partial posts on planets
@@ -61,8 +61,8 @@ comments:
     leave something incoherent on the planet which isn''t so easy to ignore. If you''re
     going to do partial feeds I''d suggest paying attention to the slug that gets
     posted and ensuring that it''s a coherent teaser article in itself and that it''s
-    obvious that the article continues elsewhere (I know <em>one<&#47;em> person who
-    does this well).<&#47;p>'
+    obvious that the article continues elsewhere (I know <em>one</em> person who does
+    this well).</p>'
 - id: 1016
   author: Joe Fiorini
   author_email: joe@faithfulgeek.org
@@ -74,7 +74,7 @@ comments:
   content: <p>I've been using git-svn for about a month now at work. It is SO frustrating
     when I try committing changes and have to svn rebase first. I'm constantly resolving
     merge conflicts, even in files I've never touched. Have you had a lot of merge
-    conflict problems? Are you using it in a team or by yourself?<&#47;p>
+    conflict problems? Are you using it in a team or by yourself?</p>
 ---
 When I first started with git, like most folks, I suspect, I came from a
 subversion background. And most of the repositories I interacted with on a

@@ -24,4 +24,4 @@ comments:
     MjAwNS0xMS0yMSAxMzowNDoxNyArMDAwMA==
   content: ! '*hugs*'
 ---
-I think it's safe to say that winter's kicking in. :-&#47;
+I think it's safe to say that winter's kicking in. :-/

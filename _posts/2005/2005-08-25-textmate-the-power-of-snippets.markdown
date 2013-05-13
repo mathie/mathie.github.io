@@ -15,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-Reading a post from Allan, on <a href="http:&#47;&#47;macromates.com&#47;blog&#47;archives&#47;2005&#47;08&#47;25&#47;the-power-of-snippets&#47;">TextMate: The power of snippets<&#47;a> I'm (again) utterly gobsmacked at how amazingly, utterly, stupendously powerful and useful TextMate really is.  Snippets allow you to insert text from a shortcut key.  But that succinct description doesn't really do the feature justice.  Check out some of his examples.
+Reading a post from Allan, on <a href="http://macromates.com/blog/archives/2005/08/25/the-power-of-snippets/">TextMate: The power of snippets</a> I'm (again) utterly gobsmacked at how amazingly, utterly, stupendously powerful and useful TextMate really is.  Snippets allow you to insert text from a shortcut key.  But that succinct description doesn't really do the feature justice.  Check out some of his examples.

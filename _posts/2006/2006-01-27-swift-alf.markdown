@@ -23,7 +23,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wMi0xNSAxMjowNzo1NiArMDAwMA==
   content: <p>you gonna post anyfink on here? now i'm not allowed to read LJ i kinda
-    bank on you postin insteresting fings for me to read on here instead!!<&#47;p>
+    bank on you postin insteresting fings for me to read on here instead!!</p>
 - id: 295
   author: mathie
   author_email: mathie@woss.name
@@ -32,9 +32,9 @@ comments:
     MjAwNi0wMi0xNSAxNTo0OTo0NSArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0wMi0xNSAxNDo0OTo0NSArMDAwMA==
-  content: <p>One of these days, aye.  But I'm too busy <em>doing<&#47;em> stuff to
-    write about it just now!<&#47;p>
+  content: <p>One of these days, aye.  But I'm too busy <em>doing</em> stuff to write
+    about it just now!</p>
 ---
-It's not often I get to head into the big city for a night on the town these days.  But tonight, we're popping in to the [Guildford Arms](http:&#47;&#47;www.beerintheevening.com&#47;pubs&#47;s&#47;51&#47;5175&#47;Guildford_Arms&#47;Edinburgh) for a pint or two after work (Annabel should be there by aout 17:15, I'll probably be a bit later since I have to get in from Musselburgh).  Wanna join us?  Little birds tell us that the have [Orkney Dark Island](http:&#47;&#47;freespace.virgin.net&#47;rich.13&#47;orkneydark.html) on tap. :-)
+It's not often I get to head into the big city for a night on the town these days.  But tonight, we're popping in to the [Guildford Arms](http://www.beerintheevening.com/pubs/s/51/5175/Guildford_Arms/Edinburgh) for a pint or two after work (Annabel should be there by aout 17:15, I'll probably be a bit later since I have to get in from Musselburgh).  Wanna join us?  Little birds tell us that the have [Orkney Dark Island](http://freespace.virgin.net/rich.13/orkneydark.html) on tap. :-)
 
 As usual, I've forgotten my mobile phone, so if you're planning to come along, want to drop me an email, so I can get Annabel to phone you if we move on?  Or, I'm sure y'all know Annabel's number anyway -- if you don't, email me -- give us a call and find out where we are.

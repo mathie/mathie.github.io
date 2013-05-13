@@ -32,9 +32,9 @@ comments:
     MjAwNi0wMS0wNyAwOTowMzoxMSArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0wMS0wNyAwODowMzoxMSArMDAwMA==
-  content: ! 'See http:&#47;&#47;www.sirimo.co.uk&#47;ukpr.php
+  content: ! 'See http://www.sirimo.co.uk/ukpr.php
 
-    I''d also highly recommend getting a copy of ''Beyond the Lens'' - http:&#47;&#47;www.beyond-the-lens.com&#47;
+    I''d also highly recommend getting a copy of ''Beyond the Lens'' - http://www.beyond-the-lens.com/
 
 
     Its strange, I was looking at those links yesterday myself....'
@@ -66,28 +66,28 @@ comments:
   date_gmt: !binary |-
     MjAwNy0xMS0wOSAxNjoyMDoyMSArMDAwMA==
   content: ! '<p>I a freelance photographer for wedding companies and want to use
-    some of the images I have shot on my website in my wedding galleries.<&#47;p>
+    some of the images I have shot on my website in my wedding galleries.</p>
 
 
-    <p>Am legally allowed to do so?<&#47;p>
+    <p>Am legally allowed to do so?</p>
 
 
     <p>I have put together a contract and have had one couple thrilled to be apart
-    of my site and ageed to sign.<&#47;p>
+    of my site and ageed to sign.</p>
 
 
-    <p>Do I need to do this?<&#47;p>
+    <p>Do I need to do this?</p>
 
 
-    <p>Josie<&#47;p>'
+    <p>Josie</p>'
 ---
 I've been skimming a few articles on photographers' legal rights -- what you can shoot and publish -- this morning:
 
 <ul>
-  <li><a href="http:&#47;&#47;www.usatoday.com&#47;tech&#47;columnist&#47;andrewkantor&#47;2005-12-29-camera-laws_x.htm">New digital camera? Know how, where you can use it<&#47;a><&#47;li>
-  <li><a href="http:&#47;&#47;www.kantor.com&#47;blog&#47;2005&#47;12&#47;legal_rights_of_photographers.html">Legal Rights for Photographers<&#47;a><&#47;li>
-  <li><a href="http:&#47;&#47;www.rcfp.org&#47;photoguide&#47;">Photographers' Guide to Privacy<&#47;a><&#47;li>
-<&#47;ul>
+  <li><a href="http://www.usatoday.com/tech/columnist/andrewkantor/2005-12-29-camera-laws_x.htm">New digital camera? Know how, where you can use it</a></li>
+  <li><a href="http://www.kantor.com/blog/2005/12/legal_rights_of_photographers.html">Legal Rights for Photographers</a></li>
+  <li><a href="http://www.rcfp.org/photoguide/">Photographers' Guide to Privacy</a></li>
+</ul>
 
 which make interesting reading.  Basically, unless you actually invade somebody's privacy where they would reasonably expect some privacy and the photograph is not in the 'public interest', you can shoot almost anything, almost anywhere.  OK, you might get hauled up before a court for other criminal acts you commit at the same time (eg trespass) but the photographs are perfectly legal.
 

@@ -25,10 +25,10 @@ comments:
     MjAwNi0wNC0xOCAxNDo1NzoxMiArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNC0xOCAxMzo1NzoxMiArMDEwMA==
-  content: ! '<p>"what do all the cool kids use for RSS on Windows?"<&#47;p>
+  content: ! '<p>"what do all the cool kids use for RSS on Windows?"</p>
 
 
-    <p>bloglines.com, same as any other platform :)<&#47;p>'
+    <p>bloglines.com, same as any other platform :)</p>'
 - id: 372
   author: Adam Vandenberg
   author_email: flangy@gmail.com
@@ -37,37 +37,37 @@ comments:
     MjAwNi0wNC0xOCAxNTowMTowOSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNC0xOCAxNDowMTowOSArMDEwMA==
-  content: ! '<p>Well... there aren''t really Quicksilver of TextMate replacements.<&#47;p>
+  content: ! '<p>Well... there aren''t really Quicksilver of TextMate replacements.</p>
 
 
     <p>I''ve tried and tried and tried, and I haven''t found a Windows text editor
-    that isn''t weird and crufty.<&#47;p>
+    that isn''t weird and crufty.</p>
 
 
     <p>I finally settled on "jEdit" as my default editor (for when I''m not in Visual
-    Studio, which is most of the time anyway.)<&#47;p>
+    Studio, which is most of the time anyway.)</p>
 
 
-    <p>http:&#47;&#47;www.jedit.org&#47;<&#47;p>
+    <p>http://www.jedit.org/</p>
 
 
     <p>For launching stuff, I always disable the "Quick Launch Tray" on the taskbar
     and replace it with "Free Launch Bar":
 
-    http:&#47;&#47;www.freelaunchbar.com&#47;<&#47;p>
+    http://www.freelaunchbar.com/</p>
 
 
     <p>It''s pretty much like Quick Launch, except you can create folders that act
     as pull-down menus; I throw all my common shortcuts to apps and folders in there
-    and rarely have to dig through the start menu.<&#47;p>
+    and rarely have to dig through the start menu.</p>
 
 
     <p>For RSS, well, I just use BlogLines since I use too many different machines
-    in a day to want to look up all my subs on NNW on my iBook.<&#47;p>
+    in a day to want to look up all my subs on NNW on my iBook.</p>
 
 
     <p>I also drag the TaskBar to the top and lock it (right click for the option.)
-    I guess that''s more "OS 9" than "OS X" though.<&#47;p>'
+    I guess that''s more "OS 9" than "OS X" though.</p>'
 - id: 373
   author: Denver Trouton
   author_email: dtrouton@yahoo.com
@@ -80,7 +80,7 @@ comments:
     option.  Notepad   a lot of people like, but it's crap auto indenting annoys me.  A
     lot of people really like ultraEdit, but I've not used it much myself.  There's
     also editplus and scintilla which I've played about with, but not used enough
-    to say much about.<&#47;p>
+    to say much about.</p>
 - id: 374
   author: Clint Checketts
   author_email: checketts@gmail.com
@@ -90,11 +90,11 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wNC0xOCAxNTowNzoxNiArMDEwMA==
   content: ! '<p>I use jEdit on windows. I had to add in 4or 5 plugins to it but its
-    an excellent development environment.<&#47;p>
+    an excellent development environment.</p>
 
 
     <p>To for RSS I''m hooked on Bloglines. Its web based so it follows me home from
-    school.<&#47;p>'
+    school.</p>'
 - id: 375
   author: Mark Brown
   author_email: broonie@sirena.org.uk
@@ -103,8 +103,8 @@ comments:
     MjAwNi0wNC0xOCAxNjoyMTowMSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNC0xOCAxNToyMTowMSArMDEwMA==
-  content: <p>Thunderbird supports RSS. There's also web based things or <a href='http:&#47;&#47;www.planetplanet.org&#47;'
-    rel="nofollow">planet<&#47;a>.<&#47;p>
+  content: <p>Thunderbird supports RSS. There's also web based things or <a href='http://www.planetplanet.org/'
+    rel="nofollow">planet</a>.</p>
 - id: 376
   author: Phil
   author_email: technomancy@gmail.com
@@ -113,13 +113,13 @@ comments:
     MjAwNi0wNC0xOCAxNjozNzo0NiArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNC0xOCAxNTozNzo0NiArMDEwMA==
-  content: ! '<p>Emacs is cross-platform.<&#47;p>
+  content: ! '<p>Emacs is cross-platform.</p>
 
 
-    <p>No, I must ammend that. Emacs IS a platform.<&#47;p>
+    <p>No, I must ammend that. Emacs IS a platform.</p>
 
 
-    <p>My condolances; this must be difficult for you.<&#47;p>'
+    <p>My condolances; this must be difficult for you.</p>'
 - id: 377
   author: Kunal
   author_email: kunal.r.anand@gmail.com
@@ -132,7 +132,7 @@ comments:
 
     For TextMate, use ActiveState Komodo.
 
-    For RSS, don''t bother with a Windows client. Use something web based.<&#47;p>'
+    For RSS, don''t bother with a Windows client. Use something web based.</p>'
 - id: 378
   author: SR
   author_email: rcornerstonefarm@gmail.com
@@ -143,10 +143,10 @@ comments:
     MjAwNi0wNC0xOCAxNTo1MTowMCArMDEwMA==
   content: ! '<p>GreatNews RSS Reader
 
-    http:&#47;&#47;www.curiostudio.com&#47;<&#47;p>
+    http://www.curiostudio.com/</p>
 
 
-    <p>Tried a couple, but have been using this one for the last 6 months.<&#47;p>'
+    <p>Tried a couple, but have been using this one for the last 6 months.</p>'
 - id: 379
   author: Hugh Cayless
   author_email: hcayless@lulu.com
@@ -156,8 +156,8 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wNC0xOCAxNjozMzo1MSArMDEwMA==
   content: <p>When I was enslaved to the tyranny of Windows, I really liked UltraEdit
-    (http:&#47;&#47;www.ultraedit.com&#47;).  It might be the only thing I missed
-    upon abandoning the platform...<&#47;p>
+    (http://www.ultraedit.com/).  It might be the only thing I missed upon abandoning
+    the platform...</p>
 - id: 380
   author: Gabe Hollombe
   author_email: gabe@avantbard.com
@@ -167,13 +167,13 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wNC0xOCAyMDoyNToyNSArMDEwMA==
   content: ! '<p>AppRocket (which I use) is nice for launching apps and other files
-    straight from the keyboard a-la QuickSilver: http:&#47;&#47;www.candylabs.com&#47;approcket&#47;<&#47;p>
+    straight from the keyboard a-la QuickSilver: http://www.candylabs.com/approcket/</p>
 
 
-    <p>You might also want to consider the free alternative, Launchy: http:&#47;&#47;www.launchy.net&#47;<&#47;p>
+    <p>You might also want to consider the free alternative, Launchy: http://www.launchy.net/</p>
 
 
-    <p>I''d probably vote for using RadRails for your TextMate replacement: http:&#47;&#47;www.radrails.org&#47;<&#47;p>'
+    <p>I''d probably vote for using RadRails for your TextMate replacement: http://www.radrails.org/</p>'
 - id: 381
   author: Joshua Bates
   author_email: joshuabates@gmail.com
@@ -185,7 +185,7 @@ comments:
   content: ! '<p>Approcket doesn''t come close to quicksilver, but is great for just
     launching apps.
 
-    Feeddeemon is a nice rss reader.<&#47;p>'
+    Feeddeemon is a nice rss reader.</p>'
 - id: 382
   author: mathie
   author_email: mathie@woss.name
@@ -194,11 +194,11 @@ comments:
     MjAwNi0wNC0xOSAxMTo0Njo0MSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNC0xOSAxMDo0Njo0MSArMDEwMA==
-  content: ! '<p>Thanks for all your suggestions!<&#47;p>
+  content: ! '<p>Thanks for all your suggestions!</p>
 
 
     <p>phil: what a very good point.  I''d always used XEmacs before switching to
-    TextMate, so what made me forget about it now?<&#47;p>'
+    TextMate, so what made me forget about it now?</p>'
 - id: 383
   author: Aaron Tostenaes
   author_email: artost@yahoo.com
@@ -207,7 +207,7 @@ comments:
     MjAwNi0xMi0wNSAyMzo1ODoxNiArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0xMi0wNSAyMjo1ODoxNiArMDAwMA==
-  content: <p>The e text editor is pretty close to textmate. http:&#47;&#47;e-texteditor.com&#47;blog&#47;2006&#47;textmate_on_windows<&#47;p>
+  content: <p>The e text editor is pretty close to textmate. http://e-texteditor.com/blog/2006/textmate_on_windows</p>
 - id: 384
   author: Geoff
   author_email: gtc@cheshirelaw.com
@@ -216,12 +216,12 @@ comments:
     MjAwNy0wMS0xNSAyMDowMTo1NCArMDAwMA==
   date_gmt: !binary |-
     MjAwNy0wMS0xNSAxOTowMTo1NCArMDAwMA==
-  content: <p>I've switched to e (http:&#47;&#47;e-texteditor.com) full-time.  InType
-    would be your other option, but right now it's missing critical features like
-    undo and multiple document editing.<&#47;p>
+  content: <p>I've switched to e (http://e-texteditor.com) full-time.  InType would
+    be your other option, but right now it's missing critical features like undo and
+    multiple document editing.</p>
 ---
-OK, so you're on site doing some work and you're pretty much coerced into using Windows.  How do you trick it out to make life less painful, particularly for the Mac addict?  Is there an equivalent of [Quicksilver](http:&#47;&#47;quicksilver.blacktree.com&#47;)?  What's closest to [TextMate](http:&#47;&#47;macromates.com&#47;)?  I've already grabbed [Firefox](http:&#47;&#47;www.mozilla.org&#47;) and all the requisite extensions, so at least I'm feeling at home in a web browser. :)
+OK, so you're on site doing some work and you're pretty much coerced into using Windows.  How do you trick it out to make life less painful, particularly for the Mac addict?  Is there an equivalent of [Quicksilver](http://quicksilver.blacktree.com/)?  What's closest to [TextMate](http://macromates.com/)?  I've already grabbed [Firefox](http://www.mozilla.org/) and all the requisite extensions, so at least I'm feeling at home in a web browser. :)
 
-Hopefully, we can arrange to get my laptop setup on the network here, since it's a regular gig (I'm redeveloping the [Behind the Medical Headlines](http:&#47;&#47;www.behindthemedicalheadlines.com&#47;) web site for the [Royal College of Physicians of Edinburgh](http:&#47;&#47;www.rcpe.ac.uk&#47;)), since until then I don't really have access to my own email while I'm in this office!  Fortunately, I do still have access to [support@rubaidh.com](mailto:support@rubaidh.com) and [sales@rubaidh.com](mailto:sales@rubaidh.com) though!
+Hopefully, we can arrange to get my laptop setup on the network here, since it's a regular gig (I'm redeveloping the [Behind the Medical Headlines](http://www.behindthemedicalheadlines.com/) web site for the [Royal College of Physicians of Edinburgh](http://www.rcpe.ac.uk/)), since until then I don't really have access to my own email while I'm in this office!  Fortunately, I do still have access to [support@rubaidh.com](mailto:support@rubaidh.com) and [sales@rubaidh.com](mailto:sales@rubaidh.com) though!
 
 **Update** what do all the cool kids use for RSS on Windows?  I feel like I'm half-deaf without NetNewsWire!

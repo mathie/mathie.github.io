@@ -24,7 +24,7 @@ comments: []
 > from RailsConf Europe 2006. They are all first drafts, probably
 > technically inaccurate and slanderously misquoting people. Let me know
 > and I'll fix them.  You can follow this series of posts by looking at
-> articles in the [RailsConfEurope](&#47;index.php?s=RailsConf+Europe+2006)
+> articles in the [RailsConfEurope](/index.php?s=RailsConf+Europe+2006)
 > category.
 
 Jamis was keen to point out that capistrano is not just for deploying rails
@@ -35,7 +35,7 @@ and monitoring things happening on multiple remote servers.
 Version 1.2 has just been released and it has lots of cool new features. You
 can pass in additional environment variables to:
 
-* Constrain the hosts that a recipe&#47;command will run on (HOSTS).
+* Constrain the hosts that a recipe/command will run on (HOSTS).
 
 * Constrain a command to a particular set of roles (ROLES).
 
@@ -46,7 +46,7 @@ Of course, you can mix and match these as you like. If you happen to set up a
 `HOSTS=` environment, there's not even a need to have a cap configuration
 file. Imagine:
 
-    HOSTS=this.site.com,web2.0isbeta.com SUDO=1 CMD="rm -rf &#47;" cap invoke
+    HOSTS=this.site.com,web2.0isbeta.com SUDO=1 CMD="rm -rf /" cap invoke
 
 Neat? Insane? He did mention a caveat: be *very* careful what you type!
 

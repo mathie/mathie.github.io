@@ -34,7 +34,7 @@ comments:
 > from RailsConf Europe 2006. They are all first drafts, probably
 > technically inaccurate and slanderously misquoting people. Let me know
 > and I'll fix them.  You can follow this series of posts by looking at
-> articles in the [RailsConfEurope](&#47;index.php?s=RailsConf+Europe+2006)
+> articles in the [RailsConfEurope](/index.php?s=RailsConf+Europe+2006)
 > category.
 
 There were two portions to this talk. The first was from a business

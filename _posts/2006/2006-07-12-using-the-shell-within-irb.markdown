@@ -31,10 +31,10 @@ comments:
     MjAwNi0wNy0xMiAxOToyNToxOCArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNy0xMiAxODoyNToxOCArMDEwMA==
-  content: ! '<p>IRB FTW!<&#47;p>
+  content: ! '<p>IRB FTW!</p>
 
 
-    <p>Haha, this makes the complete transition to ruby a breezer :P<&#47;p>'
+    <p>Haha, this makes the complete transition to ruby a breezer :P</p>'
 - id: 541
   author: Andy
   author_email: woss@kintaro.cx
@@ -43,7 +43,7 @@ comments:
     MjAwNi0wNy0xMyAxNzoxMjoyMiArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNy0xMyAxNjoxMjoyMiArMDEwMA==
-  content: ! '<p>I got this error message<&#47;p>
+  content: ! '<p>I got this error message</p>
 
 
 
@@ -52,7 +52,7 @@ comments:
     NoMethodError: undefined method `install_system_commands'' for Shell:Class
 
 
-    <p>I just used the posted code from shell_from_irb.rb<&#47;p>'
+    <p>I just used the posted code from shell_from_irb.rb</p>'
 - id: 542
   author: Andy
   author_email: woss@kintaro.cx
@@ -61,7 +61,7 @@ comments:
     MjAwNi0wNy0xMyAxNzoxNzoyNyArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNy0xMyAxNjoxNzoyNyArMDEwMA==
-  content: ! '<p>Ok, got it.<&#47;p>
+  content: ! '<p>Ok, got it.</p>
 
 
 
@@ -77,8 +77,8 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wNy0xMyAxNjoyMDo1OSArMDEwMA==
   content: ! '<p>Andy:  Ah, oops, I forgot to include that bit (I''ve got <code>require
-    ''shell''<&#47;code> way further up my <code>~&#47;.irbrc<&#47;code>).  I''ve
-    fixed the copy here now, too.  Thanks!<&#47;p>'
+    ''shell''</code> way further up my <code>~/.irbrc</code>).  I''ve fixed the copy
+    here now, too.  Thanks!</p>'
 - id: 544
   author: Per Melin
   author_email: one.woss@melin.net
@@ -88,14 +88,13 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wNy0xNiAwOTozNzozNyArMDEwMA==
   content: ! '<p>Apart from tab completion, I can''t see what this does that you can''t
-    do with backticks?<&#47;p>
+    do with backticks?</p>
 
 
-    <p>Take your example with modified svn files. This does the same thing:<&#47;p>
+    <p>Take your example with modified svn files. This does the same thing:</p>
 
 
-    <p><code>`svn stat`.grep(&#47;^M&#47;) { |x| x.sub(&#47;^M *&#47;, '''').chomp
-    }<&#47;code><&#47;p>'
+    <p><code>`svn stat`.grep(/^M/) { |x| x.sub(/^M */, '''').chomp }</code></p>'
 - id: 545
   author: dam
   author_email: dam@cosinux.org
@@ -105,7 +104,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wNy0xNyAxMDo0NjozOCArMDEwMA==
   content: <p>you could simply use ^Z to pause the job and use the shell then getting
-    back to it with %n<&#47;p>
+    back to it with %n</p>
 - id: 546
   author: mathie
   author_email: mathie@woss.name
@@ -114,9 +113,9 @@ comments:
     MjAwNi0wNy0xNyAxMTo1NDoxMCArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNy0xNyAxMDo1NDoxMCArMDEwMA==
-  content: ! '<p>Per, Dam: Picky, picky.  My solution is sooo much prettier. :-)<&#47;p>'
+  content: ! '<p>Per, Dam: Picky, picky.  My solution is sooo much prettier. :-)</p>'
 ---
-A couple of weeks ago, I had a little diversion, playing around with the shell bits and pieces in Ruby core.  And it sounded like it could be quite handy for when you're in that IRB session and don't want to quit&#47;reload (or switch to another terminal, I guess).  So I added a few widgets to by `~&#47;.irbrc` to make it work well for me.  You can find the relevant parts in [`shell_from_irb.rb`](&#47;dist&#47;shell_from_irb.rb).  Probably the easiest thing to do is copy and paste the contents into your own `~&#47;.irbrc`.
+A couple of weeks ago, I had a little diversion, playing around with the shell bits and pieces in Ruby core.  And it sounded like it could be quite handy for when you're in that IRB session and don't want to quit/reload (or switch to another terminal, I guess).  So I added a few widgets to by `~/.irbrc` to make it work well for me.  You can find the relevant parts in [`shell_from_irb.rb`](/dist/shell_from_irb.rb).  Probably the easiest thing to do is copy and paste the contents into your own `~/.irbrc`.
 
 So, how do you use it?  From the irb shell:
 
@@ -125,14 +124,14 @@ So, how do you use it?  From the irb shell:
 
 Or, something more useful which will return you an array of files you've modified since your last commit to subversion:
 
-    irb(main):016:0> shell.svn(:stat).grep(&#47;^M&#47;).collect do |line|
-    irb(main):017:1*     line.gsub(&#47;^M *&#47;, '').chomp
+    irb(main):016:0> shell.svn(:stat).grep(/^M/).collect do |line|
+    irb(main):017:1*     line.gsub(/^M */, '').chomp
     irb(main):018:1>   end
-    => ["app&#47;helpers&#47;application_helper.rb",
-         "app&#47;controllers&#47;application.rb",
-         "config&#47;photography_config.rb",
-         "public&#47;javascripts&#47;lightbox.js",
-         "public&#47;stylesheets&#47;lightbox.css"]
+    => ["app/helpers/application_helper.rb",
+         "app/controllers/application.rb",
+         "config/photography_config.rb",
+         "public/javascripts/lightbox.js",
+         "public/stylesheets/lightbox.css"]
 
 Oh, and since all the shell commands in your path are now effectively methods, if you have readline and completion switched on, you can do what you'd usually do in the shell:
 

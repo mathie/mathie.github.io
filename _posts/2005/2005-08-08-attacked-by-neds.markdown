@@ -22,6 +22,6 @@ One of our hosts at work is being attacked by a ned!
       5 more authentication failures; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ned.gcdtech.com  user=root: 1 Time(s)
       7 more authentication failures; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ned.gcdtech.com  user=root: 10 Time(s)
    Authentication Failures:
-      root (ned.gcdtech.com ): 11 Time(s)[&#47;code]
+      root (ned.gcdtech.com ): 11 Time(s)[/code]
 
-I'm slightly disappointed to discover that the other machines under the <code>gcdtech.com<&#47;code> domain aren't <code>chav<&#47;code>, <code>schemie<&#47;code> et al.
+I'm slightly disappointed to discover that the other machines under the <code>gcdtech.com</code> domain aren't <code>chav</code>, <code>schemie</code> et al.

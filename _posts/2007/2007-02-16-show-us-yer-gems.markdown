@@ -20,9 +20,9 @@ tags:
 - Work
 comments: []
 ---
-Seeing as [everyone](http:&#47;&#47;www.clarkware.com&#47;cgi&#47;blosxom&#47;2007&#47;02&#47;10#GemSurvey) [else](http:&#47;&#47;chadfowler.com&#47;2007&#47;2&#47;11&#47;show-us-your-gems) [has](http:&#47;&#47;smartic.us&#47;2007&#47;2&#47;11&#47;show-us-your-gems) [contributed](http:&#47;&#47;blog.alancfrancis.com&#47;2007&#47;02&#47;gemmin_with_the.html), here's the gems currently installed on my machine:
+Seeing as [everyone](http://www.clarkware.com/cgi/blosxom/2007/02/10#GemSurvey) [else](http://chadfowler.com/2007/2/11/show-us-your-gems) [has](http://smartic.us/2007/2/11/show-us-your-gems) [contributed](http://blog.alancfrancis.com/2007/02/gemmin_with_the.html), here's the gems currently installed on my machine:
 
-    mathie@bowmore:btmh$ gem list | awk '&#47;^[^ ]&#47; {print}'
+    mathie@bowmore:btmh$ gem list | awk '/^[^ ]/ {print}'
      *** LOCAL GEMS ***
      actionmailer (1.3.2)
      actionpack (1.13.2)
@@ -94,4 +94,4 @@ Seeing as [everyone](http:&#47;&#47;www.clarkware.com&#47;cgi&#47;blosxom&#47;20
 
 Nothing particularly exciting in there, really.  I recently reinstalled ruby, so the gems are pretty much just what I'm using for apps I'm actively developing.  Though puppet's just there, well, because somebody mentioned it this morning and I thought I'd have a nosey...
 
-Oh, BTW, I'm signed up and going to [RailsConf '07](http:&#47;&#47;conferences.oreillynet.com&#47;rails&#47;)!  How cool is that?  I've never really been to the U S of A before.  Well, I went to Florida for a 2 week holiday with my parents, doing Disneyland, when I was a kid, but that doesn't really count.  I'm *sooo* excited! :-)
+Oh, BTW, I'm signed up and going to [RailsConf '07](http://conferences.oreillynet.com/rails/)!  How cool is that?  I've never really been to the U S of A before.  Well, I went to Florida for a 2 week holiday with my parents, doing Disneyland, when I was a kid, but that doesn't really count.  I'm *sooo* excited! :-)

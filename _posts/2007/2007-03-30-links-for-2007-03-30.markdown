@@ -17,13 +17,13 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;lighthouseapp.com&#47;">Lighthouse<&#47;a><&#47;div>
-		<div class="delicious-extended">A shiny new issue tracking application from activereload (one part Rails core, one part Scriptaculous core!) which looks beautifully simple to use.  I've set it up for an active project and am going to try it out over the next month.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;issuetracking">issuetracking<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;bugs">bugs<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;projectmanagement">projectmanagement<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;projects">projects<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://lighthouseapp.com/">Lighthouse</a></div>
+		<div class="delicious-extended">A shiny new issue tracking application from activereload (one part Rails core, one part Scriptaculous core!) which looks beautifully simple to use.  I've set it up for an active project and am going to try it out over the next month.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/issuetracking">issuetracking</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/bugs">bugs</a> <a href="http://del.icio.us/mathie/projectmanagement">projectmanagement</a> <a href="http://del.icio.us/mathie/projects">projects</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;feeds.feedburner.com&#47;~r&#47;RyansScraps&#47;~3&#47;105051033&#47;what-s-new-in-edge-rails-restful-routes-get-a-new-custom-delimiter">What's New in Edge Rails: RESTful Routes Get a New Custom Delimiter<&#47;a><&#47;div>
-		<div class="delicious-extended">Goodbye, semi-colons!  While I see their point (to clearly separate the verb from the noun), they just look, well, a little bit ugly.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;edgerails">edgerails<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://feeds.feedburner.com/~r/RyansScraps/~3/105051033/what-s-new-in-edge-rails-restful-routes-get-a-new-custom-delimiter">What's New in Edge Rails: RESTful Routes Get a New Custom Delimiter</a></div>
+		<div class="delicious-extended">Goodbye, semi-colons!  While I see their point (to clearly separate the verb from the noun), they just look, well, a little bit ugly.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/edgerails">edgerails</a>)</div>
+	</li>
+</ul>

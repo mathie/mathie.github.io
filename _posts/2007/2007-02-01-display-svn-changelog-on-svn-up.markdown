@@ -30,7 +30,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wMi0wMyAwNzowMzo1NCArMDAwMA==
   content: <p>Brilliant! I just copied it to .bashrc and it works perfectlty. This
-    is great!<&#47;p>
+    is great!</p>
 - id: 762
   author: Szemere Szemere
   author_email: SzemereSzemere@googlemail.com
@@ -41,14 +41,14 @@ comments:
     MjAwOC0wNC0xNyAxMjowODowOSArMDEwMA==
   content: <p>It's a very nice feature. I've dropped the '-q' as I think its better
     to see the update inf e.g. if there is a merge. I'm noticing some other quirks,
-    but hope those will go away.<&#47;p>
+    but hope those will go away.</p>
 ---
 I'm working on a project with a team of people.  And when I do an `svn up` after other people have committed stuff, it's handy to get an overview of what's changed while I'm in the context of getting the updates.  (I also get an email everytime something is committed, but reading that involves switching to a different context from my development environment.)  So I came up with the following bash functions:
 
     # Get the current revision of a repository
     svn_revision()
     {
-      svn info $@ | awk '&#47;^Revision:&#47; {print $2}'
+      svn info $@ | awk '/^Revision:/ {print $2}'
     }
 
     # Does an svn up and then displays the changelog between your previous

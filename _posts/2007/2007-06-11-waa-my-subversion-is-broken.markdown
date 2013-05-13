@@ -25,18 +25,18 @@ comments:
     MjAwNy0wOS0wNiAyMTo0MTozNiArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wOS0wNiAyMDo0MTozNiArMDEwMA==
-  content: ! '<p>Thank you, this not helped me fix a similar problem.<&#47;p>
+  content: ! '<p>Thank you, this not helped me fix a similar problem.</p>
 
 
     <p>In my case though, it was not a file checked into Subversion that caused the
     problem. Rather we have a logs directory that is checked in, even though the log
     files themselves are never checked in. Still, after some configuration changes
     some of the logs exceeded 2 gig, so svn updated failed to run on our cruisecontrol
-    system, so the changes to the code where not checked out.<&#47;p>
+    system, so the changes to the code where not checked out.</p>
 
 
     <p>By moving the large log files to a non-svn subdirectory, it started working
-    again.<&#47;p>'
+    again.</p>'
 - id: 873
   author: Lars G.
   author_email: larsoo@start.no
@@ -46,10 +46,10 @@ comments:
   date_gmt: !binary |-
     MjAwNy0xMC0xNyAxNjo0MDoxNyArMDEwMA==
   content: ! '<p>I am running svn through cygwin, I got the same error because there
-    was a filename containing non-standard characters.<&#47;p>
+    was a filename containing non-standard characters.</p>
 
 
-    <p>Easily fixed once figured out.<&#47;p>'
+    <p>Easily fixed once figured out.</p>'
 - id: 874
   author: RobM
   author_email: robert.meerman@gmail.com
@@ -60,11 +60,11 @@ comments:
     MjAwOC0wNC0yMyAxMzoyMTowNyArMDEwMA==
   content: ! '<p>Had this problem on Cygwin, turned out to be a problem with a hidden
     swap file from vim. Running "ls -a" gave an error about the problem file not existing
-    (despite being in the listing).<&#47;p>
+    (despite being in the listing).</p>
 
 
     <p>Once I fixed this (by closing vim) svn st worked fine again. Thanks to your
-    post I had an idea what to look for!<&#47;p>'
+    post I had an idea what to look for!</p>'
 - id: 875
   author: Johan
   author_email: asdljkf@asjdflk.com
@@ -73,10 +73,10 @@ comments:
     MjAwOC0wNS0wNiAxNDoyODo1MSArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wNS0wNiAxMzoyODo1MSArMDEwMA==
-  content: ! '<p>Just a quick thanks for posting this.<&#47;p>
+  content: ! '<p>Just a quick thanks for posting this.</p>
 
 
-    <p>&#47;J<&#47;p>'
+    <p>/J</p>'
 ---
 OK, this is mostly a note-to-self because Google wasn't being helpful enough in finding the solution.  When I tried running an `svn stat` in my home directory, I was getting the following:
 

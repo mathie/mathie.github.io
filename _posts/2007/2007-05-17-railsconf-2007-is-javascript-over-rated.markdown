@@ -22,7 +22,7 @@ tags:
 - Ruby and Rails
 comments: []
 ---
-The first tutorial of the weekend I signed up for was "Is Javascript Overrated? (Or how I learned to stop worrying and love Prototype & script.aculo.us)".  I never quite get around to doing enough JS work, instead finding other <del>willing victims<&#47;del> colleagues who are more into that kind of thing.  But I'm definitely interested in being able to do more of the front end UI myself.  So, I figured this tutorial would be useful.
+The first tutorial of the weekend I signed up for was "Is Javascript Overrated? (Or how I learned to stop worrying and love Prototype & script.aculo.us)".  I never quite get around to doing enough JS work, instead finding other <del>willing victims</del> colleagues who are more into that kind of thing.  But I'm definitely interested in being able to do more of the front end UI myself.  So, I figured this tutorial would be useful.
 
 Checking out my notes, I've discovered a few bits and pieces about Prototype & script.aculo.us that I didn't know before.  The highlights would be:
 
@@ -36,7 +36,7 @@ Checking out my notes, I've discovered a few bits and pieces about Prototype & s
 
 * Official JSON library breaks Prototype enumerables, so don't use it! Doesn't matter because Prototype implements everything anyway.
 
-* `transition` option for effects determines the function used to affect the dx&#47;dy of the argument passed in to update. Apparently, sinoidal looks more natural for moving effects than linear, so that it accelerates & decelerates.
+* `transition` option for effects determines the function used to affect the dx/dy of the argument passed in to update. Apparently, sinoidal looks more natural for moving effects than linear, so that it accelerates & decelerates.
 
 * New in scriptaculous 1.7: `Effect.morph()` which will change from existing CSS styling to a newly specified one over a period of time. For example, grow a font size or move items around. Difficult to explain, but it looks pretty sweet. :) Best to use for mocking up an effect, because it has performance issues from parsing the CSS.
 

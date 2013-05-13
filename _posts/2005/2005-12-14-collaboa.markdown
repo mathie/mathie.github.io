@@ -15,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-Hmm, <a href="http:&#47;&#47;collaboa.org&#47;">Collaboa<&#47;a> looks like it could be interesting.  It seems to be just like something I had in the back of my mind to play around with creating: <a href="http:&#47;&#47;www.edgewall.com&#47;trac&#47;">Trac on Rails<&#47;a>.  Unfortunately it requires the Ruby bindings for Subversion, so it's not something that will be easy to installed on <a href="http:&#47;&#47;www.dreamhost.com&#47;r.cgi?wossname">DreamHost<&#47;a>, but I might play around with a copy locally next week.
+Hmm, <a href="http://collaboa.org/">Collaboa</a> looks like it could be interesting.  It seems to be just like something I had in the back of my mind to play around with creating: <a href="http://www.edgewall.com/trac/">Trac on Rails</a>.  Unfortunately it requires the Ruby bindings for Subversion, so it's not something that will be easy to installed on <a href="http://www.dreamhost.com/r.cgi?wossname">DreamHost</a>, but I might play around with a copy locally next week.

@@ -23,10 +23,10 @@ comments:
     MjAwNi0wNC0wNSAxNTowODo1MiArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNC0wNSAxNDowODo1MiArMDEwMA==
-  content: ! '<p>sounds good to me :oP<&#47;p>
+  content: ! '<p>sounds good to me :oP</p>
 
 
-    <p>and yes, you do... very<&#47;p>'
+    <p>and yes, you do... very</p>'
 - id: 368
   author: mathie
   author_email: mathie@woss.name
@@ -35,7 +35,7 @@ comments:
     MjAwNi0wNC0wNSAxNToyMTozOSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNC0wNSAxNDoyMTozOSArMDEwMA==
-  content: ! '<p>annabel: You''re scaring the neighbours. :-P<&#47;p>'
+  content: ! '<p>annabel: You''re scaring the neighbours. :-P</p>'
 - id: 369
   author: Jim
   author_email: jim@ll.fix.it
@@ -44,7 +44,7 @@ comments:
     MjAwNi0wNC0xMyAxMDozNToyOSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNC0xMyAwOTozNToyOSArMDEwMA==
-  content: <p>Are you guys brother and sister?<&#47;p>
+  content: <p>Are you guys brother and sister?</p>
 - id: 370
   author: mathie
   author_email: mathie@woss.name
@@ -53,6 +53,6 @@ comments:
     MjAwNi0wNC0xMyAxMDo0MDoxNCArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNC0xMyAwOTo0MDoxNCArMDEwMA==
-  content: ! '<p>Jim:  This is not redneck country. :-P  Annabel is my wife...<&#47;p>'
+  content: ! '<p>Jim:  This is not redneck country. :-P  Annabel is my wife...</p>'
 ---
-Incidentally, I shall be spending the day [Naked](http:&#47;&#47;naked.dustindiaz.com&#47;).  Actually, I think I look good naked -- maybe I'll just stay like that all the time!
+Incidentally, I shall be spending the day [Naked](http://naked.dustindiaz.com/).  Actually, I think I look good naked -- maybe I'll just stay like that all the time!

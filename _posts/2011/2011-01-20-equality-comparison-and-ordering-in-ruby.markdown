@@ -26,8 +26,8 @@ comments:
     MjAxMS0wMS0yMSAwNjo0NzoxMiArMDAwMA==
   date_gmt: !binary |-
     MjAxMS0wMS0yMSAwNjo0NzoxMiArMDAwMA==
-  content: ! '<p>I have to disagree with "best named operator". I prefer <a href="http:&#47;&#47;twiddlewakka.com&#47;"
-    rel="nofollow">the twiddle-wakka (~>)<&#47;a>.<&#47;p>
+  content: ! '<p>I have to disagree with "best named operator". I prefer <a href="http://twiddlewakka.com/"
+    rel="nofollow">the twiddle-wakka (~&gt;)</a>.</p>
 
 '
 - id: 1031
@@ -39,7 +39,7 @@ comments:
   date_gmt: !binary |-
     MjAxMS0wMS0yMSAwODozMTo0MiArMDAwMA==
   content: ! '<p>Is that what it''s called? I''d always wondered. OK, I can see it
-    competing in future years. ;-)<&#47;p>
+    competing in future years. ;-)</p>
 
 '
 - id: 1033
@@ -50,9 +50,9 @@ comments:
     MjAxMS0wMS0yMSAxMzoyMDo1MyArMDAwMA==
   date_gmt: !binary |-
     MjAxMS0wMS0yMSAxMzoyMDo1MyArMDAwMA==
-  content: ! "<p>Comparable also gives you #between?<&#47;p>\n\n<p>3.between?(1, 5)
-    \              #=> true\n   6.between?(1, 5)               #=> false\n   'cat'.between?('ant',
-    'dog')   #=> true\n   'gnu'.between?('ant', 'dog')   #=> false<&#47;p>\n"
+  content: ! "<p>Comparable also gives you #between?</p>\n\n<p>3.between?(1, 5)               #=&gt;
+    true\n   6.between?(1, 5)               #=&gt; false\n   'cat'.between?('ant',
+    'dog')   #=&gt; true\n   'gnu'.between?('ant', 'dog')   #=&gt; false</p>\n"
 - id: 1034
   author: Dan Kubb
   author_email: dan.kubb@gmail.com
@@ -62,12 +62,12 @@ comments:
   date_gmt: !binary |-
     MjAxMS0wMS0yMSAxNTo1MzozNSArMDAwMA==
   content: ! '<p>I usually prefer implementing #eql? as: instance_of?(other.class)
-    &amp;&amp; nominal_code.eql?(other.nominal_code)<&#47;p>
+    &amp;&amp; nominal_code.eql?(other.nominal_code)</p>
 
 
     <p>The reason is that the nominal_code could be a different type of object, and
     I usually want to return false if that''s the case. As a default approach I like
-    to do the same kind of comparison all the way down.<&#47;p>
+    to do the same kind of comparison all the way down.</p>
 
 '
 ---

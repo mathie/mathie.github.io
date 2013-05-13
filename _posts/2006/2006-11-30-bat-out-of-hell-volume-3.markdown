@@ -27,7 +27,7 @@ comments:
     MjAwNi0xMS0zMCAxMTo0OToxNiArMDAwMA==
   content: <p>I'd definitely recommend Arcade Fire.  "Funeral"  was the album of theirs
     that I really, really loved when it came out.  I'm not sure if they've brought
-    a new one out since then, but there are some fantastic tracks on there.<&#47;p>
+    a new one out since then, but there are some fantastic tracks on there.</p>
 - id: 734
   author: mathie
   author_email: mathie@rubaidh.com
@@ -36,10 +36,10 @@ comments:
     MjAwNi0xMS0zMCAxNDo0NDoyMyArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0xMS0zMCAxMzo0NDoyMyArMDAwMA==
-  content: <p>It's Funeral I've acquired and, after listening to it, <em>In the Backseat<&#47;em>
+  content: <p>It's Funeral I've acquired and, after listening to it, <em>In the Backseat</em>
     was what I heard last night.  I'm not particularly enthralled by the rest of the
     album so far, though perhaps it's a grower.  I should listen to it when I'm less
-    distracted with code...<&#47;p>
+    distracted with code...</p>
 ---
 OK, I admit it, I'm a closet Meat Loaf fan.  Well, I guess I'm no longer in the closet. :)  I love Jim Steinman's lyrics -- who else could get away with a song entitled *Objects in the rear-view mirror may appear closer than they are*? :)  The operatic sounds, the incredible stories the lyrics tell; just fantastic.
 

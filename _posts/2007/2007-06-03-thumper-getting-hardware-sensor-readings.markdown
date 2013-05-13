@@ -32,7 +32,7 @@ comments:
     if one has many hosts.
 
     In other words, it doesn''t scale well. I recommend you deploy your monitoring
-    solution in the global zone and plough on.<&#47;p>'
+    solution in the global zone and plough on.</p>'
 - id: 842
   author: mathie
   author_email: mathie@rubaidh.com
@@ -42,7 +42,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNi0wNCAxMTo1Mzo1MCArMDEwMA==
   content: <p>A perfectly pragmatic solution, UX-admin, thank you.  Deploying it in
-    the global zone and moving on is probably what I shall do. :-)<&#47;p>
+    the global zone and moving on is probably what I shall do. :-)</p>
 - id: 843
   author: Derek Ross
   author_email: derek@drossy.net
@@ -51,9 +51,9 @@ comments:
     MjAwNy0wNi0wNSAwMToxNDozNCArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wNi0wNSAwMDoxNDozNCArMDEwMA==
-  content: <p>Its complete overkill but are you aware of Ganglia http:&#47;&#47;ganglia.sourceforge.net&#47;
-    for the whole polling&#47;archiving&#47;displaying bit? its useful for only having
-    to look in one place when you're monitoring multiple systems.<&#47;p>
+  content: <p>Its complete overkill but are you aware of Ganglia http://ganglia.sourceforge.net/
+    for the whole polling/archiving/displaying bit? its useful for only having to
+    look in one place when you're monitoring multiple systems.</p>
 - id: 844
   author: Steffen
   author_email: steffen.grunewald@aei.mpg.de
@@ -63,12 +63,12 @@ comments:
   date_gmt: !binary |-
     MjAwOC0wNi0xMSAwOToyOToyNSArMDEwMA==
   content: ! '<p>After one year, have you found a solution to the snmp problem? I
-    tried this today, and snmpwalk got stuck in the middle. I had to reset &#47;SP
-    to make the ILOM accessible again. Firmware version is 1.1.8 (software release
-    1.2, haven''t been able to find a newer one :( ).
+    tried this today, and snmpwalk got stuck in the middle. I had to reset /SP to
+    make the ILOM accessible again. Firmware version is 1.1.8 (software release 1.2,
+    haven''t been able to find a newer one :( ).
 
     I know ipmitool, but there are certain values which are hard to extract using
-    it...<&#47;p>'
+    it...</p>'
 ---
 I've been busy all week on other projects, so I haven't had as much time to
 devote to the Thumper. However, in the background, I've been plotting how to
@@ -155,4 +155,4 @@ throw together a quick app that polls every few minutes and stores historical
 readings. And then something to graph it all. Of course, Ruby (& Rails) is my
 hammer... :-)
 
-**Update** Hrm.  Unfortunately, I can't immediately figure out how access `ipmitool` from inside a container, rather than the global zone.  When it's working locally, it appears to try and get access to the IPMI through `&#47;dev&#47;bmc` which is not available in the zone I just created.  I wonder how I can make that happen, or whether the data collection part of the system is going to have to run in the global zone?
+**Update** Hrm.  Unfortunately, I can't immediately figure out how access `ipmitool` from inside a container, rather than the global zone.  When it's working locally, it appears to try and get access to the IPMI through `/dev/bmc` which is not available in the zone I just created.  I wonder how I can make that happen, or whether the data collection part of the system is going to have to run in the global zone?

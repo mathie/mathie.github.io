@@ -24,15 +24,15 @@ comments:
     MjAwNi0xMS0yMSAxMDo0MTo1OCArMDAwMA==
   content: ! '<p>Dnscheck looks nifty. I typically use a combination of nsping, dnstrace
     and DNS report to ensure that my DNS infrastructure is "clean." Nsping and dnstrace
-    are available as source code, and DNS report resides at the following location:<&#47;p>
+    are available as source code, and DNS report resides at the following location:</p>
 
 
-    <p>http:&#47;&#47;www.dnsreport.com&#47;<&#47;p>
+    <p>http://www.dnsreport.com/</p>
 
 
     <p>Thanks,
 
-    - Ryan<&#47;p>'
+    - Ryan</p>'
 - id: 714
   author: mathie
   author_email: mathie@rubaidh.com
@@ -42,7 +42,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMS0yMSAxMTowMDo0NyArMDAwMA==
   content: ! '<p>Matty: Ooh, dnstrace looks like it''s a command line version the
-    web-based tool I was using yesterday.  Much better. :-)  Thanks!<&#47;p>'
+    web-based tool I was using yesterday.  Much better. :-)  Thanks!</p>'
 - id: 715
   author: Mark Brown
   author_email: broonie@sirena.org.uk
@@ -51,12 +51,12 @@ comments:
     MjAwNi0xMS0yMyAyMDozNzoyNSArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0xMS0yMyAxOTozNzoyNSArMDAwMA==
-  content: <p>dlint is pretty handy too, though it does have some editorial ideas.<&#47;p>
+  content: <p>dlint is pretty handy too, though it does have some editorial ideas.</p>
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.squish.net&#47;dnscheck&#47;">DNS traversal checking<&#47;a><&#47;div>
-		<div class="delicious-extended">I've been using this DNS tool for years now, just keep forgetting to bookmark it!<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;admin">admin<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;dns">dns<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;internet">internet<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;network">network<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;sysadmin">sysadmin<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://www.squish.net/dnscheck/">DNS traversal checking</a></div>
+		<div class="delicious-extended">I've been using this DNS tool for years now, just keep forgetting to bookmark it!</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/admin">admin</a> <a href="http://del.icio.us/mathie/dns">dns</a> <a href="http://del.icio.us/mathie/internet">internet</a> <a href="http://del.icio.us/mathie/network">network</a> <a href="http://del.icio.us/mathie/sysadmin">sysadmin</a>)</div>
+	</li>
+</ul>

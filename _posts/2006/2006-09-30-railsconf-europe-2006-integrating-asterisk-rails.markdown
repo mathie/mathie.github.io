@@ -20,7 +20,7 @@ tags:
 - Ruby and Rails
 comments: []
 ---
-> This is the second in a series of articles of me writing up my notes from RailsConf Europe 2006.  They are all first drafts, probably technically inaccurate and slanderously misquoting people.  Let me know and I'll fix them.  You can follow this series of posts by looking at articles in the [RailsConf Europe](&#47;index.php?s=RailsConf+Europe+2006) category.
+> This is the second in a series of articles of me writing up my notes from RailsConf Europe 2006.  They are all first drafts, probably technically inaccurate and slanderously misquoting people.  Let me know and I'll fix them.  You can follow this series of posts by looking at articles in the [RailsConf Europe](/index.php?s=RailsConf+Europe+2006) category.
 
 I made a mistake in going to this one. I was thought (probably because
 I hadn't read the abstract closely enough!) that this was going to be all

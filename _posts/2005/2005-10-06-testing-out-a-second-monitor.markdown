@@ -26,9 +26,8 @@ comments:
   content: ! 'Cool.
 
 
-    I run a Twin PC&#47;Twin monitor setup using a piece of software called Synergy
-    (http:&#47;&#47;sourceforge.net&#47;projects&#47;synergy2), which gives you both
-    desktops that are controllable from a single mouse and keyboard.
+    I run a Twin PC/Twin monitor setup using a piece of software called Synergy (http://sourceforge.net/projects/synergy2),
+    which gives you both desktops that are controllable from a single mouse and keyboard.
 
 
     The advantage with doing it this way is that each desktop has a full PC''s resources
@@ -51,7 +50,7 @@ comments:
     feels like it''s a bit laggy with typing, but it''s a lot better than I''d have
     expected (and I''m used to typing over laggy ssh sessions anyway).  And you''re
     right: that way I get the power of the two full machines, which is nice (particularly
-    when you add things like <a href="http:&#47;&#47;distcc.samba.org&#47;" rel="nofollow">distcc<&#47;a>
+    when you add things like <a href="http://distcc.samba.org/" rel="nofollow">distcc</a>
     into the mix).
 
 
@@ -98,10 +97,10 @@ Being able to have Firefox open permanently on the second screen -- either showi
 The mouse is taking a bit of getting used to -- since the second screen is up and to the right a bit spatially, I keep dragging down and left to bring the cursor back to my laptop, where it should just be left, but I'm sure I can learn to cope with these things... :-)
 <pre>--
 Graeme Mathieson                         tel:+44-131-2735133
-Plone&#47;Zope&#47;Python Software Engineer      http:&#47;&#47;www.logicalware.com&#47;
+Plone/Zope/Python Software Engineer      http://www.logicalware.com/
 Logicalware Ltd, Stuart House, Eskmills, mailto:mathie@logicalware.com
-Station Road, Musselburgh, EH21 7PQ, UK<&#47;pre><&#47;blockquote>
+Station Road, Musselburgh, EH21 7PQ, UK</pre></blockquote>
 
-Ooh, yeah, it's shiny.  It is how I work at home, really, though in that instance its with two computers.  In some ways this is even better: with two computers, you have to switch keyboard&#47;mouse and you don't have a shared pasteboard.  (Well, actually, I suppose you do, you just have to do <code>pbpaste | ssh otherhost pbcopy<&#47;code> in between the copy and paste. :-) )  I think I might have to try and convince Annabel that we really need a new flat panel monitor at home too...
+Ooh, yeah, it's shiny.  It is how I work at home, really, though in that instance its with two computers.  In some ways this is even better: with two computers, you have to switch keyboard/mouse and you don't have a shared pasteboard.  (Well, actually, I suppose you do, you just have to do <code>pbpaste | ssh otherhost pbcopy</code> in between the copy and paste. :-) )  I think I might have to try and convince Annabel that we really need a new flat panel monitor at home too...
 
-I had wondered if my PowerBook would actually do the second monitor thing.  I know some do, and some only do mirroring.  But yes, for the record, the 17" PowerBook G4 does support a second monitor that shows independent stuff.  It's a <a href="http:&#47;&#47;accessories.euro.dell.com&#47;sna&#47;ProductDetail.aspx?sku=35552&s=dhs&cat=snp&c=uk&l=en&cs=ukdhs1&category_id=2999">Dell E173FP<&#47;a> I've got it connected to just now, which Pete ordered for his PC a week or so ago.
+I had wondered if my PowerBook would actually do the second monitor thing.  I know some do, and some only do mirroring.  But yes, for the record, the 17" PowerBook G4 does support a second monitor that shows independent stuff.  It's a <a href="http://accessories.euro.dell.com/sna/ProductDetail.aspx?sku=35552&s=dhs&cat=snp&c=uk&l=en&cs=ukdhs1&category_id=2999">Dell E173FP</a> I've got it connected to just now, which Pete ordered for his PC a week or so ago.

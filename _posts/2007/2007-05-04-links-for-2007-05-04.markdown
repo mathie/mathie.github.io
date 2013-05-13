@@ -17,8 +17,8 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;joyeur.com&#47;2007&#47;04&#47;24&#47;solaris-dtrace-and-rails">Solaris, DTrace and Rails<&#47;a><&#47;div>
-		<div class="delicious-extended">Jason talking about yet another experience of DTrace being all Superman-like and rescusing damsels^W websites in distress.  I'm hoping one of the linked articles will be a more technical overview of the day...<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;solaris">solaris<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;dtrace">dtrace<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;performance">performance<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://joyeur.com/2007/04/24/solaris-dtrace-and-rails">Solaris, DTrace and Rails</a></div>
+		<div class="delicious-extended">Jason talking about yet another experience of DTrace being all Superman-like and rescusing damsels^W websites in distress.  I'm hoping one of the linked articles will be a more technical overview of the day...</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/solaris">solaris</a> <a href="http://del.icio.us/mathie/dtrace">dtrace</a> <a href="http://del.icio.us/mathie/performance">performance</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rails">rails</a>)</div>
+	</li>
+</ul>

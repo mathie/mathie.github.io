@@ -30,13 +30,13 @@ comments:
   content: <p>This one I truely like too... and the use of *splat was something that
     had passed me by until now. It is really nice to have some sessions that take
     the time to explore quite thoroughly how to make use of some features you may
-    not have stumbled upon otherwise.<&#47;p>
+    not have stumbled upon otherwise.</p>
 ---
 > This is the ninth in a series of articles of me writing up my notes from
 > from RailsConf Europe 2006. They are all first drafts, probably
 > technically inaccurate and slanderously misquoting people. Let me know
 > and I'll fix them.  You can follow this series of posts by looking at
-> articles in the [RailsConfEurope](&#47;index.php?s=RailsConf+Europe+2006)
+> articles in the [RailsConfEurope](/index.php?s=RailsConf+Europe+2006)
 > category.
 
 What a strange, quirky, funny creature. He's the spitting image of Jack Black,
@@ -44,7 +44,7 @@ highly entertaining and obviously a gifted programmer. He showed us some neat
 tricks with Ruby, like creative use of the splat (`*`) operator. One
 particularly nice one was for doing regexps:
 
-    m, *sub = *str.match &#47;regexp&#47;
+    m, *sub = *str.match /regexp/
     if m
       ## sub contains all of your matches
     end

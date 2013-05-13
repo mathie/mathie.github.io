@@ -17,13 +17,13 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.bitboost.com&#47;pawsense&#47;">PawSense helps you catproof your computer.<&#47;a><&#47;div>
-		<div class="delicious-extended">An (unfortunately Windows-only) application for detecting when your loveable cat has decided to assist your typing...<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;software">software<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;cats">cats<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;funny">funny<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://www.bitboost.com/pawsense/">PawSense helps you catproof your computer.</a></div>
+		<div class="delicious-extended">An (unfortunately Windows-only) application for detecting when your loveable cat has decided to assist your typing...</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/software">software</a> <a href="http://del.icio.us/mathie/cats">cats</a> <a href="http://del.icio.us/mathie/funny">funny</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.regrettheerror.com&#47;2006&#47;12&#47;crunks_06_the_y.html">Regret the Error: Crunks &acirc;&euro;&trade;06: The Year in Media Errors and Corrections<&#47;a><&#47;div>
-		<div class="delicious-extended">"...a recipe last Wednesday for meatballs with an article about foods to serve during the Super Bowl misstated the amount of chipotle chilies in adobo to be used. It is one or two canned chilies, not one or two cans."<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;corrections">corrections<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;humor">humor<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;funny">funny<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;media">media<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;journalism">journalism<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://www.regrettheerror.com/2006/12/crunks_06_the_y.html">Regret the Error: Crunks â€™06: The Year in Media Errors and Corrections</a></div>
+		<div class="delicious-extended">"...a recipe last Wednesday for meatballs with an article about foods to serve during the Super Bowl misstated the amount of chipotle chilies in adobo to be used. It is one or two canned chilies, not one or two cans."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/corrections">corrections</a> <a href="http://del.icio.us/mathie/humor">humor</a> <a href="http://del.icio.us/mathie/funny">funny</a> <a href="http://del.icio.us/mathie/media">media</a> <a href="http://del.icio.us/mathie/journalism">journalism</a>)</div>
+	</li>
+</ul>

@@ -17,13 +17,13 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.whatspop.com&#47;blog&#47;2006&#47;11&#47;glancing-alternative-song-structures.cfm">Glancing alternative song structures with Graphviz<&#47;a><&#47;div>
-		<div class="delicious-extended">FInite automata of song lyrics for 7 songs.  Well worth looking at the full-size images.  I wonder how much effort it would be to do this sort of thing on a grander scale, trawling one of the lyric archives...?<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;music">music<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;graphviz">graphviz<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;visualisation">visualisation<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;lyrics">lyrics<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://www.whatspop.com/blog/2006/11/glancing-alternative-song-structures.cfm">Glancing alternative song structures with Graphviz</a></div>
+		<div class="delicious-extended">FInite automata of song lyrics for 7 songs.  Well worth looking at the full-size images.  I wonder how much effort it would be to do this sort of thing on a grander scale, trawling one of the lyric archives...?</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/music">music</a> <a href="http://del.icio.us/mathie/graphviz">graphviz</a> <a href="http://del.icio.us/mathie/visualisation">visualisation</a> <a href="http://del.icio.us/mathie/lyrics">lyrics</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;errtheblog.com&#47;post&#47;41">Using with_scope in fat models and skinny controllers<&#47;a><&#47;div>
-		<div class="delicious-extended">I'd heard that using with_scope in conjunction with around_filter was evil.  But I'd never really seen a use for with_scope until today.  When I realised it would DRY up one of my models quite nicely!<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;programming">programming<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;activerecord">activerecord<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://errtheblog.com/post/41">Using with_scope in fat models and skinny controllers</a></div>
+		<div class="delicious-extended">I'd heard that using with_scope in conjunction with around_filter was evil.  But I'd never really seen a use for with_scope until today.  When I realised it would DRY up one of my models quite nicely!</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/programming">programming</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/activerecord">activerecord</a>)</div>
+	</li>
+</ul>

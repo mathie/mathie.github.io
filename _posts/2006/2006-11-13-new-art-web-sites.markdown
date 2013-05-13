@@ -23,9 +23,9 @@ tags:
 comments: []
 ---
 I've just recently launched another small web site for a local Edinburgh
-artist, [John V Gardner](http:&#47;&#47;www.johnvgardner.com&#47;). This joins the
+artist, [John V Gardner](http://www.johnvgardner.com/). This joins the
 existing site I created about 6 months ago for [Deborah A
-Cameron](http:&#47;&#47;www.deborahcameron.com&#47;). I wrote the code far too long ago,
+Cameron](http://www.deborahcameron.com/). I wrote the code far too long ago,
 and it's a little bit ropey, but it appears to work (it's the same application
 serving both those domains, using the aforementioned `account_location` for
 inspiration, plus some extra jiggery-pokery) and the two artists in question

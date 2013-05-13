@@ -25,7 +25,7 @@ comments:
     MjAwNi0wNS0wNyAyMDo1NjozNyArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNS0wNyAxOTo1NjozNyArMDEwMA==
-  content: <p>Thanks.  Good stuff in here.<&#47;p>
+  content: <p>Thanks.  Good stuff in here.</p>
 - id: 419
   author: Gerard Byrne
   author_email: gbyrne@experience.ie
@@ -34,16 +34,16 @@ comments:
     MjAwNi0wNS0xMiAwNToyMzoxOSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNS0xMiAwNDoyMzoxOSArMDEwMA==
-  content: ! '<p>Thanks from me too. How''s life in Scotland?<&#47;p>
+  content: ! '<p>Thanks from me too. How''s life in Scotland?</p>
 
 
     <p>I''ve been snowed under since the course - a new project is at that critical
     "dev complete" and about to go to QA. The last project managed to survive a 4
     week QA with zero defects (0 S1, 0 S2, about 6-8 of S3 (cosmetic, trivials)) and
     the bar has been set same for this one. I need to show that the first project
-    was not a one-hit-wonder!<&#47;p>'
+    was not a one-hit-wonder!</p>'
 ---
-I've been meaning to post my copy of these for a few weeks now.  I took some notes while I attended a 4 day course about Ruby on Rails, taught by [Chad Fowler](http:&#47;&#47;www.chadfowler.com&#47;), down at [Skills Matter](http:&#47;&#47;www.skillsmatter.com&#47;) in London.  Really I meant to tidy them up before posting, but I'm really busy with paying work (yay!) just now, so it would have to wait...
+I've been meaning to post my copy of these for a few weeks now.  I took some notes while I attended a 4 day course about Ruby on Rails, taught by [Chad Fowler](http://www.chadfowler.com/), down at [Skills Matter](http://www.skillsmatter.com/) in London.  Really I meant to tidy them up before posting, but I'm really busy with paying work (yay!) just now, so it would have to wait...
 
 ### Ruby on Rails course notes ###
 
@@ -57,7 +57,7 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
   parent object*, do: `"asdf".methods - Object.methods` which will return
   an array of all the methods of object `String`.
 
-* To find a particular method: `"asdf".methods.grep &#47;up&#47;` greps through the
+* To find a particular method: `"asdf".methods.grep /up/` greps through the
   array to find items that match that RE.
 
 * Ruby doesn't actually support named arguments yet (planned for 2.0?).  It's
@@ -69,11 +69,11 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
 
     link\_to "display name", {:action => "action", :controller => 'controller'}
 
-* Take a look at `throw`&#47;`catch`, and continuations for creating resumable
+* Take a look at `throw`/`catch`, and continuations for creating resumable
   or retryable exceptions.
 
 * Coercion between types will use `to_str`, `to_int`, etc for attempting
-  to coerce an object to a string&#47;integer internally.  `to_s` and `to_i`
+  to coerce an object to a string/integer internally.  `to_s` and `to_i`
   produce human-readable representations.
 
 * Interacting with shell programs:
@@ -96,7 +96,7 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
 
 * `yield 1` is exactly equivalent to `block.call(1)` FSVO block: `def x &block`...
 
-* ''.split is unicode safe - `'unicode string'.split &#47;&#47;` will split a string
+* ''.split is unicode safe - `'unicode string'.split //` will split a string
   into its individual characters, even for multibyte characters.
 
 * Use StringIO as mock object 'files' since lots of places use the IO interface.
@@ -115,10 +115,10 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
   will do the same for YAML files. :)
 
 * Look through the seaside tutorial for something completely different:
-  http:&#47;&#47;www.seaside.st&#47;Tutorial&#47;
+  http://www.seaside.st/Tutorial/
 
 * Work on the models and domain logic, trying stuff out in the console.  Leave
-  the controller&#47;view stuff 'til later...
+  the controller/view stuff 'til later...
 
 * In `method_missing`, use `define_method ...` to create a dynamic method, then
   it'll already be there for next time.
@@ -174,9 +174,9 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
 * Lookup the rake task in the slides to turn test data from scaffolding into
   the fixtures.  Slide 17 in the testing section, also in Rails Recipes.
 
-* `config&#47;database.yml` goes through the erb processor before YAML gets it.
+* `config/database.yml` goes through the erb processor before YAML gets it.
 
-* Using `=begin`&#47;`=end` seems to work for commenting out sections of ERB files.
+* Using `=begin`/`=end` seems to work for commenting out sections of ERB files.
 
 * `after_filter` happens after the *view*, not after the controller.
 
@@ -196,7 +196,7 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
   which provides the cleansing and validation, then mix it into the Active
   Record class.
 
-* Observers *have* to be enabled in `config&#47;environment.rb`.
+* Observers *have* to be enabled in `config/environment.rb`.
 
 * See recipe 59 for using cache sweepers, which seems particularly neat
   for doing auditing.  **Cache sweepers are only run when caching is
@@ -212,22 +212,22 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
 * See slide 7 on functional testing for doing a `login` helper for functional
   testing.
 
-* Session expiration time is set globally via `config&#47;environment.rb`.
+* Session expiration time is set globally via `config/environment.rb`.
 
 * Sessions can be loaded from the console for inspection, with
-  `Marshal.load(File.read("tmp&#47;sessions&#47;ruby_sess...."))`.  Oh, and you can
+  `Marshal.load(File.read("tmp/sessions/ruby_sess...."))`.  Oh, and you can
   change the session file prefix too (though I can't remember how).
 
 * `assert_tag` in functional testing parse the returned HTML and turn it
   into a DOM tree.  However, we don't think it'll work with XML (eg RSS, atom)
   too.
 
-* Look at [WATIR](http:&#47;&#47;wtr.rubyforge.org&#47;), WebUnit and Selenium for testing
+* Look at [WATIR](http://wtr.rubyforge.org/), WebUnit and Selenium for testing
   UI stuff.
 
 * Agiledocs is a method for generating documentation from your unit and
   functional tests.  Chad has a Ruby implementation on his web site.  The
-  original is [TestDox](http:&#47;&#47;agiledox.sourceforge.net&#47;).
+  original is [TestDox](http://agiledox.sourceforge.net/).
 
 * For `has_many :books, :conditions => 'published = 1'`, we've discovered that if
   you do `model_instance.books.create ...`, it will **not** automatically set
@@ -239,7 +239,7 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
 
 * `with_scope` can be combined with a bit of metaprogramming to automatically
   limit the scope of actions very easily.  See
-  [Nested With Scope](http:&#47;&#47;habtm.com&#47;articles&#47;2006&#47;02&#47;22&#47;nested-with_scope)
+  [Nested With Scope](http://habtm.com/articles/2006/02/22/nested-with_scope)
 
 * `Appointment.find(:first, :include => [:contacts => [:addresses => :cities]])`
   is going to eagerly load the first appointment along with its contacts, their
@@ -261,29 +261,29 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
   `acts_as_taggable` though anyway. :)
 
 * The splat notation works for routes.  So:
-  `map.connect 'tag&#47;:id&#47;*tags', :controller => 'posts', :action => 'tag'`
-  with `http:&#47;&#47;localhost:3000&#47;tag&#47;3&#47;a&#47;b&#47;c&#47;d` would cause `params[:action]`
+  `map.connect 'tag/:id/*tags', :controller => 'posts', :action => 'tag'`
+  with `http://localhost:3000/tag/3/a/b/c/d` would cause `params[:action]`
   to contain `[a, b, c, d]`.
 
 * If you want to include view stuff (say, some partials) in a plugin, you
-  have to use the `render :file => '..&#47;views&#47;....'` form.
+  have to use the `render :file => '../views/....'` form.
 
 * Put models in a plugin to share them between different applications.  Just
-  put the model files in `vendor&#47;plugins&#47;model_plugin&#47;lib&#47;model.rb`.
+  put the model files in `vendor/plugins/model_plugin/lib/model.rb`.
 
 * For actually delivering messages in a Rails web application, perhaps the
   way to do it is dump the outgoing messages into a table, then use something like
-  `script&#47;runner MailDeliveryQueue.deliver_all` in cron to push the messages outside
+  `script/runner MailDeliveryQueue.deliver_all` in cron to push the messages outside
   of the context of a web request. Perhaps then use
   `MailDeliveryQueue.create(Mailer.create_mail_thingie)` to push mails into
   the queue...
 
-* Look at vpim for generating iCal&#47;vcard stuff.
+* Look at vpim for generating iCal/vcard stuff.
 
-* multipart&#47;alternative support is done by having different versions of each
+* multipart/alternative support is done by having different versions of each
   view, one with each MIME type on it.  Ooh, shiny.
 
-* If you POST to an action with content-type application&#47;xml and the XML is
+* If you POST to an action with content-type application/xml and the XML is
   usefully formed like a hash, it will be pushed into params[].  So you can
   effectively push in XML-formatted active records into the db.
 
@@ -291,5 +291,5 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
   is useful for creating restricted templates that users can edit.  Say for
   example auto-replies for emails coming into a system...
 
-* Definitely look at [rtex](http:&#47;&#47;codefluency.com&#47;pages&#47;rtex) for the
+* Definitely look at [rtex](http://codefluency.com/pages/rtex) for the
   BTMH project.

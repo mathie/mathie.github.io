@@ -35,18 +35,18 @@ comments:
 
     - offline work : Google Gears; the other solution, on the Mac, is the SyncServices
     engine. Someone else pointed out somewhere that Google Gears lacked this major
-    component.<&#47;p>
+    component.</p>
 
 
     <p>I predict 2 things :
 
     1) the Google-Apple partnership will put Gears and synchronisation together, each
     party bringing their own piece of the puzzle to build this solution. This will
-    enhance application capabilities on the iPhone.<&#47;p>
+    enhance application capabilities on the iPhone.</p>
 
 
     <p>2) the iPhone is not the only platform where this will be available : of course,
-    the same mechanism will be active on the Mac ... within Safari.<&#47;p>
+    the same mechanism will be active on the Mac ... within Safari.</p>
 
 
     <p>And one last thing ...
@@ -55,13 +55,13 @@ comments:
     Safari 3.0 on Windows and Mac OS X.
 
     So just imagine : develop once (for Web 3.0) and deploy on Mac, iPhone and Windows
-    !<&#47;p>
+    !</p>
 
 
     <p>Now, let''s push this thought a little it further. We now have Safari, iTunes
     and QuickTime on Windows, Mac and on the iPhone (I don''t know about QuickTime
     on this last one !?). If you list all the technical frameworks contained in those
-    apps, you get a long list of capabilities to build on ... on all 3 platforms.<&#47;p>
+    apps, you get a long list of capabilities to build on ... on all 3 platforms.</p>
 
 
     <p>However, how is Apple going to make money from these free developments on Windows
@@ -70,7 +70,7 @@ comments:
     Apple makes money by selling hardware, because the hardware runs beautiful software
     for a huge user experience. So Apple is going to sell iPods (done), Apple TVs
     (ongoing - Hu !?) and numerous iPhones to ... mainly Windows users, as well as
-    a few Mac users.<&#47;p>'
+    a few Mac users.</p>'
 - id: 881
   author: Gregory Robinson
   author_email: greg@dev9.co.za
@@ -79,10 +79,10 @@ comments:
     MjAwOC0wNS0xOSAxMTo0OTozOCArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wNS0xOSAxMDo0OTozOCArMDEwMA==
-  content: <p>Great Post!<&#47;p>
+  content: <p>Great Post!</p>
 ---
-So, the [iPhone](http:&#47;&#47;www.apple.com&#47;iphone&#47;) doesn't have a specific Software Development Kit (SDK) as such.  You just create web applications and they'll happily work on it.  Most excellent!  I'll be able to target the iPhone with the technologies I already know (I never got the hang of Cocoa).
+So, the [iPhone](http://www.apple.com/iphone/) doesn't have a specific Software Development Kit (SDK) as such.  You just create web applications and they'll happily work on it.  Most excellent!  I'll be able to target the iPhone with the technologies I already know (I never got the hang of Cocoa).
 
-Well, based on that, here's my prediction (which isn't exactly too far fetched, I don't think): the iPhone and [Google Gears](http:&#47;&#47;gears.google.com&#47;) are a match made in heaven.  The iPhone will ship with Google Gears built in.
+Well, based on that, here's my prediction (which isn't exactly too far fetched, I don't think): the iPhone and [Google Gears](http://gears.google.com/) are a match made in heaven.  The iPhone will ship with Google Gears built in.
 
 (If I'm right, I want an iPhone as a prize!)

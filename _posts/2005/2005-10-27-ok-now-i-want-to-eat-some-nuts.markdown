@@ -24,4 +24,4 @@ comments:
     MjAwNS0xMC0yNyAxMjowMjoxNCArMDEwMA==
   content: oooh can we test you on pine nuts? then we could eat pesto :o)
 ---
-Following <a href="http:&#47;&#47;woss.name&#47;2005&#47;10&#47;24&#47;nuts-to-curry&#47;">Sunday's incident<&#47;a>, I had an appointment with the doctor today, finally registering with a new GP in Musselburgh.  He agreed with me that the best thing to do was to be prescribed an <a href="http:&#47;&#47;www.epipen.com&#47;">EpiPen<&#47;a>.  So I now have this pen-like device in a funny yellow tube, with 0.3mg of adrenaline (Epinephrine).  I'm almost tempted to try some nuts, just to see how it works! :-)
+Following <a href="http://woss.name/2005/10/24/nuts-to-curry/">Sunday's incident</a>, I had an appointment with the doctor today, finally registering with a new GP in Musselburgh.  He agreed with me that the best thing to do was to be prescribed an <a href="http://www.epipen.com/">EpiPen</a>.  So I now have this pen-like device in a funny yellow tube, with 0.3mg of adrenaline (Epinephrine).  I'm almost tempted to try some nuts, just to see how it works! :-)

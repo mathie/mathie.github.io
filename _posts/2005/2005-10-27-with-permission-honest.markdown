@@ -33,15 +33,15 @@ comments:
   date_gmt: !binary |-
     MjAwNS0xMC0yNyAxNDo0NzoyMiArMDEwMA==
   content: ! '<i>OK, random meandering ramble over, back to your regular scheduled
-    broadcast&acirc;&euro;&brvbar; <&#47;i>
+    broadcastâ€¦ </i>
 
 
-    I thought random meandering rambles <b>were<&#47;b> your regular scheduled broadcasts....
+    I thought random meandering rambles <b>were</b> your regular scheduled broadcasts....
     :-)
 
 
 
-    And <i>Queen<&#47;i>?  The entire back catalogue?  Yipes...
+    And <i>Queen</i>?  The entire back catalogue?  Yipes...
 
 
     Mike'
@@ -66,22 +66,22 @@ comments:
   content: Damn you, now you've got me doing it, and we just don't have enough money
     for me to go on mp3 spending sprees! ;-)
 ---
-I was given permission to spend money on <a href="http:&#47;&#47;www.allofmp3.com&#47;">AllOfMP3<&#47;a> last night by Annabel!  She's even suggesting albums that I might want to acquire!  So I've uploaded another $50 to it from my credit card and I'm currently searching for stuff to download. :-)  Though maybe it's not a good idea to admit, in public, that I'm currently grabbing the entire Queen back catalogue...
+I was given permission to spend money on <a href="http://www.allofmp3.com/">AllOfMP3</a> last night by Annabel!  She's even suggesting albums that I might want to acquire!  So I've uploaded another $50 to it from my credit card and I'm currently searching for stuff to download. :-)  Though maybe it's not a good idea to admit, in public, that I'm currently grabbing the entire Queen back catalogue...
 
-Unfortunately, my head feels like it's been hit by an iceberg today.  Which might have something to do with the Titanic beer I was drinking last night in The Regent...  See, we <em>had<&#47;em> to nip in for a swift 'alf -- after all, I don't get to go to the Big Smoke very often these days -- following our trip to see the priest who's doing the paperwork for our wedding.  That was entertaining.  Apparently, since I'm not Catholic (Annabel is, and we're being married in the Catholic cathedral) we have to ask for a special dispensation from the local bishop.  Which means filling out a few forms.  The fun bit was the conversation while he was ticking some boxes:
+Unfortunately, my head feels like it's been hit by an iceberg today.  Which might have something to do with the Titanic beer I was drinking last night in The Regent...  See, we <em>had</em> to nip in for a swift 'alf -- after all, I don't get to go to the Big Smoke very often these days -- following our trip to see the priest who's doing the paperwork for our wedding.  That was entertaining.  Apparently, since I'm not Catholic (Annabel is, and we're being married in the Catholic cathedral) we have to ask for a special dispensation from the local bishop.  Which means filling out a few forms.  The fun bit was the conversation while he was ticking some boxes:
 
 <blockqoute>
  <dl>
-  <dt>Priest<&#47;dt>
-  <dd>OK, so your not Catholic, but you are a believer, right?  You do believe in God?<br &#47;><em>assumes the answer's going to be yes and goes to tick the appropriate box.<&#47;em><&#47;dd>
-  <dt>Me<&#47;dt>
-  <dd>Uh, well, erm, the jury's still out on that one for me.<&#47;dd>
-  <dt>Priest<&#47;dt>
-  <dd>Ooh, good answer! [ ... ] It must have been pretty scary for you, coming to see a priest tonight?<&#47;dd>
-  <dt>Me<&#47;dt>
-  <dd>Nah, not really.  I've spent a week on holiday in France with Pete before and see him most times we're down at Annabel's parents.<&#47;dd>
-  <&#47;dl>
-<&#47;blockqoute>
+  <dt>Priest</dt>
+  <dd>OK, so your not Catholic, but you are a believer, right?  You do believe in God?<br /><em>assumes the answer's going to be yes and goes to tick the appropriate box.</em></dd>
+  <dt>Me</dt>
+  <dd>Uh, well, erm, the jury's still out on that one for me.</dd>
+  <dt>Priest</dt>
+  <dd>Ooh, good answer! [ ... ] It must have been pretty scary for you, coming to see a priest tonight?</dd>
+  <dt>Me</dt>
+  <dd>Nah, not really.  I've spent a week on holiday in France with Pete before and see him most times we're down at Annabel's parents.</dd>
+  </dl>
+</blockqoute>
 
 (Pete being the priest who will be marrying us, a close family friend of Annabel's!)
 

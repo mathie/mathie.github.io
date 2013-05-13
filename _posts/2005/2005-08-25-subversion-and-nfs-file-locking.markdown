@@ -22,7 +22,7 @@ comments:
     MjAwNS0wOC0yNSAxODozNjoxMSArMDEwMA==
   date_gmt: !binary |-
     MjAwNS0wOC0yNSAxNzozNjoxMSArMDEwMA==
-  content: ! 'We''ll see what the standard Debian Sarge package does in terms of flock()&#47;fcntl().
+  content: ! 'We''ll see what the standard Debian Sarge package does in terms of flock()/fcntl().
     I had always thought it was the other way around in terms of NFS-safeness, but
     whatever works!
 
@@ -83,11 +83,11 @@ comments:
 
     svn: Unable to open an ra_local session to URL
 
-    svn: Unable to open repository ''path&#47;to&#47;repo''
+    svn: Unable to open repository ''path/to/repo''
 
     svn: Error opening db lockfile
 
-    svn: Can''t get shared lock on file ''path&#47;to&#47;repo'': No locks available
+    svn: Can''t get shared lock on file ''path/to/repo'': No locks available
 
 
     I will get this working.  I''m determined to have subversion working'
@@ -103,7 +103,7 @@ comments:
 
     svn: Error opening db lockfile
 
-    svn: Can''t get shared lock on file ''&#47;home&#47;hendry&#47;repo&#47;public&#47;locks&#47;db.lock'':
+    svn: Can''t get shared lock on file ''/home/hendry/repo/public/locks/db.lock'':
     No locks available
 
 
@@ -114,7 +114,7 @@ comments:
     Any ETA when Dreamhost might FIX this??
 
 
-    http:&#47;&#47;wiki.dreamhost.com&#47;index.php&#47;Subversion'
+    http://wiki.dreamhost.com/index.php/Subversion'
 - id: 66
   author: mathie
   author_email: mathie@woss.name
@@ -146,7 +146,7 @@ comments:
     there a work around?
 
 
-    I''ve hosted my repo with fsfs on NFS without these issues. :&#47;'
+    I''ve hosted my repo with fsfs on NFS without these issues. :/'
 - id: 68
   author: Craig Campbell
   author_email: criagc@wil.com
@@ -182,16 +182,16 @@ comments:
 
     When the "svn: Unable to open an ra_local session to URL
 
-    svn: Unable to open repository &acirc;&euro;&tilde;path&#47;to&#47;repo&acirc;&euro;&trade;
+    svn: Unable to open repository â€˜path/to/repoâ€™
 
     svn: Error opening db lockfile
 
-    svn: Can&acirc;&euro;&trade;t get shared lock on file &acirc;&euro;&tilde;path&#47;to&#47;repo&acirc;&euro;&trade;:
-    No locks available" message occured, I changed the NFS mount option from default
-    to "hard,intr,bg,nolock,rw" and remount the nfs directory to my local mount point.<&#47;p>
+    svn: Canâ€™t get shared lock on file â€˜path/to/repoâ€™: No locks available" message
+    occured, I changed the NFS mount option from default to "hard,intr,bg,nolock,rw"
+    and remount the nfs directory to my local mount point.</p>
 
 
-    <p>I sugget you apply this solution to your systems.<&#47;p>'
+    <p>I sugget you apply this solution to your systems.</p>'
 - id: 70
   author: Chameleon
   author_email: pauledwards@gmail.com
@@ -200,12 +200,12 @@ comments:
     MjAwNi0wMi0xOSAwODo1NDoyMCArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0wMi0xOSAwNzo1NDoyMCArMDAwMA==
-  content: ! '<p>I agree that Byung-chul Lee''s solution does work.<&#47;p>
+  content: ! '<p>I agree that Byung-chul Lee''s solution does work.</p>
 
 
     <p>Subversion 1.2.1 running on a Fedora Core 3 server accessed from Ubuntu 5.10
     Breezy Badger workstation with eSVN 0.6.8 and svn command-line client version
-    1.2.0.<&#47;p>'
+    1.2.0.</p>'
 - id: 71
   author: Jramak
   author_email: maseriyer@yahoo.com
@@ -215,7 +215,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNy0yNCAwNDo0MTo0NyArMDEwMA==
   content: <p>wow, many thanks - Byung-chul Lee. It is a simple, elegant solution
-    -- certainly saved a lot of head pounding! thanks again.<&#47;p>
+    -- certainly saved a lot of head pounding! thanks again.</p>
 - id: 72
   author: GDK
   author_email: happygdk@yahoo.com
@@ -226,7 +226,7 @@ comments:
     MjAwOC0wNS0wOSAyMDo0MTo0NCArMDEwMA==
   content: <p>Thanks for the NFS mount option solution.  Suddenly, I could no longer
     access repositories or create new ones across drives (but could still create locally).  Your
-    solution saved the day.<&#47;p>
+    solution saved the day.</p>
 - id: 73
   author: Nicolas
   author_email: nick@hellonicolas.com
@@ -239,10 +239,10 @@ comments:
     server off a Windows Server machine (The best hardware for the job at the time),
     but I get that same error when I try to commit files when I work from a Mac. When
     I work from a PC I get no errors, only the Mac throws the "Can''t get exclusive
-    ock" error. Any suggestions?<&#47;p>
+    ock" error. Any suggestions?</p>
 
 
-    <p>(I wish Byung-chul Lee''s suggestion applied to me, but I don''t think it does)<&#47;p>'
+    <p>(I wish Byung-chul Lee''s suggestion applied to me, but I don''t think it does)</p>'
 - id: 74
   author: Cedric
   author_email: cedric.craze@pollux.com.br
@@ -257,20 +257,20 @@ comments:
 
     In both cases I have the "Can''t get exclusive lock" error when trying to commit.
 
-    Some suggestion?<&#47;p>'
+    Some suggestion?</p>'
 ---
-I should prefix this with a warning:  I know <em>next to nothing<&#47;em> about file locking and the implications of what I've just done.  However, it now appears to work, and I'm not <em>too<&#47;em> worried about simultaneous access to my subversion repository since I'm the only one that uses it.  (Even the <a href="http:&#47;&#47;woss.name&#47;svn&#47;">web interface<&#47;a> is currently running from a read-only mirror of the repository.)
+I should prefix this with a warning:  I know <em>next to nothing</em> about file locking and the implications of what I've just done.  However, it now appears to work, and I'm not <em>too</em> worried about simultaneous access to my subversion repository since I'm the only one that uses it.  (Even the <a href="http://woss.name/svn/">web interface</a> is currently running from a read-only mirror of the repository.)
 
-Since <a href="http:&#47;&#47;www.dreamhost.com&#47;rewards.cgi?wossname">DreamHost<&#47;a> have upgraded my shell machine to Sarge, my subversion repository has stopped working.  Which is not entirely unexpected, since one of the libraries the <code>svn<&#47;code> binary dynamically linked to (<code>libgdbm<&#47;code>) had shifted its SO_NAME from 1 to 3 in the upgrade.  OK, so a rebuild was done and the binaries were working.  Except for one major problem:
+Since <a href="http://www.dreamhost.com/rewards.cgi?wossname">DreamHost</a> have upgraded my shell machine to Sarge, my subversion repository has stopped working.  Which is not entirely unexpected, since one of the libraries the <code>svn</code> binary dynamically linked to (<code>libgdbm</code>) had shifted its SO_NAME from 1 to 3 in the upgrade.  OK, so a rebuild was done and the binaries were working.  Except for one major problem:
 
 [code]mathie@Tandoori:mathie$ svn up
 svn: Error opening db lockfile
-svn: Can't get shared lock on file '&#47;home&#47;mathie&#47;svnroot&#47;locks&#47;db.lock': No locks available[&#47;code]
+svn: Can't get shared lock on file '/home/mathie/svnroot/locks/db.lock': No locks available[/code]
 
-It couldn't successfully lock the repository.  Now my subversion repository uses the fs_fs backend (rather than Berkeley DB), and it's on an NFS mount.  It would appear that file locking isn't working over NFS in this particular situation.  Looking at <code>apr&#47;file_io&#47;unix&#47;flock.c<&#47;code>, I see there's code to use either <code>fcntl()<&#47;code> or <code>flock()<&#47;code> to do the locking, but given the choice, it'll use <code>fcntl()<&#47;code>.  So I tried out a wee test: <a href="http:&#47;&#47;woss.name&#47;wp-content&#47;readlock.c">readlock.c<&#47;a>  This attempts to create a read lock on a file using both methods.  Both methods work fine on a local filesystem with my laptop (Mac OS X 10.4) and on the shell server (Debian GNU&#47;Linux 3.1).  However the <code>fcntl()<&#47;code> method fails on the latter machine when it's on an NFS mount.  <code>flock()<&#47;code> does work.  Yee ha.  Solution?  Edit <code>apr&#47;include&#47;arch&#47;unix&#47;apr_private.h<&#47;code> and comment out the line that reads:
+It couldn't successfully lock the repository.  Now my subversion repository uses the fs_fs backend (rather than Berkeley DB), and it's on an NFS mount.  It would appear that file locking isn't working over NFS in this particular situation.  Looking at <code>apr/file_io/unix/flock.c</code>, I see there's code to use either <code>fcntl()</code> or <code>flock()</code> to do the locking, but given the choice, it'll use <code>fcntl()</code>.  So I tried out a wee test: <a href="http://woss.name/wp-content/readlock.c">readlock.c</a>  This attempts to create a read lock on a file using both methods.  Both methods work fine on a local filesystem with my laptop (Mac OS X 10.4) and on the shell server (Debian GNU/Linux 3.1).  However the <code>fcntl()</code> method fails on the latter machine when it's on an NFS mount.  <code>flock()</code> does work.  Yee ha.  Solution?  Edit <code>apr/include/arch/unix/apr_private.h</code> and comment out the line that reads:
 
-[code]#define HAVE_FCNTL_H 1[&#47;code]
+[code]#define HAVE_FCNTL_H 1[/code]
 
-Rebuild apr with a <code>make clean && make && make install<&#47;code> and your copy of subversion now 'works' (as in doesn't fail in the obvious way!) on an NFS-mounted filesystem.
+Rebuild apr with a <code>make clean && make && make install</code> and your copy of subversion now 'works' (as in doesn't fail in the obvious way!) on an NFS-mounted filesystem.
 
 Your job is to tell me how much I risk screwing up my repository having made this change...

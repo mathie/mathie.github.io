@@ -27,11 +27,11 @@ comments:
     MjAwNy0wNy0wMyAxMToyMjowOSArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wNy0wMyAxMDoyMjowOSArMDEwMA==
-  content: ! '<p>White space processing can be controlled by CSS using the <a href="http:&#47;&#47;www.w3.org&#47;TR&#47;CSS21&#47;text.html#white-space-prop"
-    rel="nofollow">white-space<&#47;a> property.<&#47;p>
+  content: ! '<p>White space processing can be controlled by CSS using the <a href="http://www.w3.org/TR/CSS21/text.html#white-space-prop"
+    rel="nofollow">white-space</a> property.</p>
 
 
-    <p>Single space. Double space.  Delimiter.<&#47;p>'
+    <p>Single space. Double space.  Delimiter.</p>'
 - id: 898
   author: Jonathan Palardy
   author_email: jonathan.palardy@gmail.com
@@ -41,11 +41,11 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNy0wMyAxMjozNToxMiArMDEwMA==
   content: ! '<p>The double-space "standard" is something I was taught in college.
-    Apparently, this only holds for typewriters.<&#47;p>
+    Apparently, this only holds for typewriters.</p>
 
 
-    <p>I must thank Robin Williams (http:&#47;&#47;www.amazon.com&#47;dp&#47;0201782634&#47;)
-    for clarifying that for me.<&#47;p>'
+    <p>I must thank Robin Williams (http://www.amazon.com/dp/0201782634/) for clarifying
+    that for me.</p>'
 - id: 899
   author: Denver Trouton
   author_email: dtrouton@yahoo.com
@@ -56,7 +56,7 @@ comments:
     MjAwNy0wNy0wMyAxMjozNTozOSArMDEwMA==
   content: <p>Yeah, I just found out about the single space thing recently.  I was
     always brought up to use the double space.  The trigger for me was the predictive
-    text in my new Nokia E65 -- it turns  into '0', which bugs the hell out of me!<&#47;p>
+    text in my new Nokia E65 -- it turns  into '0', which bugs the hell out of me!</p>
 - id: 900
   author: UX-admin
   author_email: tripivceta@hotmail.com
@@ -65,7 +65,7 @@ comments:
     MjAwNy0wNy0wMyAxNjozMDozNyArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wNy0wMyAxNTozMDozNyArMDEwMA==
-  content: <p>sed -e 's&#47;.[ ] *&#47;. &#47;g' text > text.processed<&#47;p>
+  content: <p>sed -e 's/.[ ] */. /g' text &gt; text.processed</p>
 - id: 901
   author: UX-admin
   author_email: tripivceta@hotmail.com
@@ -75,7 +75,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNy0wMyAxNTozMjowNSArMDEwMA==
   content: <p>For some reason, it doesn't want to show the backquotes I used for escaping
-    in that regex above!<&#47;p>
+    in that regex above!</p>
 - id: 902
   author: UX-admin
   author_email: tripivceta@hotmail.com
@@ -85,7 +85,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNy0wMyAxNTozMzozNiArMDEwMA==
   content: <p>And oh yeah, the double space after the dot is used only in the United
-    States. Europeans treat double spacing after a dot as a stylistical error.<&#47;p>
+    States. Europeans treat double spacing after a dot as a stylistical error.</p>
 - id: 903
   author: Brian
   author_email: bacam@z273.org.uk
@@ -98,7 +98,7 @@ comments:
     than between words to make it easier to read (but not twice as much).  Double
     spaces are useful in monospaced text to keep the distinction, but as you're using
     Word and HTML that shouldn't matter, as you'll get whatever the application decides.  Unless
-    Word is being crap, that is...<&#47;p>
+    Word is being crap, that is...</p>
 - id: 904
   author: Mark Brown
   author_email: broonie@sirena.org.uk
@@ -113,10 +113,10 @@ comments:
     and the next word than a sentence break (although there''s no need for that to
     be a double space and obviously when things are justified the spaces aren''t all
     the same size anyway). Other than that typesetting systems will generally ignore
-    the number of spaces when they flow text.<&#47;p>
+    the number of spaces when they flow text.</p>
 
 
-    <p>Like Jonathan said conventions for fixed width fonts are something else again.<&#47;p>'
+    <p>Like Jonathan said conventions for fixed width fonts are something else again.</p>'
 - id: 905
   author: Tim Kerby
   author_email: blogposts@shutter.pentaprism.org
@@ -126,7 +126,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNy0xMyAwODoxOTo1NCArMDEwMA==
   content: <p>But do you know the difference between your Hyphen, Em Dash, En Dash,
-    Quotation Dash, Figure Dash and Swung Dash?<&#47;p>
+    Quotation Dash, Figure Dash and Swung Dash?</p>
 - id: 906
   author: Graeme Mathieson
   author_email: mathie@rubaidh.com
@@ -136,7 +136,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNy0xNiAwOTo1Mjo1NSArMDEwMA==
   content: ! '<p>Tim: The first three I know, the others I''ve never heard of!  Time
-    to test Annabel''s editorial skills and see if she knows ''em. :-)<&#47;p>'
+    to test Annabel''s editorial skills and see if she knows ''em. :-)</p>'
 - id: 907
   author: Mark Allison
   author_email: m2r6a0@earthlink.net
@@ -148,7 +148,7 @@ comments:
   content: <p>On this topic, can anyone tell me how to set up Word 2007 to automatically
     put 2 spaces before a new sentence.  Unless I am losing my mind dealing with this
     ponderous program (always a possibility) there used to be a setting for this but
-    I cannot find it again.<&#47;p>
+    I cannot find it again.</p>
 ---
 One of the companies I'm contracting for just now (which is actually nearing the stage where I might be able to talk about some of our fun, exciting work over the past several months!) has an editorial aspect to the business.  They receive manuscripts from authors and they are passed through an Editor who copy-edits and proofs them before they go much further.
 

@@ -23,15 +23,15 @@ comments:
     MjAwNy0wNy0xOSAxMDowMDoxNiArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wNy0xOSAwOTowMDoxNiArMDEwMA==
-  content: ! '<p>ooh that looks fun :-)<&#47;p>
+  content: ! '<p>ooh that looks fun :-)</p>
 
 
-    <p>d''you think i can persuede work i need it on my PC?<&#47;p>'
+    <p>d''you think i can persuede work i need it on my PC?</p>'
 ---
-Apparently, this is not a joke, though you may find it hard to believe.  It's Email-meets-Second-Life: [3D Mailbox](http:&#47;&#47;www.3dmailbox.com&#47;).  Apparently, amongst other things, your spam is represented by 'sumo' guys that you can feed to the sharks.  The bit that got me, from the overview page:
+Apparently, this is not a joke, though you may find it hard to believe.  It's Email-meets-Second-Life: [3D Mailbox](http://www.3dmailbox.com/).  Apparently, amongst other things, your spam is represented by 'sumo' guys that you can feed to the sharks.  The bit that got me, from the overview page:
 
 > In the second level, set at Los Angeles International Airport (LAX), every email is a Boeing 747!
 
 I wonder how they visualise spam in level 2?  Planes which have been hijacked by terrorists that you can send your F-17s to take down...? ;-)
 
-[via [DF](http:&#47;&#47;daringfireball.net&#47;)]
+[via [DF](http://daringfireball.net/)]

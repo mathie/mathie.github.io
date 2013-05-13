@@ -15,9 +15,9 @@ categories:
 tags: []
 comments: []
 ---
-From the HTML source of <a href="http:&#47;&#47;www.apple.com&#47;mightymouse&#47;" title="Apple - Mighty Mouse">http:&#47;&#47;www.apple.com&#47;mightymouse&#47;<&#47;a>:
+From the HTML source of <a href="http://www.apple.com/mightymouse/" title="Apple - Mighty Mouse">http://www.apple.com/mightymouse/</a>:
 
 [code lang="xml"]<p class="sosumi">Mighty Mouse &#169; Viacom
- International Inc. All Rights Reserved.<&#47;p>[&#47;code]
+ International Inc. All Rights Reserved.</p>[/code]
 
-Note the class name.  Tee hee. :-)  (Pointed out by <a href="http:&#47;&#47;www.tuaw.com&#47;2005&#47;08&#47;08&#47;coding-humor-into-their-style-sheets&#47;" title="The Unofficial Apple Weblog">TUAW<&#47;a>.)
+Note the class name.  Tee hee. :-)  (Pointed out by <a href="http://www.tuaw.com/2005/08/08/coding-humor-into-their-style-sheets/" title="The Unofficial Apple Weblog">TUAW</a>.)

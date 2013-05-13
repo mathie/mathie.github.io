@@ -17,7 +17,7 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.smashingmagazine.com&#47;2007&#47;01&#47;19&#47;53-css-techniques-you-couldnt-live-without">53 CSS-Techniques You Couldn&acirc;&euro;&trade;t Live Without | Smashing Magazine<&#47;a><&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;accessibility">accessibility<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ajax">ajax<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;javascript">javascript<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;css">css<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://www.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without">53 CSS-Techniques You Couldnâ€™t Live Without | Smashing Magazine</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/accessibility">accessibility</a> <a href="http://del.icio.us/mathie/ajax">ajax</a> <a href="http://del.icio.us/mathie/javascript">javascript</a> <a href="http://del.icio.us/mathie/css">css</a>)</div>
+	</li>
+</ul>

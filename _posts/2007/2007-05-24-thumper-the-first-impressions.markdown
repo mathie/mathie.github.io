@@ -26,32 +26,32 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNS0yNCAxOToyNzo0MiArMDEwMA==
   content: ! '<p>To patch your Solaris 10 host, I highly recommend using the opensource
-    pca utility (smpatch is not the most reliable piece of software):<&#47;p>
+    pca utility (smpatch is not the most reliable piece of software):</p>
 
 
-    <p>http:&#47;&#47;www.par.univie.ac.at&#47;solaris&#47;pca&#47;<&#47;p>
+    <p>http://www.par.univie.ac.at/solaris/pca/</p>
 
 
-    <p>Pca has some nifty features, and is a piece of cake to use:<&#47;p>
+    <p>Pca has some nifty features, and is a piece of cake to use:</p>
 
 
     List available patches
 
 
-    <p>$ pca -l<&#47;p>
+    <p>$ pca -l</p>
 
 
     Install all reliability and security patches
 
 
-    <p>$ pca -i missingrs<&#47;p>
+    <p>$ pca -i missingrs</p>
 
 
     <ul>
 
-    <li>Ryan<&#47;li>
+    <li>Ryan</li>
 
-    <&#47;ul>'
+    </ul>'
 - id: 821
   author: Kisin
   author_email: jjm@ixtab.org.uk
@@ -61,7 +61,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNS0yNCAyMDo0NToyNSArMDEwMA==
   content: <p>24TB's ! That's one hell of an amount of storage. The tray loading hard
-    drives do look very nice.<&#47;p>
+    drives do look very nice.</p>
 - id: 822
   author: mathie
   author_email: mathie@rubaidh.com
@@ -74,7 +74,7 @@ comments:
     took 4 runs, installing one patch manually and a couple of reboots before it claimed
     every patch was installed.  And since it didn''t shut down correctly during one
     of the reboots, I can only hope that it''s all installed correctly.  I''ll definitely
-    check out <code>pca<&#47;code> in the future.<&#47;p>'
+    check out <code>pca</code> in the future.</p>'
 - id: 823
   author: Footsteps
   author_email: footsteps@gmail.com
@@ -84,7 +84,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNS0yNSAxNDoyMToyNCArMDEwMA==
   content: <p>Yes, smpatch is junk.  I hate to be so negative, but it's unreliable
-    worthless junk.  At best.  Use pca or even the R&amp;S patch clusters.<&#47;p>
+    worthless junk.  At best.  Use pca or even the R&amp;S patch clusters.</p>
 - id: 824
   author: Douglas F Shearer
   author_email: dougal.s@gmail.com
@@ -95,11 +95,11 @@ comments:
     MjAwNy0wNi0xMCAyMzo1MToxMiArMDEwMA==
   content: ! '<p>Oooh, shiny! Popped by here randomly to see what was up, surprised
     to see you have a Thumper and Solaris, mostly as I''m building a mini-thumper
-    (IBM Intel Box with multiple drives) using OpenSolaris.<&#47;p>
+    (IBM Intel Box with multiple drives) using OpenSolaris.</p>
 
 
     <p>Maybe Sun have turned their brain-wave satellite on the Edinburgh area....targeted
-    especially at Rails Developers.<&#47;p>'
+    especially at Rails Developers.</p>'
 ---
 In note form:
 
@@ -113,15 +113,15 @@ In note form:
 
 * The machine comes preconfigured with Solaris 10 U3.  The basic drive configuration is:
 
-  * the first two disks are Solaris Volume Manager (`meta*`) mirrors of each other, with partitions for `&#47;`, `&#47;var` & swap.  From what I can tell, there is >400GB of unpartitioned space on the boot volumes for some bizarre reason.
+  * the first two disks are Solaris Volume Manager (`meta*`) mirrors of each other, with partitions for `/`, `/var` & swap.  From what I can tell, there is >400GB of unpartitioned space on the boot volumes for some bizarre reason.
 
   * The remainder of the disks are amalgamated, in 8 raidz1 chunks, into a single pool called `zpool1`.  Each chunk has 5 or 6 disks, one from each of the 6 SATA controllers.  That seems like a good pattern for redundancy, but I'll probably try and rebuild them as raidz2 at some point.
 
-* Sun's online stuff (<http:&#47;&#47;docs.sun.com&#47;>, [Sun Update Connection](http:&#47;&#47;sunconnection.sun.com&#47;), [Online Support Centre](https:&#47;&#47;osc-emea.eu.sun.com&#47;OSCSW&#47;svcportal?pageName=OSCHomeSelfSolve) and [SunSolve](http:&#47;&#47;sunsolve.sun.com&#47;) that I've found so far) are a maze of twisty passages all, well, crap.  I spent a while trying to figure out how to do software updates, eventually tracked down [Sun Connection](http:&#47;&#47;www.sun.com&#47;service&#47;sunconnection&#47;gettingstarted.jsp).  But of course, the documentation refers mostly to the GUI and doesn't explain how `smpatch` works...
+* Sun's online stuff (<http://docs.sun.com/>, [Sun Update Connection](http://sunconnection.sun.com/), [Online Support Centre](https://osc-emea.eu.sun.com/OSCSW/svcportal?pageName=OSCHomeSelfSolve) and [SunSolve](http://sunsolve.sun.com/) that I've found so far) are a maze of twisty passages all, well, crap.  I spent a while trying to figure out how to do software updates, eventually tracked down [Sun Connection](http://www.sun.com/service/sunconnection/gettingstarted.jsp).  But of course, the documentation refers mostly to the GUI and doesn't explain how `smpatch` works...
 
 * It turns out that patching Solaris is a *lot* easier than I remember, and certainly easier than figuring out how: `smpatch update` appears to do most of the job, once you've registered the system.  There's some tweaking to be done afterwards because I see some patches are failing (requiring single user mode, or interactivity) but it's sorting the majority of them.  I shall read the man page while the rest are installing.
 
-* Registering the system from the command line is pretty easy -- just create the appropriate properties file and run `sconadm register -a -r &#47;path&#47;to&#47;file.properties`.  I'm having trouble figuring out whether I have a subscription key or not, though.  Does that happen automatically if you buy hardware from Sun, or only if you go with a super-duper support contract?  (Which I am planning to do anyway, but once it's closer to being deployed.)
+* Registering the system from the command line is pretty easy -- just create the appropriate properties file and run `sconadm register -a -r /path/to/file.properties`.  I'm having trouble figuring out whether I have a subscription key or not, though.  Does that happen automatically if you buy hardware from Sun, or only if you go with a super-duper support contract?  (Which I am planning to do anyway, but once it's closer to being deployed.)
 
 * `svcadm disable` is your friend.  Man, what *are* all those services?
 

@@ -35,11 +35,11 @@ comments:
     MjAwNS0wOS0xNCAxMzowMzoyNSArMDEwMA==
   date_gmt: !binary |-
     MjAwNS0wOS0xNCAxMjowMzoyNSArMDEwMA==
-  content: Hmm, I've just grabbed a processor-optimised build of 1.0.6, from <a href="http:&#47;&#47;homepage.mac.com&#47;ozjason&#47;moz&#47;"
-    rel="nofollow">ozjason's page<&#47;a> and I'm trying it out just now.  It feels
-    a lot slower than the beta of 1.5 beta 1.  However, the Google Toolbar is back
-    (it doesn't appear to work with Deer Park releases yet), which is handy 'cos I
-    got to gloat about my own personal web site having a higher page rank than <a
-    href="http:&#47;&#47;www.logicalware.com&#47;" rel="nofollow">work<&#47;a>. :-)
+  content: Hmm, I've just grabbed a processor-optimised build of 1.0.6, from <a href="http://homepage.mac.com/ozjason/moz/"
+    rel="nofollow">ozjason's page</a> and I'm trying it out just now.  It feels a
+    lot slower than the beta of 1.5 beta 1.  However, the Google Toolbar is back (it
+    doesn't appear to work with Deer Park releases yet), which is handy 'cos I got
+    to gloat about my own personal web site having a higher page rank than <a href="http://www.logicalware.com/"
+    rel="nofollow">work</a>. :-)
 ---
-<a href="http:&#47;&#47;mozilla.org&#47;products&#47;firefox&#47;">Firefox<&#47;a> has a new beta release: <a href="http:&#47;&#47;www.mozilla.org&#47;projects&#47;firefox&#47;">1.5 beta 1<&#47;a>.  I'm now using it and it seems shiny enough.  First impressions?  The preference pane is more Mac-like.  And the performance -- particularly navigating through history, switching between tabs and creating new tabs -- has drastically improved.  SVG support ought to be pretty neat, if I find a web site with vector graphics on it. :-)  And I'm looking forward to incorporating CSS 3 goodies into the new <a href="http:&#47;&#47;www.logicalware.com&#47;" title="Logicalware MailManager Email Response Management System">MailManager<&#47;a> UI.  Fortunately, the new UI code appears to be working well with Firefox 1.5b1 already, so hopefully I've not been doing anything <em>too<&#47;em> evil...
+<a href="http://mozilla.org/products/firefox/">Firefox</a> has a new beta release: <a href="http://www.mozilla.org/projects/firefox/">1.5 beta 1</a>.  I'm now using it and it seems shiny enough.  First impressions?  The preference pane is more Mac-like.  And the performance -- particularly navigating through history, switching between tabs and creating new tabs -- has drastically improved.  SVG support ought to be pretty neat, if I find a web site with vector graphics on it. :-)  And I'm looking forward to incorporating CSS 3 goodies into the new <a href="http://www.logicalware.com/" title="Logicalware MailManager Email Response Management System">MailManager</a> UI.  Fortunately, the new UI code appears to be working well with Firefox 1.5b1 already, so hopefully I've not been doing anything <em>too</em> evil...

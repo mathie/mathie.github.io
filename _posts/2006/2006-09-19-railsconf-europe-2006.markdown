@@ -35,7 +35,7 @@ comments:
     some other sites which contained the keynotes for the presentations. So there&#8217;s
     plenty of information going around. Check for example, the David&#8217;s blog
     post &#8220;decompressing RailsConf Europe&#8221; or my friend Mathie&#8217;s
-    post with a overview of the most positive ideas. [...]<&#47;p>
+    post with a overview of the most positive ideas. [...]</p>
 ---
 Wow! What a fantastic conference! It is, without a doubt, the most vibrant,
 exciting conference I've ever attended. I suppose that's not really saying
@@ -60,4 +60,4 @@ Absolute highlights of the two days:
 * The talk on ModelSearch.  Hopefully I can get my grubby paws on that code soon, because I have an application which would read *sooo* much better for it.
 * Talking with tens of other developers who are in exactly the same boat as me, having gone 'indie' during 2006 using Rails.
 
-Right, I think I'm off to download the [TextMate Basics for Rails](http:&#47;&#47;peepcode.com&#47;articles&#47;2006&#47;09&#47;02&#47;textmate-basics-for-rails) screencast from [topfunky](http:&#47;&#47;nubyonrails.com&#47;)'s new venture, [Peepcode](http:&#47;&#47;peepcode.com&#47;) and see if I can still remember it after the Lemsip has worn off...
+Right, I think I'm off to download the [TextMate Basics for Rails](http://peepcode.com/articles/2006/09/02/textmate-basics-for-rails) screencast from [topfunky](http://nubyonrails.com/)'s new venture, [Peepcode](http://peepcode.com/) and see if I can still remember it after the Lemsip has worn off...

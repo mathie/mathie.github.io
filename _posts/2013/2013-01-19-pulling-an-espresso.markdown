@@ -29,7 +29,7 @@ comments:
     MjAxMy0wMS0xOSAwODoxNjowMCArMDAwMA==
   content: ! '<p>Alternatively, put a couple of spoonfuls of freshly ground coffee
     into a coffee pot, put it on the stove for five minutes, then pour. It works for
-    (a less demanding) me.<&#47;p>
+    (a less demanding) me.</p>
 
 '
 - id: 1526
@@ -42,7 +42,7 @@ comments:
     MjAxMy0wMS0xOSAxMDoxMTowMCArMDAwMA==
   content: ! '<p>Have you tried a naked portafilter? I recently got one and whilst
     it''s debatable how much of a difference it makes to the final espresso, it certainly
-    exposes any deficiencies in your tamping!<&#47;p>
+    exposes any deficiencies in your tamping!</p>
 
 '
 - id: 1527
@@ -54,10 +54,10 @@ comments:
   date_gmt: !binary |-
     MjAxMy0wMS0yMyAwOTowOTowMCArMDAwMA==
   content: ! '<p>Ooh, I hadn''t heard of naked portafilters before, though looking
-    at http:&#47;&#47;www.ineedcoffee.com&#47;07&#47;naked-portafilter&#47; I''ve
-    seen them in action in a few coffee shops. It looks like a great tool for providing
-    feedback on the grind and tamping. One to add to the wish list. :) (Why is it
-    I start building up an extensive wish list of toys just after Christmas?!)<&#47;p>
+    at http://www.ineedcoffee.com/07/naked-portafilter/ I''ve seen them in action
+    in a few coffee shops. It looks like a great tool for providing feedback on the
+    grind and tamping. One to add to the wish list. :) (Why is it I start building
+    up an extensive wish list of toys just after Christmas?!)</p>
 
 '
 - id: 1528
@@ -70,12 +70,12 @@ comments:
     MjAxMy0wMS0yMyAxMDo1NTowMCArMDAwMA==
   content: ! '<p>Plus it''s so much fun watching the coffee ooze out of a bottomless
     portafilter! Seeing the build up of oils on the underside also makes me think
-    that it must make a difference to the quality of the shot &ndash; the less stuff
-    the coffee touches on its way out, the better, right?<&#47;p>
+    that it must make a difference to the quality of the shot – the less stuff the
+    coffee touches on its way out, the better, right?</p>
 
 
     <p>The problem for me is that I now know just how much the Porlex hand grinder
-    is the weak link in my espresso chain...<&#47;p>
+    is the weak link in my espresso chain...</p>
 
 '
 ---

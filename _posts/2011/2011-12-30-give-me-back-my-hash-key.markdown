@@ -35,7 +35,7 @@ comments:
   content: ! '<p>The other option is just to use escape instead of meta (which those
     of us who''ve had to spend time using terminals or whatever have got into the
     habit of doing). Reading your post I realized I don''t actually ever use the meta
-    key, I always use escape in place of a chord.<&#47;p>
+    key, I always use escape in place of a chord.</p>
 
 '
 ---
@@ -50,25 +50,25 @@ If you tick all these boxes, and have suddenly discovered that your # key (which
 
 The problem is that `M-3` is bound to `digit-argument`. This allows you to repeat commands (e.g. if you type `M-3` `c`, then it will output `ccc`) which I've got to admit I don't use terribly often.
 
-It turns out that the bindings for keys are controlled by the [readline](http:&#47;&#47;cnswww.cns.cwru.edu&#47;php&#47;chet&#47;readline&#47;rltop.html) library and you can customise them with readline's configuration file, `~&#47;.inputrc`. If you want to override the default behaviour of M-3 and turn it back to emitting the `#` symbol, put the following in that file:
+It turns out that the bindings for keys are controlled by the [readline](http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html) library and you can customise them with readline's configuration file, `~/.inputrc`. If you want to override the default behaviour of M-3 and turn it back to emitting the `#` symbol, put the following in that file:
 
     "\e3": '#'
 
 You'll need to restart bash (or force it to reload its `inputrc` file with `C-x C-r`) in order for it to take effect.
 
-Here's another related tip, while I'm here. I picked this one up from [Ross](http:&#47;&#47;blog.rah.org&#47;) a few years ago. I almost never use the UK currency symbol (`&pound;`) in a shell environment. On the other hand, there's another operation I perform quite often at the command line: commenting out the command I'm currently typing. It usually happens when I'm doing a sequence of steps at the command line, and I realise that I've forgotten a prerequisite step. Rather than sticking the current line in the kill ring (`C-e C-u` or `C-a C-k`), then remembering to yank it (`C-y`) again, I tend to jump to the start of the line (`C-a`), stick a hash in (to comment the line out), then hit enter. That way it's in my (searchable) bash history for when I next need it.
+Here's another related tip, while I'm here. I picked this one up from [Ross](http://blog.rah.org/) a few years ago. I almost never use the UK currency symbol (`£`) in a shell environment. On the other hand, there's another operation I perform quite often at the command line: commenting out the command I'm currently typing. It usually happens when I'm doing a sequence of steps at the command line, and I realise that I've forgotten a prerequisite step. Rather than sticking the current line in the kill ring (`C-e C-u` or `C-a C-k`), then remembering to yank it (`C-y`) again, I tend to jump to the start of the line (`C-a`), stick a hash in (to comment the line out), then hit enter. That way it's in my (searchable) bash history for when I next need it.
 
-But that's a fairly cumbersome sequence too, so let's shorten it. Stick the following in `~&#47;.inputrc`:
+But that's a fairly cumbersome sequence too, so let's shorten it. Stick the following in `~/.inputrc`:
 
-    "&pound;": '\C-a#\C-m'
+    "£": '\C-a#\C-m'
 
-and restart your shell. Now when you're part way through typing a command line and want to switch tracks, hit the `&pound;` sign and you're done. When you want the command back, retrieve it from your shell history (`C-r` to search!), then hit `C-a C-d` to remove the comment sign and you're good to go.
+and restart your shell. Now when you're part way through typing a command line and want to switch tracks, hit the `£` sign and you're done. When you want the command back, retrieve it from your shell history (`C-r` to search!), then hit `C-a C-d` to remove the comment sign and you're good to go.
 
-One last wee trick. You really can remap any key to any other key. Imagine the fun and hilarity of the following in your `~&#47;.inputrc`:
+One last wee trick. You really can remap any key to any other key. Imagine the fun and hilarity of the following in your `~/.inputrc`:
 
     "l": 'r'
     "s": 'm'
 
 :-)
 
-**Update**: My colleague, Mihai, points out that the only appreciable difference between the UK and US keyboard layout on the Mac is that the `#` and `&pound;` key combinations are swapped around (oh, and it's easier to find the &trade; than the &euro; now, not that I use either). Since I've just discovered that my `irb` isn't picking up the `~&#47;.inputrc` and doing the right thing, I reckon I'll just switch to the US layout...
+**Update**: My colleague, Mihai, points out that the only appreciable difference between the UK and US keyboard layout on the Mac is that the `#` and `£` key combinations are swapped around (oh, and it's easier to find the ™ than the € now, not that I use either). Since I've just discovered that my `irb` isn't picking up the `~/.inputrc` and doing the right thing, I reckon I'll just switch to the US layout...

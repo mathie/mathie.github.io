@@ -24,26 +24,26 @@ comments: []
 ---
 Mac OS X on my desktop computer (a newish 27" iMac, using a Promise Thunderbolt disk array for the root filesystem) seems to be having filesystem troubles. I notice it through symlinks going awry, though I'm sure they're not the only victim. I tidied all the errant symlinks up two weeks ago, hoping it was a temporary glitch, but they're back again today. Here's an example:
 
-    > find -L &#47;System -type l -print0 |xargs -0 ls -l
-    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 &#47;System&#47;Library&#47;Frameworks&#47;ApplicationServices.framework&#47;Frameworks&#47;CoreGraphics.framework&#47;Headers -> >File<&#47;string>????<key>L
-    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 &#47;System&#47;Library&#47;Frameworks&#47;ApplicationServices.framework&#47;Frameworks&#47;HIServices.framework&#47;Headers -> ?6?s?A??]h?_?:d9?r?
-    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 &#47;System&#47;Library&#47;Frameworks&#47;ApplicationServices.framework&#47;Versions&#47;A&#47;Frameworks&#47;CoreGraphics.framework&#47;Headers -> >File<&#47;string>????<key>L
-    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 &#47;System&#47;Library&#47;Frameworks&#47;ApplicationServices.framework&#47;Versions&#47;A&#47;Frameworks&#47;HIServices.framework&#47;Headers -> ?6?s?A??]h?_?:d9?r?
-    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 &#47;System&#47;Library&#47;Frameworks&#47;ApplicationServices.framework&#47;Versions&#47;Current&#47;Frameworks&#47;CoreGraphics.framework&#47;Headers -> >File<&#47;string>????<key>L
-    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 &#47;System&#47;Library&#47;Frameworks&#47;ApplicationServices.framework&#47;Versions&#47;Current&#47;Frameworks&#47;HIServices.framework&#47;Headers -> ?6?s?A??]h?_?:d9?r?
+    > find -L /System -type l -print0 |xargs -0 ls -l
+    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreGraphics.framework/Headers -> >File</string>????<key>L
+    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers -> ?6?s?A??]h?_?:d9?r?
+    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Headers -> >File</string>????<key>L
+    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Headers -> ?6?s?A??]h?_?:d9?r?
+    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 /System/Library/Frameworks/ApplicationServices.framework/Versions/Current/Frameworks/CoreGraphics.framework/Headers -> >File</string>????<key>L
+    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:42 /System/Library/Frameworks/ApplicationServices.framework/Versions/Current/Frameworks/HIServices.framework/Headers -> ?6?s?A??]h?_?:d9?r?
 
 Each of those symlinks are pointing to some garbage. (Interestingly, the garbage quite often looks like the partial contents of a plist file.)
 
 Here's another example, and this is one I *remember fixing* last time:
 
 
-    lrwxr-xr-x  1 root  wheel  27 12 Nov 19:06 &#47;System&#47;Library&#47;Frameworks&#47;JavaVM.framework&#47;Frameworks -> Versions&#47;Current&#47;Frameworks
-    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:43 &#47;System&#47;Library&#47;Frameworks&#47;JavaVM.framework&#47;Headers -> Versions&#47;Current&#47;Headers
-    lrwxr-xr-x  1 root  wheel  23 12 Nov 19:06 &#47;System&#47;Library&#47;Frameworks&#47;JavaVM.framework&#47;JavaVM -> Versions&#47;Current&#47;JavaVM
-    lrwxr-xr-x  1 root  wheel  26 15 Jan 09:45 &#47;System&#47;Library&#47;Frameworks&#47;JavaVM.framework&#47;Resources -> Versions&#47;Current&#47;Resources
-    lrwxr-xr-x  1 root  wheel   1  8 Jan 14:57 &#47;System&#47;Library&#47;Frameworks&#47;JavaVM.framework&#47;Versions&#47;Current -> c
+    lrwxr-xr-x  1 root  wheel  27 12 Nov 19:06 /System/Library/Frameworks/JavaVM.framework/Frameworks -> Versions/Current/Frameworks
+    lrwxr-xr-x  1 root  wheel  24 15 Jan 09:43 /System/Library/Frameworks/JavaVM.framework/Headers -> Versions/Current/Headers
+    lrwxr-xr-x  1 root  wheel  23 12 Nov 19:06 /System/Library/Frameworks/JavaVM.framework/JavaVM -> Versions/Current/JavaVM
+    lrwxr-xr-x  1 root  wheel  26 15 Jan 09:45 /System/Library/Frameworks/JavaVM.framework/Resources -> Versions/Current/Resources
+    lrwxr-xr-x  1 root  wheel   1  8 Jan 14:57 /System/Library/Frameworks/JavaVM.framework/Versions/Current -> c
 
-The problem here isn't the first four symlinks &ndash; they're all pointing to the right places &ndash; but the last one (which they're all pointing through) which is pointing to 'c', not 'A' like it should.
+The problem here isn't the first four symlinks – they're all pointing to the right places – but the last one (which they're all pointing through) which is pointing to 'c', not 'A' like it should.
 
 The symlink targets all seem to be the right length, just the wrong characters.
 

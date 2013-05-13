@@ -24,7 +24,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMC0wOSAxNDoyNDozNiArMDEwMA==
   content: <p>I haven't really looked at this stuff closely, but isn't this basically
-    the use case that svk exists to solve?<&#47;p>
+    the use case that svk exists to solve?</p>
 - id: 608
   author: Labrat
   author_email: richstyles@gmail.com
@@ -34,24 +34,24 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMC0xMCAwMToyNDoyMiArMDEwMA==
   content: ! '<p>I was about to make the exact same comment as above.  Once you have
-    an svk mirror it''s a couple steps.<&#47;p>
+    an svk mirror it''s a couple steps.</p>
 
 
-    <p>svk mkdir &#47;&#47;local
+    <p>svk mkdir //local
 
-    svk cp &#47;&#47;mirror&#47;myproj &#47;&#47;local&#47;myproj
+    svk cp //mirror/myproj //local/myproj
 
-    svk co &#47;&#47;local&#47;myproj  local_folder<&#47;p>
+    svk co //local/myproj  local_folder</p>
 
 
     <p>Before you hop the train:
 
-    local_folder$   svk pull<&#47;p>
+    local_folder$   svk pull</p>
 
 
     <p>commit like any other:
 
-    svk ci -m "whatever"<&#47;p>
+    svk ci -m "whatever"</p>
 
 
     <p>when you get connected again:
@@ -59,14 +59,14 @@ comments:
     svk pull   #resolves any conflicts with smerge
 
     svk push --verbatim  #makes each local commit to the main repository, with individual
-    commit messages<&#47;p>
+    commit messages</p>
 
 
-    <p>I''m typing from memory but that should be more or less accurate.<&#47;p>
+    <p>I''m typing from memory but that should be more or less accurate.</p>
 
 
     <p>It also serves as a good backup (provided you sync regularly) if your main
-    subversion goes down for any reason.<&#47;p>'
+    subversion goes down for any reason.</p>'
 - id: 609
   author: Nathaniel Talbott
   author_email: nathaniel@talbott.ws
@@ -76,13 +76,13 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMC0xMCAwMTo0NTozMSArMDEwMA==
   content: ! '<p>You''ve done it - I now love svk even more for having seen an alternative
-    ;-)<&#47;p>
+    ;-)</p>
 
 
     <p>Seriously, even though it''s a bit overcomplicated, making the learning curve
     a bit steep, svk is the bee''s knees if you need to do disconnected development
-    and&#47;or contribute to projects for which you don''t have commit privileges.
-    And what developer hasn''t needed to do one or the other of those at some point?<&#47;p>'
+    and/or contribute to projects for which you don''t have commit privileges. And
+    what developer hasn''t needed to do one or the other of those at some point?</p>'
 - id: 610
   author: mathie
   author_email: mathie@woss.name
@@ -92,16 +92,16 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMC0xMCAwODowMToyOCArMDEwMA==
   content: ! '<p>OK, this post really was in the ''well, duh!'' category!  Yes, having
-    investigated svk a little more, I see it is the answer to all my problems.  Oops.<&#47;p>
+    investigated svk a little more, I see it is the answer to all my problems.  Oops.</p>
 
 
     <p>The major disconnect I had with svk was that I didn''t realise it talked directly
     to vanilla upstream subversion repositories -- for some reason I imagined it had
     its own master repository and I wasn''t prepared to make the switch from subversion
-    just yet.<&#47;p>
+    just yet.</p>
 
 
-    <p>I''ll be using svk on the train on the way back home. :-)<&#47;p>'
+    <p>I''ll be using svk on the train on the way back home. :-)</p>'
 - id: 611
   author: Brian Ewins
   author_email: brian.ewins@gmail.com
@@ -112,10 +112,10 @@ comments:
     MjAwNi0xMC0xMiAyMjowMjo1MSArMDEwMA==
   content: ! '<p>There''s another alternative to svk for this - bzr-svn:
 
-    http:&#47;&#47;bazaar-vcs.org&#47;BzrForeignBranches&#47;Subversion<&#47;p>
+    http://bazaar-vcs.org/BzrForeignBranches/Subversion</p>
 
 
-    <p>It''s interesting, if a bit alpha.<&#47;p>'
+    <p>It''s interesting, if a bit alpha.</p>'
 ---
 This should be in the 'Well, duh!' category, but I'd never thought of it before, so I thought I'd share it.  I'm currently in the train between Edinburgh and London, and I'm too cheap to pay for the Wifi access.  Actually, that's not the whole story.  I kinda *like* the disconnectedness because it allows me to focus on some serious coding in peace and quiet -- something Mail.app rarely lets me do.
 

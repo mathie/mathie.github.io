@@ -31,7 +31,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wOC0wOSAxMDo1OTo1NiArMDEwMA==
   content: <p>It's not 100% clear that the Sun license actually meets the OSD, of
-    course...<&#47;p>
+    course...</p>
 - id: 569
   author: jimmyjames
   author_email: here@here.com
@@ -41,7 +41,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wOC0wOSAxMTowMzo0OSArMDEwMA==
   content: ! '<p>I agree, Dtrace will be a great addition to Leopard. It is great
-    to see Apple porting these low visibility&#47;high impact tools for developers.<&#47;p>
+    to see Apple porting these low visibility/high impact tools for developers.</p>
 
 
     <p>I would also love ZFS. That isn''t how Time Machine works apparantly! it uses
@@ -50,7 +50,7 @@ comments:
     I did and got torn a new one! Apparantly Mac users are all 60 year old grannies
     who don''t need decent file systems!
 
-    Check out this quote from Macworld on how it Time Machine works:<&#47;p>
+    Check out this quote from Macworld on how it Time Machine works:</p>
 
 
     <blockquote><p>"How will Time Machine work for people who modify gigantic files
@@ -59,11 +59,11 @@ comments:
     that change. As a result, drive space on my backup device could quickly disappear.
     Apple suggests that the answer will be for application developers to modify their
     programs to break up data into more discrete elements that can be backed up more
-    simply by Time Machine&acirc;&euro;&rdquo;something they may already be doing
-    in order to make their files searchable via Spotlight."<&#47;p><&#47;blockquote>
+    simply by Time Machineâ€”something they may already be doing in order to make
+    their files searchable via Spotlight."</p></blockquote>
 
 
-    <p>Laughable.<&#47;p>'
+    <p>Laughable.</p>'
 - id: 570
   author: mathie
   author_email: mathie@woss.name
@@ -73,7 +73,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wOC0wOSAxMTozNDo0NyArMDEwMA==
   content: ! '<p>jimmyjames: Of course, that would have been the ''obvious'' implementation
-    for Time Machine: ZFS and snapshots!<&#47;p>'
+    for Time Machine: ZFS and snapshots!</p>'
 - id: 571
   author: jimmyjames
   author_email: here@here.com
@@ -83,10 +83,10 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wOC0wOSAxMjo0NzoyMyArMDEwMA==
   content: ! '<p>I agree. I wonder if this is just a temporary solution, and that
-    eventually, zfs will be integrated.<&#47;p>
+    eventually, zfs will be integrated.</p>
 
 
-    <p>Come on Apple, you are sooooo close to having a really good solution!<&#47;p>'
+    <p>Come on Apple, you are sooooo close to having a really good solution!</p>'
 - id: 572
   author: Mark Brown
   author_email: broonie@sirena.org.uk
@@ -99,7 +99,7 @@ comments:
     approach: it allows people to get this without support from the filesystem itself
     (so on existing disks and so on). I''d hope that it would be able to take advantage
     of any support in the underlying filesystem but it seems useful for that to be
-    an optimisation rather than a requirement.<&#47;p>'
+    an optimisation rather than a requirement.</p>'
 - id: 573
   author: Colin Docherty
   author_email: cd@doch.org.uk
@@ -112,7 +112,7 @@ comments:
     me geeky? There still seems to be no mention of the minimum spec for 10.5, this
     concerns me. Are they going to drop to whole G3 imac bunch... The Time Machine
     looks cool, but it must be very hungry. I wonder if you will be able to turn off
-    all the eye-candy, for the less graphically capable macs ?<&#47;p>
+    all the eye-candy, for the less graphically capable macs ?</p>
 - id: 574
   author: Mark Brown
   author_email: broonie@sirena.org.uk
@@ -124,7 +124,7 @@ comments:
   content: ! '<p>Colin: You can turn off most of the eye candy that''s there at the
     minute so I''d imagine that you''ll be able to turn off any new eye candy. That
     sort of feature is also used for reducing power consumption on laptops so it''ll
-    tend to get done even if they''re not so worried about older hardware.<&#47;p>'
+    tend to get done even if they''re not so worried about older hardware.</p>'
 - id: 575
   author: The Complimenting Commenter
   author_email: commenter@gmail.com
@@ -135,12 +135,12 @@ comments:
     MjAwNi0wOS0wNyAxODo1NToxMCArMDEwMA==
   content: <p>Quite interesting to those who know.  Hopefully it will be great.  I
     just want to wish you a great birthday today and hope that the rest of your week
-    goes well too!<&#47;p>
+    goes well too!</p>
 ---
-OK, so nobody else seems to care as far as I can see from wading through my feeds since the WWDC keynote, but the most exciting feature I noticed was buried at the bottom of the [preview of xcode 3.0](http:&#47;&#47;www.apple.com&#47;macosx&#47;leopard&#47;xcode.html):
+OK, so nobody else seems to care as far as I can see from wading through my feeds since the WWDC keynote, but the most exciting feature I noticed was buried at the bottom of the [preview of xcode 3.0](http://www.apple.com/macosx/leopard/xcode.html):
 
 > Many such Xray instruments leverage the open source DTrace, now built into Mac OS X Leopard.
 
-They've incorporated [DTrace](http:&#47;&#47;www.opensolaris.org&#47;os&#47;community&#47;dtrace&#47;) into Mac OS X!  Perhaps I'm biased because I've been following Solaris development a bit lately, but this is really exciting news.  DTrace seems to me (I've never actually used it, just read other people's experiences) to be a fantastic tool for debugging and profiling both development and production systems.  I'm really looking forward to using it (for example, [dtrace on rails](http:&#47;&#47;blogs.sun.com&#47;roller&#47;page&#47;bmc?entry=dtrace_on_rails)).
+They've incorporated [DTrace](http://www.opensolaris.org/os/community/dtrace/) into Mac OS X!  Perhaps I'm biased because I've been following Solaris development a bit lately, but this is really exciting news.  DTrace seems to me (I've never actually used it, just read other people's experiences) to be a fantastic tool for debugging and profiling both development and production systems.  I'm really looking forward to using it (for example, [dtrace on rails](http://blogs.sun.com/roller/page/bmc?entry=dtrace_on_rails)).
 
-But that's not what I'm getting really excited about.  I'm getting really excited about something that was hinted a while ago and hasn't, as far as I can see, been mentioned.  Something else from the same open source codebase that would suit being integrated into Mac OS X.  [ZFS](http:&#47;&#47;www.opensolaris.org&#47;os&#47;community&#47;zfs&#47;)!
+But that's not what I'm getting really excited about.  I'm getting really excited about something that was hinted a while ago and hasn't, as far as I can see, been mentioned.  Something else from the same open source codebase that would suit being integrated into Mac OS X.  [ZFS](http://www.opensolaris.org/os/community/zfs/)!

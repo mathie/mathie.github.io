@@ -28,7 +28,7 @@ comments:
     MjAwNi0wNS0yNiAxNjowODoyNSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNS0yNiAxNTowODoyNSArMDEwMA==
-  content: <p>the cheek! my mail aint spam!!<&#47;p>
+  content: <p>the cheek! my mail aint spam!!</p>
 - id: 476
   author: mathie
   author_email: mathie@woss.name
@@ -38,10 +38,10 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wNS0yNiAxNzoxNzo1NSArMDEwMA==
   content: <p>Well that about says it all.  I just got some comment spam to approve
-    instead...<&#47;p>
+    instead...</p>
 ---
-I've been mucking around, updating the site a little today.  I've upgraded to the latest version of the [K2](http:&#47;&#47;getk2.com&#47;) theme and installed the [widgets](http:&#47;&#47;automattic.com&#47;code&#47;widgets&#47;) plugin for managing the sidebar without bothering to fiddle with the theme source.  So now the only theme tweak I've got is to put those nasty evil ads (mmm, clicky goodness!) in `theloop.php`.
+I've been mucking around, updating the site a little today.  I've upgraded to the latest version of the [K2](http://getk2.com/) theme and installed the [widgets](http://automattic.com/code/widgets/) plugin for managing the sidebar without bothering to fiddle with the theme source.  So now the only theme tweak I've got is to put those nasty evil ads (mmm, clicky goodness!) in `theloop.php`.
 
-I also grabbed [Ultimate Tag Warrior](http:&#47;&#47;www.neato.co.nz&#47;ultimate-tag-warrior&#47;) to have a play around with tags once again.  I recall disabling the last tagging thing I had for some reason or another, but I figured I'd give it a go again.
+I also grabbed [Ultimate Tag Warrior](http://www.neato.co.nz/ultimate-tag-warrior/) to have a play around with tags once again.  I recall disabling the last tagging thing I had for some reason or another, but I figured I'd give it a go again.
 
 Anyway, if you spot things going awry, do let me know.  Maybe you could just talk to me anyway -- it would be good for my inbox to see  something other than spam sometime today...

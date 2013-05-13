@@ -17,7 +17,7 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;furbo.org&#47;2008&#47;03&#47;16&#47;brain-surgeons&#47;">furbo.org &middot; Brain surgeons<&#47;a><&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;apple">apple<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;development">development<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;programming">programming<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;iphone">iphone<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;sdk">sdk<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;mobile">mobile<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://furbo.org/2008/03/16/brain-surgeons/">furbo.org · Brain surgeons</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/apple">apple</a> <a href="http://del.icio.us/mathie/development">development</a> <a href="http://del.icio.us/mathie/programming">programming</a> <a href="http://del.icio.us/mathie/iphone">iphone</a> <a href="http://del.icio.us/mathie/sdk">sdk</a> <a href="http://del.icio.us/mathie/mobile">mobile</a>)</div>
+	</li>
+</ul>

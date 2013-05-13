@@ -33,16 +33,16 @@ comments:
     allows orders to be stored in varying states - most notably "editable", "submitted"
     and "completed". So we have two of thosed boolean-timestamps: submitted_at and
     completed_at and have been doing something pretty similar to the above for some
-    time now.<&#47;p>
+    time now.</p>
 
 
     <p>However I''ve been using the autoscope plugin to restrict scope rather than
-    rolling my own scoping method.<&#47;p>
+    rolling my own scoping method.</p>
 
 
     <p>Recently we''re about to add a few more states in, so it''s time for us to
     move over to acts_as_state_machine. But as a simple way of keeping state - you
-    can''t beat this method.<&#47;p>'
+    can''t beat this method.</p>'
 - id: 995
   author: Henrik N
   author_email: henrik@nyh.se
@@ -51,12 +51,11 @@ comments:
     MjAwOC0wNC0xNCAxMjozODo1NCArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wNC0xNCAxMTozODo1NCArMDEwMA==
-  content: ! "<p>I've done something similar with a module (in <code>app&#47;models&#47;shared&#47;publishable_model.rb<&#47;code>).
-    Including the module adds a named scope (has_finder), the instance method<&#47;p>\n\n<pre><code>\ndef
-    published?\n  published_at?\nend\n<&#47;code><&#47;pre>\n\n<p>, some methods to
-    publish&#47;unpublish etc.<&#47;p>\n\n<p>This is a great fit for us.<&#47;p>\n\n<p>I've
-    been <a href=\"http:&#47;&#47;henrik.nyh.se&#47;2008&#47;02&#47;rails-model-extensions\"
-    rel=\"nofollow\">using modules<&#47;a> more and more in Rails.<&#47;p>"
+  content: ! "<p>I've done something similar with a module (in <code>app/models/shared/publishable_model.rb</code>).
+    Including the module adds a named scope (has_finder), the instance method</p>\n\n<pre><code>\ndef
+    published?\n  published_at?\nend\n</code></pre>\n\n<p>, some methods to publish/unpublish
+    etc.</p>\n\n<p>This is a great fit for us.</p>\n\n<p>I've been <a href=\"http://henrik.nyh.se/2008/02/rails-model-extensions\"
+    rel=\"nofollow\">using modules</a> more and more in Rails.</p>"
 ---
 I often come across this particular use case and it's probably easiest to
 explain with an example. Take an ActiveRecord model called `Book` which
@@ -95,7 +94,7 @@ documentation.
 
 I've pulled this abstraction into a tiny wee plugin which is now up on GitHub.
 It's called
-[`timestamped_booleans`](http:&#47;&#47;github.com&#47;rubaidh&#47;timestamped_booleans). Feel
+[`timestamped_booleans`](http://github.com/rubaidh/timestamped_booleans). Feel
 free to grab it, fork it, play around. I've got a couple of changes I should
 do and push in the next few hours. The first you'll already have noticed if
 you're reading carefully; what if the date it is `published_at` is in the

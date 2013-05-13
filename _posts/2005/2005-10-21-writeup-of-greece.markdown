@@ -43,10 +43,10 @@ comments:
 I've been meaning to upload these for a while.  Originally I was going to put them all up at once, when I'd finished transcribing the lot, but that's taking too long, so here they are piecemeal.  This is the adventure of our holiday in Naxos in September:
 
 <ul>
-  <li><a href="http:&#47;&#47;woss.name&#47;2005&#47;09&#47;16&#47;waiting-to-leave-pireaus&#47;">Waiting to leave Pireaus<&#47;a><&#47;li>
-  <li><a href="http:&#47;&#47;woss.name&#47;2005&#47;09&#47;17&#47;arrival-in-and-first-day-of-naxos&#47;">Arrival in, and first day of, Naxos<&#47;a><&#47;li>
-  <li><a href="http:&#47;&#47;woss.name&#47;2005&#47;09&#47;19&#47;seafood-ouzo-and-starred-agamas&#47;">Seafood, ouzo and starred agamas<&#47;a><&#47;li>
-  <li><a href="http:&#47;&#47;woss.name&#47;2005&#47;09&#47;24&#47;recollections-from-the-boat&#47;">Recollections from the boat<&#47;a><&#47;li>
-<&#47;ul>
+  <li><a href="http://woss.name/2005/09/16/waiting-to-leave-pireaus/">Waiting to leave Pireaus</a></li>
+  <li><a href="http://woss.name/2005/09/17/arrival-in-and-first-day-of-naxos/">Arrival in, and first day of, Naxos</a></li>
+  <li><a href="http://woss.name/2005/09/19/seafood-ouzo-and-starred-agamas/">Seafood, ouzo and starred agamas</a></li>
+  <li><a href="http://woss.name/2005/09/24/recollections-from-the-boat/">Recollections from the boat</a></li>
+</ul>
 
-All these entries were written on location in my <a href="http:&#47;&#47;www.moleskine.co.uk&#47;">Moleskine<&#47;a> notebook.  Most of them were written whilst drinking beer, spirits, Retsina and cocktails, so they might not make much sense. :-)  I'll let you know when I've written up the rest...
+All these entries were written on location in my <a href="http://www.moleskine.co.uk/">Moleskine</a> notebook.  Most of them were written whilst drinking beer, spirits, Retsina and cocktails, so they might not make much sense. :-)  I'll let you know when I've written up the rest...

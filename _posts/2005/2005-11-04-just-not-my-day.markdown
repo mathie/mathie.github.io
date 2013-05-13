@@ -24,9 +24,9 @@ comments:
     MjAwNS0xMS0wNCAxMzozNDoyOSArMDAwMA==
   date_gmt: !binary |-
     MjAwNS0xMS0wNCAxMjozNDoyOSArMDAwMA==
-  content: Not speaking about anon CVS which is down&#47;unreliable&#47;not synced
-    with the CVS most of the time ... Great Quality of Service af SF .. an example
-    for all the others
+  content: Not speaking about anon CVS which is down/unreliable/not synced with the
+    CVS most of the time ... Great Quality of Service af SF .. an example for all
+    the others
 - id: 195
   author: mathie
   author_email: mathie@woss.name
@@ -38,10 +38,10 @@ comments:
   content: Heh.  Maybe the QoS would improve for me if I started clicking on their
     ads (or not blocking them with AdBlock!) some more. :-)
 ---
-Has anybody else noticed that <a href="http:&#47;&#47;sourceforge.net&#47;">Sourceforge<&#47;a>'s CVS repositories seem a little erratic over the past couple of days?
+Has anybody else noticed that <a href="http://sourceforge.net/">Sourceforge</a>'s CVS repositories seem a little erratic over the past couple of days?
 
-[code]mathie@Tandoori:mailmanager-2.0.1$ cvs add sql&#47;setTableCharsets.zsql
+[code]mathie@Tandoori:mailmanager-2.0.1$ cvs add sql/setTableCharsets.zsql
 ssh_exchange_identification: Connection closed by remote host
-cvs [add aborted]: end of file from server (consult above messages if any)[&#47;code]
+cvs [add aborted]: end of file from server (consult above messages if any)[/code]
 
 I'm getting these sorts of errors about 4 times in every 5...

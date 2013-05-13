@@ -40,8 +40,8 @@ comments:
     the van would hurry up -- not so''s I can start playing with it, but just so''s
     I know I can play with it this weekend!'
 ---
-Woo!  According to the shipment tracker, <a href="http:&#47;&#47;www.apple.com&#47;aperture&#47;">Aperture<&#47;a> has reached Edinburgh:
+Woo!  According to the shipment tracker, <a href="http://www.apple.com/aperture/">Aperture</a> has reached Edinburgh:
 
-<a href="http:&#47;&#47;woss.name&#47;wp-content&#47;apertureshipment.png"><img src='http:&#47;&#47;woss.name&#47;wp-content&#47;thumb-apertureshipment.png' alt='Aperture shipping information' class="centered" &#47;><&#47;a>
+<a href="http://woss.name/wp-content/apertureshipment.png"><img src='http://woss.name/wp-content/thumb-apertureshipment.png' alt='Aperture shipping information' class="centered" /></a>
 
 So hopefully it should turn up at the office sometime tomorrow.  I shall be posting some first impressions in the evening...

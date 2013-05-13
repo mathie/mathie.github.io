@@ -26,28 +26,28 @@ comments:
   date_gmt: !binary |-
     MjAwOC0xMC0xNSAxNDowNToyMSArMDEwMA==
   content: ! '<p>I found had to create a tracking branch as well. That way you can
-    work in the local branch writeable, and simply push to the writeable remote.<&#47;p>
+    work in the local branch writeable, and simply push to the writeable remote.</p>
 
 
-    <p>cd vendor&#47;plugins&#47;timestamped_booleans&#47;
+    <p>cd vendor/plugins/timestamped_booleans/
 
-    git remote add writable git@github.com:rubaidh&#47;timestamped_booleans.git
+    git remote add writable git@github.com:rubaidh/timestamped_booleans.git
 
     git fetch writeable
 
-    git branch --track writeable writeable&#47;master
+    git branch --track writeable writeable/master
 
-    git checkout writeable<&#47;p>
+    git checkout writeable</p>
 
 
-    <p>make edits<&#47;p>
+    <p>make edits</p>
 
 
     <p>git add ...
 
     git commit ...
 
-    git push<&#47;p>'
+    git push</p>'
 ---
 Hopefully this will be a shorter article, but I thought I'd get the tip into
 Google before I forget it and have to Google for the answer. :-)
@@ -57,8 +57,8 @@ dependencies, for example Rails plugins. Since not everybody on the project
 has push access to some of the plugins, naturally you're using the public
 clone URL as the submodule URL for your project:
 
-    mathie@tullibardine:books$ git submodule add git:&#47;&#47;github.com&#47;rubaidh&#47;timestamped_booleans vendor&#47;plugins&#47;timestamped_booleans
-    Initialized empty Git repository in &#47;Users&#47;mathie&#47;tmp&#47;src&#47;books&#47;vendor&#47;plugins&#47;timestamped_booleans&#47;.git&#47;
+    mathie@tullibardine:books$ git submodule add git://github.com/rubaidh/timestamped_booleans vendor/plugins/timestamped_booleans
+    Initialized empty Git repository in /Users/mathie/tmp/src/books/vendor/plugins/timestamped_booleans/.git/
     [ ... ]
 
 While some of the rest of your team don't have push access to that particular
@@ -72,8 +72,8 @@ of the world".
 So, how do we push those changes out when we've pulled from the read-only view
 of the repository? Well, we add another remote:
 
-    mathie@tullibardine:books$ cd vendor&#47;plugins&#47;timestamped_booleans&#47;
-    mathie@tullibardine:timestamped_booleans$ git remote add writable git@github.com:rubaidh&#47;timestamped_booleans.git
+    mathie@tullibardine:books$ cd vendor/plugins/timestamped_booleans/
+    mathie@tullibardine:timestamped_booleans$ git remote add writable git@github.com:rubaidh/timestamped_booleans.git
     mathie@tullibardine:timestamped_booleans$ git push writable master
     [ ... ]
 

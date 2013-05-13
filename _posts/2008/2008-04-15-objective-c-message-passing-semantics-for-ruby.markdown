@@ -25,7 +25,7 @@ comments:
   date_gmt: !binary |-
     MjAwOC0wNC0xNSAxNjoxNToxMCArMDEwMA==
   content: <p>This reminds me a lot of a post I made about the ? operator in Io --
-    remarkably similar issue; http:&#47;&#47;codefluency.com&#47;articles&#47;2006&#47;12&#47;16&#47;that-nifty-question-mark<&#47;p>
+    remarkably similar issue; http://codefluency.com/articles/2006/12/16/that-nifty-question-mark</p>
 - id: 1007
   author: Matthijs Langenberg
   author_email: mlangenberg@gmail.com
@@ -34,7 +34,7 @@ comments:
     MjAwOC0wNC0xNSAxODo1MzowOSArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wNC0xNSAxNzo1MzowOSArMDEwMA==
-  content: <p>This is just stupid. Good luck searching bugs with this code.<&#47;p>
+  content: <p>This is just stupid. Good luck searching bugs with this code.</p>
 - id: 1008
   author: Leon
   author_email: leon.spencer@gmail.com
@@ -44,21 +44,21 @@ comments:
   date_gmt: !binary |-
     MjAwOC0wNC0xNiAwNjozMjoxOSArMDEwMA==
   content: ! "<p>Instead of going ape-crazy and making it affect all method calls,
-    why not just go:<&#47;p>\n\n<pre><code>class Object\n  def gingerly method, *args\n
-    \   respond_to? method ? send(method, args) : nil\n  end\nend\n<&#47;code><&#47;pre>\n\n<p>This
-    way, every object you now have can be asked to do something gingerly:<&#47;p>\n\n<pre><code>muffin.gingerly
-    :wash, :with => :soap # => nil\n\"abc\".gingerly :kiss #=> nil\ncaramel + 5 #=>
-    nil\n5 + 5#=> 10\n<&#47;code><&#47;pre>\n\n<p>You wont affect pre-existing methods
-    and modules, but you still get delicious convenience. Or even:<&#47;p>\n\n<pre><code>class
+    why not just go:</p>\n\n<pre><code>class Object\n  def gingerly method, *args\n
+    \   respond_to? method ? send(method, args) : nil\n  end\nend\n</code></pre>\n\n<p>This
+    way, every object you now have can be asked to do something gingerly:</p>\n\n<pre><code>muffin.gingerly
+    :wash, :with =&gt; :soap # =&gt; nil\n\"abc\".gingerly :kiss #=&gt; nil\ncaramel
+    + 5 #=&gt; nil\n5 + 5#=&gt; 10\n</code></pre>\n\n<p>You wont affect pre-existing
+    methods and modules, but you still get delicious convenience. Or even:</p>\n\n<pre><code>class
     BashfulMaiden\n  def initialize(obj)\n    @obj = obj\n  end\n  def method_missing(method,
-    *args)\n    @obj.respond_to? method ? @obj.call(method,args) : nil\n  end\nend\n<&#47;code><&#47;pre>\n\n<p>And
-    then:<&#47;p>\n\n<pre><code>class Object\n  def bashfully\n    BashfulMaiden.new(self)\n
-    \ end\nend\n<&#47;code><&#47;pre>\n\n<p>This way, you won't pollute method missing
-    for everyone, <em>and<&#47;em> you can do regular calls without having to do symbols,
-    like so:<&#47;p>\n\n<pre><code>muffin.bashfully.wash 12\nicecream.bashfully.lick\n5.bashfully
-    + 5\n<&#47;code><&#47;pre>\n\n<p>And so forth. By all means, Ruby is an expressive
-    wonderland of pleasure, but just with other expressive wonderlands of pleasure,
-    you want to use protection so you don't make a mess.<&#47;p>"
+    *args)\n    @obj.respond_to? method ? @obj.call(method,args) : nil\n  end\nend\n</code></pre>\n\n<p>And
+    then:</p>\n\n<pre><code>class Object\n  def bashfully\n    BashfulMaiden.new(self)\n
+    \ end\nend\n</code></pre>\n\n<p>This way, you won't pollute method missing for
+    everyone, <em>and</em> you can do regular calls without having to do symbols,
+    like so:</p>\n\n<pre><code>muffin.bashfully.wash 12\nicecream.bashfully.lick\n5.bashfully
+    + 5\n</code></pre>\n\n<p>And so forth. By all means, Ruby is an expressive wonderland
+    of pleasure, but just with other expressive wonderlands of pleasure, you want
+    to use protection so you don't make a mess.</p>"
 - id: 1009
   author: Graeme Mathieson
   author_email: mathie@woss.name
@@ -71,7 +71,7 @@ comments:
     that it was possible. :-)  If you actually want semantics like this, then @Leon's
     comment is a sane way to get it.  The key thing it does is that it makes it explicit
     to the reader of the code that you're wanting those semantics.  My insane version
-    will trip up any other programmer that touches your application!<&#47;p>
+    will trip up any other programmer that touches your application!</p>
 ---
 While I was writing a bit of code today (which smells a bit and so I suspect needs revisiting in the future, but anyway) I found myself writing the equivalent of:
 
@@ -95,7 +95,7 @@ Let's see it in action in irb.  Before:
     => #<object:0x30b164>
     irb(main):002:0> o.method_that_does_not_exist
     NoMethodError: undefined method `method_that_does_not_exist' for #<object:0x30b164>
-	    from &#47;Users&#47;mathie&#47;.irbrc:210:in `method_missing'
+	    from /Users/mathie/.irbrc:210:in `method_missing'
 	    from (irb):2
 
 And after:

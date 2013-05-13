@@ -26,7 +26,7 @@ comments:
     MjAwOC0wNC0xMiAxNzoxMjoxMSArMDEwMA==
   content: ! '<p>I also love:
 
-    git-rebase --interactive HEAD~5<&#47;p>'
+    git-rebase --interactive HEAD~5</p>'
 - id: 1002
   author: Scott
   author_email: scott@scottwalter.com
@@ -35,7 +35,7 @@ comments:
     MjAwOC0wNC0xMiAyMzoxMDoyOCArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wNC0xMiAyMjoxMDoyOCArMDEwMA==
-  content: <p>Nice tips!  Keep them coming :-)<&#47;p>
+  content: <p>Nice tips!  Keep them coming :-)</p>
 - id: 1003
   author: Henrik N
   author_email: henrik@nyh.se
@@ -48,21 +48,20 @@ comments:
     I think it will compare the most recent common ancestor of the branches (production
     and master in your example) with the head of the last branch (master). This can
     come in handy if there has been work done on both branches and you don''t want
-    to compare the heads.<&#47;p>
+    to compare the heads.</p>
 
 
     <blockquote>
 
     . This seems like a good reason to squash your commits when you merge them onto
-    master; that way it&rsquo;s easy to cherry pick particular complete features for
-    deployment? Otherwise, you have to figure out which commits belong to a particular
-    feature?
+    master; that way it’s easy to cherry pick particular complete features for deployment?
+    Otherwise, you have to figure out which commits belong to a particular feature?
 
-    <&#47;blockquote>
+    </blockquote>
 
 
     <p>Another way is to merge the feature branch into the production branch just
-    as you merged it into the master branch.<&#47;p>'
+    as you merged it into the master branch.</p>'
 - id: 1004
   author: Christian Couder
   author_email: chriscool@tuxfamily.org
@@ -71,38 +70,38 @@ comments:
     MjAwOC0wNC0zMCAyMjo1ODowMiArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wNC0zMCAyMTo1ODowMiArMDEwMA==
-  content: ! '<p>You say:<&#47;p>
+  content: ! '<p>You say:</p>
 
 
     <p>"
 
-    Here&rsquo;s a command that I think is going to prove to be incredibly powerful,
-    but I just haven&rsquo;t quite figured out exactly how, yet:<&#47;p>
+    Here’s a command that I think is going to prove to be incredibly powerful, but
+    I just haven’t quite figured out exactly how, yet:</p>
 
 
     <p>$ git bisect run rake
 
-    "<&#47;p>
+    "</p>
 
 
-    <p>You need first to start bisection using for example:<&#47;p>
+    <p>You need first to start bisection using for example:</p>
 
 
-    <p>$ git bisect start  <&#47;p>
+    <p>$ git bisect start  </p>
 
 
     <p>where  is a rev where your test suite is broken
 
-    and  is a rev where it passes.<&#47;p>
+    and  is a rev where it passes.</p>
 
 
-    <p>Then you can launch for example:<&#47;p>
+    <p>Then you can launch for example:</p>
 
 
-    <p>$ git bisect run rake test<&#47;p>
+    <p>$ git bisect run rake test</p>
 
 
-    <p>and enjoy :-)<&#47;p>'
+    <p>and enjoy :-)</p>'
 - id: 1005
   author: Christian Couder
   author_email: chriscool@tuxfamily.org
@@ -111,30 +110,30 @@ comments:
     MjAwOC0wNS0wOCAxMzo1Nzo0NCArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wNS0wOCAxMjo1Nzo0NCArMDEwMA==
-  content: ! '<p>Ok, I screw up, because I used <stuff> in my above message but the
-    "<" and ">" disapeared.<&#47;p>
+  content: ! '<p>Ok, I screw up, because I used &lt;stuff&gt; in my above message
+    but the "&lt;" and "&gt;" disapeared.</p>
 
 
-    <p>So I try it again:<&#47;p>
+    <p>So I try it again:</p>
 
 
-    <p>You need first to start bisection using for example:<&#47;p>
+    <p>You need first to start bisection using for example:</p>
 
 
-    <p>$ git bisect start <badrev> <goodrev><&#47;p>
+    <p>$ git bisect start &lt;badrev&gt; &lt;goodrev&gt;</p>
 
 
-    <p>where <badrev> is a rev where your test suite is broken and <goodrev> is a
-    rev where it passes.<&#47;p>
+    <p>where &lt;badrev&gt; is a rev where your test suite is broken and &lt;goodrev&gt;
+    is a rev where it passes.</p>
 
 
-    <p>Then you can launch for example:<&#47;p>
+    <p>Then you can launch for example:</p>
 
 
-    <p>$ git bisect run rake test<&#47;p>
+    <p>$ git bisect run rake test</p>
 
 
-    <p>and enjoy :-)<&#47;p>'
+    <p>and enjoy :-)</p>'
 ---
 I may seem somewhat git-obsessed lately. That's probably because I am. It's
 awesome. :-) But mostly it's because I have finally made the jump and I'm

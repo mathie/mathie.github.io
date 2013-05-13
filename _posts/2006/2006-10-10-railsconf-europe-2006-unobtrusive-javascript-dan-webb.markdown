@@ -30,7 +30,7 @@ comments:
   content: <p>Im curious as to why you feel the behaviours should go in the controller.
     The behaviours are fully dependent on the view - a JS behaviour wouldn't make
     sense with some other kind of view (XML, RSS, web services etc.) so I think the
-    view is the right place for this.<&#47;p>
+    view is the right place for this.</p>
 - id: 614
   author: mathie
   author_email: mathie@woss.name
@@ -39,32 +39,32 @@ comments:
     MjAwNi0xMC0xMCAxNDo0MjowMSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0xMC0xMCAxMzo0MjowMSArMDEwMA==
-  content: ! '<p>Luke: It seems to me that the <code>apply_behaviour<&#47;code> function
+  content: ! '<p>Luke: It seems to me that the <code>apply_behaviour</code> function
     is completely disjoint from the rest of the code in the view.  And it''s, well,
     code (behaviour), not presentation.  So in a way it doesn''t belong in the view.  Thinking
-    about it, it doesn''t really belong in the controller either.<&#47;p>
+    about it, it doesn''t really belong in the controller either.</p>
 
 
-    <p>To me, the ideal solution would be to have <code>app&#47;behaviours<&#47;code>
-    which mirrors <code>app&#47;views<&#47;code> which behaves vaguely like an RJS
-    file, so that you could write something like:<&#47;p>
+    <p>To me, the ideal solution would be to have <code>app/behaviours</code> which
+    mirrors <code>app/views</code> which behaves vaguely like an RJS file, so that
+    you could write something like:</p>
 
 
     <pre><code>page.apply_behaviour ...
 
-    <&#47;code><&#47;pre>
+    </code></pre>
 
 
     <p>but it would be magically inserted into the corresponding view in the right
-    place.<&#47;p>
+    place.</p>
 
 
     <p>I really like the idea of UJS, and I think this would complete the separation
-    of behaviour from the rest of the cake.<&#47;p>
+    of behaviour from the rest of the cake.</p>
 
 
     <p>Does that make sense?  If not, I''ll think about it more and try to express
-    myself more clearly.<&#47;p>'
+    myself more clearly.</p>'
 - id: 615
   author: Luke Redpath
   author_email: contact@lukeredpath.co.uk
@@ -75,12 +75,12 @@ comments:
     MjAwNi0xMC0xMCAxNDo1MTowMCArMDEwMA==
   content: ! '<p>mathie, that does make sense, and we have considered creating a "behaviour
     template". However I like having the behaviours inside the templates as I can
-    easily see what behaviours are applied to different parts of the markup.<&#47;p>
+    easily see what behaviours are applied to different parts of the markup.</p>
 
 
     <p>I still maintain that javascript behaviours are part of the overall "view"
     package though - it is the behaviour of your user interface, rather than app logic
-    (controller) or business logic (model).<&#47;p>'
+    (controller) or business logic (model).</p>'
 - id: 616
   author: mathie
   author_email: mathie@woss.name
@@ -97,7 +97,7 @@ comments:
 > from RailsConf Europe 2006. They are all first drafts, probably
 > technically inaccurate and slanderously misquoting people. Let me know
 > and I'll fix them.  You can follow this series of posts by looking at
-> articles in the [RailsConfEurope](&#47;index.php?s=RailsConf+Europe+2006)
+> articles in the [RailsConfEurope](/index.php?s=RailsConf+Europe+2006)
 > category.
 
 The client side of a web application can be seen as a cake. In the past few
@@ -110,7 +110,7 @@ without the fancy AJAX stuff!*
 Unfortunately, Rails' Javascript helpers don't mesh well with unobtrusive JS,
 and they don't create semantically correct HTML. For example, `link_to_remote`
 produces `<a href="##" ...>`. It should link to something -- after all that's
-(well, mostly!) what the `<a &#47;>` tag is supposed to do. Also, if you specify a
+(well, mostly!) what the `<a />` tag is supposed to do. Also, if you specify a
 default behaviour by supplying an `href` then browsers without Javascript
 support will still have functionality.
 
@@ -122,17 +122,17 @@ user clicks on it or not. *Shazam*, you've been deleted. Use `button_to`
 instead, which creates a small form with a submit button.
 
 One thing brought up in the questions afterwards was about styling buttons.
-The `<input type="submit" ... &#47;>` style of button isn't particularly flexible
-when it comes to styling, but apparently the `<button ... &#47;>` element is and
+The `<input type="submit" ... />` style of button isn't particularly flexible
+when it comes to styling, but apparently the `<button ... />` element is and
 has the same effect.
 
 Since I'm a Javascript newbie, I picked up a useful tip. If an event returns
 'false' when it's finished then the default behaviour of the event doesn't
-happen. For example, if you've got an `<a href="&#47;foo&#47;bar" onclick="...">`
+happen. For example, if you've got an `<a href="/foo/bar" onclick="...">`
 then, if the `onclick` event returns false, the link will not be followed. I
 noted this because it had bitten me with an application I've been writing...
 
-Dan introduced his and Luke's [UJS Rails Plugin](http:&#47;&#47;ujs4rails.com&#47;) which
+Dan introduced his and Luke's [UJS Rails Plugin](http://ujs4rails.com/) which
 provides a bunch of helpers to apply behaviour neatly to your views. Instead
 of directly putting JS code into particular elements (be it with Rails' own
 helpers, or straight JS), you call `apply_behaviour` at the end of the view
@@ -146,4 +146,4 @@ to specify the behaviours in the controller? Or maybe it belongs somewhere
 entirely new?
 
 Oh, and I've got to ask, from looking at his demo app. Who the hell would pay
-$500 for a pair of [gutties](http:&#47;&#47;www.wordwebonline.com&#47;en&#47;GUTTY)?!? :-)
+$500 for a pair of [gutties](http://www.wordwebonline.com/en/GUTTY)?!? :-)

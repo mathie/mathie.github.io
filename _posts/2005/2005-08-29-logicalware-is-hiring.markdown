@@ -15,6 +15,6 @@ categories:
 tags: []
 comments: []
 ---
-<a href="http:&#47;&#47;www.logicalware.com&#47;">Logicalware Ltd<&#47;a> (the company I work for, for those of you not paying attention!) is looking for a <a href="http:&#47;&#47;www.logicalware.com&#47;smadministrator.html">Sales &amp; Marketing Administrator<&#47;a>.  I can't really imagine it being anybody around here's cup of tea -- most of it sounds like sales weaseling and SEO -- but you never now.  And you get the honour of working with us, in Musselburgh!  Who could turn down an offer like that?
+<a href="http://www.logicalware.com/">Logicalware Ltd</a> (the company I work for, for those of you not paying attention!) is looking for a <a href="http://www.logicalware.com/smadministrator.html">Sales &amp; Marketing Administrator</a>.  I can't really imagine it being anybody around here's cup of tea -- most of it sounds like sales weaseling and SEO -- but you never now.  And you get the honour of working with us, in Musselburgh!  Who could turn down an offer like that?
 
 (If anybody applies for the job through this post, do tell 'em where you heard about it!  And I'll start dropping subtle hints about a finder's fee! :-) )

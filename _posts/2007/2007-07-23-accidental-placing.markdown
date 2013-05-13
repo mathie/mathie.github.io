@@ -25,9 +25,9 @@ comments:
     MjAwNy0wNy0yNSAyMzo0ODo1MSArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wNy0yNSAyMjo0ODo1MSArMDEwMA==
-  content: <p>Great work!<&#47;p>
+  content: <p>Great work!</p>
 ---
-It's weird when you're reading through your RSS feeds and come across your own name in a screenshot.  Apparently I'm one of the top ten contributors to Rails this month: [Working with Rails July Hackfest](http:&#47;&#47;www.workingwithrails.com&#47;hackfest&#47;13-monthly-july-2-7) (currently at no. 7).  Not quite sure how I managed that, it's just been pure coincidence that I've been hacking on edge with a new project lately. :-)  So, what do you reckon I could do to get [#8830](http:&#47;&#47;dev.rubyonrails.org&#47;ticket&#47;8830), [#8831](http:&#47;&#47;dev.rubyonrails.org&#47;ticket&#47;8831), [#8832](http:&#47;&#47;dev.rubyonrails.org&#47;ticket&#47;8832), [#9051](http:&#47;&#47;dev.rubyonrails.org&#47;ticket&#47;9051) or [#9056](http:&#47;&#47;dev.rubyonrails.org&#47;ticket&#47;9056) accepted before the end of the month?
+It's weird when you're reading through your RSS feeds and come across your own name in a screenshot.  Apparently I'm one of the top ten contributors to Rails this month: [Working with Rails July Hackfest](http://www.workingwithrails.com/hackfest/13-monthly-july-2-7) (currently at no. 7).  Not quite sure how I managed that, it's just been pure coincidence that I've been hacking on edge with a new project lately. :-)  So, what do you reckon I could do to get [#8830](http://dev.rubyonrails.org/ticket/8830), [#8831](http://dev.rubyonrails.org/ticket/8831), [#8832](http://dev.rubyonrails.org/ticket/8832), [#9051](http://dev.rubyonrails.org/ticket/9051) or [#9056](http://dev.rubyonrails.org/ticket/9056) accepted before the end of the month?
 
 In other news, I learned something interesting this morning.  I was doing something that boiled down to:
 
@@ -49,4 +49,4 @@ and wondering what on earth was going on!  Turns out that when creating a new ar
 
 which got me the desired behaviour.  Of course, all this was deep inside some other code (implementing `Enumerable#unzip` to provide the reverse of `zip`) so it took me a good while this morning to track down what was going on.
 
-**Update** Add [#9085](http:&#47;&#47;dev.rubyonrails.org&#47;ticket&#47;9085) and [#9097](http:&#47;&#47;dev.rubyonrails.org&#47;ticket&#47;9097) to that list. :-)
+**Update** Add [#9085](http://dev.rubyonrails.org/ticket/9085) and [#9097](http://dev.rubyonrails.org/ticket/9097) to that list. :-)

@@ -23,7 +23,7 @@ comments:
     MjAwNi0wNC0xOSAxMjowOToyNCArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNC0xOSAxMTowOToyNCArMDEwMA==
-  content: <p>There's always one of the SSH clients in Java...<&#47;p>
+  content: <p>There's always one of the SSH clients in Java...</p>
 - id: 386
   author: Derek Ross
   author_email: derek@drossy.net
@@ -34,7 +34,7 @@ comments:
     MjAwNi0wNC0xOSAxMzowOTozMSArMDEwMA==
   content: <p>"in anger"? This would be me calling you and Peter f***wits repeatedly
     after you both decided to trash the perfectly good stuff we already done in C
-    - which we all knew; to start from scratch in Java which only I had played with?<&#47;p>
+    - which we all knew; to start from scratch in Java which only I had played with?</p>
 - id: 387
   author: Luke Redpath
   author_email: contact@lukeredpath.co.uk
@@ -47,15 +47,15 @@ comments:
     but before I got my MacBook, it was my editor of choice for both Windows and Linux.
     The only thing I used Eclipse for was large PHP projects - I don''t think RadRails
     is quite stable enough yet for me personally, although its coming on in leaps
-    and bounds.<&#47;p>
+    and bounds.</p>
 
 
     <p>You''ll need to load up jEdit with some plugins (like the Ruby plugin of course,
     and also SuperAbbrevs is worth getting) but you may be able to get near to some
-    of Textmate''s functionality.<&#47;p>'
+    of Textmate''s functionality.</p>'
 ---
-Thanks for all your lovely suggestions (and condolences!) yesterday. :)  For RSS, I realised I'd be as well using [NewsGator](http:&#47;&#47;www.newsgator.com&#47;) online, since it syncs with NNW anyway.  [AppRocket](http:&#47;&#47;www.candylabs.com&#47;approcket&#47;) is proving to be a satisfactory application launcher, attached to the same key sequence as Quicksilver.  It's nowhere near as functional, but at least I don't just hear a *clunk* every time I hit the QS shortcut. :)
+Thanks for all your lovely suggestions (and condolences!) yesterday. :)  For RSS, I realised I'd be as well using [NewsGator](http://www.newsgator.com/) online, since it syncs with NNW anyway.  [AppRocket](http://www.candylabs.com/approcket/) is proving to be a satisfactory application launcher, attached to the same key sequence as Quicksilver.  It's nowhere near as functional, but at least I don't just hear a *clunk* every time I hit the QS shortcut. :)
 
-As for text editors, I'm messing around with [RadRails](http:&#47;&#47;www.radrails.org&#47;) with [Eclipse](http:&#47;&#47;www.eclipse.org), though never having used the IDE before (I'm actually rather proud of not having ever used Java in anger since graduating from University, and even then it was only writing (bits of) a compiler!), I'm finding it a steep learning curve.  And just to keep my options open, I'm investigating [XEmacs](http:&#47;&#47;www.xemacs.org&#47;).  For somebody that was a die-hard XEmacs fan before switching to TextMate, I'm surprised I forgot all about it!
+As for text editors, I'm messing around with [RadRails](http://www.radrails.org/) with [Eclipse](http://www.eclipse.org), though never having used the IDE before (I'm actually rather proud of not having ever used Java in anger since graduating from University, and even then it was only writing (bits of) a compiler!), I'm finding it a steep learning curve.  And just to keep my options open, I'm investigating [XEmacs](http://www.xemacs.org/).  For somebody that was a die-hard XEmacs fan before switching to TextMate, I'm surprised I forgot all about it!
 
 But mostly I'm still working on being able to use my own PowerBook in the office, and get ssh access to the outside world!

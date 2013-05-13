@@ -18,7 +18,7 @@ tags:
 - Ruby and Rails
 comments: []
 ---
-Inspired by PJ's Err the Blog post [Cappin' the Stat](http:&#47;&#47;errtheblog.com&#47;post&#47;5961), I decided to put together a similar recipe of my own.  Sometimes I want to know which version was actually deployed and when.  This is more useful when I'm working in a team and there are a couple of people who are allowed to deploy the app, but sometimes it's just handy to know that the current live version is r73 from Subversion and that it was deployed at 3am.
+Inspired by PJ's Err the Blog post [Cappin' the Stat](http://errtheblog.com/post/5961), I decided to put together a similar recipe of my own.  Sometimes I want to know which version was actually deployed and when.  This is more useful when I'm working in a team and there are a couple of people who are allowed to deploy the app, but sometimes it's just handy to know that the current live version is r73 from Subversion and that it was deployed at 3am.
 
 So, I present a task that works nicely with Capistrano 2:
 
@@ -33,8 +33,8 @@ So, I present a task that works nicely with Capistrano 2:
              Rendered by <%= Socket.gethostname %>.
           -->
         HTML
-        layout = "#{release_path}&#47;app&#47;views&#47;layouts&#47;application.html.erb"
-        run "perl -p -i -e 's?<&#47;body>?<&#47;body>#{release_info}?' #{layout}"
+        layout = "#{release_path}/app/views/layouts/application.html.erb"
+        run "perl -p -i -e 's?</body>?</body>#{release_info}?' #{layout}"
       end
     end
 
@@ -50,4 +50,4 @@ It will put in a wee HTML comment at the end of your main application layout (yo
 
 Well, I figured it's useful enough to keep me from actually writing code instead. :-)
 
-**Update** Somebody has suggested on their blog that [using perl is suboptimal](http:&#47;&#47;www.agmweb.ca&#47;blog&#47;andy&#47;1968&#47;) (at least I think that's the point he was trying to make).  It's habit, I'm afraid.  Using `sed -i` is not portable -- the `-i` flag doesn't exist on Solaris for example -- but Perl is ubiquitous and has had the in-place-edit ability for aeons.  I guess I could have used Ruby, but it would have taken me longer to look up how.
+**Update** Somebody has suggested on their blog that [using perl is suboptimal](http://www.agmweb.ca/blog/andy/1968/) (at least I think that's the point he was trying to make).  It's habit, I'm afraid.  Using `sed -i` is not portable -- the `-i` flag doesn't exist on Solaris for example -- but Perl is ubiquitous and has had the in-place-edit ability for aeons.  I guess I could have used Ruby, but it would have taken me longer to look up how.

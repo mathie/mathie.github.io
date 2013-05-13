@@ -15,14 +15,14 @@ categories:
 tags: []
 comments: []
 ---
-I've been mucking around a bit this morning with my `~&#47;.irbrc`, prompted by [why's](http:&#47;&#47;redhanded.hobix.com&#47;) post about [MethodFinder](http:&#47;&#47;www.nobugs.org&#47;developer&#47;ruby&#47;method_finder.html) (very shiny!).  And now I'm wondering what everybody else has in their `~&#47;.irbrc`.  What do I have?  Well:
+I've been mucking around a bit this morning with my `~/.irbrc`, prompted by [why's](http://redhanded.hobix.com/) post about [MethodFinder](http://www.nobugs.org/developer/ruby/method_finder.html) (very shiny!).  And now I'm wondering what everybody else has in their `~/.irbrc`.  What do I have?  Well:
 
-* bits to configure IRB itself -- enabling saved history, auto-indent, readline and forcing the prompt mode to the default (so that `script&#47;console` doesn't change it!).
-* the MethodFinder function, along with [why's modifications](http:&#47;&#47;redhanded.hobix.com&#47;inspect&#47;stickItInYourIrbrcMethodfinder.html).
+* bits to configure IRB itself -- enabling saved history, auto-indent, readline and forcing the prompt mode to the default (so that `script/console` doesn't change it!).
+* the MethodFinder function, along with [why's modifications](http://redhanded.hobix.com/inspect/stickItInYourIrbrcMethodfinder.html).
 * integrate `ri`.
 * in a similar vein to `ri`, `mate` which launches TextMate.
 * A couple of extra wee functions, mostly for inspecting objects.
 
-You can grab the complete file here: [`irbrc`](http:&#47;&#47;woss.name&#47;dist&#47;irbrc.rb).
+You can grab the complete file here: [`irbrc`](http://woss.name/dist/irbrc.rb).
 
-So, what's in your `~&#47;.irbrc`?
+So, what's in your `~/.irbrc`?

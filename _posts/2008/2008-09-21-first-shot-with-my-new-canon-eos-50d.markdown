@@ -25,14 +25,14 @@ comments:
     MjAwOC0wOS0yMSAyMzoxMjoxNCArMDEwMA==
   content: ! '<p>Fine looking baby - definitely an eye for the lens! I''m not sure
     why there would be so much noise though at only 1600. Canon touts this camera
-    on par with the Nikon D700 which can go up to 2000 without noticeable noise.<&#47;p>
+    on par with the Nikon D700 which can go up to 2000 without noticeable noise.</p>
 
 
     <p>Also, have you shot at small f-stops like f16? I wondered if there''s any diffraction
-    problems (halo''s).<&#47;p>
+    problems (halo''s).</p>
 
 
-    <p>Great post!<&#47;p>'
+    <p>Great post!</p>'
 - id: 1020
   author: TexanSmoggie
   author_email: mike@rovardi.net
@@ -41,16 +41,16 @@ comments:
     MjAwOC0wOS0yMyAwMzozOTo0MyArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wOS0yMyAwMjozOTo0MyArMDEwMA==
-  content: ! '<p>Awww, he''s got his daddy''s drool... :-)<&#47;p>
+  content: ! '<p>Awww, he''s got his daddy''s drool... :-)</p>
 
 
     <p>Guess who can''t find your or Annabel''s ****ing email address?  Yup, muggins
-    here.  Drop me a line.<&#47;p>
+    here.  Drop me a line.</p>
 
 
-    <p>Mike<&#47;p>'
+    <p>Mike</p>'
 ---
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;mathie&#47;2872522573&#47;" title="First shot with my new Canon EOS 50D!"><img src="http:&#47;&#47;farm4.static.flickr.com&#47;3206&#47;2872522573_0c6f27fd88_m.jpg" alt="First shot with my new Canon EOS 50D!" class="alignright" style="border: solid 1px #000000; float: right;" &#47;><&#47;a>I picked up my pre-ordered Canon EOS 50D from Jessops on Saturday afternoon, after I had been pestering them daily to find out when it would come into stock.  (It was alleged at the store that they were the only outlet in Scotland to currently have them, and that I was therefore the second person in Scotland to purchase the 50D!  I'd love to know who beat me to the punch and got their paws on one Friday night!)
+<a href="http://www.flickr.com/photos/mathie/2872522573/" title="First shot with my new Canon EOS 50D!"><img src="http://farm4.static.flickr.com/3206/2872522573_0c6f27fd88_m.jpg" alt="First shot with my new Canon EOS 50D!" class="alignright" style="border: solid 1px #000000; float: right;" /></a>I picked up my pre-ordered Canon EOS 50D from Jessops on Saturday afternoon, after I had been pestering them daily to find out when it would come into stock.  (It was alleged at the store that they were the only outlet in Scotland to currently have them, and that I was therefore the second person in Scotland to purchase the 50D!  I'd love to know who beat me to the punch and got their paws on one Friday night!)
 
 Anyway, a few first impressions (bearing in mind that I'm upgrading from an EOS 350D, these are not necessarily anything new about the 50D, but a win from the upgrade to the next line up):
 
@@ -72,4 +72,4 @@ Anyway, a few first impressions (bearing in mind that I'm upgrading from an EOS 
 
 I'm running out of superlatives, so I'll stop now.  Let's just say I'm ... pleased with the upgrade. :-D
 
-(Posted via <a href="http:&#47;&#47;www.flickr.com&#47;"><img alt="Flickr" src="http:&#47;&#47;www.flickr.com&#47;images&#47;flickr_logo_blog.gif" height="18" width="41" &#47;><&#47;a>.)
+(Posted via <a href="http://www.flickr.com/"><img alt="Flickr" src="http://www.flickr.com/images/flickr_logo_blog.gif" height="18" width="41" /></a>.)

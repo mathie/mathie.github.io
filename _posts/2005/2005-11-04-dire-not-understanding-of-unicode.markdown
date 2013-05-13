@@ -50,8 +50,7 @@ comments:
 
     Another solution is to use read_default_file keyword option to connect. That''s
     how "deriving from the character set the database defaults to" is done. For example,
-    connect(read_default_file=''&#47;etc&#47;my.cnf''), where &#47;etc&#47;my.cnf
-    has
+    connect(read_default_file=''/etc/my.cnf''), where /etc/my.cnf has
 
 
     [mysql]
@@ -71,7 +70,7 @@ comments:
   content: ! 'OK, I''m still not getting it...
 
 
-    [code]mathie@Tandoori:mailmanager-2.0.1$ cat &#47;Users&#47;mathie&#47;.my.cnf
+    [code]mathie@Tandoori:mailmanager-2.0.1$ cat /Users/mathie/.my.cnf
 
     [mysql]
 
@@ -87,7 +86,7 @@ comments:
 
     >>> import MySQLdb
 
-    >>> c = MySQLdb.connect(db = ''foo'', use_unicode = True, read_default_file="&#47;Users&#47;mathie&#47;.my.cnf")
+    >>> c = MySQLdb.connect(db = ''foo'', use_unicode = True, read_default_file="/Users/mathie/.my.cnf")
 
     >>> c.character_set_name()
 
@@ -99,7 +98,7 @@ comments:
 
     >>> c.character_set_name()
 
-    ''latin1''[&#47;code]
+    ''latin1''[/code]
 
 
     Thanks for the pointer to the MySQL docs -- I''ll take a closer look this afternoon.'
@@ -127,9 +126,8 @@ comments:
     MjAwNS0xMS0wNCAxNjoyNjo1MiArMDAwMA==
   content: ! 'For reference, the Euro character is only ALT 0128 on Windows. Its actual
     Unicode codepoint is U+20AC. If you get used to thinking of the Euro as ALT-0128,
-    you''re going to set yourself up for problems later on. See http:&#47;&#47;www.cs.tut.fi&#47;~jkorpela&#47;html&#47;euro.html
-    and http:&#47;&#47;www.cs.tut.fi&#47;~jkorpela&#47;www&#47;windows-chars.html
-    for more details.
+    you''re going to set yourself up for problems later on. See http://www.cs.tut.fi/~jkorpela/html/euro.html
+    and http://www.cs.tut.fi/~jkorpela/www/windows-chars.html for more details.
 
 
     Oh, and my clue-stick has "Stay away from MySQL; use PostgreSQL instead if you
@@ -161,44 +159,44 @@ comments:
     MjAwNi0wMS0yNSAwNTo1NTo0NSArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0wMS0yNSAwNDo1NTo0NSArMDAwMA==
-  content: ! '<p>A SET NAMES ''x'' statement is equivalent to these three statements:<&#47;p>
+  content: ! '<p>A SET NAMES ''x'' statement is equivalent to these three statements:</p>
 
 
-    <p>mysql> SET character_set_client = x;
+    <p>mysql&gt; SET character_set_client = x;
 
-    mysql> SET character_set_results = x;
+    mysql&gt; SET character_set_results = x;
 
-    mysql> SET character_set_connection = x;<&#47;p>
-
-
-    <p>A SET CHARACTER SET x statement is equivalent to these three statements:<&#47;p>
+    mysql&gt; SET character_set_connection = x;</p>
 
 
-    <p>mysql> SET character_set_client = x;
-
-    mysql> SET character_set_results = x;
-
-    mysql> SET collation_connection = @@collation_database;<&#47;p>
+    <p>A SET CHARACTER SET x statement is equivalent to these three statements:</p>
 
 
-    <p>(from http:&#47;&#47;www.informit.com&#47;articles&#47;article.asp?p=328641&amp;seqNum=3#336)<&#47;p>'
+    <p>mysql&gt; SET character_set_client = x;
+
+    mysql&gt; SET character_set_results = x;
+
+    mysql&gt; SET collation_connection = @@collation_database;</p>
+
+
+    <p>(from http://www.informit.com/articles/article.asp?p=328641&amp;seqNum=3#336)</p>'
 ---
 OK, I think I just plain don't understand Unicode, character sets, encodings, or anything of that nature.  What I'm actually trying to achieve is to store Unicode data in a MySQL 4.1.x database.  And I'd really like to store it as UTF-8, since I keep being told this is a good thing.  (This already works fine on PostgreSQL, by the way.)
 
 So, what I don't understand is when I do:
 
 [code lang="sql"]mysql> CREATE DATABASE foo CHARACTER SET UTF8;
-Query OK, 1 row affected (0.00 sec)[&#47;code]
+Query OK, 1 row affected (0.00 sec)[/code]
 
 in my MySQL client, then do:
 
 [code lang="python"]>>> import MySQLdb
 >>> c = MySQLdb.connect(db = 'foo', use_unicode = True)
 >>> c.character_set_name()
-'latin1'[&#47;code]
+'latin1'[/code]
 
 What's happening there?  Is it that it encodes the Unicode string in the Latin-1 (ISO 8859-1) encoding for it to go over the connection between the MySQL client and server, only to decode it back to Unicode, only to be encoded as UTF-8 before it hits the database?  Shouldn't the encoding for the connection match that of the database table?  Aren't there characters in UTF-8 which aren't available in Latin-1 (like, for example, the &euro; -- Euro -- symbol!)?
 
-I wonder if the MySQL Python library ought to be using the C API function <a href="http:&#47;&#47;dev.mysql.com&#47;doc&#47;refman&#47;4.1&#47;en&#47;mysql-set-character-set.html"><code>mysql_set_character_set()<&#47;code><&#47;a> to set the desired character set in the connection (perhaps deriving it from the character set the database defaults to?), but I really don't feel confident enough with this stuff to ask upstream...
+I wonder if the MySQL Python library ought to be using the C API function <a href="http://dev.mysql.com/doc/refman/4.1/en/mysql-set-character-set.html"><code>mysql_set_character_set()</code></a> to set the desired character set in the connection (perhaps deriving it from the character set the database defaults to?), but I really don't feel confident enough with this stuff to ask upstream...
 
 Would you please form an orderly queue in the comments to hit me with a clue-stick? :-)

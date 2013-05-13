@@ -22,7 +22,7 @@ comments:
     MjAwNS0xMC0yNSAxNzoyNTozNyArMDEwMA==
   date_gmt: !binary |-
     MjAwNS0xMC0yNSAxNjoyNTozNyArMDEwMA==
-  content: ! '<em>What noise does a stag make?<&#47;em>
+  content: ! '<em>What noise does a stag make?</em>
 
 
     Well if I remember the conversation on IM, it''s "I''m getting old, I''d prefer
@@ -53,4 +53,4 @@ comments:
 
     no nakidity allowed!'
 ---
-I gather that Annabel and her mum are off to Barcelona at the last weekend of November for a 'hen weekend'...  So if anybody was happening to want to organise something something similar, that weekend would be particularly apropos, and maybe you want to direct suggestions to <a href="http:&#47;&#47;www.drossy.net&#47;blog&#47; rel="friend">Derek<&#47;a>. :-)
+I gather that Annabel and her mum are off to Barcelona at the last weekend of November for a 'hen weekend'...  So if anybody was happening to want to organise something something similar, that weekend would be particularly apropos, and maybe you want to direct suggestions to <a href="http://www.drossy.net/blog/ rel="friend">Derek</a>. :-)

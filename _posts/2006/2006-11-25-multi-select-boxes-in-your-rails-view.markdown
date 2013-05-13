@@ -26,7 +26,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMS0yNSAxODo0NTowNSArMDAwMA==
   content: <p>Oh, beautiful :) I'm going to bookmark the post, the helper might be
-    useful in a near future :) Thanks<&#47;p>
+    useful in a near future :) Thanks</p>
 - id: 719
   author: Sandro Paganotti
   author_email: sandro@railsonwave.com
@@ -44,7 +44,7 @@ comments:
     Maybe isn''t better to add another arg to "collection_select_multiple_categories"
     ?
 
-    Doing so you can specify time to time what is the collection you want to use.<&#47;p>'
+    Doing so you can specify time to time what is the collection you want to use.</p>'
 - id: 720
   author: mathie
   author_email: mathie@rubaidh.com
@@ -54,10 +54,10 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMS0yNiAxMDo1OTowOSArMDAwMA==
   content: ! "<p>Sandro:  That's effectively what the first helper has become.  You
-    can call it along the lines of:<&#47;p>\n\n<pre><code><%= collection_select_multiple
-    :article, :categories,\n        Category.find(:all), :id, :title %>\n<&#47;code><&#47;pre>\n\n<p>in
+    can call it along the lines of:</p>\n\n<pre><code>&lt;%= collection_select_multiple
+    :article, :categories,\n        Category.find(:all), :id, :title %&gt;\n</code></pre>\n\n<p>in
     your view and it will do the right thing.  I just like the idea of taking as much
-    as possible out of the view...<&#47;p>"
+    as possible out of the view...</p>"
 - id: 721
   author: dagny
   author_email: dagnygromer@gmail.com
@@ -68,7 +68,7 @@ comments:
     MjAwNi0xMS0yNiAxNjowMDoxNyArMDAwMA==
   content: <p>When the name ends with "[]", the html gets a warning from the tidy
     validator. Also, these names can't be referenced in javascript as "[]" indicates
-    array to js.<&#47;p>
+    array to js.</p>
 - id: 722
   author: mathie
   author_email: mathie@rubaidh.com
@@ -78,12 +78,12 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMS0yNiAxNzoxMzo0MiArMDAwMA==
   content: ! '<p>dagny: Yeah, but that''s the rails idiom for these things.  As for
-    referencing them, don''t you use the <code>id<&#47;code> rather than the <code>name<&#47;code>?  Rails
-    does the right thing and, in my particular example, calls the id <code>article_category_ids<&#47;code>.<&#47;p>
+    referencing them, don''t you use the <code>id</code> rather than the <code>name</code>?  Rails
+    does the right thing and, in my particular example, calls the id <code>article_category_ids</code>.</p>
 
 
-    <p>FWIW, the <a href="http:&#47;&#47;validator.w3.org&#47;" rel="nofollow">W3C
-    Validator<&#47;a> doesn''t seem too fussed about the name having a ''[]'' in it.<&#47;p>'
+    <p>FWIW, the <a href="http://validator.w3.org/" rel="nofollow">W3C Validator</a>
+    doesn''t seem too fussed about the name having a ''[]'' in it.</p>'
 - id: 723
   author: Jamie Hill
   author_email: jamie@thelucid.com
@@ -93,7 +93,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMS0yNyAxMDozNjoxNSArMDAwMA==
   content: <p>Nice helper. However, I would tend to go for a list of checkboxes in
-    this scenario, you can still use the "name[]" kind of field naming.<&#47;p>
+    this scenario, you can still use the "name[]" kind of field naming.</p>
 - id: 724
   author: onur
   author_email: emperon@gmail.com
@@ -102,12 +102,12 @@ comments:
     MjAwNi0xMi0wNSAxMDozNzo1MyArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0xMi0wNSAwOTozNzo1MyArMDAwMA==
-  content: ! "<p>This doesn't compile for me.  I think<&#47;p>\n\n<p>collection_select(\n
+  content: ! "<p>This doesn't compile for me.  I think</p>\n\n<p>collection_select(\n
     \     object, real_method,\n      collection, value_method, text_method,\n      options,\n
-    \     html_options.merge({<&#47;p>\n\n<p>the above part should be as below<&#47;p>\n\n<p>collection_select(\n
+    \     html_options.merge({</p>\n\n<p>the above part should be as below</p>\n\n<p>collection_select(\n
     \     object, method,\n      collection, value_method, text_method,\n      options,\n
-    \     html_options.merge({<&#47;p>\n\n<p>Also this doesn't work on edit mode (doesn't
-    give preselected items hightlighted<&#47;p>"
+    \     html_options.merge({</p>\n\n<p>Also this doesn't work on edit mode (doesn't
+    give preselected items hightlighted</p>"
 - id: 725
   author: Akhil Bansal
   author_email: bansalakhil30.10@gmail.com
@@ -122,7 +122,7 @@ comments:
 
     It is working fine..
 
-    ;-)<&#47;p>'
+    ;-)</p>'
 - id: 726
   author: anne
   author_email: ann.glowtouch@gmail.com
@@ -135,7 +135,7 @@ comments:
     to develop a shopping cart cud u point me the rite tutorials which will help me
     understand things better
 
-    Thanks..<&#47;p>'
+    Thanks..</p>'
 - id: 727
   author: Andy
   author_email: prd@andylima.com
@@ -144,24 +144,24 @@ comments:
     MjAwNy0wMy0wNiAwMTowMjowNiArMDAwMA==
   date_gmt: !binary |-
     MjAwNy0wMy0wNiAwMDowMjowNiArMDAwMA==
-  content: ! '<p>Hi Graeme,<&#47;p>
+  content: ! '<p>Hi Graeme,</p>
 
 
-    <p>Thanks very much for this!<&#47;p>
+    <p>Thanks very much for this!</p>
 
 
     <p>But, with this method I can''t unselect all categories in the form -- I mean,
     if I chose one previously, then I can''t unchose it (without choosing another
-    one).<&#47;p>
+    one).</p>
 
 
-    <p>Can you confirm this?<&#47;p>
+    <p>Can you confirm this?</p>
 
 
-    <p>And, if this is a bug, how would one go about fixing it?<&#47;p>
+    <p>And, if this is a bug, how would one go about fixing it?</p>
 
 
-    <p>TIA<&#47;p>'
+    <p>TIA</p>'
 - id: 728
   author: Andy
   author_email: prd@andylima.com
@@ -170,10 +170,10 @@ comments:
     MjAwNy0wMy0wNiAwMTozOTo1OSArMDAwMA==
   date_gmt: !binary |-
     MjAwNy0wMy0wNiAwMDozOTo1OSArMDAwMA==
-  content: ! '<p>ok, got it -- it''s an option f select[xxx] methods<&#47;p>
+  content: ! '<p>ok, got it -- it''s an option f select[xxx] methods</p>
 
 
-    <p>thanks again f this great helper!<&#47;p>'
+    <p>thanks again f this great helper!</p>'
 - id: 729
   author: john
   author_email: crazylunjay@gmail.com
@@ -184,10 +184,10 @@ comments:
     MjAwNy0wMy0yNCAyMTowNTo1NyArMDAwMA==
   content: ! '<p>The code for the view works very well but due to the fact that the
     attribute name is pluralised in my case its interest_id_ids I can''t seem to save
-    the records to the particular model.<&#47;p>
+    the records to the particular model.</p>
 
 
-    <p>Please help<&#47;p>'
+    <p>Please help</p>'
 - id: 730
   author: amit hasija
   author_email: amit.hasija@vinove.com
@@ -196,13 +196,13 @@ comments:
     MjAwNy0wMy0yOCAxMDo0Mzo1OSArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wMy0yOCAwOTo0Mzo1OSArMDEwMA==
-  content: ! "<p>sir,<&#47;p>\n\n<p>i am having problems while using collection_select,i
+  content: ! "<p>sir,</p>\n\n<p>i am having problems while using collection_select,i
     want to know how to use the selected value option in colletion select,heres my
-    code :<&#47;p>\n\n<p><%= collection_select(:template_1, :templates_id,\n                                    Template.find(:all,:joins=>\"right
+    code :</p>\n\n<p>&lt;%= collection_select(:template_1, :templates_id,\n                                    Template.find(:all,:joins=&gt;\"right
     join user_templates on user_templates.template_id = templates.id inner join users
-    on users.id = user_templates.user_id\",:conditions => \"users.id='#{session[:id]}'\"
-    ),:template_id, :TemplateTitle,{ :prompt => \"Select Template\"},{:name=>'template',:style
-    => \"color: green\"}) %><&#47;p>"
+    on users.id = user_templates.user_id\",:conditions =&gt; \"users.id='#{session[:id]}'\"
+    ),:template_id, :TemplateTitle,{ :prompt =&gt; \"Select Template\"},{:name=&gt;'template',:style
+    =&gt; \"color: green\"}) %&gt;</p>"
 - id: 731
   author: Jason
   author_email: jasonthompsonaz@gmail.com
@@ -211,7 +211,7 @@ comments:
     MjAwOC0wNS0zMCAyMToxNzoxOCArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wNS0zMCAyMDoxNzoxOCArMDEwMA==
-  content: <p>Excellent code. Thank you for sharing.<&#47;p>
+  content: <p>Excellent code. Thank you for sharing.</p>
 - id: 732
   author: Patrick
   author_email: g0lfshark@yahoo.com
@@ -220,7 +220,7 @@ comments:
     MjAwOC0wOC0xNSAyMDo1MTo0NSArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wOC0xNSAxOTo1MTo0NSArMDEwMA==
-  content: <p>This is great! A Timesaver. Thanks!<&#47;p>
+  content: <p>This is great! A Timesaver. Thanks!</p>
 ---
 It seems like, in current Rails, there's not a very helpful helper around to give you select boxes which allow multiple items to be selected.  So I present you with one:
 

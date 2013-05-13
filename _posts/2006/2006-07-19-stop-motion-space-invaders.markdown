@@ -24,10 +24,10 @@ comments:
     MjAwNi0wNy0xOSAwOTo0NToyOSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNy0xOSAwODo0NToyOSArMDEwMA==
-  content: ! '<p>oooh, think we needs that tetris shelving for the sitting room!!<&#47;p>
+  content: ! '<p>oooh, think we needs that tetris shelving for the sitting room!!</p>
 
 
-    <p>:o)<&#47;p>'
+    <p>:o)</p>'
 - id: 566
   author: Tim
   author_email: pleh@pleh.edu
@@ -36,7 +36,7 @@ comments:
     MjAwNi0wNy0yMCAxNzowODo1NyArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNy0yMCAxNjowODo1NyArMDEwMA==
-  content: <p>So I came to look a day late... and it's dead already?!<&#47;p>
+  content: <p>So I came to look a day late... and it's dead already?!</p>
 - id: 567
   author: Debbie
   author_email: deb@newmexrun.com
@@ -45,8 +45,8 @@ comments:
     MjAwNi0wNy0yNSAxOTowODo0MSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNy0yNSAxODowODo0MSArMDEwMA==
-  content: <p>I actually like the tetris shelving sans the different background colors.<&#47;p>
+  content: <p>I actually like the tetris shelving sans the different background colors.</p>
 ---
-Fantastic!  A recreation of space invaders using stop-motion animation with people in an auditorium: [stop-motion human space invaders](http:&#47;&#47;www.pistolwimp.com&#47;media&#47;48474).  [via [projectionist](http:&#47;&#47;project.ioni.st&#47;)]
+Fantastic!  A recreation of space invaders using stop-motion animation with people in an auditorium: [stop-motion human space invaders](http://www.pistolwimp.com/media/48474).  [via [projectionist](http://project.ioni.st/)]
 
-Oh, and [Tetris Shelving](http:&#47;&#47;bravespacedesign.com&#47;product_tetris_flat.php).  [via [sparkplug](http:&#47;&#47;www.firewheeldesign.com&#47;sparkplug&#47;)]
+Oh, and [Tetris Shelving](http://bravespacedesign.com/product_tetris_flat.php).  [via [sparkplug](http://www.firewheeldesign.com/sparkplug/)]

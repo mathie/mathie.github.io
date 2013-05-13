@@ -17,8 +17,8 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.macosxhints.com&#47;article.php?story=20071101055329470">Add a 'recent things' stack to the Dock<&#47;a><&#47;div>
-		<div class="delicious-extended">Neat trick for having "recent applications", "recent documents", "favourite servers" and others as stacks in your dock.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;apple">apple<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;howto">howto<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;osx">osx<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;leopard">leopard<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;stacks">stacks<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;dock">dock<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://www.macosxhints.com/article.php?story=20071101055329470">Add a 'recent things' stack to the Dock</a></div>
+		<div class="delicious-extended">Neat trick for having "recent applications", "recent documents", "favourite servers" and others as stacks in your dock.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/apple">apple</a> <a href="http://del.icio.us/mathie/howto">howto</a> <a href="http://del.icio.us/mathie/osx">osx</a> <a href="http://del.icio.us/mathie/leopard">leopard</a> <a href="http://del.icio.us/mathie/stacks">stacks</a> <a href="http://del.icio.us/mathie/dock">dock</a>)</div>
+	</li>
+</ul>

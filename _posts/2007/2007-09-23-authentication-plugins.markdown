@@ -26,7 +26,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wOS0yMyAxNjozNzoyMiArMDEwMA==
   content: <p>Wouldn't it make more Railsy for :any_action and :every_action to be
-    represented by :all? I'll look out for this when 2.0 is released :)<&#47;p>
+    represented by :all? I'll look out for this when 2.0 is released :)</p>
 - id: 954
   author: Kevin Teague
   author_email: kevin@bud.ca
@@ -38,16 +38,16 @@ comments:
   content: ! '<p>Certainly looks more readable and understandable. But I suspect it
     would be possible to go one farther by just declaring roles required for actions.
     Anonymous users are granted the :public role, and logged in users are granted
-    the :authenicated role, then you could just write things such as:<&#47;p>
+    the :authenicated role, then you could just write things such as:</p>
 
 
-    <p>require :public, :index, :show<&#47;p>
+    <p>require :public, :index, :show</p>
 
 
-    <p>require :public, :any_action<&#47;p>
+    <p>require :public, :any_action</p>
 
 
-    <p>require :authenticated, :every_action<&#47;p>'
+    <p>require :authenticated, :every_action</p>'
 - id: 955
   author: Yitzhak Bar Geva
   author_email: yitzhakbg@gmail.com
@@ -59,7 +59,7 @@ comments:
   content: ! '<p>Any news on this plugin? Would like to hear more and if there has
     been any progress.
 
-    Thanks<&#47;p>'
+    Thanks</p>'
 ---
 I've been a happy user of `acts_as_authenticated`, and its lazy cousin `restful_authentication` for, well, it must be years now.  But lately it hasn't quite satisfied me.  (Which is a good reason auth shouldn't go into core, BTW: there's more than one way to do it and it's not a one-size-fits-all situation.)
 
@@ -81,7 +81,7 @@ where we had defined:
 
     Rubaidh::Authentication.roles += [:invite_manager, :moderator]
 
-somewhere in `config&#47;environment.rb`.  It defaults to containing 'administrator' IIRC.
+somewhere in `config/environment.rb`.  It defaults to containing 'administrator' IIRC.
 
 It's horses for courses, I guess, but I just prefer that kind of expressiveness.  It feels more like I'm telling Rails what I want to do, rather than how to do it.
 

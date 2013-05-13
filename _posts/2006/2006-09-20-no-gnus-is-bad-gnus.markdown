@@ -29,9 +29,9 @@ comments:
     MjAwNi0wOS0yMSAwMjowNDo1OSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wOS0yMSAwMTowNDo1OSArMDEwMA==
-  content: <p>Another alternative for emacs on the mac is Aquamacs (http:&#47;&#47;aquamacs.org&#47;)
+  content: <p>Another alternative for emacs on the mac is Aquamacs (http://aquamacs.org/)
     It's a kind of frankensteinesque program that's pat mac and part emacs. Seems
-    to suit my muscle memory well.<&#47;p>
+    to suit my muscle memory well.</p>
 - id: 595
   author: mathie
   author_email: mathie@woss.name
@@ -42,7 +42,7 @@ comments:
     MjAwNi0wOS0yMSAwODoxNTo0OCArMDEwMA==
   content: ! '<p>Boyd: From your recommendation, I gave it a quick shot.  It does
     just feel, well, wrong.  My muscle memory seems to be able to do one or t''other,
-    but not mix both.  I had the following conversation with zippy:<&#47;p>
+    but not mix both.  I had the following conversation with zippy:</p>
 
 
     > hello
@@ -140,22 +140,22 @@ comments:
     MjAwNi0xMi0wNiAxOToyMDozMyArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0xMi0wNiAxODoyMDozMyArMDAwMA==
-  content: ! '<p>i liked this!<&#47;p>
+  content: ! '<p>i liked this!</p>
 
 
     <p>(Scratch buffers in Aquamacs are in text-mode by default because I expect that
     its users will mostly write something contentful rather than keeping themselves
     busy hacking elisp.
 
-    M-x lisp-interaction-mode would have solved your problem!<&#47;p>'
+    M-x lisp-interaction-mode would have solved your problem!</p>'
 ---
-As an addendum to my post about [Keeping track of mailing lists](http:&#47;&#47;woss.name&#47;2006&#47;09&#47;19&#47;keeping-track-of-mailing-lists&#47;), despite everybody's suggestions about using Gmail, I've decided to try using [Gnus](http:&#47;&#47;gnus.org&#47;) in [XEmacs](http:&#47;&#47;www.xemacs.org&#47;) again.  Last night, I built 21.5.26 with [Andrew Choi's carbon patches](http:&#47;&#47;members.shaw.ca&#47;akochoi-xemacs&#47;), installed the latest sumo packages and tried it out.
+As an addendum to my post about [Keeping track of mailing lists](http://woss.name/2006/09/19/keeping-track-of-mailing-lists/), despite everybody's suggestions about using Gmail, I've decided to try using [Gnus](http://gnus.org/) in [XEmacs](http://www.xemacs.org/) again.  Last night, I built 21.5.26 with [Andrew Choi's carbon patches](http://members.shaw.ca/akochoi-xemacs/), installed the latest sumo packages and tried it out.
 
 My fingers strangely still remember a number of the shortcuts, so it wasn't an altogether painful experience.  In fact, my fingers still remember a bunch of the stuff I'd set up myself, that I miss, so I'm now digging through my subversion-backed home directory's history to find my old gnus configuration.
 
 I feel it helps to have a separate application for mailing lists, because it is very much a separate task (or context?) to reading email.  It's something I only want to do once or twice a day, when I've got a little downtime or am looking for a distraction.
 
-Incidentally, I previously [built a binary for XEmacs](http:&#47;&#47;woss.name&#47;2005&#47;08&#47;04&#47;build-of-carbon-xemacs-21520-beta-2-for-mac-os-x-104&#47;) and now that I'm using it again, I'd be happy to knock a more up to date one together if there was any demand for such a thing?
+Incidentally, I previously [built a binary for XEmacs](http://woss.name/2005/08/04/build-of-carbon-xemacs-21520-beta-2-for-mac-os-x-104/) and now that I'm using it again, I'd be happy to knock a more up to date one together if there was any demand for such a thing?
 
 One other thing.  I don't suppose anybody around here still happens to run a usenet news server these days?  I'd like access to `comp.lang.ruby` and I'd quite like to reacquaint myself with another couple of groups I used to hang around in...
 

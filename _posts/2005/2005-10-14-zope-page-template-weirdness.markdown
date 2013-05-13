@@ -42,67 +42,67 @@ comments:
 
     browsers.'
 ---
-So we were having a 'discussion' on the work mailing list about a change I'd made to the UI code for <a href="http:&#47;&#47;www.logicalware.com&#47;">MailManager<&#47;a>.  Given the following page template:
+So we were having a 'discussion' on the work mailing list about a change I'd made to the UI code for <a href="http://www.logicalware.com/">MailManager</a>.  Given the following page template:
 
 [code lang="xml"]<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-&#47;&#47;W3C&#47;&#47;DTD XHTML 1.0 Strict&#47;&#47;EN"
-                      "http:&#47;&#47;www.w3.org&#47;TR&#47;xhtml1&#47;DTD&#47;xhtml1-strict.dtd">
-<html xmlns="http:&#47;&#47;www.w3.org&#47;1999&#47;xhtml" lang="en" xml:lang="en" i18n:attributes="lang language; xml:lang language"
-  xmlns:tal="http:&#47;&#47;xml.zope.org&#47;namespaces&#47;tal"
-  xmlns:metal="http:&#47;&#47;xml.zope.org&#47;namespaces&#47;metal"
-  xmlns:i18n="http:&#47;&#47;xml.zope.org&#47;namespaces&#47;i18n">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" i18n:attributes="lang language; xml:lang language"
+  xmlns:tal="http://xml.zope.org/namespaces/tal"
+  xmlns:metal="http://xml.zope.org/namespaces/metal"
+  xmlns:i18n="http://xml.zope.org/namespaces/i18n">
   <head>
-    <title tal:content="template&#47;title">The title<&#47;title>
-  <&#47;head>
+    <title tal:content="template/title">The title</title>
+  </head>
   <body>
     <p>
-      <option tal:attributes="selected python:1==1">xxx<&#47;option>
-      <option tal:attributes="selected python:1==0">yyy<&#47;option>
-    <&#47;p>
-  <&#47;body>
-<&#47;html>[&#47;code]
+      <option tal:attributes="selected python:1==1">xxx</option>
+      <option tal:attributes="selected python:1==0">yyy</option>
+    </p>
+  </body>
+</html>[/code]
 
 both Andy and Kev asserted that it would render to:
 
 [code lang="xml"]<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-&#47;&#47;W3C&#47;&#47;DTD XHTML 1.0 Strict&#47;&#47;EN"
-                      "http:&#47;&#47;www.w3.org&#47;TR&#47;xhtml1&#47;DTD&#47;xhtml1-strict.dtd">
-<html xmlns="http:&#47;&#47;www.w3.org&#47;1999&#47;xhtml" lang="en"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
       xml:lang="en">
   <head>
-    <title><&#47;title>
-  <&#47;head>
+    <title></title>
+  </head>
   <body>
     <p>
-      <option selected="selected">xxx<&#47;option>
+      <option selected="selected">xxx</option>
 
-      <option>yyy<&#47;option>
-    <&#47;p>
-  <&#47;body>
-<&#47;html>[&#47;code]
+      <option>yyy</option>
+    </p>
+  </body>
+</html>[/code]
 
 while I was asserting that it rendered to:
 
 [code lang="xml"]<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-&#47;&#47;W3C&#47;&#47;DTD XHTML 1.0 Strict&#47;&#47;EN"
-                      "http:&#47;&#47;www.w3.org&#47;TR&#47;xhtml1&#47;DTD&#47;xhtml1-strict.dtd">
-<html xmlns="http:&#47;&#47;www.w3.org&#47;1999&#47;xhtml" lang="en"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
       xml:lang="en">
   <head>
-    <title><&#47;title>
-  <&#47;head>
+    <title></title>
+  </head>
   <body>
     <p>
-      <option selected="True">xxx<&#47;option>
-      <option selected="False">yyy<&#47;option>
+      <option selected="True">xxx</option>
+      <option selected="False">yyy</option>
 
-    <&#47;p>
-  <&#47;body>
-<&#47;html>[&#47;code]
+    </p>
+  </body>
+</html>[/code]
 
-(note the difference in the rendering of the 'selected' attribute of the <code><option><&#47;code> tag.)
+(note the difference in the rendering of the 'selected' attribute of the <code>&lt;option&gt;</code> tag.)
 
-I had distilled mine down from the MailManager code, as a test instance, whereas both Kev &amp; Andy had created a fresh template in the ZMI.  And both of us appeared to be right.  We wondered if it was a difference in platform -- I'm working on my laptop, with python 2.4 &amp; Zope 2.7.7.  But no.  The difference is that I'm rendering the files as content-type text&#47;xml (which Zope kindly defaults to if it encounters a file starting <code><?xml ...<&#47;code> whereas they were forcing the content-type to text&#47;html (the default if you create a template through the ZMI).  If you force the content-type to text&#47;xml in the ZMI you'll see the same results as I get.
+I had distilled mine down from the MailManager code, as a test instance, whereas both Kev &amp; Andy had created a fresh template in the ZMI.  And both of us appeared to be right.  We wondered if it was a difference in platform -- I'm working on my laptop, with python 2.4 &amp; Zope 2.7.7.  But no.  The difference is that I'm rendering the files as content-type text/xml (which Zope kindly defaults to if it encounters a file starting <code>&lt;?xml ...</code> whereas they were forcing the content-type to text/html (the default if you create a template through the ZMI).  If you force the content-type to text/xml in the ZMI you'll see the same results as I get.
 
 So it turns out that exactly the same Zope Page Templates will render slightly differently, depending on whether or not they are marked as being HTML or XML.  Cool.
 

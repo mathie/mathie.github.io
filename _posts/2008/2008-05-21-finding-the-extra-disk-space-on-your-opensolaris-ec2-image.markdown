@@ -24,10 +24,10 @@ comments:
   date_gmt: !binary |-
     MjAwOC0wNi0zMCAxNzo0NDoyMCArMDEwMA==
   content: <p>Yes, the initial smf(5) import is slow on builds earlier than snv_84.  OpenSolaris
-    2008.05 was built on snv_86 so you won't see this issue there.<&#47;p>
+    2008.05 was built on snv_86 so you won't see this issue there.</p>
 ---
 Sun and Amazon recently announced the [Launch of OpenSolaris on Amazon
-EC2](http:&#47;&#47;blogs.sun.com&#47;ec2&#47;entry&#47;launch_of_opensolaris_on_amazon) and I've
+EC2](http://blogs.sun.com/ec2/entry/launch_of_opensolaris_on_amazon) and I've
 just taken the opportunity to test drive the OpenSolaris (Solaris eXpress
 Community Edition b79) image. I'm planning to fire up some notes here as I
 discover various aspects of the platform.
@@ -49,7 +49,7 @@ poke around. First of all, let's print the partition map for the first disk
     [ ... ]
     *                          First     Sector    Last
     * Partition  Tag  Flags    Sector     Count    Sector  Mount Directory
-           0      2    00    1076355  18330165  19406519   &#47;
+           0      2    00    1076355  18330165  19406519   /
            1      3    01      16065   1060290   1076354
            2      5    00          0  19406520  19406519
            8      1    01          0     16065     16064
@@ -59,14 +59,14 @@ filesystem, 1 is swap and 8 is, well, tiny -- I haven't a clue why it's there
 but we'll ignore it anyway. :-)
 
 My Solaris-fu is pretty basic, so I may have gone about this the wrong way,
-but looking in `&#47;dev&#47;dsk` there appears to be more disks than just the first
+but looking in `/dev/dsk` there appears to be more disks than just the first
 one:
 
-    bash-3.2# ls -l &#47;dev&#47;dsk&#47;*s2
-    lrwxrwxrwx   1 root     root          29 May 21 11:00 &#47;dev&#47;dsk&#47;c0d-817967040s2 -> ..&#47;..&#47;devices&#47;xpvd&#47;xdf@sda3:c
-    lrwxrwxrwx   1 root     root          26 Apr 14 23:08 &#47;dev&#47;dsk&#47;c0d0s2 -> ..&#47;..&#47;devices&#47;xpvd&#47;xdf@0:c
-    lrwxrwxrwx   1 root     root          26 May 21 11:00 &#47;dev&#47;dsk&#47;c0d1s2 -> ..&#47;..&#47;devices&#47;xpvd&#47;xdf@1:c
-    lrwxrwxrwx   1 root     root          26 Apr 14 23:08 &#47;dev&#47;dsk&#47;c0d6s2 -> ..&#47;..&#47;devices&#47;xpvd&#47;xdf@6:c
+    bash-3.2# ls -l /dev/dsk/*s2
+    lrwxrwxrwx   1 root     root          29 May 21 11:00 /dev/dsk/c0d-817967040s2 -> ../../devices/xpvd/xdf@sda3:c
+    lrwxrwxrwx   1 root     root          26 Apr 14 23:08 /dev/dsk/c0d0s2 -> ../../devices/xpvd/xdf@0:c
+    lrwxrwxrwx   1 root     root          26 May 21 11:00 /dev/dsk/c0d1s2 -> ../../devices/xpvd/xdf@1:c
+    lrwxrwxrwx   1 root     root          26 Apr 14 23:08 /dev/dsk/c0d6s2 -> ../../devices/xpvd/xdf@6:c
 
 So, let's take a look at `c0d1`:
 
@@ -84,7 +84,7 @@ whole disk with ZFS:
     bash-3.2# zpool create tank c0d1
     bash-3.2# zfs list
     NAME   USED  AVAIL  REFER  MOUNTPOINT
-    tank  89.5K   147G     1K  &#47;tank
+    tank  89.5K   147G     1K  /tank
 
 Nice.  So we now have our extra space, all ready to go with ZFS.
 

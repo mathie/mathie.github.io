@@ -17,28 +17,28 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;agilewebdevelopment.com&#47;plugins">Ruby on Rails Plugins - Agile Web Development<&#47;a><&#47;div>
-		<div class="delicious-extended">Ruby on Rails Plugin directory.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;plugins">plugins<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;development">development<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://agilewebdevelopment.com/plugins">Ruby on Rails Plugins - Agile Web Development</a></div>
+		<div class="delicious-extended">Ruby on Rails Plugin directory.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/plugins">plugins</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/development">development</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.peepcode.com&#47;articles&#47;2006&#47;11&#47;26&#47;test-first-development">Test-First Development :: PeepCode Ruby on Rails Screencasts<&#47;a><&#47;div>
-		<div class="delicious-extended">A new screencast from Topfunky on Test- (or Behaviour-) Driven Development with Rails.  Hopefully there shouldn't be much new content here for me, but I guarantee I pick up something interesting.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;testing">testing<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;tdd">tdd<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;bdd">bdd<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;screencasts">screencasts<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://www.peepcode.com/articles/2006/11/26/test-first-development">Test-First Development :: PeepCode Ruby on Rails Screencasts</a></div>
+		<div class="delicious-extended">A new screencast from Topfunky on Test- (or Behaviour-) Driven Development with Rails.  Hopefully there shouldn't be much new content here for me, but I guarantee I pick up something interesting.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/testing">testing</a> <a href="http://del.icio.us/mathie/tdd">tdd</a> <a href="http://del.icio.us/mathie/bdd">bdd</a> <a href="http://del.icio.us/mathie/screencasts">screencasts</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;lunchroom.lunchboxsoftware.com&#47;articles&#47;2006&#47;01&#47;21&#47;acts-as-state-machine">Rubyist - Acts As State Machine<&#47;a><&#47;div>
-		<div class="delicious-extended">A plugin for Ruby on Rails to implement a state machine on Rails models.  Looks like it could be useful for modelling workflow.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;plugins">plugins<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;workflow">workflow<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://lunchroom.lunchboxsoftware.com/articles/2006/01/21/acts-as-state-machine">Rubyist - Acts As State Machine</a></div>
+		<div class="delicious-extended">A plugin for Ruby on Rails to implement a state machine on Rails models.  Looks like it could be useful for modelling workflow.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/plugins">plugins</a> <a href="http://del.icio.us/mathie/workflow">workflow</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.onlamp.com&#47;pub&#47;a&#47;onlamp&#47;2004&#47;11&#47;18&#47;slony.html">ONLamp.com -- Introducing Slony<&#47;a><&#47;div>
-		<div class="delicious-extended">An overview of Slony, a replication system for PostgreSQL.  Worth investigating more to see if we can make it do automatic failover.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;postgresql">postgresql<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;sql">sql<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;replication">replication<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;database">database<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://www.onlamp.com/pub/a/onlamp/2004/11/18/slony.html">ONLamp.com -- Introducing Slony</a></div>
+		<div class="delicious-extended">An overview of Slony, a replication system for PostgreSQL.  Worth investigating more to see if we can make it do automatic failover.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/postgresql">postgresql</a> <a href="http://del.icio.us/mathie/sql">sql</a> <a href="http://del.icio.us/mathie/replication">replication</a> <a href="http://del.icio.us/mathie/database">database</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.danga.com&#47;words&#47;2004_mysqlcon&#47;mysql-slides.pdf">Livejournal's evolving server architecture<&#47;a><&#47;div>
-		<div class="delicious-extended">Livejournal's server architecture and how it's changed to scale over time.  In particular, the idea of Master-Master clusters (slide 25 & 26) sounds interesting.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;mysql">mysql<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;scalability">scalability<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;database">database<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;performance">performance<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;clustering">clustering<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://www.danga.com/words/2004_mysqlcon/mysql-slides.pdf">Livejournal's evolving server architecture</a></div>
+		<div class="delicious-extended">Livejournal's server architecture and how it's changed to scale over time.  In particular, the idea of Master-Master clusters (slide 25 & 26) sounds interesting.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/mysql">mysql</a> <a href="http://del.icio.us/mathie/scalability">scalability</a> <a href="http://del.icio.us/mathie/database">database</a> <a href="http://del.icio.us/mathie/performance">performance</a> <a href="http://del.icio.us/mathie/clustering">clustering</a>)</div>
+	</li>
+</ul>

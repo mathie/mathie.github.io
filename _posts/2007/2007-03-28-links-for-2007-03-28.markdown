@@ -17,38 +17,38 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;code.google.com&#47;p&#47;google-ctemplate&#47;">google-ctemplate - Google Code<&#47;a><&#47;div>
-		<div class="delicious-extended">Neat.  If I ever get back into C++, I'll have to check out this templating system.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;c++">c++<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;mvc">mvc<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;google">google<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://code.google.com/p/google-ctemplate/">google-ctemplate - Google Code</a></div>
+		<div class="delicious-extended">Neat.  If I ever get back into C++, I'll have to check out this templating system.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/c++">c++</a> <a href="http://del.icio.us/mathie/mvc">mvc</a> <a href="http://del.icio.us/mathie/google">google</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;errtheblog.com&#47;post&#47;2120">err.the_blog.find_by_title('Vendor Everything')<&#47;a><&#47;div>
-		<div class="delicious-extended">Nice write-up of how to put gems in your vendor&#47; directory.  We have done exactly as was documented here (and I meant to document it myself!) but failed to think of a nice way of handling C extensions (notably hpricot).<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;gems">gems<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;plugins">plugins<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://errtheblog.com/post/2120">err.the_blog.find_by_title('Vendor Everything')</a></div>
+		<div class="delicious-extended">Nice write-up of how to put gems in your vendor/ directory.  We have done exactly as was documented here (and I meant to document it myself!) but failed to think of a nice way of handling C extensions (notably hpricot).</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/gems">gems</a> <a href="http://del.icio.us/mathie/plugins">plugins</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;chneukirchen.org&#47;blog&#47;archive&#47;2007&#47;01&#47;announcing-test-spec-0-3-a-bdd-interface-for-test-unit.html">chris blogs: Announcing test&#47;spec 0.3, a BDD interface for Test::Unit<&#47;a><&#47;div>
-		<div class="delicious-extended">Woo, perhaps this is the alternative to rspec (which changes&#47;reimplements too much for my liking) I've been looking for.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;testing">testing<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;testsuite">testsuite<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;plugins">plugins<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;bdd">bdd<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://chneukirchen.org/blog/archive/2007/01/announcing-test-spec-0-3-a-bdd-interface-for-test-unit.html">chris blogs: Announcing test/spec 0.3, a BDD interface for Test::Unit</a></div>
+		<div class="delicious-extended">Woo, perhaps this is the alternative to rspec (which changes/reimplements too much for my liking) I've been looking for.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/testing">testing</a> <a href="http://del.icio.us/mathie/testsuite">testsuite</a> <a href="http://del.icio.us/mathie/plugins">plugins</a> <a href="http://del.icio.us/mathie/bdd">bdd</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;dedchain.dustindiaz.com&#47;">DED|Chain&acirc;&bdquo;&cent; JavaScript Library<&#47;a><&#47;div>
-		<div class="delicious-extended">New JS library with the elegance of jQuery and the "reliability" of YUI.  Worth looking into, since I'm using YUI for a couple of projects now.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;javascript">javascript<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;yui">yui<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;yahoo">yahoo<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ajax">ajax<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://dedchain.dustindiaz.com/">DED|Chainâ„¢ JavaScript Library</a></div>
+		<div class="delicious-extended">New JS library with the elegance of jQuery and the "reliability" of YUI.  Worth looking into, since I'm using YUI for a couple of projects now.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/javascript">javascript</a> <a href="http://del.icio.us/mathie/yui">yui</a> <a href="http://del.icio.us/mathie/yahoo">yahoo</a> <a href="http://del.icio.us/mathie/ajax">ajax</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.luminous-landscape.com&#47;tutorials&#47;expose-right.shtml">Expose Right<&#47;a><&#47;div>
-		<div class="delicious-extended">This article talks about making sure that your photo (by using the histogram) contains as much information as far to the right as possible (effectively overexposing while not blowing the highlights) to be able to record more detail from the sensor.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;photography">photography<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;photoshop">photoshop<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;exposure">exposure<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;histogram">histogram<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://www.luminous-landscape.com/tutorials/expose-right.shtml">Expose Right</a></div>
+		<div class="delicious-extended">This article talks about making sure that your photo (by using the histogram) contains as much information as far to the right as possible (effectively overexposing while not blowing the highlights) to be able to record more detail from the sensor.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/photography">photography</a> <a href="http://del.icio.us/mathie/photoshop">photoshop</a> <a href="http://del.icio.us/mathie/exposure">exposure</a> <a href="http://del.icio.us/mathie/histogram">histogram</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.chadfowler.com&#47;2007&#47;3&#47;26&#47;how-to-run-a-small-conference">How to Run a Small Conference<&#47;a><&#47;div>
-		<div class="delicious-extended">Chad's braindump on how to organise a small conference.  Lots of useful material here.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;conferences">conferences<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;railsconfeurope">railsconfeurope<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://www.chadfowler.com/2007/3/26/how-to-run-a-small-conference">How to Run a Small Conference</a></div>
+		<div class="delicious-extended">Chad's braindump on how to organise a small conference.  Lots of useful material here.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/conferences">conferences</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/railsconfeurope">railsconfeurope</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.adobe.com&#47;products&#47;creativesuite&#47;">Adobe - Creative Suite 3<&#47;a><&#47;div>
-		<div class="delicious-extended">Adobe Creative Suite 3 has been announced.  There's so much here to be excited about that I can't express it in 255 characters!<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;design">design<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;graphics">graphics<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;photography">photography<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;photoshop">photoshop<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;software">software<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;tools">tools<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;adobe">adobe<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://www.adobe.com/products/creativesuite/">Adobe - Creative Suite 3</a></div>
+		<div class="delicious-extended">Adobe Creative Suite 3 has been announced.  There's so much here to be excited about that I can't express it in 255 characters!</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/design">design</a> <a href="http://del.icio.us/mathie/graphics">graphics</a> <a href="http://del.icio.us/mathie/photography">photography</a> <a href="http://del.icio.us/mathie/photoshop">photoshop</a> <a href="http://del.icio.us/mathie/software">software</a> <a href="http://del.icio.us/mathie/tools">tools</a> <a href="http://del.icio.us/mathie/adobe">adobe</a>)</div>
+	</li>
+</ul>

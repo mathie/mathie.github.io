@@ -25,7 +25,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wNC0yMSAxODozMjo1NiArMDEwMA==
   content: <p>Hm, all that sounds much more complex than Linux running on some Dell
-    server.  :(<&#47;p>
+    server.  :(</p>
 - id: 394
   author: Joe
   author_email: joe@pinkpucker.net
@@ -35,10 +35,10 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wNC0yMSAxODo0Nzo1MCArMDEwMA==
   content: ! '<p>Anyways, I might be getting one of these boxes to play around with
-    soon as well.  So this is quite useful information.<&#47;p>
+    soon as well.  So this is quite useful information.</p>
 
 
-    <p>It does sound sort of scary though -- all this new stuff without much documentation.<&#47;p>'
+    <p>It does sound sort of scary though -- all this new stuff without much documentation.</p>'
 - id: 395
   author: Joe
   author_email: joe@pinkpucker.net
@@ -48,12 +48,12 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wNC0yMSAyMTowNToyMiArMDEwMA==
   content: ! '<p>Also, you might want to try loading Ubuntu on the box and see how
-    it does.  See http:&#47;&#47;www.stdlib.net&#47;~colmmacc&#47;2006&#47;04&#47;12&#47;ubuntu-on-a-t2000&#47;
-    for details.<&#47;p>
+    it does.  See http://www.stdlib.net/~colmmacc/2006/04/12/ubuntu-on-a-t2000/ for
+    details.</p>
 
 
     <p>That would be ideal -- excellent hardware and a famiilar operating sytsem (for
-    me, anyways).<&#47;p>'
+    me, anyways).</p>'
 - id: 396
   author: Albert
   author_email: albert.chern@gmail.com
@@ -62,7 +62,7 @@ comments:
     MjAwNi0wNS0yMSAyMTozODoxMiArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wNS0yMSAyMDozODoxMiArMDEwMA==
-  content: <p>Log in using "ssh -Y" on your Mac to fix the window problems with X.<&#47;p>
+  content: <p>Log in using "ssh -Y" on your Mac to fix the window problems with X.</p>
 - id: 397
   author: Phil Einsmann
   author_email: phile@snet.net
@@ -72,7 +72,7 @@ comments:
   date_gmt: !binary |-
     MjAwOC0wMS0yMSAxOTozMjo0OCArMDAwMA==
   content: <p>You need to do a resetsc after setting the network up then when you
-    do a shownetwork you will see them.<&#47;p>
+    do a shownetwork you will see them.</p>
 - id: 398
   author: J
   author_email: nmkj05@gmail.com
@@ -81,11 +81,11 @@ comments:
     MjAwOC0wOS0yNSAxOTo0ODoyNCArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wOS0yNSAxODo0ODoyNCArMDEwMA==
-  content: ! '<p>"And I can&rsquo;t find top or locate or figure out how to makewhatis
-    so I can at least use apropos. It&rsquo;s all very strange&hellip;"<&#47;p>
+  content: ! '<p>"And I can’t find top or locate or figure out how to makewhatis so
+    I can at least use apropos. It’s all very strange…"</p>
 
 
-    <p>Top is replaced by prstat.<&#47;p>'
+    <p>Top is replaced by prstat.</p>'
 - id: 399
   author: sysadminwiki
   author_email: nmk05@gmail.com
@@ -96,35 +96,35 @@ comments:
     MjAwOC0xMC0xMCAwMzo1MjowOSArMDEwMA==
   content: ! '<p>Hey just a couple tips on patching. If you have a sun account grab
     the latest patchcluster from sun, boot into single usermode and run the patchcluster
-    installer script immediately after the OS install.<&#47;p>
+    installer script immediately after the OS install.</p>
 
 
     <p>Then I find it easiest to manage updates with a perl script named pca. You
-    can find it here<&#47;p>
+    can find it here</p>
 
 
-    <p>http:&#47;&#47;www.par.univie.ac.at&#47;solaris&#47;pca&#47;<&#47;p>
+    <p>http://www.par.univie.ac.at/solaris/pca/</p>
 
 
     <p>if thats of interest to you. Sun has some decent solutions but compared to
-    the linux tools like apt&#47;yum&#47;yast etc they fail. updatemanager has not
-    treated me well.<&#47;p>
+    the linux tools like apt/yum/yast etc they fail. updatemanager has not treated
+    me well.</p>
 
 
     <p>I highly disagree with allowing root to ssh (tho i realize its your private
     network, just as best practice). I recommend using sudo which can be obtained
     from sunfreeware.com in a nice little package. It easy to use. Basically after
     doing a pkgadd -d on the file just run visudo and have a look the options. set
-    your user up the same as the root user so its like <> ALL=(ALL) ALL .<&#47;p>
+    your user up the same as the root user so its like &lt;&gt; ALL=(ALL) ALL .</p>
 
 
     <p>We recently converted 16 X4100M2 servers to SLES 10.2 because the performance
     was much better than we were getting from solaris10 for some core apps like DNS,
     DHCP, mySQL, and apache. Red Hat 4 ran extremely well too, have 8 of those in
-    another environment.<&#47;p>
+    another environment.</p>
 
 
-    <p>Overall the X4100M2 rocks.<&#47;p>'
+    <p>Overall the X4100M2 rocks.</p>'
 - id: 400
   author: sysadminwiki
   author_email: nmk05@gmail.com
@@ -134,14 +134,14 @@ comments:
   date_gmt: !binary |-
     MjAwOC0xMC0xMCAwNDowMzo0MyArMDEwMA==
   content: ! '<p>You setup the raid before you install the OS with the LSI config
-    utility  because the 4100 has nifty hardware raid.<&#47;p>
+    utility  because the 4100 has nifty hardware raid.</p>
 
 
-    <p>O and top is replaced by prstat :)<&#47;p>
+    <p>O and top is replaced by prstat :)</p>
 
 
     <p>kill -HUP process is a bit old school but works. In Solaris 10 its going towards
-    a linuxish type service control model. Ex.<&#47;p>
+    a linuxish type service control model. Ex.</p>
 
 
     <p>svcadm restart ssh
@@ -154,7 +154,7 @@ comments:
 
     svcadm clear telnet
 
-    etc<&#47;p>
+    etc</p>
 
 
     <p>if considered the proper way to control services these days.
@@ -167,28 +167,28 @@ comments:
 
     svcs -l | grep maintenance
 
-    svcs -l | grep disbaled<&#47;p>
+    svcs -l | grep disbaled</p>
 
 
-    <p>each service also has its own log file too so if you do an:<&#47;p>
+    <p>each service also has its own log file too so if you do an:</p>
 
 
     <p>svcs -l  of the service you get all the info, dependancies, status etc. Its
     nice. FMRI is the term for the name of the service. it tends to be long. I dont
-    have an example for you right now as I''m not on the network.<&#47;p>
+    have an example for you right now as I''m not on the network.</p>
 
 
-    <p>Ill stop rambling.<&#47;p>
+    <p>Ill stop rambling.</p>
 
 
-    <p>Cheers.<&#47;p>'
+    <p>Cheers.</p>'
 ---
 This is the first part in hopefully what will become a series on the trials
 and tribulations I have with a [Sun Fire
-T2000](http:&#47;&#47;www.sun.com&#47;servers&#47;coolthreads&#47;t2000&#47;test&#47;overview_a.jsp?name=A)
-over the coming weeks while I have it on trial.  This is going to be an interesting experience; I have used Sun kit extensively in the past -- I was one of the sysadmins for the [Tardis](http:&#47;&#47;www.tardis.ed.ac.uk&#47;) project while at University, and since then I've run a variety of Internet services on Sun hardware, ranging from a SparcStation 5 (`homer.mathie.cx`, who used to be in the Usenet top 1000 peers, something I consider impressive for that calibre machine sitting behind a 512kb&#47;s leased line) to a Sparc Ultra 30 (initially my desktop machine, eventually `drusilla.wossname.org.uk`, a replacement for `homer`).  So I'm reasonably familiar, if a little rusty, with Sun hardware and Solaris.  OK, OK, `homer` ran Linux, but at least all the Tardis kit was a mixture of Solaris 7 & 8 (with one machine, `brigadier` still running SunOS 4.1.4!).
+T2000](http://www.sun.com/servers/coolthreads/t2000/test/overview_a.jsp?name=A)
+over the coming weeks while I have it on trial.  This is going to be an interesting experience; I have used Sun kit extensively in the past -- I was one of the sysadmins for the [Tardis](http://www.tardis.ed.ac.uk/) project while at University, and since then I've run a variety of Internet services on Sun hardware, ranging from a SparcStation 5 (`homer.mathie.cx`, who used to be in the Usenet top 1000 peers, something I consider impressive for that calibre machine sitting behind a 512kb/s leased line) to a Sparc Ultra 30 (initially my desktop machine, eventually `drusilla.wossname.org.uk`, a replacement for `homer`).  So I'm reasonably familiar, if a little rusty, with Sun hardware and Solaris.  OK, OK, `homer` ran Linux, but at least all the Tardis kit was a mixture of Solaris 7 & 8 (with one machine, `brigadier` still running SunOS 4.1.4!).
 
-You can read the entire series of articles by visiting [the Solaris category](http:&#47;&#47;woss.name&#47;category&#47;geekery&#47;solaris&#47;) of my blog.  Please help me make these articles as useful and informative as possible by making comments and pointing out corrections -- I do intend to redraft and compile them into a complete how-to in the future.
+You can read the entire series of articles by visiting [the Solaris category](http://woss.name/category/geekery/solaris/) of my blog.  Please help me make these articles as useful and informative as possible by making comments and pointing out corrections -- I do intend to redraft and compile them into a complete how-to in the future.
 
 #### Unpack the box ####
 
@@ -246,7 +246,7 @@ Stuff should appear on the console.  If it doesn't, well, you've messed up somet
 First thing, get the network system console working, so you can put the T2000
 away in a soundproof cupboard several timezones away. Once the console has
 finally booted (ooh, interesting, it's built with
-[VxWorks](http:&#47;&#47;www.windriver.com&#47;portal&#47;server.pt?space=Opener&control=OpenObject&cached=true&parentname=CommunityPage&parentid=4&in_hi_ClassID=512&in_hi_userid=27106&in_hi_ObjectID=769&in_hi_OpenerMode=2&))
+[VxWorks](http://www.windriver.com/portal/server.pt?space=Opener&control=OpenObject&cached=true&parentname=CommunityPage&parentid=4&in_hi_ClassID=512&in_hi_userid=27106&in_hi_ObjectID=769&in_hi_OpenerMode=2&))
 you'll get a `sc>` prompt.  There's lots of exciting stuff you can do there, but let's resist temptation 'til we're away from this horrible, laggy serial interface.  Issue the following commands:
 
     setsc if_network true
@@ -268,17 +268,17 @@ First thing?  Type `bash`.  At least that way you get tab completion which makes
 
 #### Updating the system ####
 
-OK, so now we're logged in as root, let's update the system with all the latest patches and features.  I've spent the past 2 hours trying to figure out how to set things up from the command line and failed miserably.  In theory it looks like you should be able to do things with `smpatch` and&#47;or `sconadm` and you should be able to do it without buying a support contract from Sun (though you'll only get a limited number of patches without the contract).  But I never managed.  Instead, I loaded up `updatemanager` and used the GUI tool to set up the update system.  This goes against my server-management-ethos (if I wanted pretty GUI tools, I'd use an XServe or *shock* maybe even Windows!), but I'd given up by this point.
+OK, so now we're logged in as root, let's update the system with all the latest patches and features.  I've spent the past 2 hours trying to figure out how to set things up from the command line and failed miserably.  In theory it looks like you should be able to do things with `smpatch` and/or `sconadm` and you should be able to do it without buying a support contract from Sun (though you'll only get a limited number of patches without the contract).  But I never managed.  Instead, I loaded up `updatemanager` and used the GUI tool to set up the update system.  This goes against my server-management-ethos (if I wanted pretty GUI tools, I'd use an XServe or *shock* maybe even Windows!), but I'd given up by this point.
 
-Easiest way to do this was to enable root login over ssh (by changing `PermitRootLogin` to `yes` in `&#47;etc&#47;ssh&#47;sshd_config` and restarting ssh with `kill -HUP <pid of master sshd>` -- the master ssh process is the one with a parent pid of 1) and ssh'ing in with `ssh -X <ipaddr>`, then launching `updatemanager`.  Unfortunately, this didn't work on my G5 -- the windows were all sized incorrectly and the GUI was unusable.  This is the first time I've run X11 on this machine, so it could be a more general problem; I felt that investigating further was too much of a distraction.  So I gave up and retrieved the trusty old laptop running Debian GNU&#47;Linux.  `ssh` in and run `updatemanager`.  That works.  I've just run through the setup wizard, opting not to commit to giving Sun money before I've decided I'm keeping this system, and am proceeding with installing all 68 updates.
+Easiest way to do this was to enable root login over ssh (by changing `PermitRootLogin` to `yes` in `/etc/ssh/sshd_config` and restarting ssh with `kill -HUP <pid of master sshd>` -- the master ssh process is the one with a parent pid of 1) and ssh'ing in with `ssh -X <ipaddr>`, then launching `updatemanager`.  Unfortunately, this didn't work on my G5 -- the windows were all sized incorrectly and the GUI was unusable.  This is the first time I've run X11 on this machine, so it could be a more general problem; I felt that investigating further was too much of a distraction.  So I gave up and retrieved the trusty old laptop running Debian GNU/Linux.  `ssh` in and run `updatemanager`.  That works.  I've just run through the setup wizard, opting not to commit to giving Sun money before I've decided I'm keeping this system, and am proceeding with installing all 68 updates.
 
 And I appear to have run out of beer, too.  Time to go find that nice bottle of Glen Marnoch before continuing.  Ah, yes, that's good stuff -- I'd never heard of it before, but it's very reminiscent of Glenmorangie.  You ever notice how they pour more generous measures at home than in the pub? :-)
 
 #### Starting afresh in the morning ####
 
-OK, I've decided that I don't really want to continue using the preinstalled version of Solaris 10 sitting on this machine.  After all, why on earth would I want a full installation of X along with [Gnome](http:&#47;&#47;www.gnome.org&#47; "Gnome Desktop Environment") installed on a *server*?  So let's start from a clean, minimal installation where, hopefully, I can configure the two disks to act as a RAID mirror, get `sconadm` to install updates and generally be a happier bunny.
+OK, I've decided that I don't really want to continue using the preinstalled version of Solaris 10 sitting on this machine.  After all, why on earth would I want a full installation of X along with [Gnome](http://www.gnome.org/ "Gnome Desktop Environment") installed on a *server*?  So let's start from a clean, minimal installation where, hopefully, I can configure the two disks to act as a RAID mirror, get `sconadm` to install updates and generally be a happier bunny.
 
-First stage is to head to [Solaris Downloads](http:&#47;&#47;www.sun.com&#47;software&#47;solaris&#47;get.jsp).  I selected "Solaris 10 1&#47;06" and "Sun Update Connection" and said that it was for evaluation use.  I'm currently downloading all the segments of the DVD, ready to burn and install.  Now would be the time to check that I do actually have blank DVD media sitting around here somewhere...
+First stage is to head to [Solaris Downloads](http://www.sun.com/software/solaris/get.jsp).  I selected "Solaris 10 1/06" and "Sun Update Connection" and said that it was for evaluation use.  I'm currently downloading all the segments of the DVD, ready to burn and install.  Now would be the time to check that I do actually have blank DVD media sitting around here somewhere...
 
 #### Addendum ####
 

@@ -15,6 +15,6 @@ categories:
 tags: []
 comments: []
 ---
-A mere few months since the 1.0 release, we have [Ruby on Rails](http:&#47;&#47;www.rubyonrails.org&#47;) version 1.1 released!  Lots of exciting new stuff in there.  Finally, yesterday, I got the point of RJS templates from reading [Scott Raymond's post](http:&#47;&#47;scottraymond.net&#47;articles&#47;2005&#47;12&#47;01&#47;real-world-rails-rjs-templates) -- wow!  Scott has produced an excellent list of all the new features here: [What's new in Rails 1.1](http:&#47;&#47;scottraymond.net&#47;articles&#47;2006&#47;02&#47;28&#47;rails-1.1)
+A mere few months since the 1.0 release, we have [Ruby on Rails](http://www.rubyonrails.org/) version 1.1 released!  Lots of exciting new stuff in there.  Finally, yesterday, I got the point of RJS templates from reading [Scott Raymond's post](http://scottraymond.net/articles/2005/12/01/real-world-rails-rjs-templates) -- wow!  Scott has produced an excellent list of all the new features here: [What's new in Rails 1.1](http://scottraymond.net/articles/2006/02/28/rails-1.1)
 
 So, a `gem update` later and I'm currently testing all my applications on the latest version.  Then again, the only one that's really in production so far was already being targeted against 1.1rc1, so I'm not too worried.

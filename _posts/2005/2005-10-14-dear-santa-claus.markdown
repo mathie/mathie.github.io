@@ -41,8 +41,8 @@ comments:
   date_gmt: !binary |-
     MjAwNS0xMC0xNCAxMToyMTowNyArMDEwMA==
   content: I suspect I will feel brave enough to chip my XBox sometime late in December,
-    once its <a href="http:&#47;&#47;www.xbox.com&#47;en-US&#47;xbox360&#47;default.htm"
-    rel="nofollow">replacement<&#47;a> arrives. :-)
+    once its <a href="http://www.xbox.com/en-US/xbox360/default.htm" rel="nofollow">replacement</a>
+    arrives. :-)
 - id: 154
   author: Derek
   author_email: derek@drossy.net
@@ -65,7 +65,7 @@ comments:
     a wedding invite.
 
 
-    &#47;me now anticipates somebody turning up to the wedding in a Santa suit, possibly
+    /me now anticipates somebody turning up to the wedding in a Santa suit, possibly
     the best man...'
 - id: 156
   author: Mike
@@ -88,12 +88,12 @@ Dear Santa Claus,
 I think I've been a very good boy this year.  So I deserve a nice Christmas present.  What I would like is:
 
 <ul>
-  <li>A <a href="http:&#47;&#47;www.apple.com&#47;macmini&#47;">Mac Mini<&#47;a> with a composite&#47;S-Video adaptor to plug it into our television.<&#47;li>
-  <li><a href="http:&#47;&#47;www.apple.com&#47;imac&#47;frontrow.html">Front Row<&#47;a>, along with that cute, dinky remote control.<&#47;li>
-  <li>Some sort of <a href="http:&#47;&#47;www.elgato.com&#47;index.php?file=products_eyetvmain">EyeTV<&#47;a> device.<&#47;li>
-<&#47;ul>
+  <li>A <a href="http://www.apple.com/macmini/">Mac Mini</a> with a composite/S-Video adaptor to plug it into our television.</li>
+  <li><a href="http://www.apple.com/imac/frontrow.html">Front Row</a>, along with that cute, dinky remote control.</li>
+  <li>Some sort of <a href="http://www.elgato.com/index.php?file=products_eyetvmain">EyeTV</a> device.</li>
+</ul>
 
-The combination of this will produce, for me, the complete home media centre, being able to stream music &amp; movies from the iMac in the study, play DVDs, flick through my iPhoto library (a most excellent way to show guests slideshows of recent holiday trips!), play Mac games and record&#47;playback broadcast television.  I realise this will require some collaboration with Mr Jobs to achieve (in particular, the separate sale of Front Row), but I think you should be able to convince him.  If you think I've been a <em>really<&#47;em> good boy this year, you could have a wee word in his ear about DRM in <a href="http:&#47;&#47;www.apple.com&#47;itunes&#47;">iTunes 6<&#47;a> too, eh?
+The combination of this will produce, for me, the complete home media centre, being able to stream music &amp; movies from the iMac in the study, play DVDs, flick through my iPhoto library (a most excellent way to show guests slideshows of recent holiday trips!), play Mac games and record/playback broadcast television.  I realise this will require some collaboration with Mr Jobs to achieve (in particular, the separate sale of Front Row), but I think you should be able to convince him.  If you think I've been a <em>really</em> good boy this year, you could have a wee word in his ear about DRM in <a href="http://www.apple.com/itunes/">iTunes 6</a> too, eh?
 
 Regards,
 

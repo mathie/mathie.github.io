@@ -32,13 +32,13 @@ comments:
     want you to namespace all models, controllers, helpers, etc. in a Rails project?
     That seems unconventional and would no doubt be difficult to do. The way I see
     it, why bother namespacing something you won't be using outside of your application.
-    It's just easier that way.<&#47;p>
+    It's just easier that way.</p>
 ---
 > This is the eighth in a series of articles of me writing up my notes from
 > from RailsConf Europe 2006. They are all first drafts, probably
 > technically inaccurate and slanderously misquoting people. Let me know
 > and I'll fix them.  You can follow this series of posts by looking at
-> articles in the [RailsConfEurope](&#47;index.php?s=RailsConf+Europe+2006)
+> articles in the [RailsConfEurope](/index.php?s=RailsConf+Europe+2006)
 > category.
 
 Jim was talking about safe programming practices in Ruby, in particular for

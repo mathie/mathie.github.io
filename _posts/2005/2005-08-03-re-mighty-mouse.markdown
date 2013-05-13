@@ -23,7 +23,7 @@ comments:
     MjAwNS0wOC0wNSAwNDo1NDo1NiArMDEwMA==
   date_gmt: !binary |-
     MjAwNS0wOC0wNSAwMzo1NDo1NiArMDEwMA==
-  content: ! '<strong>Apple introduces Mighty Mouse with 4 Buttons<&#47;strong>
+  content: ! '<strong>Apple introduces Mighty Mouse with 4 Buttons</strong>
 
 
     Apple introduces Mighty Mouse with 4 Buttons - That is a fundamental change in
@@ -54,10 +54,10 @@ comments:
     been happening on LJ. I think a bit of playing around with photographs in Photoshop
     is called for at some point today. Just for testing purposes you understand. [...]'
 ---
-A further note in regard to the <a href="http:&#47;&#47;woss.name&#47;2005&#47;08&#47;02&#47;mighty-mouse&#47;">new Apple mouse<&#47;a>.  From my boss:
+A further note in regard to the <a href="http://woss.name/2005/08/02/mighty-mouse/">new Apple mouse</a>.  From my boss:
 
 <blockquote>I've ordered you a Mighty Mouse from the Apple Store.
 
-A<&#47;blockquote>
+A</blockquote>
 
 w00t!  Hopefully it should be here in the next few days and I can tell you all about it. :-)

@@ -22,10 +22,10 @@ comments:
     MjAwOC0wNS0xNSAxODowMjozNyArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wNS0xNSAxNzowMjozNyArMDEwMA==
-  content: ! '<p><strong>b922182dcab8...<&#47;strong><&#47;p>
+  content: ! '<p><strong>b922182dcab8...</strong></p>
 
 
-    <p>b922182dcab8c57c5f58...<&#47;p>'
+    <p>b922182dcab8c57c5f58...</p>'
 ---
 It's wonderful when a new application gets to a certain stage (let's call it 'First Deployment').  It's that point where, instead of battering away for hours on end with no real, tangible, visible progress, you are able to do short, sharp iterations, improving one thing and them deploying it.  Instead of spending 3 days battering your head against a slew of interdependent features, you can implement one thing and deploy it.  And then repeat.  And repeat.
 

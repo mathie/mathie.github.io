@@ -27,16 +27,16 @@ comments:
     MjAwNi0xMC0wMyAxMToxMTozMyArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0xMC0wMyAxMDoxMTozMyArMDEwMA==
-  content: ! "<p>Bit another way:\nfrom ActionView::Helpers::PrototypeHelper::JavaScriptGenerator::GeneratorMethods<&#47;p>\n\n<p>module
+  content: ! "<p>Bit another way:\nfrom ActionView::Helpers::PrototypeHelper::JavaScriptGenerator::GeneratorMethods</p>\n\n<p>module
     ApplicationHelper\n    def update_time\n      page.replace_html 'time', Time.now.to_s(:db)\n
-    \     page.visual_effect :highlight, 'time'\n    end\n  end<&#47;p>\n\n<p># Controller
-    action\n  def poll\n    render(:update) { |page| page.update_time }\n  end<&#47;p>"
+    \     page.visual_effect :highlight, 'time'\n    end\n  end</p>\n\n<p># Controller
+    action\n  def poll\n    render(:update) { |page| page.update_time }\n  end</p>"
 ---
 > This is the fourth in a series of articles of me writing up my notes from
 > from RailsConf Europe 2006. They are all first drafts, probably
 > technically inaccurate and slanderously misquoting people. Let me know
 > and I'll fix them.  You can follow this series of posts by looking at
-> articles in the [RailsConfEurope](&#47;index.php?s=RailsConf+Europe+2006)
+> articles in the [RailsConfEurope](/index.php?s=RailsConf+Europe+2006)
 > category.
 
 A new discovery for me.  In the controller you can do:

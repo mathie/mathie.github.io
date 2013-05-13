@@ -25,7 +25,7 @@ comments:
     MjAwNi0wNC0wMyAxNjowOTowMCArMDEwMA==
   content: <p>IIRC, you can append to existing methods in capistrano recipes by defining
     a method called 'after_[methodname]'.  For example, @after_update_code@ and @after_setup@
-    should work...<&#47;p>
+    should work...</p>
 - id: 358
   author: mathie
   author_email: mathie@woss.name
@@ -35,8 +35,8 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wNC0wMyAxNjoyNDoyMSArMDEwMA==
   content: ! '<p>David: Oh, yeah, so you can.  That makes life a whole lot easier.
-    :)  Thanks!<&#47;p>'
+    :)  Thanks!</p>'
 ---
-I've just submitted by first tip to [Rails Weenie](http:&#47;&#47;rails.techno-weenie.net&#47;): [integrating file_column and capistrano](http:&#47;&#47;rails.techno-weenie.net&#47;tip&#47;2006&#47;4&#47;3&#47;integrating_file_column_and_capistrano).  Well, it works for me.  I should really DRY it up a litle, taking the file_column path from environment.rb in deploy.rb, and I'm not entirely enthused about replacing `update_code` and `setup`, but I couldn't see a way to append stuff to an existing task.
+I've just submitted by first tip to [Rails Weenie](http://rails.techno-weenie.net/): [integrating file_column and capistrano](http://rails.techno-weenie.net/tip/2006/4/3/integrating_file_column_and_capistrano).  Well, it works for me.  I should really DRY it up a litle, taking the file_column path from environment.rb in deploy.rb, and I'm not entirely enthused about replacing `update_code` and `setup`, but I couldn't see a way to append stuff to an existing task.
 
 I just discovered it was a general enough tip by copying it from one project to another and having it Just Work!  I'm currently working on refactoring something I wrote a while ago, using all the l33t Rails knowledge I've learned in the interim.

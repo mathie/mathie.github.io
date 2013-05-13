@@ -25,27 +25,26 @@ comments:
   content: ! '<p>I use my OpenID for LiveJoural and Highrise, and quite a lot of blogging
     software has plugins for OpenID for comments which is nice. I''ll be using it
     at every possible opportunity from now on. OpenID is a great idea and I love having
-    just one place to trust with my ID.<&#47;p>
+    just one place to trust with my ID.</p>
 
 
     <p>Shame you''re using WordPress 2.0.2 - The OpenID plugin works from 2.0.3 onwards:
-    http:&#47;&#47;verselogic.net&#47;projects&#47;wordpress&#47;wordpress-openid-plugin&#47;
-    :)<&#47;p>'
+    http://verselogic.net/projects/wordpress/wordpress-openid-plugin/ :)</p>'
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;weblog.openlaszlo.org&#47;archives&#47;2007&#47;03&#47;how-we-deal-with-browser-quirks-with-a-compendium-of-ie-7-issues&#47;">OpenLaszlo Project Blog &Acirc;&raquo; How we deal with browser quirks, with a compendium of IE 7 issues<&#47;a><&#47;div>
-		<div class="delicious-extended">Now that's the right way to deal with browser quirks.  Much more readable code because I can (as a non-JS-guru) now figure out why you're doing all that apparently useless code!<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;javascript">javascript<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;quirks">quirks<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;bugs">bugs<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;browsers">browsers<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ie">ie<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;firefox">firefox<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;opera">opera<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://weblog.openlaszlo.org/archives/2007/03/how-we-deal-with-browser-quirks-with-a-compendium-of-ie-7-issues/">OpenLaszlo Project Blog Â» How we deal with browser quirks, with a compendium of IE 7 issues</a></div>
+		<div class="delicious-extended">Now that's the right way to deal with browser quirks.  Much more readable code because I can (as a non-JS-guru) now figure out why you're doing all that apparently useless code!</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/javascript">javascript</a> <a href="http://del.icio.us/mathie/quirks">quirks</a> <a href="http://del.icio.us/mathie/bugs">bugs</a> <a href="http://del.icio.us/mathie/browsers">browsers</a> <a href="http://del.icio.us/mathie/ie">ie</a> <a href="http://del.icio.us/mathie/firefox">firefox</a> <a href="http://del.icio.us/mathie/opera">opera</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;mailhook.org&#47;">Mailhook - The easiest way to accept mail in your web apps<&#47;a><&#47;div>
-		<div class="delicious-extended">Neat application which acts as an email -> http gateway and supposedly handles all the nasty email parsing for you.  I wonder how complete it is...?<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;email">email<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;webservices">webservices<&#47;a>)<&#47;div>
-	<&#47;li>
+		<div class="delicious-link"><a href="http://mailhook.org/">Mailhook - The easiest way to accept mail in your web apps</a></div>
+		<div class="delicious-extended">Neat application which acts as an email -> http gateway and supposedly handles all the nasty email parsing for you.  I wonder how complete it is...?</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/email">email</a> <a href="http://del.icio.us/mathie/webservices">webservices</a>)</div>
+	</li>
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.openidenabled.com&#47;openid&#47;use-your-own-url-as-an-openid">Use your own URL as an OpenID<&#47;a><&#47;div>
-		<div class="delicious-extended">Mwuahaha, now, thanks to this insight, my openid is http:&#47;&#47;woss.name&#47; -- not that I've really found a genuine use for OpenID yet...<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;openid">openid<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;authentication">authentication<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;identity">identity<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;tutorial">tutorial<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://www.openidenabled.com/openid/use-your-own-url-as-an-openid">Use your own URL as an OpenID</a></div>
+		<div class="delicious-extended">Mwuahaha, now, thanks to this insight, my openid is http://woss.name/ -- not that I've really found a genuine use for OpenID yet...</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/openid">openid</a> <a href="http://del.icio.us/mathie/authentication">authentication</a> <a href="http://del.icio.us/mathie/identity">identity</a> <a href="http://del.icio.us/mathie/tutorial">tutorial</a>)</div>
+	</li>
+</ul>

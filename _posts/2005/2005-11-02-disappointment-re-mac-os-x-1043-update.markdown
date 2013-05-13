@@ -29,8 +29,8 @@ comments:
     files:
 
 
-    <a href="http:&#47;&#47;minimal.cx&#47;2005&#47;11&#47;01&#47;make-os-x-1043-understand-canon-eos-350d-raw-files&#47;"
-    rel="nofollow">http:&#47;&#47;minimal.cx&#47;2005&#47;11&#47;01&#47;make-os-x-1043-understand-canon-eos-350d-raw-files&#47;<&#47;a>
+    <a href="http://minimal.cx/2005/11/01/make-os-x-1043-understand-canon-eos-350d-raw-files/"
+    rel="nofollow">http://minimal.cx/2005/11/01/make-os-x-1043-understand-canon-eos-350d-raw-files/</a>
 
 
     HTH.'
@@ -46,18 +46,18 @@ comments:
     haven't even had the chance to install any of the Canon software.  It just worked
     with iPhoto.  I am trying out Capture One LE right now for my RAW files, though.
 ---
-Well, since the blurb for the <a href="http:&#47;&#47;www.apple.com&#47;support&#47;downloads&#47;macosxupdate1043.html">Update to Mac OS X 10.4.3<&#47;a> mentioned:
+Well, since the blurb for the <a href="http://www.apple.com/support/downloads/macosxupdate1043.html">Update to Mac OS X 10.4.3</a> mentioned:
 
 <blockquote>
 It includes fixes for:
 <ul>
-  <li>...<&#47;li>
-  <li>Core Graphics, Core Audio, Core Image, and RAW camera support<&#47;li>
-<&#47;ul>
-<&#47;blockquote>
+  <li>...</li>
+  <li>Core Graphics, Core Audio, Core Image, and RAW camera support</li>
+</ul>
+</blockquote>
 
 I ran, rather than walked, along to the Software Update function on my PowerBook and downloaded a whopping 97MB update.  I was hoping that Mac OS X would finally support Canon's new RAW format (as used by my camera, the Canon EOS 350D) and maybe even Adobe's open DNG format.  After a reboot, I eagerly sifted through my photographs and tried to import a few into iPhoto (figuring that it probably uses some shared Core Image technology to import the RAW images it does support).  No luck.  Apparently it still doesn't support either RAW format.  OK, maybe iPhoto is awaiting an update to take advantage of the underlying improvements, but surely at least Preview will understand them?  No.
 
-So I still don't have OS support for the RAW images being taken by my Canon camera.  I had vaguely expected it to appear sometime soon, since <a href="http:&#47;&#47;www.apple.com&#47;aperture&#47;">Aperture<&#47;a> <em>does<&#47;em> support both CR2 and DNG.  I'd have thought that since Mac OS X seems to have some underlying technology that's able to understand <em>some<&#47;em> RAW formats (what with Preview and iPhoto understanding them!), they'd have pushed the support for the rest back down into the OS.
+So I still don't have OS support for the RAW images being taken by my Canon camera.  I had vaguely expected it to appear sometime soon, since <a href="http://www.apple.com/aperture/">Aperture</a> <em>does</em> support both CR2 and DNG.  I'd have thought that since Mac OS X seems to have some underlying technology that's able to understand <em>some</em> RAW formats (what with Preview and iPhoto understanding them!), they'd have pushed the support for the rest back down into the OS.
 
 Or maybe it'll all magically start working in 10.4.4?

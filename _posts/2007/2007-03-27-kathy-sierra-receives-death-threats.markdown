@@ -25,10 +25,10 @@ comments:
     MjAwNy0wMy0yNyAyMToxMjowMyArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wMy0yNyAyMDoxMjowMyArMDEwMA==
-  content: <p>It's also now hit the BBC news web site (<a href="http:&#47;&#47;news.bbc.co.uk&#47;go&#47;rss&#47;-&#47;1&#47;hi&#47;technology&#47;6499095.stm"
-    rel="nofollow">link<&#47;a>).<&#47;p>
+  content: <p>It's also now hit the BBC news web site (<a href="http://news.bbc.co.uk/go/rss/-/1/hi/technology/6499095.stm"
+    rel="nofollow">link</a>).</p>
 ---
-Everybody in NetNewsWire today is posting about the same thing: [Death threats against bloggers are NOT "protected speech" (why I cancelled my ETech presentations)](http:&#47;&#47;headrush.typepad.com&#47;creating_passionate_users&#47;2007&#47;03&#47;as_i_type_this_.html).  People can be mean sometimes, and it seems to be an accepted part of interacting online (to think of the flamewars I've witnessed on Usenet and Other Places, for examples), but this is going more than a few steps too far.  When I heard Kathy talking at RailsConf Europe, it was the highlight of the 2 day conference.  She totally inspired me and changed the way I think about interacting with my customers.  It'll be a really sad day if we never see her doing the conference circuit again because some lunatic has spoiled it for the rest of us.
+Everybody in NetNewsWire today is posting about the same thing: [Death threats against bloggers are NOT "protected speech" (why I cancelled my ETech presentations)](http://headrush.typepad.com/creating_passionate_users/2007/03/as_i_type_this_.html).  People can be mean sometimes, and it seems to be an accepted part of interacting online (to think of the flamewars I've witnessed on Usenet and Other Places, for examples), but this is going more than a few steps too far.  When I heard Kathy talking at RailsConf Europe, it was the highlight of the 2 day conference.  She totally inspired me and changed the way I think about interacting with my customers.  It'll be a really sad day if we never see her doing the conference circuit again because some lunatic has spoiled it for the rest of us.
 
 I suspect (and hope) that it's just a joke that's gone badly wrong.  And since the police are now involved, it's gone *very* badly wrong for the protagonist too.
 

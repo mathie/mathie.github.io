@@ -28,7 +28,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wMi0yMSAxNzowNTo0MiArMDAwMA==
   content: <p>Isn't this something like the Nested Layouts plugin? (Which I personally
-    think should be a part of core Rails functionality...)<&#47;p>
+    think should be a part of core Rails functionality...)</p>
 - id: 785
   author: James Adam
   author_email: james@lazyatom.com
@@ -38,25 +38,25 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wMi0yMiAxMDowNjo0MSArMDAwMA==
   content: ! '<p>I kinda feel like this is a better candidate for a helper, than something
-    which works with partials. Think something along the lines of:<&#47;p>
+    which works with partials. Think something along the lines of:</p>
 
 
-    <p><%= table_for @objects, :attributes => [:name, :age, :etc] %><&#47;p>
+    <p>&lt;%= table_for @objects, :attributes =&gt; [:name, :age, :etc] %&gt;</p>
 
 
     <p>Obviously this would only work in the simplest cases, but that''s probably
-    good enough for 80%. And it also sets the precident for the undoubtedly-more-useful<&#47;p>
+    good enough for 80%. And it also sets the precident for the undoubtedly-more-useful</p>
 
 
-    <p><%= unordered_list_of @objects %><&#47;p>
+    <p>&lt;%= unordered_list_of @objects %&gt;</p>
 
 
     <p>Where it simply creates a UL element and then renders the _object.rhtml (or
-    is that _object.erb now? :)) partial within a LI element.<&#47;p>
+    is that _object.erb now? :)) partial within a LI element.</p>
 
 
     <p>Personally I end up using UL to show collections of objects far more than tables,
-    so that''s how I''d approach it.<&#47;p>'
+    so that''s how I''d approach it.</p>'
 - id: 786
   author: mathie
   author_email: mathie@rubaidh.com
@@ -67,28 +67,28 @@ comments:
     MjAwNy0wMi0yMyAxMzoyNjoxNyArMDAwMA==
   content: ! '<p>Andrew: It''s nothing like the nested layouts plugin, but thanks
     for pointing me in its direction.  It''ll be useful for something else I''m up
-    to just now...<&#47;p>
+    to just now...</p>
 
 
-    <p>James: I definitely have been meaning to write a <code>table_for<&#47;code>
-    helper which spits out all the accessibility attributes (<code>scope<&#47;code>
-    and <code>headers<&#47;code> in particular), but I feel there''s a place for both.  Now
-    in our code, we just have to write:<&#47;p>
+    <p>James: I definitely have been meaning to write a <code>table_for</code> helper
+    which spits out all the accessibility attributes (<code>scope</code> and <code>headers</code>
+    in particular), but I feel there''s a place for both.  Now in our code, we just
+    have to write:</p>
 
 
-    <pre><code><%= render :partial => @authors %>
+    <pre><code>&lt;%= render :partial =&gt; @authors %&gt;
 
-    <&#47;code><&#47;pre>
+    </code></pre>
 
 
     <p>and it automagically spits out the appropriately marked up stuff for a list
     of authors (which happens to be a table in our app but it could be a list if that''s
-    how I thought that was the canonical layout for a collection of authors).<&#47;p>
+    how I thought that was the canonical layout for a collection of authors).</p>
 
 
     <p>The remaining issue I have that''s stopping me posting a patch is that I''m
     testing for the existence of the partial that handles the collection by trying
-    it and catching the exception...<&#47;p>'
+    it and catching the exception...</p>'
 ---
 I'm plotting. And I'm hoping that writing up my thoughts will be enough to
 clarify them so I can actually implement it. In the current Rails application
@@ -99,23 +99,23 @@ the following:
     <table summary="A listing of widgets">
       <thead>
         <tr>
-          <th>Widget name<&#47;th>
-          <th>Description<&#47;th>
-        <&#47;tr>
-      <&#47;thead>
+          <th>Widget name</th>
+          <th>Description</th>
+        </tr>
+      </thead>
       <tbody>
         <%= render :partial => @widgets %>
-      <&#47;tbody>
-    <&#47;table>
+      </tbody>
+    </table>
 
 where `render :partial => @widgets` is the `simply_helpful` shortcut for
-`render :partial => 'widgets&#47;widget', :collection => @widgets`.
-`widgets&#47;_widget.rhtml` would look something along the lines of:
+`render :partial => 'widgets/widget', :collection => @widgets`.
+`widgets/_widget.rhtml` would look something along the lines of:
 
     <tr>
-      <td><%=h widget.name %><&#47;td>
-      <td><%= markdown widget.description %><&#47;td>
-    <&#47;tr>
+      <td><%=h widget.name %></td>
+      <td><%= markdown widget.description %></td>
+    </tr>
 
 Personally I'd like to just write something along the lines of:
 
@@ -126,8 +126,8 @@ the collection, then render the individual widgets. Wouldn't that be so much
 cleaner?
 
 So, how to implement? I could just modify `simply_helpful` so that its
-behaviour when it gets a collection of widgets is to render `widgets&#47;widgets`
-(or `widgets&#47;widget_collection` -- which would be neater?). But then you have
+behaviour when it gets a collection of widgets is to render `widgets/widgets`
+(or `widgets/widget_collection` -- which would be neater?). But then you have
 to write the inside of that partial -- where it renders the individual widgets
 differently:
 

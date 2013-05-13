@@ -20,6 +20,6 @@ tags:
 - Web surfing
 comments: []
 ---
-OK, I got distracted this morning when I discovered the [Star Wars Title Sequence Generator](http:&#47;&#47;alienryderflex.com&#47;crawl&#47;) on my RSS feed rounds.  (Did I mention I'm *still* behind on my feeds since I started my new contract?)  And so I decided to generate the following title sequence: <http:&#47;&#47;woss.name&#47;dist&#47;RubyonRails.mov>
+OK, I got distracted this morning when I discovered the [Star Wars Title Sequence Generator](http://alienryderflex.com/crawl/) on my RSS feed rounds.  (Did I mention I'm *still* behind on my feeds since I started my new contract?)  And so I decided to generate the following title sequence: <http://woss.name/dist/RubyonRails.mov>
 
 OK, so I tried to actually embed the movie into the page here and failed miserably to make it not look really, really bad.  I'm sure my RSS readers will appreciate this having happened. :)

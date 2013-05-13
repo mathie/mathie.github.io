@@ -28,11 +28,11 @@ comments:
     is an *excellent* replacement for them in subversion environments.
 
 
-    info is available at http:&#47;&#47;insurrection.tigris.org&#47; and a live demo
-    is available at
+    info is available at http://insurrection.tigris.org/ and a live demo is available
+    at
 
-    http:&#47;&#47;svn.code-host.net&#47;'
+    http://svn.code-host.net/'
 ---
-In an accidental discovery (I was actually looking for something <em>entirely<&#47;em> different, but I got distracted &mdash; more on that later, perhaps) I found <a href="http:&#47;&#47;websvn.tigris.org&#47;" title="PHP Subversion interface">WebSVN<&#47;a> which will once again allow me to make my subversion repository visible to the wider world.  I'd been waiting for my <a href="http:&#47;&#47;www.dreamhost.com&#47;r.cgi?wossname" title="DreamHost">happy hosters<&#47;a> to upgrade my machine to <a href="http:&#47;&#47;www.debian.org&#47;releases&#47;stable&#47;" title="Debian GNU&#47;Linux 3.1 (Sarge)">Sarge<&#47;a> so that there was a shared installation of Subversion and that, perhaps, there'd be a non-ugly way of installing the Python bindings so I can use <a href="http:&#47;&#47;viewcvs.sourceforge.net&#47;" title="Repository Browser">ViewCVS<&#47;a>.  But since I've found this, it'll do in the meantime.  It looks a little crufty to my untrained PHP-eye, but we'll see.
+In an accidental discovery (I was actually looking for something <em>entirely</em> different, but I got distracted &mdash; more on that later, perhaps) I found <a href="http://websvn.tigris.org/" title="PHP Subversion interface">WebSVN</a> which will once again allow me to make my subversion repository visible to the wider world.  I'd been waiting for my <a href="http://www.dreamhost.com/r.cgi?wossname" title="DreamHost">happy hosters</a> to upgrade my machine to <a href="http://www.debian.org/releases/stable/" title="Debian GNU/Linux 3.1 (Sarge)">Sarge</a> so that there was a shared installation of Subversion and that, perhaps, there'd be a non-ugly way of installing the Python bindings so I can use <a href="http://viewcvs.sourceforge.net/" title="Repository Browser">ViewCVS</a>.  But since I've found this, it'll do in the meantime.  It looks a little crufty to my untrained PHP-eye, but we'll see.
 
-Anyway, you can now <a href="http:&#47;&#47;woss.name&#47;svn&#47;" title="Graeme's Subversion repository">browse my personal svn repository<&#47;a> and see what I've been wasting my time starting but never finishing.  Most of the activity is because my home directory (shared amongst all the *nix hosts I have a login on and trust the admins) is stored in there.
+Anyway, you can now <a href="http://woss.name/svn/" title="Graeme's Subversion repository">browse my personal svn repository</a> and see what I've been wasting my time starting but never finishing.  Most of the activity is because my home directory (shared amongst all the *nix hosts I have a login on and trust the admins) is stored in there.

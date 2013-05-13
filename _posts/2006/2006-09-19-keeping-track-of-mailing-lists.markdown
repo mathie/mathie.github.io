@@ -30,13 +30,13 @@ comments:
   content: ! '<p>I have the rails list going into my gmail account and then pick it
     up using POP with Apple Mail and filter it into a local folder. I work primarily
     from my laptop, so that works pretty well, but I also have the option of using
-    the gmail web interface if I wanted.<&#47;p>
+    the gmail web interface if I wanted.</p>
 
 
     <p>Of course, that doesn''t help with actually getting through that volume of
     mail, but it does let me use multiple computers so long as I''m not too worried
     about keeping them truly in sync, and leaves gmail as an archive. I''m thinking
-    about shifting all my other email lists over to that system too.<&#47;p>'
+    about shifting all my other email lists over to that system too.</p>'
 - id: 582
   author: Michael Biven
   author_email: michael.biven@gmail.com
@@ -47,7 +47,7 @@ comments:
     MjAwNi0wOS0xOSAxNDo0MzoxMSArMDEwMA==
   content: <p>Like James, I have any lists that I'm on sent to my gmail account and
     then use the rss feed for different "labels" to view them in the feed reader of
-    my choice.<&#47;p>
+    my choice.</p>
 - id: 583
   author: Kevin Ansfield
   author_email: kev@digitalblueprint.co.uk
@@ -59,12 +59,12 @@ comments:
   content: ! '<p>I use the same technique as Michael. I have all my lists sent to
     my gmail and filtered into the relevant labels. Most of the lists I am on are
     fairly low volume though so I mostly use gmail to keep up with them and have them
-    in my Firefox Sage RSS reader that I keep in a sidebar constantly.<&#47;p>
+    in my Firefox Sage RSS reader that I keep in a sidebar constantly.</p>
 
 
     <p>Something that helps with the Sage reader above is Google Browser Sync, I install
     that on all the computers i use regularly so any bookmarks i make for the sage
-    reader are automatically synchronized.<&#47;p>'
+    reader are automatically synchronized.</p>'
 - id: 584
   author: No gnus is bad gnus at Notes from a messy desk
   author_email: ''
@@ -76,7 +76,7 @@ comments:
   content: <p>[...] As an addendum to my post about Keeping track of mailing lists,
     despite everybody&#8217;s suggestions about using Gmail, I&#8217;ve decided to
     try using Gnus in XEmacs again. Last night, I built 21.5.26 with Andrew Choi&#8217;s
-    carbon patches, installed the latest sumo packages and tried it out. [...]<&#47;p>
+    carbon patches, installed the latest sumo packages and tried it out. [...]</p>
 - id: 585
   author: Nate Aune
   author_email: natea@jazkarta.com
@@ -87,7 +87,7 @@ comments:
     MjAwNi0xMC0xMSAxOTo1MDoxOSArMDEwMA==
   content: <p>Why not use Mozilla Thunderbird for reading newsgroups? It's free, it's
     cross-platform and while not perfect, it seems to do a reasonably good job for
-    me.<&#47;p>
+    me.</p>
 ---
 OK, so one of the things I got out of the Rails Conference (and in particular was mentioned in DHH's `Keynote::Rant`) is that I'd like to get more actively involved in the Rails community.  Of course, I read lots of blogs already and have a place in my workflow for that, but something I've been missing for a while is how to keep up with and interact with mailing lists.
 
@@ -101,8 +101,8 @@ Unfortunately, so far I've found nothing which fits the bill.  I guess there's n
 * A usenet news client, using gmane.
 * An RSS client, again using gmane.
 
-I have been concentrating my efforts on finding a usenet client for Mac OS X.  There doesn't appear to be one which doesn't suck.  The foremost usenet client for Mac OS X seems to be [Unison](http:&#47;&#47;www.panic.com&#47;unison&#47;) and I've tried it out a few times.  I tried to like it, honestly.  But it feels more like it's designed for l33t war3z kiddies than for actually carrying on a conversation.  It's MIME decoding skills aren't great, particularly with respect to character sets.
+I have been concentrating my efforts on finding a usenet client for Mac OS X.  There doesn't appear to be one which doesn't suck.  The foremost usenet client for Mac OS X seems to be [Unison](http://www.panic.com/unison/) and I've tried it out a few times.  I tried to like it, honestly.  But it feels more like it's designed for l33t war3z kiddies than for actually carrying on a conversation.  It's MIME decoding skills aren't great, particularly with respect to character sets.
 
-I could go back to [XEmacs](http:&#47;&#47;xemacs.org&#47;) with [Gnus](http:&#47;&#47;gnus.org&#47;) which I used for *many* years.  In fact, back then, whichever operating system I happened to be using (Linux, Solaris), just happened to be a host OS for my XEmacs -- I lived in there.  But I've been spoiled by pretty widgets from Cocoa, and the limited interaction would make life slightly less pleasant.  Also, I've finally mapped my fingers to the Mac shortcuts which makes my life faster in a text editor.  I wouldn't want to confuse the poor digits again.
+I could go back to [XEmacs](http://xemacs.org/) with [Gnus](http://gnus.org/) which I used for *many* years.  In fact, back then, whichever operating system I happened to be using (Linux, Solaris), just happened to be a host OS for my XEmacs -- I lived in there.  But I've been spoiled by pretty widgets from Cocoa, and the limited interaction would make life slightly less pleasant.  Also, I've finally mapped my fingers to the Mac shortcuts which makes my life faster in a text editor.  I wouldn't want to confuse the poor digits again.
 
 So.  How do you read mailing lists?  How do you efficiently take part in mailing lists while still Getting Things Done?

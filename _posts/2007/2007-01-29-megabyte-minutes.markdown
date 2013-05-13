@@ -25,7 +25,7 @@ comments:
     MjAwNy0wMS0zMCAwODowNzoyOCArMDAwMA==
   date_gmt: !binary |-
     MjAwNy0wMS0zMCAwNzowNzoyOCArMDAwMA==
-  content: <p>:) nice<&#47;p>
+  content: <p>:) nice</p>
 ---
 irb(main):024:0> 1.megabyte.minutes.from_now
     => Mon Jan 26 22:36:10 +0000 2009

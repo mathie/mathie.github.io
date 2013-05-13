@@ -22,79 +22,79 @@ This is was list, as of April '05:
 
 <table>
 <thead><tr>
-  <th>Cover<&#47;th>
-  <th>Title<&#47;th>
-  <th>Author<&#47;th>
-  <th>Spine thickness<&#47;th>
-<&#47;tr><&#47;thead>
+  <th>Cover</th>
+  <th>Title</th>
+  <th>Author</th>
+  <th>Spine thickness</th>
+</tr></thead>
 <tbody>
 <tr>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1582344167&#47;mathieoftheen-21"><img src="http:&#47;&#47;images.amazon.com&#47;images&#47;P&#47;1582344167.01._SCTHUMBZZZ_.jpg" alt="Jonathan Strange & Mr. Norrell" class="centered" &#47;><&#47;a><&#47;td>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1582344167&#47;mathieoftheen-21" title="Jonathan Strange & Mr. Norrell">Jonathan Strange &amp; Mr Norrell<&#47;a><&#47;td>
-<td>Susanna Clarke<&#47;td>
-<td>73mm<&#47;td>
-<&#47;tr>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1582344167/mathieoftheen-21"><img src="http://images.amazon.com/images/P/1582344167.01._SCTHUMBZZZ_.jpg" alt="Jonathan Strange & Mr. Norrell" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1582344167/mathieoftheen-21" title="Jonathan Strange & Mr. Norrell">Jonathan Strange &amp; Mr Norrell</a></td>
+<td>Susanna Clarke</td>
+<td>73mm</td>
+</tr>
 <tr>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1841493333&#47;mathieoftheen-21"><img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;1841493333.02.THUMBZZZ.jpg" alt="Singularity Sky" class="centered" &#47;><&#47;a><&#47;td>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1841493333&#47;mathieoftheen-21">Singularity Sky<&#47;a><&#47;td>
-<td>Charles Stross<&#47;td>
-<td>34mm<&#47;td>
-<&#47;tr>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1841493333/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1841493333.02.THUMBZZZ.jpg" alt="Singularity Sky" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1841493333/mathieoftheen-21">Singularity Sky</a></td>
+<td>Charles Stross</td>
+<td>34mm</td>
+</tr>
 <tr>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0140266143&#47;mathieoftheen-21"><img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;0140266143.02.THUMBZZZ.jpg" alt="Pattern Recognition" class="centered" &#47;><&#47;a><&#47;td>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0140266143&#47;mathieoftheen-21">Pattern Recognition<&#47;a><&#47;td>
-<td>William Gibson<&#47;td>
-<td>24mm<&#47;td>
-<&#47;tr>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0140266143/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/0140266143.02.THUMBZZZ.jpg" alt="Pattern Recognition" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0140266143/mathieoftheen-21">Pattern Recognition</a></td>
+<td>William Gibson</td>
+<td>24mm</td>
+</tr>
 <tr>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0752809431&#47;mathieoftheen-21"><img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;0752809431.02.THUMBZZZ.jpg" alt="A Good Hanging & Other Stories" class="centered" &#47;><&#47;a><&#47;td>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0752809431&#47;mathieoftheen-21">A Good Hanging & Other Stories<&#47;a><&#47;td>
-<td>Ian Rankin<&#47;td>
-<td>20mm<&#47;td>
-<&#47;tr>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0752809431/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/0752809431.02.THUMBZZZ.jpg" alt="A Good Hanging & Other Stories" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0752809431/mathieoftheen-21">A Good Hanging & Other Stories</a></td>
+<td>Ian Rankin</td>
+<td>20mm</td>
+</tr>
 <tr>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0552149411&#47;mathieoftheen-21"><img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;0552149411.02.THUMBZZZ.jpg" alt="Monstrous Regiment" class="centered" &#47;><&#47;a><&#47;td>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0552149411&#47;mathieoftheen-21">Monstrous Regiment<&#47;a><&#47;td>
-<td>Terry Pratchett<&#47;td>
-<td>34mm<&#47;td>
-<&#47;tr>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0552149411/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/0552149411.02.THUMBZZZ.jpg" alt="Monstrous Regiment" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0552149411/mathieoftheen-21">Monstrous Regiment</a></td>
+<td>Terry Pratchett</td>
+<td>34mm</td>
+</tr>
 <tr>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1852863269&#47;mathieoftheen-21"><img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;1852863269.02.THUMBZZZ.jpg" alt="Preludes & Nocturnes" class="centered" &#47;><&#47;a><&#47;td>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1852863269&#47;mathieoftheen-21">The Sandman: Preludes & Nocturnes<&#47;a><&#47;td>
-<td>Neil Gaiman<&#47;td>
-<td>12mm<&#47;td>
-<&#47;tr>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1852863269/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1852863269.02.THUMBZZZ.jpg" alt="Preludes & Nocturnes" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1852863269/mathieoftheen-21">The Sandman: Preludes & Nocturnes</a></td>
+<td>Neil Gaiman</td>
+<td>12mm</td>
+</tr>
 <tr>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1852862920&#47;mathieoftheen-21"><img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;1852862920.02.THUMBZZZ.jpg" alt="Doll's House" class="centered" &#47;><&#47;a><&#47;td>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1852862920&#47;mathieoftheen-21">The Sandman: Doll's House<&#47;a><&#47;td>
-<td>Neil Gaiman<&#47;td>
-<td>12mm<&#47;td>
-<&#47;tr>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1852862920/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1852862920.02.THUMBZZZ.jpg" alt="Doll's House" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1852862920/mathieoftheen-21">The Sandman: Doll's House</a></td>
+<td>Neil Gaiman</td>
+<td>12mm</td>
+</tr>
 <tr>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1852864419&#47;mathieoftheen-21"><img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;1852864419.02.THUMBZZZ.jpg" alt="Dream Country" class="centered" &#47;><&#47;a><&#47;td>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1852864419&#47;mathieoftheen-21">The Sandman: Dream Country<&#47;a><&#47;td>
-<td>Neil Gaiman<&#47;td>
-<td>9mm<&#47;td>
-<&#47;tr>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1852864419/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1852864419.02.THUMBZZZ.jpg" alt="Dream Country" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1852864419/mathieoftheen-21">The Sandman: Dream Country</a></td>
+<td>Neil Gaiman</td>
+<td>9mm</td>
+</tr>
 <tr>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1857239490&#47;mathieoftheen-21"><img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;1857239490.02.THUMBZZZ.jpg" alt="Only Human" class="centered" &#47;><&#47;a> <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1841492086&#47;mathieoftheen-21"><img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;1841492086.02.THUMBZZZ.jpg" alt="The Portable Door" class="centered" &#47;><&#47;a><&#47;td>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1857239490&#47;mathieoftheen-21">Only Human<&#47;a> & <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1841492086&#47;mathieoftheen-21">The Portable Door<&#47;a> Omnibus<&#47;td>
-<td>Tom Holt<&#47;td>
-<td>53mm<&#47;td>
-<&#47;tr>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1857239490/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1857239490.02.THUMBZZZ.jpg" alt="Only Human" class="centered" /></a> <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1841492086/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1841492086.02.THUMBZZZ.jpg" alt="The Portable Door" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1857239490/mathieoftheen-21">Only Human</a> & <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1841492086/mathieoftheen-21">The Portable Door</a> Omnibus</td>
+<td>Tom Holt</td>
+<td>53mm</td>
+</tr>
 <tr>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1857987489&#47;mathieoftheen-21"><img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;1857987489.02.THUMBZZZ.jpg" alt="Revelation Space" class="centered" &#47;><&#47;a><&#47;td>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1857987489&#47;mathieoftheen-21">Revelation Space<&#47;a><&#47;td>
-<td>Alistair Reynolds<&#47;td>
-<td>40mm<&#47;td>
-<&#47;tr>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1857987489/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1857987489.02.THUMBZZZ.jpg" alt="Revelation Space" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1857987489/mathieoftheen-21">Revelation Space</a></td>
+<td>Alistair Reynolds</td>
+<td>40mm</td>
+</tr>
 <tr>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1405301813&#47;mathieoftheen-21"><img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;1405301813.02.THUMBZZZ.jpg" alt="KISS Guide to Photography" class="centered" &#47;><&#47;a><&#47;td>
-<td><a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;1405301813&#47;mathieoftheen-21">KISS Guide to Photography<&#47;a><&#47;td>
-<td>John Garrett<&#47;td>
-<td>28mm<&#47;td>
-<&#47;tr>
-<&#47;tbody>
-<&#47;table>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1405301813/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1405301813.02.THUMBZZZ.jpg" alt="KISS Guide to Photography" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1405301813/mathieoftheen-21">KISS Guide to Photography</a></td>
+<td>John Garrett</td>
+<td>28mm</td>
+</tr>
+</tbody>
+</table>
 
 So that put me at a total of  339 mm for the year so far.  Or less than 20% of the way there...

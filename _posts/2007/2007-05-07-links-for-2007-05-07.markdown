@@ -17,8 +17,8 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.inter7.com&#47;courierimap&#47;README.sharedfolders.html">Shared folders in Courier IMAPd<&#47;a><&#47;div>
-		<div class="delicious-extended">Hmm.  That makes it about as clear as mud -- maildirmake(1) seems more sensible.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;imap">imap<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;courier">courier<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;email">email<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://www.inter7.com/courierimap/README.sharedfolders.html">Shared folders in Courier IMAPd</a></div>
+		<div class="delicious-extended">Hmm.  That makes it about as clear as mud -- maildirmake(1) seems more sensible.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/imap">imap</a> <a href="http://del.icio.us/mathie/courier">courier</a> <a href="http://del.icio.us/mathie/email">email</a>)</div>
+	</li>
+</ul>

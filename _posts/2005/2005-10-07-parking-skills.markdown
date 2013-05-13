@@ -15,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-<a href="http:&#47;&#47;blog.dreamhost.com&#47;2005&#47;10&#47;06&#47;i-love-the-smell-of-twisted-metal-in-the-morning&#47;">And I mock Annabel's parking skills<&#47;a>! :-)
+<a href="http://blog.dreamhost.com/2005/10/06/i-love-the-smell-of-twisted-metal-in-the-morning/">And I mock Annabel's parking skills</a>! :-)

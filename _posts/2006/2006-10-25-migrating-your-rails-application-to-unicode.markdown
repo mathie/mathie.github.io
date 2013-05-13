@@ -27,10 +27,10 @@ comments:
     MjAwNi0xMC0yNSAxNzoxNjoxMiArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0xMC0yNSAxNjoxNjoxMiArMDEwMA==
-  content: ! '<p>Nice writeup, and the migration is an excellent idea.<&#47;p>
+  content: ! '<p>Nice writeup, and the migration is an excellent idea.</p>
 
 
-    <p>Thanks.<&#47;p>'
+    <p>Thanks.</p>'
 - id: 654
   author: freetwix
   author_email: freetwix@web.de
@@ -39,19 +39,19 @@ comments:
     MjAwNi0xMC0yNSAyMzo0MDoxNyArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0xMC0yNSAyMjo0MDoxNyArMDEwMA==
-  content: ! '<p>hey mathie,<&#47;p>
+  content: ! '<p>hey mathie,</p>
 
 
     <p>thanks for the snippets. just one thing: we just encountered problems with
-    the collation ''utf8_general_ci'' for umlauts.<&#47;p>
+    the collation ''utf8_general_ci'' for umlauts.</p>
 
 
-    <p>using ''utf8_bin'' fixed our problems.<&#47;p>
+    <p>using ''utf8_bin'' fixed our problems.</p>
 
 
     <p>greetings,
 
-    jochen<&#47;p>'
+    jochen</p>'
 - id: 655
   author: Pete Yandell
   author_email: pete@notahat.com
@@ -61,25 +61,25 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMC0yNiAyMzo1NToxMCArMDEwMA==
   content: ! '<p>The character set conversion you do in your migration is a bad, bad,
-    BAD idea, and here''s why:<&#47;p>
+    BAD idea, and here''s why:</p>
 
 
     <p>Rails tells the browser that it''s speaking UTF-8 by default, so someone may
-    have already punched UTF-8 data into your app.<&#47;p>
+    have already punched UTF-8 data into your app.</p>
 
 
     <p>Rails, in its default setup, then happily sent that to the database as latin1
     (MySQL''s default character set) without any conversion! The database dutifully
-    saved it as such.<&#47;p>
+    saved it as such.</p>
 
 
     <p>The result is that your database is probably full of UTF-8 already, but marked
-    as latin1.<&#47;p>
+    as latin1.</p>
 
 
     <p>So the last thing you want to do is a character set conversion. You''ll be
     asking the database to do a latin1 to UTF-8 conversion on data that is already
-    UTF-8!<&#47;p>'
+    UTF-8!</p>'
 - id: 656
   author: LabRat
   author_email: richstyles@gmail.com
@@ -89,7 +89,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMC0yNyAwNDoxMzozOCArMDEwMA==
   content: <p>Thanks for the write up.  It definitely solved one of the things nagging
-    me with setting default charsets in migrations.<&#47;p>
+    me with setting default charsets in migrations.</p>
 - id: 657
   author: mathie
   author_email: mathie@woss.name
@@ -100,23 +100,23 @@ comments:
     MjAwNi0xMC0yNyAwODoxNTo1MCArMDEwMA==
   content: ! '<p>Pete: Thanks for pointing out a scenario I hadn''t considered.  I
     didn''t realise Rails defaults to serving pages in UTF-8 so I''ve now done a little
-    investigation.<&#47;p>
+    investigation.</p>
 
 
     <p>With the current stable Rails (1.1.6), running in development mode, lighttpd
-    <em>doesn''t<&#47;em> specify a character set in the Content-Type header.  However,
-    WEBrick <em>does<&#47;em> specify UTF-8.  In edge Rails, you''re absolutely right.  lighttpd,
-    mongrel and WEBrick <em>all<&#47;em> serve content as UTF-8 by default.<&#47;p>
+    <em>doesn''t</em> specify a character set in the Content-Type header.  However,
+    WEBrick <em>does</em> specify UTF-8.  In edge Rails, you''re absolutely right.  lighttpd,
+    mongrel and WEBrick <em>all</em> serve content as UTF-8 by default.</p>
 
 
     <p>Of course, this might or might not be the case in your production environment,
     depending upon how it''s set up.  Fortunately in my production environment, the
     content type is not specified -- I wonder what it defaults to if it''s not specified?  ASCII?
     -- because up until this application I still have in development, I''d never had
-    to consider ''funny'' characters. :-)<&#47;p>
+    to consider ''funny'' characters. :-)</p>
 
 
-    <p>So how do you deal with the situation you describe?<&#47;p>'
+    <p>So how do you deal with the situation you describe?</p>'
 - id: 658
   author: Dave Verwer
   author_email: dave.verwer@shinydevelopment.com
@@ -126,7 +126,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMC0yNyAxMzozNzo1MSArMDEwMA==
   content: <p>Great post, and I have shamelessly stolen your idea of raising an error
-    based on the adapter name for some MySQL specific migrations I have.<&#47;p>
+    based on the adapter name for some MySQL specific migrations I have.</p>
 - id: 659
   author: UTF8 en RoR &laquo; 3eq11
   author_email: ''
@@ -135,7 +135,7 @@ comments:
     MjAwNi0xMS0wMSAxMjozMjo0MyArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0xMS0wMSAxMTozMjo0MyArMDAwMA==
-  content: ! '<p>[...] fuente: es.wikipedia fuente: woss.name [...]<&#47;p>'
+  content: ! '<p>[...] fuente: es.wikipedia fuente: woss.name [...]</p>'
 - id: 660
   author: Edgar
   author_email: edgar@rubycorner.com
@@ -144,7 +144,7 @@ comments:
     MjAwNi0xMS0wMSAxNTo1Mzo1NCArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0xMS0wMSAxNDo1Mzo1NCArMDAwMA==
-  content: <p>The migration approach was a great idea<&#47;p>
+  content: <p>The migration approach was a great idea</p>
 - id: 661
   author: RubyOnRails y UTF8 &rsaquo;&rsaquo; La Cara Oscura del Desarrollo de Software
   author_email: ''
@@ -153,9 +153,9 @@ comments:
     MjAwNi0xMS0wMSAyMToxMTozOSArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0xMS0wMSAyMDoxMTozOSArMDAwMA==
-  content: <p>[...] Y para terminar, si tienes una aplicaci&Atilde;&sup3;n Rails que
-    no est&Atilde;&iexcl; UTF8, Graeme Mathieson escribi&Atilde;&sup3; unos migrations
-    que te ayudan a Migrar tu Aplicaci&Atilde;&sup3;n Rails a Unicode. [...]<&#47;p>
+  content: <p>[...] Y para terminar, si tienes una aplicaciÃ³n Rails que no estÃ¡
+    UTF8, Graeme Mathieson escribiÃ³ unos migrations que te ayudan a Migrar tu AplicaciÃ³n
+    Rails a Unicode. [...]</p>
 - id: 662
   author: Sebastian
   author_email: sd@notso.net
@@ -165,15 +165,15 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMS0wNiAwMToyNDozNCArMDAwMA==
   content: ! '<p>Say your database was encoding as latin1, but you fed it utf8 data
-    without telling it. Which is what Pete above is talking about.<&#47;p>
+    without telling it. Which is what Pete above is talking about.</p>
 
 
     <p>So, instead of telling mysql to ALTER TABLE contacts CONVERT TO CHARACTER SET
-    utf8, you should do the following:<&#47;p>
+    utf8, you should do the following:</p>
 
 
-    <p>mysqldump --default-character-set=latin1 {database} {table} | sed ''s&#47;latin1&#47;utf8&#47;''
-    | mysql {database}<&#47;p>
+    <p>mysqldump --default-character-set=latin1 {database} {table} | sed ''s/latin1/utf8/''
+    | mysql {database}</p>
 
 
     <p>It''s very important to use the right value for --default-character-set in
@@ -181,11 +181,11 @@ comments:
     probably). By telling mysqldump to use the same encoding the tables are using,
     the output will be the untranscoded byte stream, which is exactly what you want.
     Then you take that output and change it so that it actualy claims to be utf8 data,
-    and feed it back to mysql.<&#47;p>
+    and feed it back to mysql.</p>
 
 
     <p>Done, problem solved. Your data is now properly encoded utf8 in properly encoded
-    tables.<&#47;p>'
+    tables.</p>'
 - id: 663
   author: UTF-8 and Rails &laquo; Riff World
   author_email: ''
@@ -196,7 +196,7 @@ comments:
     MjAwNy0wMi0wMSAxMzoyNDo0MSArMDAwMA==
   content: <p>[...] 3. Drop your database and rake db:migrate again. You might be
     able to convert the DB to UTF-8 (see this post, but also read the warning before
-    proceeding). [...]<&#47;p>
+    proceeding). [...]</p>
 - id: 664
   author: G. Gibson
   author_email: mistergibson@gmail.com
@@ -207,7 +207,7 @@ comments:
     MjAwOC0wNS0xMCAxOTo1NDo0MyArMDEwMA==
   content: ! '<p>What if I want to (prior to creating tables) set the default encodings
     and collation.  I am hoping it will use these when new tables, string columns,
-    are created.  Would this work:<&#47;p>
+    are created.  Would this work:</p>
 
 
     <p>def self.up
@@ -215,14 +215,14 @@ comments:
     execute "ALTER DATABASE #{ActiveRecord::Base.connection.current_database} CHARACTER
     SET utf8 COLLATE utf8_bin"
 
-    end<&#47;p>
+    end</p>
 
 
     <p>Also, would it indeed (in MySQL) set all subsequent tables and columns to these
-    settings?<&#47;p>
+    settings?</p>
 
 
-    <p>Thanks.<&#47;p>'
+    <p>Thanks.</p>'
 - id: 665
   author: Remi
   author_email: rgabillet@gmail.com
@@ -234,7 +234,7 @@ comments:
   content: ! '<p>Based on my research, I wrote a migration that actually recreates
     the DB, you can check it out here:
 
-    http:&#47;&#47;snippets.dzone.com&#47;posts&#47;show&#47;6070<&#47;p>'
+    http://snippets.dzone.com/posts/show/6070</p>'
 - id: 666
   author: Mihail Minkov
   author_email: Mihail.Minkov.BG@gmail.com
@@ -244,25 +244,25 @@ comments:
   date_gmt: !binary |-
     MjAwOC0xMC0xNCAyMjozMzoxNSArMDEwMA==
   content: <p>Thank you, your post was really helpful to me. I'd been trying to do
-    exactly this for over an hour, always missing out on some detail or another :)<&#47;p>
+    exactly this for over an hour, always missing out on some detail or another :)</p>
 ---
-**Update** Make sure you read the comments on this post before considering it.  In particular, [Pete](http:&#47;&#47;woss.name&#47;2006&#47;10&#47;25&#47;migrating-your-rails-application-to-unicode&#47;#comment-13156) brings up some concerns about applications having data which is already UTF-8, but marked as Latin1 in the database, may cause problems.
+**Update** Make sure you read the comments on this post before considering it.  In particular, [Pete](http://woss.name/2006/10/25/migrating-your-rails-application-to-unicode/#comment-13156) brings up some concerns about applications having data which is already UTF-8, but marked as Latin1 in the database, may cause problems.
 
 So you've got this Rails application you've been developing and all of a sudden you need to support Unicode.  After all, not everybody speaks English.  And some really awkward people like all sorts of typographic symbols in their medical articles.  In fact, you wouldn't believe all the weird characters these print-production-oriented people like to use&hellip;
 
-Most of the instructions here were gleamed from a [jabbering giraffe](http:&#47;&#47;happygiraffe.net&#47;blog&#47;archives&#47;2006&#47;09&#47;16&#47;unicode-for-rails) and the [notes I wrote up from his talk](http:&#47;&#47;woss.name&#47;2006&#47;10&#47;11&#47;railsconf-europe-2006-unicode-for-rails-dominic-mitchell&#47;).  But I like to think I've had a bright idea of my own. :-)  Note that these instructions assume you're using Ruby 1.8.x, MySQL >= 5 and edge (soon to be 1.2) rails.
+Most of the instructions here were gleamed from a [jabbering giraffe](http://happygiraffe.net/blog/archives/2006/09/16/unicode-for-rails) and the [notes I wrote up from his talk](http://woss.name/2006/10/11/railsconf-europe-2006-unicode-for-rails-dominic-mitchell/).  But I like to think I've had a bright idea of my own. :-)  Note that these instructions assume you're using Ruby 1.8.x, MySQL >= 5 and edge (soon to be 1.2) rails.
 
-OK, so to get Rails basically talking UTF-8, you have to do a couple of things.  Firstly, make Ruby itself a little bit Unicode-aware, by sticking the following in `config&#47;environment.rb`:
+OK, so to get Rails basically talking UTF-8, you have to do a couple of things.  Firstly, make Ruby itself a little bit Unicode-aware, by sticking the following in `config/environment.rb`:
 
     $KCODE = 'u'
 
-We also need to tell ActiveRecord that the connection it should open to MySQL should be UTF-8 encoded.  This is done by putting the following in each of your database stanzas in `config&#47;database.yml`:
+We also need to tell ActiveRecord that the connection it should open to MySQL should be UTF-8 encoded.  This is done by putting the following in each of your database stanzas in `config/database.yml`:
 
     encoding: utf8
 
 Finally, from a setup perspective, we need to migrate the current database to one which uses UTF-8 encoding internally.  This is what I consider to be my 'smart' bit. :-)  Create yourself a migration:
 
-    script&#47;generate migration make_unicode_friendly
+    script/generate migration make_unicode_friendly
 
 then paste in the following code:
 
@@ -316,8 +316,8 @@ then paste in the following code:
 
 This migrates the current database to using UTF-8 with general, case-insensitive collation, which affects the creation of future tables.  It also updates each of the current tables, converting their contents to UTF-8 too.
 
-And it's reversible.  Well, mostly.  It makes the assumption that the previous character set you were using was the server's default (which, unless you explicitly specified a character set&#47;collation upon creation will be the case), and reverts back to that.  Of course, a backward migration may well be lossy, so you want to be careful trying that.
+And it's reversible.  Well, mostly.  It makes the assumption that the previous character set you were using was the server's default (which, unless you explicitly specified a character set/collation upon creation will be the case), and reverts back to that.  Of course, a backward migration may well be lossy, so you want to be careful trying that.
 
-The next bit is the tricky one.  Most of the Ruby string functions aren't Unicode-aware.  They'll quite happily `slice` up multi-byte characters.  Fortunately edge rails now extends `String` to provide a `chars` method which returns an [`ActiveSupport::Multibyte::Chars`](http:&#47;&#47;multibyterails.org&#47;documentation&#47;activesupport_multibyte&#47;classes&#47;ActiveSupport&#47;Multibyte&#47;Chars.html) object.  It walks like a string and talks like a string, but is multibyte aware.  Nice.  Apparently there's active work going on in the core to get internal Rails stuff to use this new functionality, so hopefully it should be pretty good soon.
+The next bit is the tricky one.  Most of the Ruby string functions aren't Unicode-aware.  They'll quite happily `slice` up multi-byte characters.  Fortunately edge rails now extends `String` to provide a `chars` method which returns an [`ActiveSupport::Multibyte::Chars`](http://multibyterails.org/documentation/activesupport_multibyte/classes/ActiveSupport/Multibyte/Chars.html) object.  It walks like a string and talks like a string, but is multibyte aware.  Nice.  Apparently there's active work going on in the core to get internal Rails stuff to use this new functionality, so hopefully it should be pretty good soon.
 
 Hopefully it should be good enough for me to use just now...

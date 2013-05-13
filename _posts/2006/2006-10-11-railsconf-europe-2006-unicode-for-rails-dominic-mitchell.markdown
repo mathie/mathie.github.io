@@ -28,7 +28,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMC0xMSAyMDozNTowMiArMDEwMA==
   content: <p>I just wanted to say "thanks" for taking the time and trouble to do
-    all twelve write-ups, and in fine style.<&#47;p>
+    all twelve write-ups, and in fine style.</p>
 - id: 618
   author: mathie
   author_email: mathie@woss.name
@@ -37,7 +37,7 @@ comments:
     MjAwNi0xMC0xMiAwOTozNjo0MiArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0xMC0xMiAwODozNjo0MiArMDEwMA==
-  content: ! '<p>Anthony: I''m glad they were of use to somebody else too. :)<&#47;p>'
+  content: ! '<p>Anthony: I''m glad they were of use to somebody else too. :)</p>'
 - id: 619
   author: James McCarthy
   author_email: james2mccarthy@gmail.com
@@ -47,7 +47,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0xMC0xMiAxMjo1ODoyNCArMDEwMA==
   content: <p>Another thank you. Great concise notes, a gift that passes a lot of
-    us by.<&#47;p>
+    us by.</p>
 - id: 620
   author: Migrating your Rails application to Unicode at Notes from a messy desk
   author_email: ''
@@ -59,7 +59,7 @@ comments:
   content: <p>[...] Most of the instructions here were gleamed from a jabbering giraffe
     and the notes I wrote up from his talk. But I like to think I&#8217;ve had a bright
     idea of my own.  Note that these instructions assume you&#8217;re using Ruby 1.8.x,
-    MySQL >= 5 and edge (soon to be 1.2) rails. [...]<&#47;p>
+    MySQL &gt;= 5 and edge (soon to be 1.2) rails. [...]</p>
 - id: 621
   author: Damian Janowski
   author_email: damian.janowski@gmail.com
@@ -70,13 +70,13 @@ comments:
     MjAwNi0xMS0yOCAyMDoyNzo1MyArMDAwMA==
   content: ! '<p>Great article!
 
-    It solved the problem I was dealing with for 3-4 hours. Thanks :)<&#47;p>'
+    It solved the problem I was dealing with for 3-4 hours. Thanks :)</p>'
 ---
 > This is the twelfth (and final!) in a series of articles of me writing up my notes
 > from RailsConf Europe 2006. They are all first drafts, probably
 > technically inaccurate and slanderously misquoting people. Let me know
 > and I'll fix them.  You can follow this series of posts by looking at
-> articles in the [RailsConfEurope](&#47;index.php?s=RailsConf+Europe+2006)
+> articles in the [RailsConfEurope](/index.php?s=RailsConf+Europe+2006)
 > category.
 
 Ruby (and therefore Rails) has a bad reputation for Unicode support. Dominic
@@ -144,17 +144,17 @@ forms are generally sent back in the same encoding as the page's character
 set. So make sure you set your HTML pages' character set to UTF-8, usually
 with:
 
-    <meta http-equiv="Content-type" content="text&#47;html; charset=utf-8" &#47;>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 
 somewhere in the head of all your HTML pages. You might also want to configure
 your web server to explicitly tell the browser that the character set is UTF-8
 too (eg `AddDefaultCharset UTF-8` in Apache). There is the `accept-charset`
 attribute on forms, but apparently it is not well supported in browsers.
 
-In Ruby, setting `$KCODE="utf8"` early in your `config&#47;environment.rb` will
+In Ruby, setting `$KCODE="utf8"` early in your `config/environment.rb` will
 switch you into Unicode mode. From there, there's limited support for Unicode
 strings: regular expressions will be Unicode-aware if you pass in the 'u'
-flag; and pack&#47;unpack will work with Unicode strings. There are a number of
+flag; and pack/unpack will work with Unicode strings. There are a number of
 different packages to provide additional Unicode support, the most promising
 of which (to me) sounds like character-encodings. It claims to be similar to
 how Unicode support will be in Ruby 2.0.
@@ -167,7 +167,7 @@ From the database perspective, you need to set the encoding on the database when
 
     CREATE DATABASE foo CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-and you need to set the encoding of the connection to the database, in the appropriate stanzas in `config&#47;database.yml`:
+and you need to set the encoding of the connection to the database, in the appropriate stanzas in `config/database.yml`:
 
     production:
       user: root

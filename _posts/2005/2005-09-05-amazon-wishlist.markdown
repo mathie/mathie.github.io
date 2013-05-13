@@ -44,10 +44,10 @@ comments:
   content: ! 'You can put your Amazon wishlist on your blog by going to:
 
 
-    <a href="http:&#47;&#47;www.junto.co.uk&#47;Amazon&#47;WishListWidget.aspx" rel="nofollow">http:&#47;&#47;www.junto.co.uk&#47;Amazon&#47;WishListWidget.aspx<&#47;a>.
+    <a href="http://www.junto.co.uk/Amazon/WishListWidget.aspx" rel="nofollow">http://www.junto.co.uk/Amazon/WishListWidget.aspx</a>.
 
 
     It is free and you just need to copy some javascript into your blog template.
     It is highly customisable with CSS.'
 ---
-After a little prodding (OK, more than a little -- my dad's been nagging me for weeks!), I've gotten around to updating my <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;redirect?link_code=ur2&amp;camp=1634&amp;tag=mathieoftheen-21&amp;creative=6738&amp;path=registry&#47;5I0QEHXEAPOF">Amazon wish list<&#47;a>, and I'll endeavour to stop letting it get out of date.  That's the trouble with buying stuff from places that <em>aren't<&#47;em> Amazon!  Part of the list is keeping track of the Ian Rankin books I'm still missing, but mostly I just keep an eye on second hand bookshops for these.  I should probably add the wishlist to the side bar on this blog, just on the off-chance that some nice person feels extremely generous and decides to give me something to do so I don't spend all my time blogging and bugging y'all. :-)
+After a little prodding (OK, more than a little -- my dad's been nagging me for weeks!), I've gotten around to updating my <a href="http://www.amazon.co.uk/exec/obidos/redirect?link_code=ur2&amp;camp=1634&amp;tag=mathieoftheen-21&amp;creative=6738&amp;path=registry/5I0QEHXEAPOF">Amazon wish list</a>, and I'll endeavour to stop letting it get out of date.  That's the trouble with buying stuff from places that <em>aren't</em> Amazon!  Part of the list is keeping track of the Ian Rankin books I'm still missing, but mostly I just keep an eye on second hand bookshops for these.  I should probably add the wishlist to the side bar on this blog, just on the off-chance that some nice person feels extremely generous and decides to give me something to do so I don't spend all my time blogging and bugging y'all. :-)

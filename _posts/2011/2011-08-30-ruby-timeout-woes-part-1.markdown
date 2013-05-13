@@ -37,7 +37,7 @@ begin
 rescue Timeout::Error => e
   puts "Execution expired"
 end
-<&#47;pre>
+</pre>
 
 Your block of code will run for up to (approximately) 10 seconds and, if it hasn't completed in that time, will raise the `Timeout::Error` exception. Pretty straightforward.
 
@@ -45,7 +45,7 @@ The innocuous issue is just one trying to make me mistrust my memory. In Ruby 1.
 
 <pre lang="ruby">
 Timeout::Error < Interrupt < SignalException < Exception
-<&#47;pre>
+</pre>
 
 The key thing to note here is that it *doesn't* inherit directly from `StandardError` and so a blank rescue block won't catch it:
 
@@ -55,7 +55,7 @@ begin
 rescue
   puts "On Ruby 1.8.x I won't catch the timeout exception."
 end
-<&#47;pre>
+</pre>
 
 However, on Ruby 1.9.2, `Timeout::Error` inherits from `RuntimeError`, so in the above code example, the rescue block *will* get called. That's annoying, but it's not like it's the only incompatible change between Ruby 1.8.x and Ruby 1.9, so I'm OK with that. Plus, non-specific `rescue` blocks like that are a bad smell anyway.
 

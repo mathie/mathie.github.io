@@ -23,7 +23,7 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wMS0yMCAxNjo1MDo1OCArMDAwMA==
   content: <p>Why would you need to emulate find(1) when MacOS has it already (at
-    least jaguar does, anyway).<&#47;p>
+    least jaguar does, anyway).</p>
 - id: 260
   author: mathie
   author_email: mathie@woss.name
@@ -33,11 +33,11 @@ comments:
   date_gmt: !binary |-
     MjAwNi0wMS0yMCAxNzoyMToyMSArMDAwMA==
   content: ! '<p>Mike: Because using Spotlight would be far faster, and potentially
-    more flexible.<&#47;p>'
+    more flexible.</p>'
 ---
 Being a *nix weenie of old, I'm used to using `locate(1)` to search for files on my filesystem.  Unfortunately, on Mac OS X, that doesn't work so well, since the locate database isn't automatically updated.  Previously I'd been manually updating the locate database every so often, mostly at the point where I wanted to locate something!
 
-Today I came up with a better plan: [Spotlight](http:&#47;&#47;www.apple.com&#47;macosx&#47;features&#47;spotlight&#47;).  Recently I'd been reading up on the use of `mdfind` to drive Spotlight from the command line, which is kinda neat, but the language for telling it what you're looking for, while extremely flexible, is a bit long winded.  So the following has just made it into my `~&#47;.bashrc`:
+Today I came up with a better plan: [Spotlight](http://www.apple.com/macosx/features/spotlight/).  Recently I'd been reading up on the use of `mdfind` to drive Spotlight from the command line, which is kinda neat, but the language for telling it what you're looking for, while extremely flexible, is a bit long winded.  So the following has just made it into my `~/.bashrc`:
 
     # Let's emulate locate with Spotlight's mdfind
     locate()
@@ -48,9 +48,9 @@ Today I came up with a better plan: [Spotlight](http:&#47;&#47;www.apple.com&#47
 And it works really nicely:
 
     mathie@tandoori:mathie$ locate tsearch2
-    &#47;opt&#47;local&#47;lib&#47;pgsql8&#47;tsearch2.so
-    &#47;opt&#47;local&#47;share&#47;postgresql8&#47;contrib&#47;tsearch2.sql
-    &#47;opt&#47;local&#47;share&#47;postgresql8&#47;contrib&#47;untsearch2.sql
+    /opt/local/lib/pgsql8/tsearch2.so
+    /opt/local/share/postgresql8/contrib/tsearch2.sql
+    /opt/local/share/postgresql8/contrib/untsearch2.sql
 
 Of couse, this particular 10 minute digression from what I was actually trying to find is just as bad as waiting for the locate database to be regenerated, but at least it's a one-off; now I can rely on typing `locate foo` knowing that it will work quickly, and produce current (up to the second!) results.
 

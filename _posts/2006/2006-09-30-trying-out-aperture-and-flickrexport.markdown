@@ -25,9 +25,9 @@ comments:
     MjAwNi0wOS0zMCAyMDo1MToyMyArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0wOS0zMCAxOTo1MToyMyArMDEwMA==
-  content: <p>Good pic :)<&#47;p>
+  content: <p>Good pic :)</p>
 ---
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;mathie&#47;256251130&#47;" title="Jon &amp; April"><img src="http:&#47;&#47;static.flickr.com&#47;106&#47;256251130_bcbf59c847_m.jpg" alt="Jon &amp; April" class="alignright" style="border: solid 1px #000000; float: right;" &#47;><&#47;a>Well, that was remarkably painless.  I've just grabbed a random photo from my collection (aww, aren't they sweet?) and uploaded it with [FlickrExport for Aperture](http:&#47;&#47;connectedflow.com&#47;flickrexport&#47;aperture&#47;).  *Sooo* easy!  It automatically takes my keywords from Aperture, turning them into tags.  In fact, it also picks up other IPTC metadata (location, I've noticed so far) and sets tags for them too.
+<a href="http://www.flickr.com/photos/mathie/256251130/" title="Jon &amp; April"><img src="http://static.flickr.com/106/256251130_bcbf59c847_m.jpg" alt="Jon &amp; April" class="alignright" style="border: solid 1px #000000; float: right;" /></a>Well, that was remarkably painless.  I've just grabbed a random photo from my collection (aww, aren't they sweet?) and uploaded it with [FlickrExport for Aperture](http://connectedflow.com/flickrexport/aperture/).  *Sooo* easy!  It automatically takes my keywords from Aperture, turning them into tags.  In fact, it also picks up other IPTC metadata (location, I've noticed so far) and sets tags for them too.
 
 I see a license for FlickrExport and a Flickr pro account appearing on my bank statement in the very near future...
 

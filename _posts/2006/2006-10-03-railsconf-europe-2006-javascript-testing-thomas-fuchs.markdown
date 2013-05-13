@@ -27,10 +27,10 @@ comments:
     MjAwNi0xMC0wMyAyMjoxMDoyOSArMDEwMA==
   date_gmt: !binary |-
     MjAwNi0xMC0wMyAyMToxMDoyOSArMDEwMA==
-  content: ! '<p>What about dtrace for javascript?<&#47;p>
+  content: ! '<p>What about dtrace for javascript?</p>
 
 
-    <p>http:&#47;&#47;blogs.sun.com&#47;brendan&#47;entry&#47;dtrace_meets_javascript<&#47;p>'
+    <p>http://blogs.sun.com/brendan/entry/dtrace_meets_javascript</p>'
 - id: 602
   author: mathie
   author_email: mathie@woss.name
@@ -41,13 +41,13 @@ comments:
     MjAwNi0xMC0wNCAwOTowODozMiArMDEwMA==
   content: ! '<p>Boyd:  Oh. Wow.  I think I need to name all my children after Solaris
     developers.  I think I might have mentioned dtrace rocking a bit before, but that''s
-    just ... wow.  I''m speechless.<&#47;p>'
+    just ... wow.  I''m speechless.</p>'
 ---
 > This is the sixth in a series of articles of me writing up my notes from
 > from RailsConf Europe 2006. They are all first drafts, probably
 > technically inaccurate and slanderously misquoting people. Let me know
 > and I'll fix them.  You can follow this series of posts by looking at
-> articles in the [RailsConfEurope](&#47;index.php?s=RailsConf+Europe+2006)
+> articles in the [RailsConfEurope](/index.php?s=RailsConf+Europe+2006)
 > category.
 
 Don't ever use alert boxes for javascript debugging. And certainly *never*

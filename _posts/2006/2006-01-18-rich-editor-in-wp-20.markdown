@@ -15,7 +15,7 @@ categories:
 tags: []
 comments: []
 ---
-Well, that was quick.  It's only taken me two posts to switch off the new rich text editor in [Wordpress](http:&#47;&#47;wordpress.org&#47;) 2.0 and instead enable the [Markdown](http:&#47;&#47;daringfireball.net&#47;projects&#47;markdown&#47;) plugin.  Actually I had never used that plugin before either, but I've been writing enough documentation recently, using Markdown, that I figured I'd give it a go here too.
+Well, that was quick.  It's only taken me two posts to switch off the new rich text editor in [Wordpress](http://wordpress.org/) 2.0 and instead enable the [Markdown](http://daringfireball.net/projects/markdown/) plugin.  Actually I had never used that plugin before either, but I've been writing enough documentation recently, using Markdown, that I figured I'd give it a go here too.
 
 Mostly the rich editor was irritating.  I'm not quite sure what it was doing behind the scenes, HTML-wise, it was a bit sluggish, and my fingers are wired towards actually writing HTML instead of having to hit clicky buttons.
 

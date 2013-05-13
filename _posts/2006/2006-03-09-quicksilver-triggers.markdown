@@ -15,8 +15,8 @@ categories:
 tags: []
 comments: []
 ---
-Prompted by [Quicksilver basics: shake hand with your preferences](http:&#47;&#47;www.tuaw.com&#47;2006&#47;03&#47;08&#47;quicksilver-basics-shake-hands-with-your-preferences&#47;) I was having a quick flick through my [Quicksilver](http:&#47;&#47;quicksilver.blacktree.com&#47;) setup, in particular the active triggers.
+Prompted by [Quicksilver basics: shake hand with your preferences](http://www.tuaw.com/2006/03/08/quicksilver-basics-shake-hands-with-your-preferences/) I was having a quick flick through my [Quicksilver](http://quicksilver.blacktree.com/) setup, in particular the active triggers.
 
 Some wag appears to have set a trigger on `ctrl-alt-del` to run 'Restart'!  I've just done a fresh install of QS on my laptop and it's not there, so I suspect it might have been me. :-)  Yet another example of why not to drink beer at your computer, I suspect.
 
-Oh, if you're using a Mac and you haven't discovered [Quicksilver](http:&#47;&#47;quicksilver.blacktree.com&#47;) yet, go download it, run through [43 Folders' tutorials and hints](http:&#47;&#47;www.43folders.com&#47;category&#47;quicksilver&#47;) and enjoy.  It's so much more than just an application launcher -- I always use it for launching pages out my [del.icio.us](http:&#47;&#47;del.icio.us&#47;) bookmarks, append text to files, add things to my todo list, send files by email, find people's phone numbers.  It really does everything.
+Oh, if you're using a Mac and you haven't discovered [Quicksilver](http://quicksilver.blacktree.com/) yet, go download it, run through [43 Folders' tutorials and hints](http://www.43folders.com/category/quicksilver/) and enjoy.  It's so much more than just an application launcher -- I always use it for launching pages out my [del.icio.us](http://del.icio.us/) bookmarks, append text to files, add things to my todo list, send files by email, find people's phone numbers.  It really does everything.

@@ -23,10 +23,10 @@ tags:
 - skype
 comments: []
 ---
-Since you can never have enough IM&#47;phone clients on enough networks, I've now
-signed up for [Gizmo](http:&#47;&#47;www.gizmoproject.com&#47;). I'm `mathie_wossname`.
+Since you can never have enough IM/phone clients on enough networks, I've now
+signed up for [Gizmo](http://www.gizmoproject.com/). I'm `mathie_wossname`.
 Hopefully this one won't be as much of a resource hog when it's idle as the
-[Skype](http:&#47;&#47;www.skype.com&#47;) client on Mac OS X appears to be. OK, it's fine
+[Skype](http://www.skype.com/) client on Mac OS X appears to be. OK, it's fine
 when you've got 4.5GB RAM, but it seems to make my laptop (with a mere 1.5GB
 RAM) slow to a crawl. For example:
 
@@ -43,7 +43,7 @@ If you want to get in contact with me I can be found on the following
 services:
 
 * Skype, as [mathie\_wossname](skype:mathie_wossname?call).
-* Gizmo, as [mathie\_wossname](http:&#47;&#47;www.gizmoproject.com&#47;download-small-extjs.html?id=mathie_wossname).
+* Gizmo, as [mathie\_wossname](http://www.gizmoproject.com/download-small-extjs.html?id=mathie_wossname).
 * AOL instant messenger, as [math1e](aim:goim?screenname=math1e).  Yes, that's a 1 (one) instead of an 'i'.  How l33t, eh? :-)
 * Jabber, as [mathie@woss.name](xmpp:mathie@woss.name).
 * Email, as [mathie@woss.name](mailto:mathie@woss.name).

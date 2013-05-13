@@ -22,7 +22,7 @@ comments:
     MjAwNS0xMC0yNCAxNDo0Nzo1MSArMDEwMA==
   date_gmt: !binary |-
     MjAwNS0xMC0yNCAxMzo0Nzo1MSArMDEwMA==
-  content: ! 'yep, oxyhaemoglobin levels: http:&#47;&#47;www.rcjournal.com&#47;online_resources&#47;cpgs&#47;pulsecpg.html
+  content: ! 'yep, oxyhaemoglobin levels: http://www.rcjournal.com/online_resources/cpgs/pulsecpg.html
 
 
     and tis definitly a scary heart rate!!'
@@ -38,4 +38,4 @@ comments:
     want to take too much time to grok it since I'm in work and supposed to be, well,
     working!
 ---
-On the plus side of last night's excursion, I did discover -- from being hooked up to this fancy machine -- that my general health is pretty good.  After the panic subsided, I realised I was OK, and started to relax, my blood pressure stabilised at 134&#47;81.  Much better than it has been in the past!  And my resting heart rate was about 59.  OK, so that's not quite as impressive as it used to be (when I was doing a <em>lot<&#47;em> of cycling, my resting heart rate was generally in the early 50s!), but I suspect it's still pretty good for a 26 year old.  The SpO<sub>2<&#47;sub> reading was about 99% -- I'm guessing that has something to do with oxygen saturation levels, but I'm not entirely clear and Google is just throwing up results to do with people selling SpO<sub>2<&#47;sub> monitors...
+On the plus side of last night's excursion, I did discover -- from being hooked up to this fancy machine -- that my general health is pretty good.  After the panic subsided, I realised I was OK, and started to relax, my blood pressure stabilised at 134/81.  Much better than it has been in the past!  And my resting heart rate was about 59.  OK, so that's not quite as impressive as it used to be (when I was doing a <em>lot</em> of cycling, my resting heart rate was generally in the early 50s!), but I suspect it's still pretty good for a 26 year old.  The SpO<sub>2</sub> reading was about 99% -- I'm guessing that has something to do with oxygen saturation levels, but I'm not entirely clear and Google is just throwing up results to do with people selling SpO<sub>2</sub> monitors...

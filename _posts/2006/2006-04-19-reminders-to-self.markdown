@@ -16,8 +16,8 @@ categories:
 tags: []
 comments: []
 ---
-I really should write up something about the RoR course I was on last week.  It was absolutely fantastic, and I learned loads, but I should really tell you all in more detail what a god (and ncie guy!) [Chad Fowler](http:&#47;&#47;www.chadfowler.com&#47;) really is.
+I really should write up something about the RoR course I was on last week.  It was absolutely fantastic, and I learned loads, but I should really tell you all in more detail what a god (and ncie guy!) [Chad Fowler](http://www.chadfowler.com/) really is.
 
-I should also witter about the improved shininess of Aperture 1.1.  And I've got a bunch of Rails hints & tips that I should write up properly.  And go buy [Rails Recipes](http:&#47;&#47;www.pragmaticprogrammer.com&#47;titles&#47;fr_rr&#47;) which is now a feature complete beta -- it's really useful.
+I should also witter about the improved shininess of Aperture 1.1.  And I've got a bunch of Rails hints & tips that I should write up properly.  And go buy [Rails Recipes](http://www.pragmaticprogrammer.com/titles/fr_rr/) which is now a feature complete beta -- it's really useful.
 
 That is all for now. :)

@@ -28,7 +28,7 @@ comments:
 
     Geek Homophones
 
-    http:&#47;&#47;blogs.technet.com&#47;kclemson&#47;archive&#47;2005&#47;05&#47;27&#47;405461.aspx'
+    http://blogs.technet.com/kclemson/archive/2005/05/27/405461.aspx'
 - id: 101
   author: trmadol
   author_email: charl@arslan.com
@@ -40,29 +40,29 @@ comments:
   content: <p>I always have terrible trouble with comment-related plugins that require
     me to put some line in the comment loop; I can never seem to find the right spot.
     Can anyone tell me where I should put the php line in my comments loop? I haven
-    not modified anything much, and I would be very grateful. Thanks!<&#47;p>
+    not modified anything much, and I would be very grateful. Thanks!</p>
 ---
 Note to self:
 
 <blockquote>
-<strong>celiac<&#47;strong> <em>|&Euml;&OElig;si&Euml;l&Eacute;&ordf;ak|<&#47;em> ( Brit. <strong>coeliac<&#47;strong>)
+<strong>celiac</strong> <em>|ËŒsiËlÉªak|</em> ( Brit. <strong>coeliac</strong>)
 <dl>
-<dt>adjective<&#47;dt>
+<dt>adjective</dt>
 <dd><ol>
-	<li>Anatomy of or relating to the abdomen.<&#47;li>
-        <li>Medicine of, relating to, or affected by celiac disease : a celiac child.<&#47;li>
-<&#47;ol><&#47;dd>
-<dt>noun<&#47;dt>
-<dd><ol><li>a person with celiac disease.<&#47;li><&#47;ol><&#47;dd>
-<&#47;dl>
-<&#47;blockquote>
+	<li>Anatomy of or relating to the abdomen.</li>
+        <li>Medicine of, relating to, or affected by celiac disease : a celiac child.</li>
+</ol></dd>
+<dt>noun</dt>
+<dd><ol><li>a person with celiac disease.</li></ol></dd>
+</dl>
+</blockquote>
 
 as opposed to:
 
 <blockquote>
-<strong>celeriac<&#47;strong> <em>|s&Eacute;&ordf;&Euml;&OElig;l&Eacute;&rsaquo;r&Eacute;&ordf;ak|<&#47;em>
-<dl><dt>noun<&#47;dt>
-<dd><ol><li>celery of a variety that forms a large swollen turniplike root that can be eaten cooked or raw.<&#47;li><&#47;ol><&#47;dd><&#47;dl>
-<&#47;blockquote>
+<strong>celeriac</strong> <em>|sÉªËŒlÉ›rÉªak|</em>
+<dl><dt>noun</dt>
+<dd><ol><li>celery of a variety that forms a large swollen turniplike root that can be eaten cooked or raw.</li></ol></dd></dl>
+</blockquote>
 
 Hmm, is that a homophone, a homonym, or just me being stupid? :-)

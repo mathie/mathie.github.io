@@ -26,7 +26,7 @@ comments:
   content: <p>Full ACK. But as far as i know there is no possibility to set a global
     default. But instead of right-clicking on the toolbar you could command-click
     on the button on top right of the window. Maybe this will bring you a small speedup
-    ;)<&#47;p>
+    ;)</p>
 ---
 OK, this is one of these wee things that has been bugging me for a while,
 particularly over the past week or so while I've been setting up my new

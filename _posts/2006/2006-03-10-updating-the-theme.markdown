@@ -22,7 +22,7 @@ comments:
     MjAwNi0wMy0xMyAxMToxOToyNyArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0wMy0xMyAxMDoxOToyNyArMDAwMA==
-  content: <p>yep, looks fine in IE, but i want the pretty pictures back :o)<&#47;p>
+  content: <p>yep, looks fine in IE, but i want the pretty pictures back :o)</p>
 - id: 325
   author: mathie
   author_email: mathie@woss.name
@@ -33,10 +33,10 @@ comments:
     MjAwNi0wMy0xMyAxMDoyNjowNCArMDAwMA==
   content: ! '<p>The messy desk picture will definitely make a return -- sometime
     today, I hope -- along with a couple of other missing features that haven''t been
-    ported across yet.<&#47;p>
+    ported across yet.</p>
 
 
     <p>I was thinking of creating a new picture, with the up-to-date desk, but it''s
-    currently not messy enough!  I''m sure it will be by the end of the week, though!<&#47;p>'
+    currently not messy enough!  I''m sure it will be by the end of the week, though!</p>'
 ---
-I'm partway through updating the theme on this site to the latest beta of [K2](http:&#47;&#47;binarybonsai.com&#47;wordpress&#47;k2).  I think it's looking much prettier so far, but there's still some customisation to be reintegrated (like all revenue-generating Google ads, and the picture of a messy desk, which really ought to be updated anyway!).  What do you think?  Does it look OK on your browser?
+I'm partway through updating the theme on this site to the latest beta of [K2](http://binarybonsai.com/wordpress/k2).  I think it's looking much prettier so far, but there's still some customisation to be reintegrated (like all revenue-generating Google ads, and the picture of a messy desk, which really ought to be updated anyway!).  What do you think?  Does it look OK on your browser?

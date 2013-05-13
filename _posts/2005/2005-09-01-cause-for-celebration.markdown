@@ -60,8 +60,8 @@ comments:
     MjAwNS0wOS0wMSAyMDo0NDo1MiArMDEwMA==
   date_gmt: !binary |-
     MjAwNS0wOS0wMSAxOTo0NDo1MiArMDEwMA==
-  content: ! 'I think the cookies last forever. If you&acirc;&euro;&trade;re into
-    accepting cookies from strange people, that is
+  content: ! 'I think the cookies last forever. If youâ€™re into accepting cookies
+    from strange people, that is
 
 
     And I don''t tend to accept cookies from anysite that I do not think needs one.
@@ -77,4 +77,4 @@ comments:
   content: Managed to have the incorrect settings on this machine. Also I do not get
     any replies that may be said here. I only came back for a quick look.
 ---
-<img src="http:&#47;&#47;www.gnu.org&#47;software&#47;mailman&#47;images&#47;logo-70.jpg" alt="Mailman logo" class="alignleft" &#47;> A happy <a href="http:&#47;&#47;www.gnu.org&#47;software&#47;mailman&#47;" title="Mailman, the GNU Mailing List Manager">Mailman<&#47;a> day to one and all!  Though so far, I've only had the one password reminder, from <a href="http:&#47;&#47;lists.apple.com&#47;">lists.apple.com<&#47;a>.
+<img src="http://www.gnu.org/software/mailman/images/logo-70.jpg" alt="Mailman logo" class="alignleft" /> A happy <a href="http://www.gnu.org/software/mailman/" title="Mailman, the GNU Mailing List Manager">Mailman</a> day to one and all!  Though so far, I've only had the one password reminder, from <a href="http://lists.apple.com/">lists.apple.com</a>.

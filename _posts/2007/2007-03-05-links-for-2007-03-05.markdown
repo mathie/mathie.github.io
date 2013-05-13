@@ -17,8 +17,8 @@ comments: []
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.togsblog.co.uk&#47;?p=231">Back to Basics (revised and updated)<&#47;a><&#47;div>
-		<div class="delicious-extended">Nice introduction on how to hold a camera and how to position your body for balance, stability and mobility, in Paul's usual irreverant style.<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;photography">photography<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://www.togsblog.co.uk/?p=231">Back to Basics (revised and updated)</a></div>
+		<div class="delicious-extended">Nice introduction on how to hold a camera and how to position your body for balance, stability and mobility, in Paul's usual irreverant style.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/photography">photography</a>)</div>
+	</li>
+</ul>

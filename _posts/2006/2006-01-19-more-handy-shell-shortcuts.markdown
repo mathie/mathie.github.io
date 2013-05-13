@@ -25,7 +25,7 @@ comments:
   content: ! '<p>Useful one. Actually, I wanted to do this, but because of lack of
     knowledge in shell, I couldn''t.
 
-    Thanks a lot.<&#47;p>'
+    Thanks a lot.</p>'
 ---
 Regularly when I'm working at the shell, I realise that I'm repeating the same sequence of commands over and over.  Or that doing something a little bit extra would be *so* useful.  Last night's effort was two-fold; one to run a command and give my Terminal window a title (useful for long-running applications where it helps to remember which iTerm tab they're hiding under) and one to start a Rails application locally:
 
@@ -50,8 +50,8 @@ Regularly when I'm working at the shell, I realise that I'm repeating the same s
                 cd $1
             fi
             instance=$(basename $(pwd))
-            title "Rails: ${instance}" script&#47;server
+            title "Rails: ${instance}" script/server
         )
     }
 
-Pretty easy really.  But now I can launch a new shell and type `railsrun ~&#47;src&#47;mine&#47;svn&#47;library` which will start up the `library` application and set the window title appropriately.  Neat.  Ish.
+Pretty easy really.  But now I can launch a new shell and type `railsrun ~/src/mine/svn/library` which will start up the `library` application and set the window title appropriately.  Neat.  Ish.

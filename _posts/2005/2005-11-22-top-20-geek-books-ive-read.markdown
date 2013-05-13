@@ -63,7 +63,7 @@ comments:
     MjAwNS0xMS0yOSAwMDo0Nzo1MSArMDAwMA==
   date_gmt: !binary |-
     MjAwNS0xMS0yOCAyMzo0Nzo1MSArMDAwMA==
-  content: Terry Pratchett's written a lot of better books than <i>The Colour of Magic<&#47;i>
+  content: Terry Pratchett's written a lot of better books than <i>The Colour of Magic</i>
 - id: 223
   author: Rose
   author_email: Rozeofautumn@aol.com
@@ -72,7 +72,7 @@ comments:
     MjAwOC0wNy0wNyAwMDo0OToyMyArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wNy0wNiAyMzo0OToyMyArMDEwMA==
-  content: ! '<p>Christoph: Mhm. My favorite is probably ''Moving Pictures''.<&#47;p>'
+  content: ! '<p>Christoph: Mhm. My favorite is probably ''Moving Pictures''.</p>'
 - id: 224
   author: Jenz Johnson
   author_email: jenz@reboot2.com
@@ -81,7 +81,7 @@ comments:
     MjAwOC0wOC0wMSAxNjozMjoxOSArMDEwMA==
   date_gmt: !binary |-
     MjAwOC0wOC0wMSAxNTozMjoxOSArMDEwMA==
-  content: ! '<p>Excellent list !!   My humble offering:  "Road To Reboot".<&#47;p>'
+  content: ! '<p>Excellent list !!   My humble offering:  "Road To Reboot".</p>'
 - id: 225
   author: Koen
   author_email: contact@videogamebiscuit.com
@@ -95,31 +95,31 @@ comments:
     back and forth between settings and characters.
 
     Another book by Douglas Coupland I highly recommend is JPod, often described as
-    "Microserfs for the Google-age".<&#47;p>'
+    "Microserfs for the Google-age".</p>'
 ---
-The Guardian Online have an article on the <a href="http:&#47;&#47;blogs.guardian.co.uk&#47;technology&#47;archives&#47;2005&#47;11&#47;09&#47;top_20_geek_novels_the_results.html">Top 20 geek novels<&#47;a>, surveying the best of the 'geek' novels written in English since 1932.  The results are as follows, with the ones I have read highlighted in bold:
+The Guardian Online have an article on the <a href="http://blogs.guardian.co.uk/technology/archives/2005/11/09/top_20_geek_novels_the_results.html">Top 20 geek novels</a>, surveying the best of the 'geek' novels written in English since 1932.  The results are as follows, with the ones I have read highlighted in bold:
 
 <ol class="compact">
-<li><strong>The HitchHiker's Guide to the Galaxy -- Douglas Adams<&#47;strong><&#47;li>
-<li><strong>Nineteen Eighty-Four -- George Orwell<&#47;strong><&#47;li>
-<li>Brave New World -- Aldous Huxley<&#47;li>
-<li><strong>Do Androids Dream of Electric Sheep? -- Philip Dick<&#47;strong><&#47;li>
-<li><strong>Neuromancer -- William Gibson<&#47;strong><&#47;li>
-<li>Dune -- Frank Herbert<&#47;li>
-<li><strong>I, Robot -- Isaac Asimov<&#47;strong><&#47;li>
-<li><strong>Foundation -- Isaac Asimov<&#47;strong><&#47;li>
-<li><strong>The Colour of Magic -- Terry Pratchett<&#47;strong><&#47;li>
-<li><strong>Microserfs -- Douglas Coupland<&#47;strong><&#47;li>
-<li><strong>Snow Crash -- Neal Stephenson<&#47;strong><&#47;li>
-<li>Watchmen -- Alan Moore & Dave Gibbons<&#47;li>
-<li><strong>Cryptonomicon -- Neal Stephenson<&#47;strong><&#47;li>
-<li>Consider Phlebas -- Iain M Banks<&#47;li>
-<li><strong>Stranger in a Strange Land -- Robert Heinlein<&#47;strong><&#47;li>
-<li>The Man in the High Castle -- Philip K Dick<&#47;li>
-<li><strong>American Gods -- Neil Gaiman<&#47;strong><&#47;li>
-<li><strong>The Diamond Age -- Neal Stephenson<&#47;strong><&#47;li>
-<li>The Illuminatus! Trilogy -- Robert Shea & Robert Anton Wilson<&#47;li>
-<li>Trouble with Lichen - John Wyndham<&#47;li>
-<&#47;ol>
+<li><strong>The HitchHiker's Guide to the Galaxy -- Douglas Adams</strong></li>
+<li><strong>Nineteen Eighty-Four -- George Orwell</strong></li>
+<li>Brave New World -- Aldous Huxley</li>
+<li><strong>Do Androids Dream of Electric Sheep? -- Philip Dick</strong></li>
+<li><strong>Neuromancer -- William Gibson</strong></li>
+<li>Dune -- Frank Herbert</li>
+<li><strong>I, Robot -- Isaac Asimov</strong></li>
+<li><strong>Foundation -- Isaac Asimov</strong></li>
+<li><strong>The Colour of Magic -- Terry Pratchett</strong></li>
+<li><strong>Microserfs -- Douglas Coupland</strong></li>
+<li><strong>Snow Crash -- Neal Stephenson</strong></li>
+<li>Watchmen -- Alan Moore & Dave Gibbons</li>
+<li><strong>Cryptonomicon -- Neal Stephenson</strong></li>
+<li>Consider Phlebas -- Iain M Banks</li>
+<li><strong>Stranger in a Strange Land -- Robert Heinlein</strong></li>
+<li>The Man in the High Castle -- Philip K Dick</li>
+<li><strong>American Gods -- Neil Gaiman</strong></li>
+<li><strong>The Diamond Age -- Neal Stephenson</strong></li>
+<li>The Illuminatus! Trilogy -- Robert Shea & Robert Anton Wilson</li>
+<li>Trouble with Lichen - John Wyndham</li>
+</ol>
 
-I did try reading The Illuminatus! Trilogy -- really, I did.  But it's just, well, in my humble opinion, unreadable.  Completely deranged, switching from one scene (or narrative) to another with nary a paragraph break.  OK, perhaps I should give it another chance sometime, that maybe reading it while I was commuting regularly between Edinburgh and Milton Keynes wasn't the best time to try.  But I'd have to be really desperate to consider it!  I really should get around to trying some of Iain Bank's sci-fi stuff sometime.  I've read most of his other novels, but the only Iain <em>M<&#47;em> Banks novel I've ever read is State of the Art.
+I did try reading The Illuminatus! Trilogy -- really, I did.  But it's just, well, in my humble opinion, unreadable.  Completely deranged, switching from one scene (or narrative) to another with nary a paragraph break.  OK, perhaps I should give it another chance sometime, that maybe reading it while I was commuting regularly between Edinburgh and Milton Keynes wasn't the best time to try.  But I'd have to be really desperate to consider it!  I really should get around to trying some of Iain Bank's sci-fi stuff sometime.  I've read most of his other novels, but the only Iain <em>M</em> Banks novel I've ever read is State of the Art.

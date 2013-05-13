@@ -49,18 +49,18 @@ comments:
 This is what I have in the way of photography kit just now:
 
 <ul>
-  <li><a href="http:&#47;&#47;www.canon.co.uk&#47;for_home&#47;product_finder&#47;cameras&#47;digital_slr&#47;eos_350d&#47;index.asp">Canon EOS 350D<&#47;a> (aka Digital Rebel XT) digital SLR camera.<&#47;li>
-  <li>Canon <a href="http:&#47;&#47;www.canon.co.uk&#47;for_home&#47;product_finder&#47;cameras&#47;ef_lenses&#47;zoom_lenses&#47;ef-s_18-55mm_f-3.5-5.6&#47;index.asp">EF-S 18-55mm f&#47;3.5-5.6 USM<&#47;a> lens (ie the default one that comes with the EOS 350D consumer kit).<&#47;li>
-  <li>Canon <a href="http:&#47;&#47;www.canon.co.uk&#47;for_home&#47;product_finder&#47;cameras&#47;ef_lenses&#47;zoom_lenses&#47;ef_75300mm_f456iii_usm&#47;index.asp">EF 75-300mm f&#47;4-5.6 III USM<&#47;a> lens.<&#47;li>
-  <li>Canon <a href="http:&#47;&#47;consumer.usa.canon.com&#47;ir&#47;controller?act=ModelDetailAct&fcategoryid=141&modelid=7394">Speedlite 420EX<&#47;a> flash.<&#47;li>
-  <li>A couple of Sandisk 512MB compact flash cards, one of which is <a href="http:&#47;&#47;www.sandisk.com&#47;retail&#47;cf.asp">dog slow<&#47;a>; the other is just a <a href="http:&#47;&#47;www.sandisk.com&#47;retail&#47;ultra2-cf.asp">bit slow<&#47;a>.<&#47;li>
-  <li>A velbon mini tripod<&#47;li>
-  <li>Jessops-own floor-standing tripod, which maxes out at about 5 feet high.<&#47;li>
-  <li>A circular polarising filter.<&#47;li>
-  <li>Spare batteries.<&#47;li>
-  <li>A bag to put it all in!<&#47;li>
-<&#47;ul>
+  <li><a href="http://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_350d/index.asp">Canon EOS 350D</a> (aka Digital Rebel XT) digital SLR camera.</li>
+  <li>Canon <a href="http://www.canon.co.uk/for_home/product_finder/cameras/ef_lenses/zoom_lenses/ef-s_18-55mm_f-3.5-5.6/index.asp">EF-S 18-55mm f/3.5-5.6 USM</a> lens (ie the default one that comes with the EOS 350D consumer kit).</li>
+  <li>Canon <a href="http://www.canon.co.uk/for_home/product_finder/cameras/ef_lenses/zoom_lenses/ef_75300mm_f456iii_usm/index.asp">EF 75-300mm f/4-5.6 III USM</a> lens.</li>
+  <li>Canon <a href="http://consumer.usa.canon.com/ir/controller?act=ModelDetailAct&fcategoryid=141&modelid=7394">Speedlite 420EX</a> flash.</li>
+  <li>A couple of Sandisk 512MB compact flash cards, one of which is <a href="http://www.sandisk.com/retail/cf.asp">dog slow</a>; the other is just a <a href="http://www.sandisk.com/retail/ultra2-cf.asp">bit slow</a>.</li>
+  <li>A velbon mini tripod</li>
+  <li>Jessops-own floor-standing tripod, which maxes out at about 5 feet high.</li>
+  <li>A circular polarising filter.</li>
+  <li>Spare batteries.</li>
+  <li>A bag to put it all in!</li>
+</ul>
 
-That's about it for now...  At some point in the not too distant future, I'd like to add a 50mm f&#47;1.8 lens to that arsenal for lower light&#47;portrait work, and some more (faster!) compact flash cards so I can take more than 130 shots between refills.  Oh, and a macro lens of some variety would rock somewhat. :)
+That's about it for now...  At some point in the not too distant future, I'd like to add a 50mm f/1.8 lens to that arsenal for lower light/portrait work, and some more (faster!) compact flash cards so I can take more than 130 shots between refills.  Oh, and a macro lens of some variety would rock somewhat. :)
 
 Software-wise, I'm kinda up in the air just now.  That's the post I was about to write, but I figured I should start this category properly, by mentioning what kit I'm using.  So maybe the next post will be more about the software...

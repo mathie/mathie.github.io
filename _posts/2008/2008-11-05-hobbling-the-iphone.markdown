@@ -16,7 +16,7 @@ categories:
 tags: []
 comments: []
 ---
-I had a real "Doh!" moment today.  I'm in Florida for [RubyConf 2008](http:&#47;&#47;rubyconf.org&#47;) this week (which is going to be awesome!).  Unfortunately my luggage fared even worse than I did on its journey here and hasn't yet made it.  I have no transport, so I decided to go for a walk from the hotel to see if I could find a store to buy some toiletries and some clean clothes.
+I had a real "Doh!" moment today.  I'm in Florida for [RubyConf 2008](http://rubyconf.org/) this week (which is going to be awesome!).  Unfortunately my luggage fared even worse than I did on its journey here and hasn't yet made it.  I have no transport, so I decided to go for a walk from the hotel to see if I could find a store to buy some toiletries and some clean clothes.
 
 Just after I'd left the hotel, I had a brainstorm: "Aha, I'll see if the GPS thingume works on my iPhone across here."  Yes, that was a pretty stupid thing to ask myself all by itself.  The 'G' should have given that away.
 

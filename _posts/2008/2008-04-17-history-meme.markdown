@@ -15,8 +15,8 @@ categories:
 tags: []
 comments: []
 ---
-I see from [Mark](http:&#47;&#47;diveintomark.org&#47;archives&#47;2008&#47;04&#47;15&#47;history-meme)
-and [Tim](http:&#47;&#47;www.tbray.org&#47;ongoing&#47;When&#47;200x&#47;2008&#47;04&#47;15&#47;History-Meme)
+I see from [Mark](http://diveintomark.org/archives/2008/04/15/history-meme)
+and [Tim](http://www.tbray.org/ongoing/When/200x/2008/04/15/History-Meme)
 there's this history meme floating around. So, let's see:
 
     mathie@tullibardine:~$ history|awk '{a[$2]++} END{for(i in a){printf "%5d\t%s \n",a[i],i}}'|sort -rn|head
@@ -25,15 +25,15 @@ there's this history meme floating around. So, let's see:
        55	ls
        42	rake
        27	mate
-       19	script&#47;console
+       19	script/console
        16	port
        16	cap
-       11	script&#47;server
+       11	script/server
         7	sudo
 
 Geez, that's a lot of git! Come to think of it, since I keep 1,000 lines of
 history, that means nearly 64% of my command line activity recently has
 involved git! So the posts here are reflecting reality. :-)
 
-Oh, and I tag [Mark](http:&#47;&#47;www.sirena.org.uk&#47;log&#47;) and
-[Craig](http:&#47;&#47;barkingiguana.com&#47;).
+Oh, and I tag [Mark](http://www.sirena.org.uk/log/) and
+[Craig](http://barkingiguana.com/).

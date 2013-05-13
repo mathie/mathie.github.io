@@ -35,8 +35,8 @@ Guests confirmed *not* attending: 11
 SELECT COUNT(*) AS 'Guests still to respond'
     FROM guests
     WHERE rsvp_ed = 0 \G
-Guests still to respond: 59[&#47;code]
+Guests still to respond: 59[/code]
 
 Not bad.  But there are a number of people I would have expected to be attending that haven't actually let us know yet...  Though I suppose parents and ushers and suchlike probably feel they don't need to let us know. :-)
 
-If you haven't yet RSVPed, head along to <a href="http:&#47;&#47;wedding.mathieson.name&#47;rsvp&#47;">http:&#47;&#47;wedding.mathieson.name&#47;rsvp&#47;<&#47;a> and fill in your details!
+If you haven't yet RSVPed, head along to <a href="http://wedding.mathieson.name/rsvp/">http://wedding.mathieson.name/rsvp/</a> and fill in your details!

@@ -23,19 +23,19 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNC0yNyAxMTowMzoxMyArMDEwMA==
   content: ! '<p>I saw NIN a few months ago, and they are awesome live (Hurt was especially
-    good live)! If your a NIN fan, you will love the show.<&#47;p>
+    good live)! If your a NIN fan, you will love the show.</p>
 
 
     <ul>
 
-    <li>Ryan<&#47;li>
+    <li>Ryan</li>
 
-    <&#47;ul>'
+    </ul>'
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http:&#47;&#47;www.ticketmaster.co.uk&#47;event&#47;12003E6EDD713ACE">Foo Fighters & Nine Inch Nails @ Meadowbank, Edinburgh<&#47;a><&#47;div>
-		<div class="delicious-extended">Yay!  Nine Inch Nails!  My tickets are already booked.  Annabel has just noted that "NIN are the rude ones" (she might just have found 'Closer') so I may have a ticket going spare. :)<&#47;div>
-		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;nineinchnails">nineinchnails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;music">music<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;concerts">concerts<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;live">live<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;edinburgh">edinburgh<&#47;a>)<&#47;div>
-	<&#47;li>
-<&#47;ul>
+		<div class="delicious-link"><a href="http://www.ticketmaster.co.uk/event/12003E6EDD713ACE">Foo Fighters & Nine Inch Nails @ Meadowbank, Edinburgh</a></div>
+		<div class="delicious-extended">Yay!  Nine Inch Nails!  My tickets are already booked.  Annabel has just noted that "NIN are the rude ones" (she might just have found 'Closer') so I may have a ticket going spare. :)</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/nineinchnails">nineinchnails</a> <a href="http://del.icio.us/mathie/music">music</a> <a href="http://del.icio.us/mathie/concerts">concerts</a> <a href="http://del.icio.us/mathie/live">live</a> <a href="http://del.icio.us/mathie/edinburgh">edinburgh</a>)</div>
+	</li>
+</ul>

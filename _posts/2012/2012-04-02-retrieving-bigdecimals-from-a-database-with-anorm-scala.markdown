@@ -23,7 +23,7 @@ tags:
 - postgresql
 comments: []
 ---
-I spent a wee while yesterday kicking the tyres on the [Play 2.0](http:&#47;&#47;www.playframework.org&#47;) framework with Scala. Aside: I think that concurrency&#47;asynchronous processing is *really* important in the age of multi-core CPUs, and that [Akka's](http:&#47;&#47;akka.io&#47;) actor-based system is *really* interesting, and Play uses Akka 2 under the hood, so I'm becoming *really* interested in becoming proficient in Scala & Play 2. That said, so far I'm struggling to come to terms with Scala's type system, and it reminds of the struggles I had with ML at University, so this could be an uphill battle!
+I spent a wee while yesterday kicking the tyres on the [Play 2.0](http://www.playframework.org/) framework with Scala. Aside: I think that concurrency/asynchronous processing is *really* important in the age of multi-core CPUs, and that [Akka's](http://akka.io/) actor-based system is *really* interesting, and Play uses Akka 2 under the hood, so I'm becoming *really* interested in becoming proficient in Scala & Play 2. That said, so far I'm struggling to come to terms with Scala's type system, and it reminds of the struggles I had with ML at University, so this could be an uphill battle!
 
 Anyway, that's not what this is about. The toy application I'm trying to build (which I'll share if and when I'm done!) involves storing locations (a latitude and longitude) as decimals. I've got my table (stored as an evolution) along the lines of:
 
@@ -35,7 +35,7 @@ Anyway, that's not what this is about. The toy application I'm trying to build (
       UNIQUE(latitude, longitude)
     );
 
-(I'm using PostgreSQL.) And here's the first implementation of the model, `app&#47;models&#47;Site.scala`, which just has a `case class` to encapsulate the table data, and a singleton object with a finder to return a sequence of site (so that I can list them in a table):
+(I'm using PostgreSQL.) And here's the first implementation of the model, `app/models/Site.scala`, which just has a `case class` to encapsulate the table data, and a singleton object with a finder to return a sequence of site (so that I can list them in a table):
 
     package models
     import play.api.db._
@@ -82,6 +82,6 @@ So, if you're having trouble making `BigDecimal` columns work in your Anorm-base
 
 I'd love if somebody could explain why. Perhaps it would improve my understanding of Scala!
 
-**Update** Aha, I have a theory. I think that, by default, [`scala.math.BigDecimal`](http:&#47;&#47;www.scala-lang.org&#47;api&#47;current&#47;index.html#scala.math.BigDecimal) is available in my model's scope. And `scala.math.BigDecimal` isn't a subtype of `java.math.BigDecimal`, which is what Anorm deals in. So importing the Java version overrides the Scala version and makes the type system happy.
+**Update** Aha, I have a theory. I think that, by default, [`scala.math.BigDecimal`](http://www.scala-lang.org/api/current/index.html#scala.math.BigDecimal) is available in my model's scope. And `scala.math.BigDecimal` isn't a subtype of `java.math.BigDecimal`, which is what Anorm deals in. So importing the Java version overrides the Scala version and makes the type system happy.
 
 Now I'm wondering: why the two unrelated (in type-land anyway) versions of `BigDecimal`? Which should my apps be using? Which should Anorm be exposing?

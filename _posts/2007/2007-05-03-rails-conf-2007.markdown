@@ -28,10 +28,10 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNS0wNSAwNTo0MDoyNiArMDEwMA==
   content: <p>I'll be there from Monday on, too, seeing the town and what not.  Send
-    me an email if you'd like plan a pre-RailsConf meetup or something.<&#47;p>
+    me an email if you'd like plan a pre-RailsConf meetup or something.</p>
 ---
 So RailsConf is only two weeks away!  I've been so busy over the past few months that I'd pretty much forgotten I was going.  I haven't had enough time to write here, or pay enough attention to what the rest of the community is up to...
 
-But hey.  It's here!  I've got my [conference plan](http:&#47;&#47;myconfplan.com&#47;conferences&#47;RailsConf2007&#47;users&#47;mathie) started (though it's still in beta -- I've still to read some of the abstracts and have just picked based upon the title!).  I'll be arriving in Portland late on Monday 14th May.  I've never flown this far before, so I thought I'd leave myself a couple of days to adjust time zones.
+But hey.  It's here!  I've got my [conference plan](http://myconfplan.com/conferences/RailsConf2007/users/mathie) started (though it's still in beta -- I've still to read some of the abstracts and have just picked based upon the title!).  I'll be arriving in Portland late on Monday 14th May.  I've never flown this far before, so I thought I'd leave myself a couple of days to adjust time zones.
 
 So.  Anybody got plans for the 15th and 16th May, in Portland?  Beers in the evening?  A hackfest of some variety?  A photography walkabout?

@@ -30,7 +30,7 @@ comments:
   date_gmt: !binary |-
     MjAwNy0wNS0xNCAwNzoyNDowMyArMDEwMA==
   content: <p>All the best Graeme, have a safe trip. Lets make sure we meet up when
-    you get back...<&#47;p>
+    you get back...</p>
 - id: 809
   author: Jim Remsik Jr
   author_email: jremsikjr@gmail.com
@@ -39,9 +39,9 @@ comments:
     MjAwNy0wNS0xNCAxMjozODoyNyArMDEwMA==
   date_gmt: !binary |-
     MjAwNy0wNS0xNCAxMTozODoyNyArMDEwMA==
-  content: <p>Have a safe trip. We'll see you on the other side.<&#47;p>
+  content: <p>Have a safe trip. We'll see you on the other side.</p>
 ---
-Well, that's me packed, I hope.  I'm just grabbing a coffee or three before I start my journey out to Portland for RailsConf 2007!  The laptop has the latest Peepcode screencast: [Javascript with Prototype.js](http:&#47;&#47;peepcode.com&#47;products&#47;javascript-with-prototypejs); and a couple of the newest Pragmatic Programmers' books: [Release It!](http:&#47;&#47;pragmaticprogrammer.com&#47;titles&#47;mnee&#47;index.html) and [Programming Erlang](http:&#47;&#47;pragmaticprogrammer.com&#47;titles&#47;jaerlang&#47;index.html) (not that I'm thinking seriously of switching to Erlang any time soon, it just sounds interesting, and I do like to learn a new language every year or so!).  I've got a pile of paper books with me for when the laptop batteries give out.
+Well, that's me packed, I hope.  I'm just grabbing a coffee or three before I start my journey out to Portland for RailsConf 2007!  The laptop has the latest Peepcode screencast: [Javascript with Prototype.js](http://peepcode.com/products/javascript-with-prototypejs); and a couple of the newest Pragmatic Programmers' books: [Release It!](http://pragmaticprogrammer.com/titles/mnee/index.html) and [Programming Erlang](http://pragmaticprogrammer.com/titles/jaerlang/index.html) (not that I'm thinking seriously of switching to Erlang any time soon, it just sounds interesting, and I do like to learn a new language every year or so!).  I've got a pile of paper books with me for when the laptop batteries give out.
 
 The journey will be about 10.5 hours according to respective local wall clocks, but 17.5 hours elapsed time.  I get in to Portland International (PDX) at 22:02 and, hopefully, can figure out the MAX-Rail system to get to my hotel, the Inn at the Convention Centre (which, I get the impression, is pretty basic, but since I'm only planning on sleeping & washing there, I'm sure it'll do!), then collapse and hope I wake up sometime in the next 2 days!  Then it's just the strange local culture I'll have to adjust to. :-)
 

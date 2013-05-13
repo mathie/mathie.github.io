@@ -28,7 +28,7 @@ comments:
     has fixed the problem for many people (but apparently not all).
 
 
-    Check it out at http:&#47;&#47;www.apple.com&#47;support&#47;downloads&#47;airportupdate2005001.html
+    Check it out at http://www.apple.com/support/downloads/airportupdate2005001.html
 
 
     There are a lot of reports of this problem on the Apple support forums. It seems
@@ -50,6 +50,6 @@ comments:
     regain full control. Happens most often when propellor-tabbing through apps and
     using dock at same time.
 ---
-OK, this is an entirely new 'feature' for me: my laptop has crashed twice this morning. :-(  Well, when I say 'crashed', the mouse cursor still moves OK, but nothing responds.  I can still ssh into the laptop from another host, and it appears to be working OK from that POV.  I tried killing the foremost task from the command line (first using <code>kill<&#47;code>, then <code>kill -9<&#47;code>) but all that resulted in was having zombie processes lying around, and they didn't disappear from the desktop.  Looks like it's the WindowServer process that's failing to respond to events?  Bother.
+OK, this is an entirely new 'feature' for me: my laptop has crashed twice this morning. :-(  Well, when I say 'crashed', the mouse cursor still moves OK, but nothing responds.  I can still ssh into the laptop from another host, and it appears to be working OK from that POV.  I tried killing the foremost task from the command line (first using <code>kill</code>, then <code>kill -9</code>) but all that resulted in was having zombie processes lying around, and they didn't disappear from the desktop.  Looks like it's the WindowServer process that's failing to respond to events?  Bother.
 
-This has only started happening since I upgraded to 10.4.3 -- I am suspecting a correlation.  There's nothing in the logs to indicate a cause.  So it's all just handwaving and saying "it disnae work" to me. :-&#47;
+This has only started happening since I upgraded to 10.4.3 -- I am suspecting a correlation.  There's nothing in the logs to indicate a cause.  So it's all just handwaving and saying "it disnae work" to me. :-/

@@ -20,11 +20,11 @@ comments: []
 ---
 Scott Chacon just asked on Twitter:
 
-> poll: gitsters - what do you love most about git and why it over other scm&#47;dscms?
+> poll: gitsters - what do you love most about git and why it over other scm/dscms?
 >
-> &mdash; chacon
+> — chacon
 
-I'm only going to answer the first part, really, as I haven't really evaluated any other distributed SCM since Bitkeeper in 2002&#47;3.
+I'm only going to answer the first part, really, as I haven't really evaluated any other distributed SCM since Bitkeeper in 2002/3.
 
 So, what do I love most about git?  Well, it's the branching, but maybe not in quite the same way as everybody else.  My brain can be somewhat easily distracted (I have been compared to an over-caffeinated butterfly in the past).  In addition to that, I have clients who's number one OMG super-critical the-world-is-going-to-end bug fixes and feature requests can change on a daily basis.
 
