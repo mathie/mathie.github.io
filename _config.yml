@@ -1,4 +1,10 @@
 name: Your New Jekyll Site
 pygments: true
+
+assets:
+  compress:
+    css: sass
+    js:  uglifier
+
 exclude:
   - Gemfile*
