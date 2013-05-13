@@ -46,6 +46,6 @@ One last wee trick. You really can remap any key to any other key. Imagine the f
     "l": 'r'
     "s": 'm'
 
-:-)
+\:-)
 
 **Update**: My colleague, Mihai, points out that the only appreciable difference between the UK and US keyboard layout on the Mac is that the `#` and `£` key combinations are swapped around (oh, and it's easier to find the ™ than the € now, not that I use either). Since I've just discovered that my `irb` isn't picking up the `~/.inputrc` and doing the right thing, I reckon I'll just switch to the US layout...

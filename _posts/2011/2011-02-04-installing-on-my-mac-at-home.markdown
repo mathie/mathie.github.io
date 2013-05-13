@@ -53,4 +53,4 @@ Well, we're nearly done. Let's finish up by freaking out whoever's in the house:
 
     say "We're watching you!"
 
-:-)
+\:-)

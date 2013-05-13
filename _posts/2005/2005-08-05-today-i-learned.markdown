@@ -33,7 +33,7 @@ categories:
 Reading the <a href="http://www.w3.org/TR/xhtml1/" title="eXtensible HyperText Markup Language">XHTML 1.0</a> standard, this is correct.  Section <a href="http://www.w3.org/TR/xhtml1/#well-formed" title="3.1.2. Using XHTML with other namespaces">3.1.2</a> states:
 
 <blockquote>
-<p>The XHTML namespace may be used with other XML namespaces as per [XMLNS], although such documents are not strictly conforming XHTML 1.0 documents as defined above. Work by W3C is addressing ways to specify conformance for documents involving multiple namespaces.</p>
+<p>The XHTML namespace may be used with other XML namespaces as per \[XMLNS\], although such documents are not strictly conforming XHTML 1.0 documents as defined above. Work by W3C is addressing ways to specify conformance for documents involving multiple namespaces.</p>
 </blockquote>
 
 Great.  So, what I now need to do is find (or modify) a validator that has the option to ignore namespaces that are correctly declared and used, while accurately validating the rest of my page templates.  While not strictly conforming, it is definitely what I would consider most useful.  Alternatively, I could not bother to validate my page templates at source, and instead validate the resulting XHTML once they are processed.  This does need to be done anyway, but it isn't going to provide the full coverage of the templates without a lot of extra work -- it would be much saner to validate the original template files first.  Perhaps it wouldn't take that long to hack something together in Python...

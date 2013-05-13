@@ -27,7 +27,7 @@ tags:
 ---
 Sometimes, when you're writing applications that use a library to talk over the wire to a remote service, it's difficult to see how the high level API the library exposes translates into the on-the-wire protocol. Funnily enough, I was having that very problem yesterday, so I dug `tcpflow` out my toolbox to better understand what was happening.
 
-I was writing a client for the [REDACTED] (for now, at least!) API, for a client project. I'd decided to use this as an excuse to learn [EventMachine](http://rubyeventmachine.com/) and [em-http-request](https://github.com/igrigorik/em-http-request) to talk to the remote API. Given the pattern of use I'm expecting, a reactor-patterned daemon feels like a really good fit.
+I was writing a client for the \[REDACTED\] (for now, at least!) API, for a client project. I'd decided to use this as an excuse to learn [EventMachine](http://rubyeventmachine.com/) and [em-http-request](https://github.com/igrigorik/em-http-request) to talk to the remote API. Given the pattern of use I'm expecting, a reactor-patterned daemon feels like a really good fit.
 
 It was a weird experience -- it's the first time I've done any reactor pattern development in anger since ~2004 when I was messing around with using Python's [Twisted](http://twistedmatrix.com/trac/) framework for small TCP server applications. (Ah, them were the days, before HTTP became the hammer to everybody's wire protocol <strike>thumb</strike> nail.) But I digress...
 
@@ -138,7 +138,7 @@ which translates to:
 
 * the client IP address is `172.17.12.12`. That's the internal IP of my laptop on my home network.
 * the client TCP port is `54442`. Both sides of a TCP connection get a port, and the client side usually has a random, unused, high port number chosen for it by the kernel. Each TCP connection gets a different client port, and they're typically not reused for a while after you're done with them.
-* the server IP address is `10.11.12.234` which I cleverly remembered to change just now, lest you discover who [REDACTED] is. ;)
+* the server IP address is `10.11.12.234` which I cleverly remembered to change just now, lest you discover who \[REDACTED\] is. ;)
 * the server TCP port is `80`, the well known port for HTTP.
 
 Now, let's look at the second request's connection information:
