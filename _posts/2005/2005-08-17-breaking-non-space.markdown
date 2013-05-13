@@ -11,9 +11,11 @@ I had wondered if there would be an entity that would do the job and had a look 
 
 Thinking about it now, something along the lines of the following would work nicely:
 
-[code lang="xml"]<code style="acceptable-linebreak-chars: /.-;">
+{% highlight xml %}
+<code style="acceptable-linebreak-chars: /.-;">
   /path/to/file.txt
-</code>[/code]
+</code>
+{% endhighlight %}
 
 Of course, in real life, you'd factor that style out into a stylesheet and instead maybe just have <code>&lt;code class="path"&gt;...</code>  And that way people could override it easily in their clients, if they didn't like what I supplied.
 

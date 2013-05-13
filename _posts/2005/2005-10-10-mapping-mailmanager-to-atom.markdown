@@ -34,15 +34,19 @@ I know that atom does support specifying the content type as an attribute to mos
 <h3>Person Constructs</h3>
 The <code>person</code> construct in atom maps to a combination of <code>from_name</code> and <code>from_email</code> as this example shows:
 
-[code lang="xml"]<atom:author>
+{% highlight xml %}
+<atom:author>
   <atom:name tal:content="from_name">Graeme Mathieson</atom:name>
   <atom:email tal:content="from_email">mathie@woss.name</atom:email>
-</atom:author>[/code]
+</atom:author>
+{% endhighlight %}
 
 <h3>Date Constructs</h3>
 All date times stored by MailManager are in UTC.  So all dates will be specified in the format:
 
-[code lang="xml"]<atom:updated>2005-04-05T12:34:56+00:00</atom:updated>[/code]
+{% highlight xml %}
+<atom:updated>2005-04-05T12:34:56+00:00</atom:updated>
+{% endhighlight %}
 
 <h3>Feed data</h3>
 <table>

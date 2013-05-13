@@ -8,7 +8,8 @@ categories:
 ---
 OK, since I don't really have the time to code it into the application proper just now, here are some statistics:
 
-[code lang="sql"]SELECT COUNT(*) AS 'Total Guests'
+{% highlight sql %}
+SELECT COUNT(*) AS 'Total Guests'
     FROM guests \G
 Total Guests: 120
 
@@ -25,7 +26,8 @@ Guests confirmed *not* attending: 11
 SELECT COUNT(*) AS 'Guests still to respond'
     FROM guests
     WHERE rsvp_ed = 0 \G
-Guests still to respond: 59[/code]
+Guests still to respond: 59
+{% endhighlight %}
 
 Not bad.  But there are a number of people I would have expected to be attending that haven't actually let us know yet...  Though I suppose parents and ushers and suchlike probably feel they don't need to let us know. :-)
 

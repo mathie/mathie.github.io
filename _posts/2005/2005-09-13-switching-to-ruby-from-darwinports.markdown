@@ -24,8 +24,10 @@ In order to install the PostgreSQL gem, I had to do the following (having alread
 
 The one remaining task I had was to update my existing rails code base to tell it that ruby was no longer <code>/usr/bin/ruby</code> but <code>/opt/local/bin/ruby</code>.  I'm afraid I resort to Perl for this bit, so you might want to look away now! :-)
 
-[code]find . -type f ! -path \*/.svn\* | \
+{% highlight bash %}
+find . -type f ! -path \*/.svn\* | \
   xargs perl -pi~ \
-  -e 's~^#!/usr/bin/ruby$~#!/usr/bin/env ruby~'[/code]
+  -e 's~^#!/usr/bin/ruby$~#!/usr/bin/env ruby~'
+{% endhighlight %}
 
 So now we find ruby from the path, rather than assuming it's in <code>/usr/bin</code>.  And my rails app now does just as much as it used to.  Which isn't much, really. :-)

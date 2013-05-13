@@ -13,7 +13,8 @@ What, no posts in over a week?  What's happened to him?  Yeah, technically I'm s
 
 Just to prove I'm still here, have a snippet of a shell function to clear out all those old <a href="http://docs.rubygems.org/">RubyGems</a> you have lying around from doing a regular <code>gem upgrade</code> to get the latest version of <a href="http://www.rubyonrails.org/">Rails</a> (which has hit 1.0!  Wooo!  Party!):
 
-[code]# Uninstall all the old versions of gems, leaving only the current
+{% highlight bash %}
+# Uninstall all the old versions of gems, leaving only the current
 # ones.
 gem_uninstall_old()
 {
@@ -25,7 +26,8 @@ gem_uninstall_old()
             sudo gem uninstall ${name} --all --ignore-dependencies \
                 --executables --version "<${version}"
         done
-}[/code]
+}
+{% endhighlight %}
 
 It should leave all your current gems installed, but tidy out the old versions of them (gem will quite happily allow multiple versions of a product to coexist).
 
@@ -35,7 +37,9 @@ I'm so looking forward to 20th December, just to be able to completely relax for
 
 But I'm still really excited and looking forward to the 19th too!  It's going to be so much fun!
 
-[code]04 days, 22 hours, 21 minutes and 15 seconds left!
+{% highlight bash %}
+04 days, 22 hours, 21 minutes and 15 seconds left!
   which is approximately 118 hours
   which is approximately 7101 minutes
-  which is approximately 426075 seconds![/code]
+  which is approximately 426075 seconds!
+{% endhighlight %}

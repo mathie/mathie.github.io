@@ -9,7 +9,8 @@ categories:
 ---
 So we were having a 'discussion' on the work mailing list about a change I'd made to the UI code for <a href="http://www.logicalware.com/">MailManager</a>.  Given the following page template:
 
-[code lang="xml"]<?xml version="1.0" encoding="utf-8"?>
+{% highlight xml %}
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
                       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" i18n:attributes="lang language; xml:lang language"
@@ -25,11 +26,13 @@ So we were having a 'discussion' on the work mailing list about a change I'd mad
       <option tal:attributes="selected python:1==0">yyy</option>
     </p>
   </body>
-</html>[/code]
+</html>
+{% endhighlight %}
 
 both Andy and Kev asserted that it would render to:
 
-[code lang="xml"]<?xml version="1.0" encoding="utf-8"?>
+{% highlight xml %}
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
                       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en"
@@ -44,11 +47,13 @@ both Andy and Kev asserted that it would render to:
       <option>yyy</option>
     </p>
   </body>
-</html>[/code]
+</html>
+{% endhighlight %}
 
 while I was asserting that it rendered to:
 
-[code lang="xml"]<?xml version="1.0" encoding="utf-8"?>
+{% highlight xml %}
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
                       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en"
@@ -63,7 +68,8 @@ while I was asserting that it rendered to:
 
     </p>
   </body>
-</html>[/code]
+</html>
+{% endhighlight %}
 
 (note the difference in the rendering of the 'selected' attribute of the <code>&lt;option&gt;</code> tag.)
 

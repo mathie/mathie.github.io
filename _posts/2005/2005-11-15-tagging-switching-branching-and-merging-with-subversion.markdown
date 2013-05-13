@@ -8,7 +8,8 @@ categories:
 ---
 I've spent too long typing out long, laborious commands with <a href="http://subversion.tigris.org/">Subversion</a> to do various operations, and having to look up the documentation each time I do tag/branch related commands, so I spent a wee while this afternoon tidying up my shell shortcuts and adding to them.  All of these commands assume that you are currently sitting in a checked out working copy of the code you're dealing with, and that you follow the regular naming scheme for projects inside your svn repository (ie for <code>project</code>, <code>project/trunk</code><code> is the mainline development, </code><code>project/tags</code> contains all your tags and <code>project/branches</code> contains all your branches).
 
-[code]_svn_project_root()
+{% highlight bash %}
+_svn_project_root()
 {
     echo `svn info |awk '/^URL: / {sub( /\/(tags|branches|trunk).*$/, "", $2); print $2}'`
 }
@@ -41,7 +42,8 @@ svn_what()
     ' /trunk$/              { print $(NF-1), "(trunk)" } \
       /\/branches\/[^\/]+$/ { print $(NF-2), "(" $NF, "branch)" } \
       /\/tags\/[^\/]+$/     { print $(NF-2), "(" $NF, "tag)" }'
-}[/code]
+}
+{% endhighlight %}
 
 
 The ones beginning with an <code>_</code> are just helpers -- not really intended to be called directly.  The <code>svn_switch_*</code> functions will switch your current working copy to a particular branch, tag, or back to the trunk. <code>svn_ls_*</code> will list all the branches or tags for a particular project.  <code>svn_merge_*</code> I'm not so sure about the usefulness of, but I added them anyway.  I suspect that I need to revisit them after working with merging branches in anger.  <code>svn_what</code> is just a handy wee function to tell you what your checked out copy actually is (the name of the project, and whether it's trunk code, a branch or a tag).  <code>svn_tag</code> and <code>svn_branch</code> will create branches and tags for you.

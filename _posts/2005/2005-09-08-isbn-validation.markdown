@@ -8,12 +8,14 @@ categories:
 ---
 Don't ask.  I got distracted onto this in some way I can't even imagine.  But have some code to validate ISBNs.
 
-[code lang="python"]import operator
+{% highlight python %}
+import operator
 def isValidISBN(isbn):
     v = [i == 'X' and 10 or int(i) for i in isbn.upper() if i in '0123456789X']
     if len(v) != 10:
         return False
-    return reduce(operator.add, map(operator.mul, v[:9], range(1,10))) % 11 == v[-1][/code]
+    return reduce(operator.add, map(operator.mul, v[:9], range(1,10))) % 11 == v[-1]
+{% endhighlight %}
 
 This will normalise an ISBN, by taking out all the spacing and dashes (that's mostly the first <code>v = ...</code> line).  Then it performs the checksum.  The first 9 digits are the ISBN itself, the 10th is the checksum, so take the first 9 digits and perform the following algorithm (along with an example ISBN 0006551270):
 

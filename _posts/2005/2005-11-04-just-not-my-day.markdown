@@ -9,8 +9,10 @@ categories:
 ---
 Has anybody else noticed that <a href="http://sourceforge.net/">Sourceforge</a>'s CVS repositories seem a little erratic over the past couple of days?
 
-[code]mathie@Tandoori:mailmanager-2.0.1$ cvs add sql/setTableCharsets.zsql
+{% highlight bash %}
+mathie@Tandoori:mailmanager-2.0.1$ cvs add sql/setTableCharsets.zsql
 ssh_exchange_identification: Connection closed by remote host
-cvs [add aborted]: end of file from server (consult above messages if any)[/code]
+cvs [add aborted]: end of file from server (consult above messages if any)
+{% endhighlight %}
 
 I'm getting these sorts of errors about 4 times in every 5...

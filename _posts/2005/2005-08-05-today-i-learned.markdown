@@ -8,7 +8,8 @@ categories:
 ---
 ... that XML namespaces are not actually valid in XHTML, even in <a href="http://www.w3.org/TR/xhtml11/" title="XHTML 1.1 - Module-based XHTML">XHTML 1.1</a>.  This comes as quite a surprise, since I thought that's how <a href="http://www.w3.org/Math/" title="W3C Math home">MathML</a> was built on top of it.  The reason for discovering this is that I'm working with Zope's <a href="http://www.plope.com/Books/2_7Edition/ZPT.stx" title="Zope Page Templates">page templates</a> to revamp the user interface for <a href="http://mailmanager.sourceforge.net" title="Email response management system">MailManager</a>.  And working with the source templates, one of the steps I'm taking it to run them through <a href="http://www.cogsci.ed.ac.uk/~richard/rxp.html" title="Richard's (?) XML Parser">RXP</a> to verify they are correct and validate them.  So I'm starting off with page templates that are something like the following:
 
-[code lang="xml"]<?xml version="1.0" encoding="utf-8"?>
+{% highlight xml %}
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
                       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"
@@ -24,7 +25,8 @@ categories:
 
     <p tal:content="structure here/content">The main body of the template.</p>
   </body>
-</html>[/code]
+</html>
+{% endhighlight %}
 
 (OK, that's a very contrived example!)  Now that is well formed XML and the parser tells me so.  Unfortunately, it doesn't <em>validate</em>, complaining about <code>Undeclared attribute xmlns:tal for element html</code> for each of the XML namespace declarations, then complaining about the namespace-constrained <code>tal:content</code> tags.  This is pesky, because it doesn't allow me to validate the HTML that's contained in the default namespace, whilst ignoring the namespace-related errors for namespaces that it doesn't recognise (which is how a browser SHOULD behave).
 

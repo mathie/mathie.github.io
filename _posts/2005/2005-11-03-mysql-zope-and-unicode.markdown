@@ -8,7 +8,8 @@ categories:
 - Work
 ---
 OK, I think I can debunk <a href="http://mail.zope.org/pipermail/zope-db/2005-March/003990.html">the real hack</a> (that you can append UNICODE=1 to the connection string to set the MySQL connection to Unicode) after poking around in the source a little.  This is the code in question which parses the connection string, from <a href="http://cvs.sourceforge.net/viewcvs.py/mysql-python/ZMySQLDA/lib/python/Products/ZMySQLDA/db.py?rev=1.21&view=auto">db.py</a>:
-[code lang="python"]  def _parse_connection_string(self, connection):
+{% highlight python %}
+  def _parse_connection_string(self, connection):
         kwargs = {'conv': self.conv}
         items = split(connection)
         self._use_TM = None
@@ -43,7 +44,8 @@ OK, I think I can debunk <a href="http://mail.zope.org/pipermail/zope-db/2005-Ma
         kwargs['passwd'], items = items[0], items[1:]
         if not items: return kwargs
         kwargs['unix_socket'], items = items[0], items[1:]
-        return kwargs[/code]
+        return kwargs
+{% endhighlight %}
 
 which does everything it's documented to do (allows you to specify the database, host &amp; port, whether transactions should be enabled, credentials and a path to the Unix socket), but <em>nothing</em> more.  No Unicode enabling hacks, nothing.
 

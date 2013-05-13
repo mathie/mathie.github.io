@@ -16,7 +16,8 @@ I'm just writing this down so I get it clear in my head, so I can be consistent 
 
 So, doing the following:
 
-[code lang="xml"]...
+{% highlight xml %}
+...
 <div id="subnav" metal:define-slot="subnav_menu">
   Insert second-level menu here
 </div>
@@ -27,22 +28,26 @@ So, doing the following:
     <li>Second link</li>
     <li>Third link</li>
   </ul>
-</div>[/code]
+</div>
+{% endhighlight %}
 
 will produce the following HTML:
 
-[code lang="xml"]...
+{% highlight xml %}
+...
 <div>
   <ul>
     <li>First link</li>
     <li>Second link</li>
     <li>Third link</li>
   </ul>
-</div>[/code]
+</div>
+{% endhighlight %}
 
 Note the missing <code>id</code> attribute.  In order to do what I actually want to achieve, which is to label the subnav menu -- that will be different in different templates -- with the id 'subnav', I need to do one of two options:
 
-[code lang="xml"]...
+{% highlight xml %}
+...
 <div metal:define-slot="subnav_menu">
   Insert second-level menu here
 </div>
@@ -53,11 +58,13 @@ Note the missing <code>id</code> attribute.  In order to do what I actually want
     <li>Second link</li>
     <li>Third link</li>
   </ul>
-</div>[/code]
+</div>
+{% endhighlight %}
 
 or
 
-[code lang="xml"]...
+{% highlight xml %}
+...
 <div id="subnav">
   <div metal:define-slot="subnav_menu">
     Insert second-level menu here
@@ -70,13 +77,15 @@ or
     <li>Second link</li>
     <li>Third link</li>
   </ul>
-</div>[/code]
+</div>
+{% endhighlight %}
 
 The second is more verbose, but I think I also prefer it, since that way there's less repetition.  Say I want to rename the 'subnav' id to something else because it clashes with another application that MailManager gets embedded in -- would I rather change it in two places or twenty?  Now I just need to go back through my code and make sure I'm doing this consistently!
 
 <strong>Update</strong> Or I could refine the second example a little more to remove the tag omission.  Duh:
 
-[code lang="xml"]...
+{% highlight xml %}
+...
 <div id="subnav">
   <div metal:define-slot="subnav_menu">
     Insert second-level menu here
@@ -87,4 +96,5 @@ The second is more verbose, but I think I also prefer it, since that way there's
   <li>First link</li>
   <li>Second link</li>
   <li>Third link</li>
-</ul>[/code]
+</ul>
+{% endhighlight %}

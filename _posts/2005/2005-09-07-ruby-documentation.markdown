@@ -10,6 +10,8 @@ Since it's taken me <em>days</em> to rediscover this (just because I was looking
 
 Oh, and since I had to dig through the source of the documentation to <a href="http://copland.rubyforge.org/">Copland</a> to figure this out, this is how you now link to an external URL in Ruby's documentation language:
 
-[code]LinkWord[http://url.example/to/site][/code]
+{% highlight bash %}
+LinkWord[http://url.example/to/site]
+{% endhighlight %}
 
 not like how the <a href="http://www.rubycentral.com/book/rdtool.html" title="Programming Ruby: Embedded Documentation">The Pickaxe</a> documents it.  In fact, that particular chapter seems to bear very little relation to reality...

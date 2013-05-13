@@ -10,14 +10,18 @@ On a completely unrelated web search last night, I came across the <a href="http
 
 One problem with using a database backend's native text searching is that the language to express search terms (and the range of searches possible) varies between backends.  They also vary on whether they are case sensitive, whether they support stemming and how non-words are dealt with.  In the case of search expression, for example, with tsearch2, we'd do something along the lines of:
 
-[code lang="sql"]SELECT * FROM articles
-    WHERE idxfti @@ to_tsquery('default', 'this & that');[/code]
+{% highlight sql %}
+SELECT * FROM articles
+    WHERE idxfti @@ to_tsquery('default', 'this & that');
+{% endhighlight %}
 
 to search for records that contained both 'this' and 'that', whereas in MySQL it would be:
 
-[code lang="sql"]SELECT * FROM articles
+{% highlight sql %}
+SELECT * FROM articles
     WHERE MATCH (title,body)
-    AGAINST ('+this +that' IN BOOLEAN MODE);[/code]
+    AGAINST ('+this +that' IN BOOLEAN MODE);
+{% endhighlight %}
 
 So we have to create our own search language to present to the user, then normalise the searches for each backend.  Actually, since neither of them use the same language as we presented to the user in MM 1.x, we've been doing that anyway. :-)
 

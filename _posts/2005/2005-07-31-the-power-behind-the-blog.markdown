@@ -9,7 +9,11 @@ It's probably plainly obvious that the main software powering this beastie is Wo
 
 <ul>
 <li><a href="http://www.chroder.com/archives/2005/04/16/wordpress-codehighlight-plugin/">CodeHighlight</a> for doing automatic syntax highlighting of anything I mark up as being 'code'.  This should be most excellent for posting up wee code snippets now and again.</li>
-<li><a href="http://www.huddledmasses.org/">Acronym replacer</a> which, FYI, spots when I've used an acronym and wraps it in an [code lang="xml"]<acronym title="expansion">TLA</acronym>[/code] tag.  The result of which is that, when you hover over the acronym in your browser, a tooltip will pop up explaining what it means.</li>
+<li><a href="http://www.huddledmasses.org/">Acronym replacer</a> which, FYI, spots when I've used an acronym and wraps it in an
+{% highlight xml %}
+<acronym title="expansion">TLA</acronym>
+{% endhighlight %}
+tag.  The result of which is that, when you hover over the acronym in your browser, a tooltip will pop up explaining what it means.</li>
 <li><a href="http://rawlinson.us/blog/?p=212">RSS Fetched Link List</a> for automatically retrieving my latest posts from <a href="http://del.icio.us/mathie/">my del.icio.us</a>.</li>
 <li><a href="http://www.rockschtar.de/wp-plugin-sh-autolink/">sh-autolink</a> for automatically turning particular keywords into links.  I'm not sure I like this one, yet.  The one modification I've already made is to replace the 'target' field with 'title'.  I strongly dislike the use of target="_blank" -- it's up to <strong>me</strong>, as the browser of a page, whether I want to open up a new window (or tab!), not the designer of the web site!  But anyway, it's a bit cack-handed about replacing stuff (like things that are already enclosed in an anchor tag), so it at least needs tweaking before I'll be happy with it.</li>
 <li><a href="http://boneill.ninjagrapefruit.com/wp-tag-plugin/">Technorati Tagging</a> for adding tags to all my posts and displaying the most often used tags in a neat way in the sidebar.</li>

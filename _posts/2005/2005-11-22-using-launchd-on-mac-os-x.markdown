@@ -7,26 +7,34 @@ categories:
 ---
 <code>launchd</code> is Mac OS X 10.4's replacement for <code>init</code>, <code>cron</code>, (<code>x</code>)<code>inetd</code> and all the various startup bits like <code>/etc/init.d</code> or <code>/Library/StartupItems</code> (as was the preferred way in Mac OS X up to 10.3.x).  It's all replaced with one supervisor daemon which controls the startup (and restart upon failure) of daemons, schedules regular running of tasks and other hoopy things.  I've been reading a little about it at <a href="http://www.macdevcenter.com/lpt/a/6332">Introduction to Tiger Terminal part 5</a> and <a href="http://developer.apple.com/macosx/launchd.html">Getting started with <code>launchd</code></a> trying to figure out how to make it work for me.  And I came up with settings, that will launch the <a href="http://www.darwinports.com/">Darwin Ports</a> copies of both MySQL and PostgreSQL on demand, which you can download here: <a href="http://woss.name/dist/mysql4.plist">mysql4.plist</a> and <a href="http://woss.name/dist/postgresql.plist">postgresql.plist</a>.  Place those files in <code>/Library/LaunchDaemons</code> and, to get <code>launchd</code> to notice them, run the following:
 
-[code]mathie@Tandoori:mathie$ sudo launchctl unload /Library/LaunchDaemons
+{% highlight bash %}
+mathie@Tandoori:mathie$ sudo launchctl unload /Library/LaunchDaemons
 Password:
-mathie@Tandoori:mathie$ sudo launchctl load /Library/LaunchDaemons[/code]
+mathie@Tandoori:mathie$ sudo launchctl load /Library/LaunchDaemons
+{% endhighlight %}
 
 You should now have a couple of extra launch services to control, which you can see with:
 
-[code]mathie@Tandoori:mathie$ sudo launchctl list
+{% highlight bash %}
+mathie@Tandoori:mathie$ sudo launchctl list
 [ ... ]
 mysql4
-postgresql[/code]
+postgresql
+{% endhighlight %}
 
 In order to start MySQL and PostgreSQL, run the following:
 
-[code]mathie@Tandoori:mathie$ sudo launchctl start mysql4
-mathie@Tandoori:mathie$ sudo launchctl start postgresql[/code]
+{% highlight bash %}
+mathie@Tandoori:mathie$ sudo launchctl start mysql4
+mathie@Tandoori:mathie$ sudo launchctl start postgresql
+{% endhighlight %}
 
 And to stop them, replace the <code>start</code> in the above example with <code>stop</code>.  If either of the daemons happen to die horribly, they ought to be automatically restarted.  It's even smart about giving up restarting them if they fail 10 times in a short period.  If you want to always start these daemons automatically at boot (I don't, really, I just want to use them on demand occasionally), add the following inside the top-level dict in each of the plist files:
 
-[code lang="xml"]<key>RunAtLoad</key>
-<true/>[/code]
+{% highlight xml %}
+<key>RunAtLoad</key>
+<true/>
+{% endhighlight %}
 
 You'll need to repeat the <code>unload</code>/<code>load</code> sequence from above to reload the plist files, but you'll notice that the MySQL and PostgreSQL daemons both start when the <code>load</code> command is issued (and also at system boot time).
 

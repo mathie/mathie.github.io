@@ -7,7 +7,9 @@ categories:
 ---
 From the HTML source of <a href="http://www.apple.com/mightymouse/" title="Apple - Mighty Mouse">http://www.apple.com/mightymouse/</a>:
 
-[code lang="xml"]<p class="sosumi">Mighty Mouse &#169; Viacom
- International Inc. All Rights Reserved.</p>[/code]
+{% highlight xml %}
+<p class="sosumi">Mighty Mouse &#169; Viacom
+ International Inc. All Rights Reserved.</p>
+{% endhighlight %}
 
 Note the class name.  Tee hee. :-)  (Pointed out by <a href="http://www.tuaw.com/2005/08/08/coding-humor-into-their-style-sheets/" title="The Unofficial Apple Weblog">TUAW</a>.)

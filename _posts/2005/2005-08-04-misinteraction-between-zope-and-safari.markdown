@@ -42,7 +42,8 @@ I've only ever seen this happen when talking to a Zope daemon with Safari on Mac
 
 I acquired the following from fiddling with tcpdump.  This is Safari's initial request for one of the images in question:
 
-[code]GET /mail/images/nav_search_off.gif HTTP/1.1
+{% highlight bash %}
+GET /mail/images/nav_search_off.gif HTTP/1.1
 Accept: */*
 Accept-Language: en
 Accept-Encoding: gzip, deflate
@@ -50,11 +51,13 @@ Cookie: __ac="bWFuYWdlcjpsZXRtZWlu"; __ac_name="manager"; _ZopeId="53475806A17sU
 Referer: http://vindaloo.local:8120/mail/ticket/000002?offset:int=0
 User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.6 (KHTML, like Gecko) Safari/412.2
 Connection: keep-alive
-Host: vindaloo.local:8120[/code]
+Host: vindaloo.local:8120
+{% endhighlight %}
 
 and the start of the successful response:
 
-[code]HTTP/1.1 200 OK
+{% highlight bash %}
+HTTP/1.1 200 OK
 Server: Zope/(Zope 2.7.5-b1, python 2.3.4, linux2) ZServer/1.1 Plone/2.0.5
 Date: Wed, 27 Jul 2005 15:08:15 GMT
 Content-Length: 478
@@ -63,12 +66,14 @@ Last-Modified: Thu, 17 Jul 2003 14:51:36 GMT
 Cache-Control: no-cache
 Content-Type: image/gif
 
-GIF89a...[/code]
+GIF89a...
+{% endhighlight %}
 
 This is the conditional request which fails to complete:
 
 
-[code]GET /mail/images/nav_search_off.gif HTTP/1.1
+{% highlight bash %}
+GET /mail/images/nav_search_off.gif HTTP/1.1
 Accept: */*
 Accept-Language: en
 Accept-Encoding: gzip, deflate
@@ -77,24 +82,29 @@ Referer: http://vindaloo.local:8120/mail/Tickets
 User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.6 (KHTML, like Gecko) Safari/412.2
 If-Modified-Since: Thu, 17 Jul 2003 14:51:36 GMT
 Connection: keep-alive
-Host: vindaloo.local:8120[/code]
+Host: vindaloo.local:8120
+{% endhighlight %}
 
 and the response:
 
-[code]HTTP/1.1 304 Not Modified
+{% highlight bash %}
+HTTP/1.1 304 Not Modified
 Server: Zope/(Zope 2.7.5-b1, python 2.3.4, linux2) ZServer/1.1 Plone/2.0.5
 Date: Wed, 27 Jul 2005 15:08:44 GMT
 Content-Length: 478
 X-Cache-Control-Hdr-Modified-By: CookieCrumbler
 Last-Modified: Thu, 17 Jul 2003 14:51:36 GMT
 Cache-Control: no-cache
-Content-Type: image/gif[/code]
+Content-Type: image/gif
+{% endhighlight %}
 
 I note that, from <code>tcpstat -ant</code>, that the TCP connection in question is still in the ESTABLISHED state:
 
-[code]Active Internet connections (including servers)
+{% highlight bash %}
+Active Internet connections (including servers)
 Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)
-tcp4       0      0  192.168.2.38.51039     192.168.2.50.8120      ESTABLISHED[/code]
+tcp4       0      0  192.168.2.38.51039     192.168.2.50.8120      ESTABLISHED
+{% endhighlight %}
 
 I'm randomly wondering if Safari assumes there's going to be body data since the Content-Length header mentions there being 478 bytes, despite the fact that a 304 response mandates no body?</blockquote>
 

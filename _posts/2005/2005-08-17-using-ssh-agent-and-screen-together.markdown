@@ -9,7 +9,8 @@ I've been meaning to 'fix' this for ages.  I use public-key authentication for m
 
 Let's describe the problem a little more clearly.  I have two Macs, <code>tandoori</code> and <code>dream</code>.  <code>Tandoori</code> is my work laptop, <code>dream</code> is my iMac at home.  And my web hosting company allows shell access with ssh to <code>woss.name</code>.  First thing in the morning, I'm logging in from dream to check some logs, then detaching from the session.  The screen session is a new one, since the shell server got rebooted in the night.  Here is the session, (minus what I actually did!):
 
-[code]mathie@Tandoori:mathie$ ssh -A -t woss.name screen -xRR
+{% highlight bash %}
+mathie@Tandoori:mathie$ ssh -A -t woss.name screen -xRR
 [ ... my shell starts up inside screen ... ]
 mathie@napoleon:mathie$ echo $SSH_AUTH_SOCK
 /tmp/ssh-XXjqTtiY/agent.25944
@@ -18,11 +19,13 @@ mathie@napoleon:mathie$ ssh-add -l
 mathie@napoleon:mathie$
 [detached]
 Connection to napoleon.dreamhost.com closed.
-mathie@Tandoori:mathie$[/code]
+mathie@Tandoori:mathie$
+{% endhighlight %}
 
 As you can see, it is happily talking to my ssh agent on my iMac and using the identity stored there.  Now, later on I login from <code>tandoori</code> to check something else:
 
-[code]mathie@Tandoori:mathie$ ssh -A -t woss.name screen -xRR
+{% highlight bash %}
+mathie@Tandoori:mathie$ ssh -A -t woss.name screen -xRR
 [ ... my shell starts up inside screen ... ]
 mathie@napoleon:mathie$ echo $SSH_AUTH_SOCK
 /tmp/ssh-XXjqTtiY/agent.25944
@@ -31,19 +34,22 @@ Could not open a connection to your authentication agent.
 mathie@napoleon:mathie$
 [detached]
 Connection to napoleon.dreamhost.com closed.
-mathie@Tandoori:mathie$[/code]
+mathie@Tandoori:mathie$
+{% endhighlight %}
 
 Why couldn't it connect this time?  Well, because the environment variable <code>SSH_AUTH_SOCK</code>, which it inherited from the environment when screen was first started, points to the <em>old</em> agent socket from the first session of the morning, not the current socket.
 
 So, what to do about it?  Well, here's my solution, from my ~/.bashrc:
 
-[code]if [ -z ! "$SSH_AUTH_SOCK" ]; then
+{% highlight bash %}
+if [ -z ! "$SSH_AUTH_SOCK" ]; then
     screen_ssh_agent=${HOME}/usr/state/ssh-agent-screen
     if [ "$TERM" = "screen" ]; then
         SSH_AUTH_SOCK=${screen_ssh_agent}; export SSH_AUTH_SOCK
     else
         ln -snf ${SSH_AUTH_SOCK} ${screen_ssh_agent}
-    fi[/code]
+    fi
+{% endhighlight %}
 
 So, if the current terminal is inside a screen session, it will use a fixed, known path to an agent socket.  And if the current terminal is <em>not</em> a screen session (say the login shell that precedes reconnecting to screen!), it will update the symlink.  (Of course, my ~/.bashrc is a little more complicated than that -- you can see the ssh-related stuff in <a href="http://woss.name/svn/mathie/homedir/trunk/usr/etc/profile.d/ssh.sh">usr/etc/profile.d/ssh.sh</a>.  Or at least you would be able to if websvn wasn't a pile of poo.)
 

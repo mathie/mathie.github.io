@@ -15,8 +15,10 @@ Here I am, trying to convince <a href="http://www.logicalware.com/">MailManager<
   <li>The MySQL tables were created with their default encoding which, on my laptop was ASCII, not UTF-8.</li>
   <li>The ZMySQLDA (the database adapter between Zope and MySQL) has its encoding set to ASCII.  There are apparently various possibilities for convincing it to talk UTF-8 (as discussed in <a href="http://mail.zope.org/pipermail/zope-db/2005-March/003989.html">this thread on zope-db</a>) but the only one that has worked for me is to insert the following in <code>sitecustomise.py</code>:
 
-[code lang="python"]import sys
-sys.setdefaultencoding('utf-8')[/code]
+{% highlight python %}
+import sys
+sys.setdefaultencoding('utf-8')
+{% endhighlight %}
 
 which changes the setting globally for your entire Python installation.  Not ideal, but now our application works and who cares about every other Python program on the system? :-)</li>
 </ul>

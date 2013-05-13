@@ -7,7 +7,8 @@ categories:
 ---
 Mac OS X has a neat command, <code>open(1)</code>, which will, by default, open a file specified as an argument with its default application.  However, it also allows to explicitly specify the application with the <code>-a</code> parameter.  So, for example, I can do <code>open -a "Adobe Photoshop CS2" foo.png</code> to open that image in Photoshop.  Much easier than fiddling around finding stuff in the Finder, at least for me.  OK, so one up on that, we can now have bash command completion, inspired by some other examples in <a href="http://www.caliban.org/bash/index.shtml">bash_completion</a> and a (non-working) example at <a href="http://iterm.sourceforge.net/resource.shtml">iTerm's resources page</a>.  Stick the following in <code>/path/to/bash_completion.d/open</code>, or simply in your <code>.bashrc</code>:
 
-[code]if [ "`uname`" = "Darwin" ]; then
+{% highlight bash %}
+if [ "`uname`" = "Darwin" ]; then
   _open()
   {
     local cur prev
@@ -24,7 +25,8 @@ Mac OS X has a neat command, <code>open(1)</code>, which will, by default, open 
     fi
   }
   complete -F _open -o default open
-fi[/code]
+fi
+{% endhighlight %}
 
 Done.  Now bring up a fresh shell and do <code>open -a </code> and then hit <code>TAB</code> a couple of times to bring up a list of completions.  Note that it lists all your Mac OS X apps.
 

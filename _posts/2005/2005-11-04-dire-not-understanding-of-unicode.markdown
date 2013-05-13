@@ -11,15 +11,19 @@ OK, I think I just plain don't understand Unicode, character sets, encodings, or
 
 So, what I don't understand is when I do:
 
-[code lang="sql"]mysql> CREATE DATABASE foo CHARACTER SET UTF8;
-Query OK, 1 row affected (0.00 sec)[/code]
+{% highlight sql %}
+mysql> CREATE DATABASE foo CHARACTER SET UTF8;
+Query OK, 1 row affected (0.00 sec)
+{% endhighlight %}
 
 in my MySQL client, then do:
 
-[code lang="python"]>>> import MySQLdb
+{% highlight python %}
+>>> import MySQLdb
 >>> c = MySQLdb.connect(db = 'foo', use_unicode = True)
 >>> c.character_set_name()
-'latin1'[/code]
+'latin1'
+{% endhighlight %}
 
 What's happening there?  Is it that it encodes the Unicode string in the Latin-1 (ISO 8859-1) encoding for it to go over the connection between the MySQL client and server, only to decode it back to Unicode, only to be encoded as UTF-8 before it hits the database?  Shouldn't the encoding for the connection match that of the database table?  Aren't there characters in UTF-8 which aren't available in Latin-1 (like, for example, the &euro; -- Euro -- symbol!)?
 

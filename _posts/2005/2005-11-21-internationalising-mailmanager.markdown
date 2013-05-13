@@ -17,7 +17,8 @@ In addition, while creating the master .POT file, it successfully pointed out wh
 
 Next up: automate it!  So we now have this extra chunk in the top-level MailManager's Makefile:
 
-[code]ZPT_FILES = $(shell ls www/*.zpt | grep -v manage_)
+{% highlight bash %}
+ZPT_FILES = $(shell ls www/*.zpt | grep -v manage_)
 POT_FILE = i18n/mailmanager.pot
 PO_FILES = $(wildcard i18n/*.po)
 
@@ -30,7 +31,8 @@ $(PO_FILES): $(POT_FILE)
 	i18ndude sync --pot $(POT_FILE) $(PO_FILES)
 
 check-i18n:
-	i18ndude find-untranslated $(ZPT_FILES)[/code]
+	i18ndude find-untranslated $(ZPT_FILES)
+{% endhighlight %}
 
 Running <code>make i18n</code> will update all the i18n files.  It's not ideal, since every time you change a single page template it regenerates the entire .POT file from all the templates (something which takes about 2 minutes on my laptop), but it'll do for now.  That followed by a <code>cvs commit</code> and it'll eventually find its way into Rosetta (which I'll come on to in a minute).  Running <code>make check-i18n</code> will list all the chunks of text in the page templates that don't have message ids attached to them, and note some other errors/warnings.
 
