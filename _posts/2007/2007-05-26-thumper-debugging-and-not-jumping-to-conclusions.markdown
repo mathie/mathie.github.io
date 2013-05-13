@@ -8,23 +8,6 @@ categories:
 tags:
 - Geekery
 - Solaris
-comments:
-- id: 834
-  author: Grid
-  author_email: rayrayson@gmail.com
-  author_url: http://gridengine.sunsource.net/
-  date: !binary |-
-    MjAwNy0wNS0yNiAxODowOToxMSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNS0yNiAxNzowOToxMSArMDEwMA==
-  content: ! '<p>We discussed on the ZFS list a while ago, so it is already known
-    to the  community...</p>
-
-
-    <p>http://www.opensolaris.org/jive/thread.jspa?messageID=102769</p>
-
-
-    <p>Rayson</p>'
 ---
 In a previous post, [Thumper: Putting Blastwave on ZFS](http://woss.name/2007/05/25/thumper-putting-blastwave-on-zfs/), I quickly saw some information and jumped to completely the wrong conclusion.  In the comments, Boyd kindly pointed out that I should probably investigate it a little more thoroughly.  So I have.  Just to recap, effectively I am trying to install software, with `pkgadd` onto a ZFS filesystem.  The full filesystem is 17 terabytes, and still has 17TB available.  The steps I followed were:
 

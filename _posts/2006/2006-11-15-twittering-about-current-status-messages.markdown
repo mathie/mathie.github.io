@@ -4,21 +4,6 @@ title: Twittering about current status messages
 date: 2006-11-15 16:08:55 +00:00
 categories:
 - Uncategorized
-comments:
-- id: 695
-  author: Annabel
-  author_email: annabel@rubaidh.com
-  author_url: ''
-  date: !binary |-
-    MjAwNi0xMS0xNSAxNzoxOTo1MCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0xNSAxNjoxOTo1MCArMDAwMA==
-  content: '<p>hehehe, very good tweak, you should get it on a T-shirt  :-)</p>
-
-
-    <p>...though, if youre implying that i''m your mindless drone!!!!!
-
-    :-P</p>'
 ---
 <img class="alignright" src="http://woss.name/dist/fuzzy_logic.png" /> I
 discovered (via [Gruber](http://daringfireball.net/) talking about

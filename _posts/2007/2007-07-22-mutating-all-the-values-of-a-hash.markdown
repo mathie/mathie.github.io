@@ -8,24 +8,6 @@ categories:
 tags:
 - Geekery
 - Ruby and Rails
-comments:
-- id: 916
-  author: josh
-  author_email: josh@hasmanythrough.com
-  author_url: http://blog.hasmanythrough.com
-  date: !binary |-
-    MjAwNy0wNy0yMiAxNjoxMzozMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNy0yMiAxNToxMzozMCArMDEwMA==
-  content: ! '<p>Ah yes, this old chestnut. Caught between wanting collect/map to
-    consistently return an Array, and wanting to do a hash map that returns a hash.  I
-    usually just use inject, like so:</p>
-
-
-    <p>new_hash = old_hash.inject({}) {|h,(k,v)| h[k] = mutate(v); h }</p>
-
-
-    <p>But I''ve often wanted a map_hash method too.</p>'
 ---
 It's not the first time I've found myself writing something akin to the following:
 

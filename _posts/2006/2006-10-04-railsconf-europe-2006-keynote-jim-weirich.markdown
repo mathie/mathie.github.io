@@ -10,21 +10,6 @@ tags:
 - Geekery
 - railsconfeurope
 - Ruby and Rails
-comments:
-- id: 605
-  author: Ryan Bates
-  author_email: rbates@artbeats.com
-  author_url: ''
-  date: !binary |-
-    MjAwNi0xMC0wNCAxOTowMDo0MCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMC0wNCAxODowMDo0MCArMDEwMA==
-  content: <p>I can completely understand adding namespaces to libraries, but I'm
-    perplexed by his suggestion to namespace "everything you write". Does he really
-    want you to namespace all models, controllers, helpers, etc. in a Rails project?
-    That seems unconventional and would no doubt be difficult to do. The way I see
-    it, why bother namespacing something you won't be using outside of your application.
-    It's just easier that way.</p>
 ---
 > This is the eighth in a series of articles of me writing up my notes from
 > from RailsConf Europe 2006. They are all first drafts, probably

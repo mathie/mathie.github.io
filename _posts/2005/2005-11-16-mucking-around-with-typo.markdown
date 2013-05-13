@@ -5,19 +5,6 @@ date: 2005-11-16 08:47:02 +00:00
 categories:
 - Geekery
 - Meta
-comments:
-- id: 212
-  author: Blog
-  author_email: ''
-  author_url: https://zope1.tomster.org/tomster/site/blog/archive/2005/11/17/typo-not-typo
-  date: !binary |-
-    MjAwNS0xMS0xNyAxMzoxNTo1MSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0xNyAxMjoxNTo1MSArMDAwMA==
-  content: ! '<strong>Typo, not Typo</strong>
-
-
-    From the Looking-over-the-fence-Department'
 ---
 I've been having a play around with <a href="http://typo.leetsoft.com/">Typo</a>, which is web log software (the equivalent of <a href="http://wordpress.org/">Wordpress</a> that I'm using just now) written in <a href="http://www.rubyonrails.com/">Ruby on Rails</a>.  It has some really slick features -- particularly with the use of AJAX on the client side for a more 'impressive' browsing experience.  (Just try adding a comment, and watch it slide into the existing comments as it performs an <code>XmlHttpRequest()</code> to submit the comment, then insert it into the existing page!)  It defintiely has potential, but there's some work I'd need to do before even considering migrating this site across to it:
 

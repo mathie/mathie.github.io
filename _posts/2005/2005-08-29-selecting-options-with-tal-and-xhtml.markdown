@@ -6,21 +6,6 @@ categories:
 - Geekery
 - Python
 - Work
-comments:
-- id: 86
-  author: keith
-  author_email: keith.d.pendergrass@us.army.mil
-  author_url: http://n/a
-  date: !binary |-
-    MjAwNi0wNS0yNyAwNDozNzoxMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNS0yNyAwMzozNzoxMiArMDEwMA==
-  content: ! "<p>I need to get both the description and the index of hte selected
-    option and my loop statement with query result is like &gt;&gt;\n</p>\n\n<p>and
-    i changed this based upon your code snippet but apparently I am missing something
-    because it fails at run-time?</p>\n\n<p>\n        name\n</p>\n\n<p>i'd like the
-    selected index, description, and then have this value stay active in the drop
-    down list box. Right now it goes back to the last value everytime?</p>"
 ---
 This is another one of these 'notes' that I'm keeping for myself, that I should write up into some <a href="http://www.logicalware.com/" title="MailManager email response management system">MailManager</a> UI documentation.  It all boils down to trying to use consistent idioms throughout the page templates since the old templates clearly demonstrate "There's More Than One Way to Do It", but not necessarily that all those ways wind up with exactly the same output, or are necessarily even correct... :-/
 

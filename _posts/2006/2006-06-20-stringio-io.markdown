@@ -6,19 +6,6 @@ categories:
 - Geekery
 tags:
 - Geekery
-comments:
-- id: 500
-  author: Mark Brown
-  author_email: broonie@sirena.org.uk
-  author_url: http://www.sirena.org.uk/log/
-  date: !binary |-
-    MjAwNi0wNi0yMCAxNjozOTowMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNi0yMCAxNTozOTowMyArMDEwMA==
-  content: <p>C   iostreams handle this by having the interface class work in terms
-    of a generic stream buffer interface with a very thin API. Rather than have something
-    emulate the iostream interface for a new object type you just replace the buffer
-    interface with a new one, avoiding skew between the two interfaces.</p>
 ---
 Argh.  For that which I'm working on just now, I'm modifying the IO object to add a couple of extra convenience methods (`read_nibble_pair` and `read_int16` for want of better names).  The first reads a pair of nibbles (I said *nibbles* -- no sniggering in the back there!) that are packed into a single byte.  The latter reads a 16-bit integer stored in big-endian format.  I figure reopening the `IO` class and adding these convenience methods, based around the existing `getc` method, is the right thing to do.
 

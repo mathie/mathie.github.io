@@ -4,29 +4,6 @@ title: Worst nightmares?
 date: 2005-10-03 09:55:50 +01:00
 categories:
 - Personal
-comments:
-- id: 136
-  author: Peter
-  author_email: peter@dunkley.me.uk
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMC0wMyAxMzoyMDowMSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0wMyAxMjoyMDowMSArMDEwMA==
-  content: Couldn't you have used the "It's bad luck for the groom to see the brides
-    outfit before the wedding" superstition to avoid that nightmare altogether?  Surely
-    shoes count as part of the outfit?
-- id: 137
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0xMC0wMyAxNDowNTo1MSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0wMyAxMzowNTo1MSArMDEwMA==
-  content: Oh, I tried that one!  And failed miserably.  Apparently it's alright to
-    see shoes, tiaras, that kind of thing.  It's just the dress itself that's bad
-    luck.  I'm sure some people are making this up as they go along... :-)
 ---
 Imagine your worst nightmare.  Well, in terms of shopping, anyway.  Does it involve looking for white, thick-heeled, high-heeled shoes for a wedding dress?  (For Annabel, not me!)  On a busy Saturday on Princes Street?  When fashion clearly seems to dictate that dark colours are in and white is <em>sooo</em> last season?  Four hours of trudging around Princes Street, first in one direction, then another, then back along the same way again (I think we traversed one of the blocks at least 4 times!), searching through all the 'fashionable' shops for white shoes.  Shops I'd never been into in my life before.  I'm amazed what passes for fashion these days.  (I think that's me getting really old, eh?)  Eventually, we found a suitable pair in the unfashionable John Lewis.  Four hours later.
 

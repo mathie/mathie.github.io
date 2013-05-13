@@ -6,17 +6,6 @@ categories:
 - Web surfing
 tags:
 - Web surfing
-comments:
-- id: 896
-  author: Mark Brown
-  author_email: broonie@sirena.org.uk
-  author_url: http://www.sirena.org.uk/log/
-  date: !binary |-
-    MjAwNy0wNy0yMyAyMDo0NToxMSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNy0yMyAxOTo0NToxMSArMDEwMA==
-  content: <p>You might enjoy <a href='http://blog.dave.cridland.net/?p=32' rel="nofollow">this</a>
-    (if you've not seen it already).</p>
 ---
 OK.  I admit it.  I'm just insanely jealous and I want an iPhone too.  But what with being in the UK, I'm just going to have to be patient and wait until, what, Q4?  So I'm getting bored of hearing about how wonderful/crappy it is everytime I visit my news feeds in NetNewsWire.  So, here's a tip for those of you in the same boat: how to mark all iPhone-related entries as read:
 

@@ -4,19 +4,6 @@ title: More handy shell shortcuts
 date: 2006-01-19 14:42:55 +00:00
 categories:
 - Geekery
-comments:
-- id: 258
-  author: Thaha
-  author_email: muhd.thaha@gmail.com
-  author_url: ''
-  date: !binary |-
-    MjAwNy0wNC0xOCAxMjozMjowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNC0xOCAxMTozMjowMCArMDEwMA==
-  content: ! '<p>Useful one. Actually, I wanted to do this, but because of lack of
-    knowledge in shell, I couldn''t.
-
-    Thanks a lot.</p>'
 ---
 Regularly when I'm working at the shell, I realise that I'm repeating the same sequence of commands over and over.  Or that doing something a little bit extra would be *so* useful.  Last night's effort was two-fold; one to run a command and give my Terminal window a title (useful for long-running applications where it helps to remember which iTerm tab they're hiding under) and one to start a Rails application locally:
 

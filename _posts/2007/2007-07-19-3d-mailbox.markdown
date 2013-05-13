@@ -6,19 +6,6 @@ categories:
 - Web surfing
 tags:
 - Web surfing
-comments:
-- id: 914
-  author: Annabel
-  author_email: annabel@rubaidh.com
-  author_url: ''
-  date: !binary |-
-    MjAwNy0wNy0xOSAxMDowMDoxNiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNy0xOSAwOTowMDoxNiArMDEwMA==
-  content: ! '<p>ooh that looks fun :-)</p>
-
-
-    <p>d''you think i can persuede work i need it on my PC?</p>'
 ---
 Apparently, this is not a joke, though you may find it hard to believe.  It's Email-meets-Second-Life: [3D Mailbox](http://www.3dmailbox.com/).  Apparently, amongst other things, your spam is represented by 'sumo' guys that you can feed to the sharks.  The bit that got me, from the overview page:
 

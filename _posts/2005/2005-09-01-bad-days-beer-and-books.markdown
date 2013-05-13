@@ -6,28 +6,6 @@ categories:
 - Entertainment
 - Personal
 - Work
-comments:
-- id: 87
-  author: annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0wOS0wMSAxMTo0Mjo0NCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOS0wMSAxMDo0Mjo0NCArMDEwMA==
-  content: ! 'hey gorgeous,
-
-    just thought i''d let you know, you have comments on this on your LJ bit...'
-- id: 88
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0wOS0wMSAxNjowMzo0MCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOS0wMSAxNTowMzo0MCArMDEwMA==
-  content: Ooh, ta for the pointing of it out...  I'd never have noticed them otherwise.
-    :-*
 ---
 Annabel figured out the ideal way to deal with a really crappy day at work last night, when I discovered she'd nicked into the shops on the way home, picked up some Leffe (one <a href="http://www.silrubin.com/leffe_brown.htm">Brune</a>, one <a href="http://www.silrubin.com/leffe_blond.htm">Blond</a>), a Kronenburg Blanc &amp; an Erdinger, and they'd been in the fridge long enough to be cold by the time I got home.
 

@@ -10,19 +10,6 @@ tags:
 - Geekery
 - railsconfeurope
 - Ruby and Rails
-comments:
-- id: 600
-  author: Sergey
-  author_email: runmen@yandex.ru
-  author_url: ''
-  date: !binary |-
-    MjAwNi0xMC0wMyAxMToxMTozMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMC0wMyAxMDoxMTozMyArMDEwMA==
-  content: ! "<p>Bit another way:\nfrom ActionView::Helpers::PrototypeHelper::JavaScriptGenerator::GeneratorMethods</p>\n\n<p>module
-    ApplicationHelper\n    def update_time\n      page.replace_html 'time', Time.now.to_s(:db)\n
-    \     page.visual_effect :highlight, 'time'\n    end\n  end</p>\n\n<p># Controller
-    action\n  def poll\n    render(:update) { |page| page.update_time }\n  end</p>"
 ---
 > This is the fourth in a series of articles of me writing up my notes from
 > from RailsConf Europe 2006. They are all first drafts, probably

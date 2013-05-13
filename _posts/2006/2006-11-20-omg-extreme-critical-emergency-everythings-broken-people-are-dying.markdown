@@ -8,28 +8,6 @@ categories:
 tags:
 - Geekery
 - Work
-comments:
-- id: 696
-  author: ! 'Howto: Using Mail.app to archive your GMail email at Notes from a messy
-    desk'
-  author_email: ''
-  author_url: http://woss.name/2006/11/20/howto-using-mailapp-to-archive-your-gmail-email/
-  date: !binary |-
-    MjAwNi0xMS0yMCAxMzo1Nzo0MyArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0yMCAxMjo1Nzo0MyArMDAwMA==
-  content: <p>[...] Register               &laquo; OMG! EXTREME CRITICAL EMERGENCY!!
-    EVERYTHING&#8217;S BROKEN! People are DYING! [...]</p>
-- id: 697
-  author: paul
-  author_email: paulv@vaillant.ca
-  author_url: ''
-  date: !binary |-
-    MjAwNi0xMS0yMCAxNDowMzowMCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0yMCAxMzowMzowMCArMDAwMA==
-  content: <p>Have you considered everydns.net? It's by the same people as opendns.com
-    and offers hosting of DNS on four servers through-out the world for free.</p>
 ---
 So my email isn't working this morning.  Somehow the MX record for `woss.name` has, well, disappeared.  Maybe [DreamHost](http://www.dreamhost.com/) got offended that I switched to [GMail](http://mail.google.com/) and decided to get their revenge.  Maybe I buggered something up (I was doing stuff in the DH control panel yesterday afternoon, but I don't *think* I touched `woss.name`).  Or maybe the gremlins got to it.
 

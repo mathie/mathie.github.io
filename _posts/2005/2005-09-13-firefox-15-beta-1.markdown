@@ -4,33 +4,5 @@ title: Firefox 1.5 beta 1
 date: 2005-09-13 12:43:27 +01:00
 categories:
 - Geekery
-comments:
-- id: 113
-  author: Nerfboy
-  author_email: woss.name-blog@nerfboy.com
-  author_url: http://www.greenGiraffeGames.com
-  date: !binary |-
-    MjAwNS0wOS0xNCAwOTowMTo1NiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOS0xNCAwODowMTo1NiArMDEwMA==
-  content: ! 'If you''ve been having OS X Firefox speed problems, have you tried the
-    processor optimised builds?
-
-
-    I''ve noticed the G5 version is a lot snappier on my G5 iMac.'
-- id: 114
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0wOS0xNCAxMzowMzoyNSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOS0xNCAxMjowMzoyNSArMDEwMA==
-  content: Hmm, I've just grabbed a processor-optimised build of 1.0.6, from <a href="http://homepage.mac.com/ozjason/moz/"
-    rel="nofollow">ozjason's page</a> and I'm trying it out just now.  It feels a
-    lot slower than the beta of 1.5 beta 1.  However, the Google Toolbar is back (it
-    doesn't appear to work with Deer Park releases yet), which is handy 'cos I got
-    to gloat about my own personal web site having a higher page rank than <a href="http://www.logicalware.com/"
-    rel="nofollow">work</a>. :-)
 ---
 <a href="http://mozilla.org/products/firefox/">Firefox</a> has a new beta release: <a href="http://www.mozilla.org/projects/firefox/">1.5 beta 1</a>.  I'm now using it and it seems shiny enough.  First impressions?  The preference pane is more Mac-like.  And the performance -- particularly navigating through history, switching between tabs and creating new tabs -- has drastically improved.  SVG support ought to be pretty neat, if I find a web site with vector graphics on it. :-)  And I'm looking forward to incorporating CSS 3 goodies into the new <a href="http://www.logicalware.com/" title="Logicalware MailManager Email Response Management System">MailManager</a> UI.  Fortunately, the new UI code appears to be working well with Firefox 1.5b1 already, so hopefully I've not been doing anything <em>too</em> evil...

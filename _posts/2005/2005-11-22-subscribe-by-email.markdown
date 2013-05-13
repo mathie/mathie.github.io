@@ -4,16 +4,6 @@ title: Subscribe by email
 date: 2005-11-22 11:32:53 +00:00
 categories:
 - Meta
-comments:
-- id: 218
-  author: Moray
-  author_email: moray@sermisy.org
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMS0yNCAwMjoxMjozMiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yNCAwMToxMjozMiArMDAwMA==
-  content: Hm, I'd much rather keep real posts in the feed.
 ---
 After having played around with <a href="http://www.feedburner.com/">Feedburner</a>'s setting again last night, I discovered <a href="http://www.feedblitz.com/">FeedBlitz</a>, which allows one to subscribe to posts here by email.  So, if you haven't discovered the wonders of RSS readers for keeping up with changes to web sites without having to continually revisit them, now you can get a daily email with all the updates instead, delivered straight to your inbox!
 

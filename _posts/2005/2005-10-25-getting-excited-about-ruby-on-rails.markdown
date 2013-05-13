@@ -4,23 +4,6 @@ title: Getting excited about Ruby on Rails
 date: 2005-10-25 10:37:05 +01:00
 categories:
 - Geekery
-comments:
-- id: 171
-  author: Eli
-  author_email: elidickinson@gmail.com
-  author_url: http://www.elidickinson.com/blog/
-  date: !binary |-
-    MjAwNS0xMC0yOCAyMToyMDozNSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0yOCAyMDoyMDozNSArMDEwMA==
-  content: ! 'I just picked up Ruby on Rails myself. After doing a *lot* of heavy-duty
-    ColdFusion development, I''m looking forward to Rails too. After so much practice
-    writing SQL, I''m a little worried that it will be hard to do complex queries
-    in Rails, but I''m sure there''s a way to do it.
-
-
-    I took a look at Zope once for a content mangement project, but it looked way
-    to complex and overbearing.'
 ---
 I'm currently working my way through <a href="http://www.amazon.co.uk/exec/obidos/ASIN/097669400X/mathieoftheen-21">Agile Web Development with Rails</a> and, every time I get into reading it, I keep getting really excited about doing some sort of development work with it.  From my past year's experience of using the <a href="http://www.zope.org/">Zope</a> platform, I keep seeing things about how <a href="http://www.rubyonrails.org/">Rails</a> operates (in particular this morning, while reading all about ActiveRecord) and seeing how much easier it is to express particular ideas.  I really want to try a spike of porting <a href="http://www.logicalware.com/">MailManager</a> to Rails, just to see if it's really as easy as it looks.  I guess that's something I'd have to do in my spare time, though, unless somebody can think of a vital business case for it...?
 

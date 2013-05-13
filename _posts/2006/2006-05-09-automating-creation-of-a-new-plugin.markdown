@@ -5,17 +5,6 @@ date: 2006-05-09 12:15:57 +01:00
 categories:
 - Geekery
 - Work
-comments:
-- id: 420
-  author: Ben Curtis
-  author_email: rails@bencurtis.com
-  author_url: http://www.bencurtis.com/
-  date: !binary |-
-    MjAwNi0wNS0wOSAxNjozNDoxNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNS0wOSAxNTozNDoxNyArMDEwMA==
-  content: ! '<p>One suggestion:  Have the script use curl to add the new plugin to
-    the plugin directory at http://www.agilewebdevelopment.com/plugins.  :)</p>'
 ---
 Recently I've been finding that I want to create a few plugins to share functionality across rails applications.  Simple things, like form builders using my 'house style', but once I've written it out in two applications and it comes to a third, it's time to factor things out into a plugin.
 

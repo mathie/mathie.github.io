@@ -5,19 +5,6 @@ date: 2005-08-29 11:01:07 +01:00
 categories:
 - Personal
 - Photography
-comments:
-- id: 85
-  author: kwame
-  author_email: georgiagh@yahoo.com
-  author_url: ''
-  date: !binary |-
-    MjAwOC0wNi0wMSAxMjozOToyNiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNi0wMSAxMTozOToyNiArMDEwMA==
-  content: ! '<p>Nice goals and better ideas.
-
-    But i will asked what really motivated you to study Photography. pls reply me
-    its important</p>'
 ---
 Annabel and I were discussing yesterday about goals for my current photography <del>obsession</del> hobby.  It's always good to have goals, something to aim for, a concrete achievement.  I've had in the back of my mind that I'd like to sell some of my photographs sometime, though I'd been thinking of doing it mostly online, through stock photography agencies.  Trouble is that everyone and his dog is submitting pictures to the popular agencies online since it's <em>so easy</em>, which means the competition is high.  Still, it is extremely easy, and there's almost no running costs involved, so there's no harm in trying.
 

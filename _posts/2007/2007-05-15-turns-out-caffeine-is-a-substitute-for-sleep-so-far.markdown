@@ -10,17 +10,6 @@ tags:
 - Geekery
 - RailsConf Europe
 - Ruby and Rails
-comments:
-- id: 810
-  author: Craig
-  author_email: craig@xeriom.net
-  author_url: http://xeriom.net/
-  date: !binary |-
-    MjAwNy0wNS0xNiAwOTo1OToxOCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNS0xNiAwODo1OToxOCArMDEwMA==
-  content: <p>Does the transparent proxy mean then that using a RESTful client from
-    within Metrofi is impossible? Do they let VPN connections through?</p>
 ---
 Well, I've arrived in Portland, Oregon.  The journey was remarkably easy, albeit a bit dull.  I made the mistake of saving my laptop for later on in the journey (when boredom had really set in) and discovered that the battery had already eaten itself.  (On the way back, I'll either use the laptop while I can, or remove the battery while it's in transit.)  The journey was Edinburgh &rarr; London Heathrow &rarr; Chicago O'Hare &rarr; Portland with about 19 hours of flight time and just 4 hours sitting in various airports waiting for connections.  And 27 hours being of being awake.  I think that'll mitigate the jet lag somewhat, since I wound up going to bed around 01:00 local time and getting up at, well, a bit early at 06:00 but close enough to normal waking up time.
 

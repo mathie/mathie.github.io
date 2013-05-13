@@ -8,18 +8,6 @@ categories:
 - Ruby and Rails
 - Work
 - RailsConf Europe
-comments:
-- id: 1018
-  author: James
-  author_email: james88theone@yahoo.com
-  author_url: ''
-  date: !binary |-
-    MjAwOC0wOS0yMCAxNDoyMzoxNiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0wOS0yMCAxMzoyMzoxNiArMDEwMA==
-  content: <p>Hi, I found your blog on this new directory of WordPress Blogs at blackhatbootcamp.com/listofwordpressblogs.  I
-    dont know how your blog came up, must have been a typo, i duno.  Anyways, I just
-    clicked it and here I am.  Your blog looks good.  Have a nice day.  James.</p>
 ---
 Last year over 100 attendees and speakers from around the UK, Europe and US came together in Edinburgh for what keynote speaker and RailsCore member **Michael Koziarski** recently described on stage as *"the best small conference"* he'd attended.
 

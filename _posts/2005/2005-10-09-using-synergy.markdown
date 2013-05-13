@@ -4,41 +4,6 @@ title: Using Synergy
 date: 2005-10-09 13:05:27 +01:00
 categories:
 - Geekery
-comments:
-- id: 149
-  author: Mike
-  author_email: m.rovardi@blueyonder.co.uk
-  author_url: http://www.livejournal.com/users/digitalwanderer/
-  date: !binary |-
-    MjAwNS0xMC0wOSAxOTozNDo0MiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0wOSAxODozNDo0MiArMDEwMA==
-  content: ! 'Ah, the irony... about half an hour ago I was sat reading a newspaper
-    (darn old-fashioned technology, eh?  :)  ) when we had a power spike - I ran upstairs
-    to find both PCs rebooting (actually, I needed to power one off and back on before
-    it would boot again)...
-
-
-    Alas, my trusty CRT monitor, a rather nice 17" ADI Trinitron screen I use as my
-    secondary monitor when using Synergy, isn''t looking quite so peachy.  I''ve been
-    using it for about 8 years now, and it seems to have suffered the power spike
-    badly - it''s picked up a horrible "shadow" effect on vertical lines and seems
-    to be suffering from occasional "tearing".  It has lost most of it''s settings
-    (eg brightness, contrast, etc), and seems to have difficulty with centreing the
-    desktop on the screen...
-
-
-    I''ve tried numerous reboots, reinstalling graphics card drivers, testing it on
-    my TFT (looks fine on there, even through the analogue port), and now a total
-    power down for a few minutes to see if the magical computer fairies will fix it
-    while my back is turned (don''t laugh, you''ve all tried it at some point in your
-    computer-using careers... :)  )...
-
-
-    Looks like another TFT might be in order...
-
-
-    Mike'
 ---
 <a href="http://woss.name/synergydesksetup.jpg"><img src='http://woss.name/wp-content/thumb-synergydesksetup.jpg' alt='My desk at home, using Synergy' class="alignright" /></a> Thanks to <a href="http://www.livejournal.com/users/digitalwanderer/">Mike</a>'s comment <a href="http://woss.name/2005/10/06/testing-out-a-second-monitor/">a couple of posts ago</a>, I have been trying out <a href="http://synergy2.sourceforge.net/">Synergy</a> to share my mouse and keyboard between my laptop and desktop computers.  At first I was skeptical about how well it would work but, having now been using it for a couple of days, I'm converted.
 

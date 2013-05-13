@@ -15,21 +15,6 @@ tags:
 - inputrc
 - terminal
 - hash key
-comments:
-- id: 1317
-  author: Mark Brown
-  author_email: broonie@sirena.org.uk
-  author_url: http://www.sirena.org.uk/log/
-  date: !binary |-
-    MjAxMi0wMS0yMSAyMzo0NDowNiArMDAwMA==
-  date_gmt: !binary |-
-    MjAxMi0wMS0yMSAyMzo0NDowNiArMDAwMA==
-  content: ! '<p>The other option is just to use escape instead of meta (which those
-    of us who''ve had to spend time using terminals or whatever have got into the
-    habit of doing). Reading your post I realized I don''t actually ever use the meta
-    key, I always use escape in place of a chord.</p>
-
-'
 ---
 This particular tip may have an audience of approximately one, since:
 

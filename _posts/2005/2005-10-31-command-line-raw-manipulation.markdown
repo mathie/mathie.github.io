@@ -5,16 +5,6 @@ date: 2005-10-31 13:07:59 +00:00
 categories:
 - Geekery
 - Photography
-comments:
-- id: 181
-  author: annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMC0zMSAxNDowODo1NSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0zMSAxMzowODo1NSArMDAwMA==
-  content: they done yet? :o*
 ---
 Just a quickie this morning, since I seem to be insanely busy (and insanely tired from a mad weekend, which I'm sure I'll post more about later!).  Here's a piece of shell script (only tested on <a href="http://www.gnu.org/software/bash/bash.html">bash</a>) which will take a bunch of raw images and create lightweight JPEG images for browsing through.  It requires <a href="http://netpbm.sourceforge.net/">NetPBM</a> and <a href="http://www.cybercom.net/~dcoffin/dcraw/">dcraw</a>
 

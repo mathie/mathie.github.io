@@ -4,23 +4,6 @@ title: Recent reading
 date: 2005-09-29 19:32:51 +01:00
 categories:
 - Entertainment
-comments:
-- id: 130
-  author: Mike
-  author_email: m.rovardi@blueyonder.co.uk
-  author_url: http://www.livejournal.com/users/digitalwanderer/
-  date: !binary |-
-    MjAwNS0wOS0yOSAyMDoxNzo0NCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOS0yOSAxOToxNzo0NCArMDEwMA==
-  content: ! 'Where does all this "height of books" thing come from, anyway?
-
-
-    Ever heard the term "Quality of Quantity"?  :)
-
-
-
-    Mike'
 ---
 <img class="alignright" src="http://images-eu.amazon.com/images/P/000715125X.02._SCMZZZZZZZ_.jpg" alt="Book Cover" /> Well, I've gotten a few books read, both before I left for Greece and while I was away.  So we have:
 

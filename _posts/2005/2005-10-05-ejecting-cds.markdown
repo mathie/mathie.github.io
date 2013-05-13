@@ -4,17 +4,6 @@ title: Ejecting CDs
 date: 2005-10-05 10:49:33 +01:00
 categories:
 - Geekery
-comments:
-- id: 139
-  author: Kisin
-  author_email: kisin@livejournal.com
-  author_url: http://kisin.livejournal.com/
-  date: !binary |-
-    MjAwNS0xMC0wNSAxMzowNTo0MCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0wNSAxMjowNTo0MCArMDEwMA==
-  content: Have you thought about putting the date and time on your posts as well
-    ?
 ---
 It would appear that, somehow, I am the killer of Apple Powerbook G4 CD/DVD drives.  It's not that they stop working, it's just that they refuse to relinquish their media.  I had always thought it was a problem peculiar to my previous Powerbook, a 12" G4.  It would often take days of attempt to get it to cough up the CD I'd inserted.  So that I basically stopped using the drive wherever possible, particularly since having a CD inserted -- even unused -- whilst on batteries does unnecessarily drain power.
 

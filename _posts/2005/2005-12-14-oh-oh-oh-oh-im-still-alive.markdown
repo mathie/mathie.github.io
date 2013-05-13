@@ -8,21 +8,6 @@ categories:
 - Photography
 - Python
 - Work
-comments:
-- id: 242
-  author: annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMi0xNSAxMjo1MDozOSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMi0xNSAxMTo1MDozOSArMDAwMA==
-  content: ! 'yep, ''us'' stuff... lots and lots of relaxing us stuff :o)
-
-    with not a wedding plan in sight - yay!!
-
-
-    :o*'
 ---
 What, no posts in over a week?  What's happened to him?  Yeah, technically I'm still alive and here.  It's just that the combination of last minute wedding preparations, Christmas and an excess of stress at work have been keeping me insanely busy!
 

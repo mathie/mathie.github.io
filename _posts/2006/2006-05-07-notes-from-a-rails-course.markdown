@@ -8,32 +8,6 @@ categories:
 tags:
 - Geekery
 - Ruby and Rails
-comments:
-- id: 418
-  author: Jeremy
-  author_email: jeremyw@igmus.org
-  author_url: ''
-  date: !binary |-
-    MjAwNi0wNS0wNyAyMDo1NjozNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNS0wNyAxOTo1NjozNyArMDEwMA==
-  content: <p>Thanks.  Good stuff in here.</p>
-- id: 419
-  author: Gerard Byrne
-  author_email: gbyrne@experience.ie
-  author_url: http://experience.ie
-  date: !binary |-
-    MjAwNi0wNS0xMiAwNToyMzoxOSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNS0xMiAwNDoyMzoxOSArMDEwMA==
-  content: ! '<p>Thanks from me too. How''s life in Scotland?</p>
-
-
-    <p>I''ve been snowed under since the course - a new project is at that critical
-    "dev complete" and about to go to QA. The last project managed to survive a 4
-    week QA with zero defects (0 S1, 0 S2, about 6-8 of S3 (cosmetic, trivials)) and
-    the bar has been set same for this one. I need to show that the first project
-    was not a one-hit-wonder!</p>'
 ---
 I've been meaning to post my copy of these for a few weeks now.  I took some notes while I attended a 4 day course about Ruby on Rails, taught by [Chad Fowler](http://www.chadfowler.com/), down at [Skills Matter](http://www.skillsmatter.com/) in London.  Really I meant to tidy them up before posting, but I'm really busy with paying work (yay!) just now, so it would have to wait...
 

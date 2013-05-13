@@ -11,26 +11,6 @@ tags:
 - tagging
 - widgets
 - wordpress
-comments:
-- id: 475
-  author: Annabel
-  author_email: annabel@rubaidh.com
-  author_url: ''
-  date: !binary |-
-    MjAwNi0wNS0yNiAxNjowODoyNSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNS0yNiAxNTowODoyNSArMDEwMA==
-  content: <p>the cheek! my mail aint spam!!</p>
-- id: 476
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNi0wNS0yNiAxODoxNzo1NSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNS0yNiAxNzoxNzo1NSArMDEwMA==
-  content: <p>Well that about says it all.  I just got some comment spam to approve
-    instead...</p>
 ---
 I've been mucking around, updating the site a little today.  I've upgraded to the latest version of the [K2](http://getk2.com/) theme and installed the [widgets](http://automattic.com/code/widgets/) plugin for managing the sidebar without bothering to fiddle with the theme source.  So now the only theme tweak I've got is to put those nasty evil ads (mmm, clicky goodness!) in `theloop.php`.
 

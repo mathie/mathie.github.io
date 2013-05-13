@@ -4,32 +4,6 @@ title: Writeup of Greece
 date: 2005-10-21 11:37:04 +01:00
 categories:
 - Personal
-comments:
-- id: 165
-  author: laura
-  author_email: lauramathie@hotmail.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMC0yMSAyMDozMzo1OSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0yMSAxOTozMzo1OSArMDEwMA==
-  content: so when are we getting to see the photos???  We just bought a camcorder
-    which will be great for the wedding...
-- id: 166
-  author: annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMC0yNCAxMjoyODozMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0yNCAxMToyODozMCArMDEwMA==
-  content: ! 'oook! scary camcorderness!!
-
-    (though have bin kinda thinking one would be good for the wedding so long as its
-    hidden an i can pretend its not there!!)
-
-
-    so hows the kitty?'
 ---
 I've been meaning to upload these for a while.  Originally I was going to put them all up at once, when I'd finished transcribing the lot, but that's taking too long, so here they are piecemeal.  This is the adventure of our holiday in Naxos in September:
 

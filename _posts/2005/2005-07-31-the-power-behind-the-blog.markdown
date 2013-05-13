@@ -4,36 +4,6 @@ title: The power behind the blog
 date: 2005-07-31 09:06:03 +01:00
 categories:
 - Meta
-comments:
-- id: 4
-  author: Jeffrey
-  author_email: jeffrey@snapturtle.com
-  author_url: http://www.snapturtle.com
-  date: !binary |-
-    MjAwNS0wOC0wMiAyMzozNDowMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0wMiAyMjozNDowMiArMDEwMA==
-  content: ! '"So far, however, the link for adding an Amazon item, well, isnâ€™t
-    where it should be."
-
-
-    I see you''re using Mac''s, nice choice.  However, are you using Safari as well?  Normally
-    the quick buttons don''t display in Safari :(  Firefox works well however.  Cheers!'
-- id: 5
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0wOC0wMyAwODozNDoxNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0wMyAwNzozNDoxNyArMDEwMA==
-  content: ! 'You''re absolutely right!  I''m using Safari and the QuickTags don''t
-    appear to work there.  I''d been wondering what QuickTags were anyway. :-)  Switching
-    to Firefox makes it work perfectly.  I guess I should re-evaluate whether to use
-    Safari or Firefox day-to-day.
-
-
-    Thanks!'
 ---
 It's probably plainly obvious that the main software powering this beastie is WordPress.  But I thought I'd give a mention to all the other bits and pieces I'm using (or planning to use) to make my blogging life complete:
 

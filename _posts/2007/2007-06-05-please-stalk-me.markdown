@@ -8,34 +8,6 @@ categories:
 tags:
 - Geekery
 - Personal
-comments:
-- id: 861
-  author: Manoj
-  author_email: manoj.barot@ge.com
-  author_url: ''
-  date: !binary |-
-    MjAwOC0wNi0wOSAwNTo0NzoyMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNi0wOSAwNDo0NzoyMCArMDEwMA==
-  content: ! '<p>Hi,</p>
-
-
-    <p>I have just tried your option but was getting error.</p>
-
-
-    <p>dladm: create operation failed: No such file or directory ( invalid interface
-    name)</p>
-
-
-    <p>i have ethenet called "pcn1" and "pcn1"</p>
-
-
-    <p>I want to bind one IP on two ethenet card.</p>
-
-
-    <p>Please advice
-
-    Manoj</p>'
 ---
 I've just created an account on [iStalkr](http://www.istalkr.com/users/mathie) so that you can follow my every move on [my blog](http://woss.name/), [Twitter](http://twitter.com/mathie), [last.fm](http://www.last.fm/user/mathie_wossname/), [Flickr](http://flickr.com/photos/mathie/), [del.icio.us](http://del.icio.us/mathie) and even the [tumblr](http://tumble.woss.name/) I've set up but not yet used.
 

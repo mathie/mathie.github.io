@@ -4,31 +4,6 @@ title: links for 2006-11-24
 date: 2006-11-24 01:36:15 +00:00
 categories:
 - Web surfing
-comments:
-- id: 716
-  author: Annabel
-  author_email: annabel@rubaidh.com
-  author_url: ''
-  date: !binary |-
-    MjAwNi0xMS0yNCAxMDo0MDozMSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0yNCAwOTo0MDozMSArMDAwMA==
-  content: ! '<p>hehehe, fantastic :o)
-
-    but yeah, the laughter did make it a bit hard to hear properly though...</p>'
-- id: 717
-  author: Semji Rkim
-  author_email: jremsikjr@hotmail.com
-  author_url: http://semji.blogspot.com
-  date: !binary |-
-    MjAwNi0xMi0wNiAxNDowMzo1MiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMi0wNiAxMzowMzo1MiArMDAwMA==
-  content: <p>Classic Bob&amp;Tom chuckling/chortling over brilliant comedy nearly
-    killing it. Up for s'more laughs this morning? Check out Mike Birbiglia (<a href="http://www.youtube.com/watch?v=lL59mauFEsc"
-    rel="nofollow">Part 1</a> &amp; <a href="http://www.youtube.com/watch?v=NaMosxCylyM"
-    rel="nofollow">Part 2</a>) on YouTube. He's an up and coming comedian I first
-    heard through Bob&amp;Tom.</p>
 ---
 <ul class="delicious">
 	<li>

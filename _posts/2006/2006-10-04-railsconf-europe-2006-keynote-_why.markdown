@@ -10,19 +10,6 @@ tags:
 - Geekery
 - railsconfeurope
 - Ruby and Rails
-comments:
-- id: 606
-  author: James McCarthy
-  author_email: james2mccarthy@gmail.com
-  author_url: http://fluct.isono.us
-  date: !binary |-
-    MjAwNi0xMC0xMiAxNDowNDowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMC0xMiAxMzowNDowMCArMDEwMA==
-  content: <p>This one I truely like too... and the use of *splat was something that
-    had passed me by until now. It is really nice to have some sessions that take
-    the time to explore quite thoroughly how to make use of some features you may
-    not have stumbled upon otherwise.</p>
 ---
 > This is the ninth in a series of articles of me writing up my notes from
 > from RailsConf Europe 2006. They are all first drafts, probably

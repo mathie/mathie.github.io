@@ -8,16 +8,6 @@ categories:
 tags:
 - Geekery
 - Solaris
-comments:
-- id: 892
-  author: toha
-  author_email: tomi.hakala@pobox.fi
-  author_url: ''
-  date: !binary |-
-    MjAwNy0wNy0wOCAxMDoyMDo1MCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNy0wOCAwOToyMDo1MCArMDEwMA==
-  content: <p>Thanks!</p>
 ---
 I should probably be ashamed that it's taken me this long to notice: I don't have a compiler installed in my zones!  I discovered this afternoon while I was trying to build mongrel for an app I was about to deploy!  I had assumed that Sun Studio 11, which is installed in the global zone would be automatically available to the other zones.
 

@@ -4,27 +4,6 @@ title: Using Spotlight instead of locate(1)
 date: 2006-01-20 13:10:15 +00:00
 categories:
 - Geekery
-comments:
-- id: 259
-  author: Mike Quin
-  author_email: mike@elite.uk.com
-  author_url: http://www.elite.uk.com/mike/
-  date: !binary |-
-    MjAwNi0wMS0yMCAxNzo1MDo1OCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0yMCAxNjo1MDo1OCArMDAwMA==
-  content: <p>Why would you need to emulate find(1) when MacOS has it already (at
-    least jaguar does, anyway).</p>
-- id: 260
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNi0wMS0yMCAxODoyMToyMSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0yMCAxNzoyMToyMSArMDAwMA==
-  content: ! '<p>Mike: Because using Spotlight would be far faster, and potentially
-    more flexible.</p>'
 ---
 Being a *nix weenie of old, I'm used to using `locate(1)` to search for files on my filesystem.  Unfortunately, on Mac OS X, that doesn't work so well, since the locate database isn't automatically updated.  Previously I'd been manually updating the locate database every so often, mostly at the point where I wanted to locate something!
 

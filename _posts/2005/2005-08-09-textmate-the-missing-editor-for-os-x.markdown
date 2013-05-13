@@ -4,48 +4,6 @@ title: ! 'TextMate: The Missing Editor for OS X'
 date: 2005-08-09 17:48:56 +01:00
 categories:
 - Geekery
-comments:
-- id: 32
-  author: Allan Odgaard
-  author_email: allan@macromates.com
-  author_url: http://macromates.com/
-  date: !binary |-
-    MjAwNS0wOC0wOSAxOToxMDozNSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0wOSAxODoxMDozNSArMDEwMA==
-  content: ! 'Thanks for giving it a second try! :)
-
-
-    Meta left/right to move word left/right (hold down shift to select)
-
-
-    Meta delete/backspace deletes word left/right
-
-
-    Control (or command) left/right moves to start/end of line (again, shift to select)'
-- id: 33
-  author: Allan Odgaard
-  author_email: allan@macromates.com
-  author_url: http://macromates.com/
-  date: !binary |-
-    MjAwNS0wOC0wOSAxOToxMTozNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0wOSAxODoxMTozNyArMDEwMA==
-  content: ! 'Oh, and control (or command) delete/backspace deletes to start/end of
-    line...
-
-
-    notice a pattern? :)'
-- id: 34
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0wOC0wOSAxOToxODo0MSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0wOSAxODoxODo0MSArMDEwMA==
-  content: Excellent, those shortcuts work nicely.  Now to try and retrain my fingers
-    to type them instead of the XEmacs variants... :-)
 ---
 I've spent today using <a href="http://macromates.com/" title="TextMate: The Missing Editor for OS X">TextMate</a> in anger for the first time.  I think I downloaded it quite a while back and gave it a five minute spin, but never used it in anger.  Today, after seeing it mentioned on this <a href="http://maczealots.com/articles/shareware/2005/" title="MacZealots - Top 10 Shareware Apps of 2005">top 10 shareware apps</a> list, I decided to give it a proper shot.  So I've been writing Python, Zope Page Templates and XHTML in it for the day.
 

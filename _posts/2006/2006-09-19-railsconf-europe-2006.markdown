@@ -10,24 +10,6 @@ tags:
 - Geekery
 - Ruby and Rails
 - Work
-comments:
-- id: 580
-  author: weSpendMoney - &raquo; Railsconf 2006 Europe
-  author_email: ''
-  author_url: http://reinventar.com/32cents/2006/09/30/railsconf-2006-europe/
-  date: !binary |-
-    MjAwNi0wOS0zMCAxMzoyOTozMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wOS0zMCAxMjoyOTozMiArMDEwMA==
-  content: <p>[...] We stayed a whole week in London, it&#8217;s a fantastic city
-    and I&#8217;m glad to visit it once again, there&#8217;s so much to see and experience
-    there, I have to go back one of these days. Anyway, we managed to meet a bunch
-    of cool people, see some interesting presentations and bring home a dozen bright
-    ideas. I wrote a more detailed post in my blog about the conference and I found
-    some other sites which contained the keynotes for the presentations. So there&#8217;s
-    plenty of information going around. Check for example, the David&#8217;s blog
-    post &#8220;decompressing RailsConf Europe&#8221; or my friend Mathie&#8217;s
-    post with a overview of the most positive ideas. [...]</p>
 ---
 Wow! What a fantastic conference! It is, without a doubt, the most vibrant,
 exciting conference I've ever attended. I suppose that's not really saying

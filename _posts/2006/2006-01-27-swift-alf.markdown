@@ -4,27 +4,6 @@ title: Swift &#039;alf?
 date: 2006-01-27 15:41:20 +00:00
 categories:
 - Personal
-comments:
-- id: 294
-  author: Annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNi0wMi0xNSAxMzowNzo1NiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMi0xNSAxMjowNzo1NiArMDAwMA==
-  content: <p>you gonna post anyfink on here? now i'm not allowed to read LJ i kinda
-    bank on you postin insteresting fings for me to read on here instead!!</p>
-- id: 295
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNi0wMi0xNSAxNTo0OTo0NSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMi0xNSAxNDo0OTo0NSArMDAwMA==
-  content: <p>One of these days, aye.  But I'm too busy <em>doing</em> stuff to write
-    about it just now!</p>
 ---
 It's not often I get to head into the big city for a night on the town these days.  But tonight, we're popping in to the [Guildford Arms](http://www.beerintheevening.com/pubs/s/51/5175/Guildford_Arms/Edinburgh) for a pint or two after work (Annabel should be there by aout 17:15, I'll probably be a bit later since I have to get in from Musselburgh).  Wanna join us?  Little birds tell us that the have [Orkney Dark Island](http://freespace.virgin.net/rich.13/orkneydark.html) on tap. :-)
 

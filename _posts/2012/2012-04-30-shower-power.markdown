@@ -7,27 +7,6 @@ categories:
 - Personal
 - Ruby and Rails
 - Work
-comments:
-- id: 1480
-  author: stu taylor
-  author_email: blogpost@stuart-taylor.net
-  author_url: http://www.stuart-taylor.net
-  date: !binary |-
-    MjAxMi0wNS0wNCAxNjoyNjo1NSArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMi0wNS0wNCAxNToyNjo1NSArMDEwMA==
-  content: ! '<p>Love the idea, and enjoyed playing with the figures. This would be
-    great for a mortgage calculator (there are loads on the net which could be improved
-    in this way).</p>
-
-
-    <p>I noticed a minor defect, around the cost of water. Increase it to £1 and you
-    will see what i mean. 101p is ok, as is 99p</p>
-
-
-    <p>Stuart.</p>
-
-'
 ---
 A few weeks ago, I watched a talk from CUSEC 2012 by [Bret Victor](http://worrydream.com/) called [Inventing on Principle](http://www.youtube.com/watch?v=PUv66718DII) where he described the principle by which he lives his life. You should go watch the talk now, it's awesome. I'll wait.
 

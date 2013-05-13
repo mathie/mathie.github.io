@@ -4,37 +4,6 @@ title: That was the weekend that was
 date: 2005-10-17 13:08:26 +01:00
 categories:
 - Personal
-comments:
-- id: 158
-  author: Derek
-  author_email: derek@drossy.net
-  author_url: http://www.drossy.net
-  date: !binary |-
-    MjAwNS0xMC0xOCAyMTo0NTo1NyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0xOCAyMDo0NTo1NyArMDEwMA==
-  content: ! "If its a  â€œlist of stuff we donâ€™t haveâ€\x9D, why can't an xbox
-    360 go on the list? Especially if you don't expect people to get you anything
-    from the list? :-)"
-- id: 159
-  author: annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMC0xOSAxMTo0MTowMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0xOSAxMDo0MTowMiArMDEwMA==
-  content: well see, its a list of stuf we dont have that *we* want... so the xbox
-    just doesnt count :oP
-- id: 160
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0xMC0xOSAxMjowMzozNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0xOSAxMTowMzozNyArMDEwMA==
-  content: Says she who spent Monday night playing Buffy! :-p
 ---
 <em>*phew*</em> That was a productive, yet relaxing weekend.  We have now constructed 80 wedding invites (yes, they're all hand made by us, which is why you may note that they <em>look</em> home made!), figured out the text to put inside them, made up maps of where to find the venues &amp; of local hotels, and scrabbled together the text for an 'extra information' sheet.  We've still to print out the inserts, assemble all the contents into envelopes, figure out who to mail them to and stick them in the post.  I suspect that will be this weekend's task.
 

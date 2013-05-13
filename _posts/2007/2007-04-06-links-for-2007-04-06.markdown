@@ -4,23 +4,6 @@ title: links for 2007-04-06
 date: 2007-04-06 01:42:55 +01:00
 categories:
 - Web surfing
-comments:
-- id: 802
-  author: Craig
-  author_email: craig@xeriom.net
-  author_url: http://xeriom.net/
-  date: !binary |-
-    MjAwNy0wNC0wNiAwNzo1NTo1OCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNC0wNiAwNjo1NTo1OCArMDEwMA==
-  content: ! '<p>I use my OpenID for LiveJoural and Highrise, and quite a lot of blogging
-    software has plugins for OpenID for comments which is nice. I''ll be using it
-    at every possible opportunity from now on. OpenID is a great idea and I love having
-    just one place to trust with my ID.</p>
-
-
-    <p>Shame you''re using WordPress 2.0.2 - The OpenID plugin works from 2.0.3 onwards:
-    http://verselogic.net/projects/wordpress/wordpress-openid-plugin/ :)</p>'
 ---
 <ul class="delicious">
 	<li>

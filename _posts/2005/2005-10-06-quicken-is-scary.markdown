@@ -4,16 +4,6 @@ title: Quicken is scary
 date: 2005-10-06 20:19:31 +01:00
 categories:
 - Personal
-comments:
-- id: 144
-  author: annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMC0wNyAxMDoxNDo0NCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0wNyAwOToxNDo0NCArMDEwMA==
-  content: you got a comment on this one in LJ....
 ---
 OK, I'm bored.  It's one of those evenings where I didn't actually notice it getting dark 'til I looked away from the computer and realised I couldn't see anything else.  Usually one notices these things thanks to the not being able to see the keyboard any longer, but Apple have solved that with their backlit keyboard...
 

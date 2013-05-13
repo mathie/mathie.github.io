@@ -10,17 +10,6 @@ tags:
 - Geekery
 - RailsConf Europe
 - Ruby and Rails
-comments:
-- id: 612
-  author: A Fresh Cup &raquo; Blog Archive &raquo; Searching a Model on Multiple Fields
-  author_email: ''
-  author_url: http://afreshcup.com/?p=590
-  date: !binary |-
-    MjAwOC0wMS0wMSAxNDozNzowNSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwOC0wMS0wMSAxNDozNzowNSArMDAwMA==
-  content: ! '[...] ModelSearch is a plugin that was demoed in one of the talks at
-    RailsConf Europe 2006. It lets you do things like [...]'
 ---
 > This is the tenth in a series of articles of me writing up my notes from
 > from RailsConf Europe 2006. They are all first drafts, probably

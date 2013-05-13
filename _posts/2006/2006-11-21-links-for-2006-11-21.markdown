@@ -4,45 +4,6 @@ title: links for 2006-11-21
 date: 2006-11-21 01:43:09 +00:00
 categories:
 - Web surfing
-comments:
-- id: 713
-  author: Matty
-  author_email: matty91@gmail.com
-  author_url: http://prefetch.net
-  date: !binary |-
-    MjAwNi0xMS0yMSAxMTo0MTo1OCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0yMSAxMDo0MTo1OCArMDAwMA==
-  content: ! '<p>Dnscheck looks nifty. I typically use a combination of nsping, dnstrace
-    and DNS report to ensure that my DNS infrastructure is "clean." Nsping and dnstrace
-    are available as source code, and DNS report resides at the following location:</p>
-
-
-    <p>http://www.dnsreport.com/</p>
-
-
-    <p>Thanks,
-
-    - Ryan</p>'
-- id: 714
-  author: mathie
-  author_email: mathie@rubaidh.com
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNi0xMS0yMSAxMjowMDo0NyArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0yMSAxMTowMDo0NyArMDAwMA==
-  content: ! '<p>Matty: Ooh, dnstrace looks like it''s a command line version the
-    web-based tool I was using yesterday.  Much better. :-)  Thanks!</p>'
-- id: 715
-  author: Mark Brown
-  author_email: broonie@sirena.org.uk
-  author_url: http://www.sirena.org.uk/log/
-  date: !binary |-
-    MjAwNi0xMS0yMyAyMDozNzoyNSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0yMyAxOTozNzoyNSArMDAwMA==
-  content: <p>dlint is pretty handy too, though it does have some editorial ideas.</p>
 ---
 <ul class="delicious">
 	<li>

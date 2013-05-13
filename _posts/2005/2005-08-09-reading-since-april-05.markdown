@@ -5,29 +5,6 @@ date: 2005-08-09 23:17:45 +01:00
 categories:
 - Entertainment
 - Personal
-comments:
-- id: 35
-  author: Peter
-  author_email: peter@logicalware.com
-  author_url: http://ww.logicalware.com
-  date: !binary |-
-    MjAwNS0wOC0xMSAxMzoxNzoyMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0xMSAxMjoxNzoyMiArMDEwMA==
-  content: I'd reccomend 'Johnathan Strange and Mr Norrell' by Susannah Clarke, it
-    must be about 70-80mm thick, and quite a good read as well, I think you'd like
-    it.
-- id: 36
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0wOC0xMSAxMzoyOTo0NSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0xMSAxMjoyOTo0NSArMDEwMA==
-  content: See the previous post. :-)  It was the first book I read this year, and
-    I really enjoyed it.  I picked it up after Neil Gaiman mentioned it in his blog
-    for the umpteenth time...
 ---
 <table>
 <thead>

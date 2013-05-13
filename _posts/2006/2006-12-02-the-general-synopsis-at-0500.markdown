@@ -8,18 +8,6 @@ categories:
 tags:
 - Entertainment
 - Personal
-comments:
-- id: 735
-  author: Max
-  author_email: max.mitchell@gmail.com
-  author_url: ''
-  date: !binary |-
-    MjAwNi0xMi0wNCAwMDoxNDoxMiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMi0wMyAyMzoxNDoxMiArMDAwMA==
-  content: <p>There's a book all about the shipping forecast on Amazon if you're that
-    way inclined. <a href="http://www.amazon.com/Attention-All-Shipping-Journey-Forecast/dp/0316724742/"
-    rel="nofollow">Here!</a></p>
 ---
 I haven't really heard it for a while, but coming back from dropping Annabel & Margaret at the airport (they're off to Rome for the weekend!) I heard the full shipping forecast.  There's something really comforting about the announcer reeling off the names:
 

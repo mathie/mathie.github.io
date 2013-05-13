@@ -8,20 +8,6 @@ categories:
 tags:
 - Geekery
 - Ruby and Rails
-comments:
-- id: 891
-  author: Jim James
-  author_email: jim@jimjames.org
-  author_url: http://p.latyp.us
-  date: !binary |-
-    MjAwNy0wNi0yNCAxNToyMjo0NyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNi0yNCAxNDoyMjo0NyArMDEwMA==
-  content: ! '<p>Obviously because someone on the core team is a fan of Car Talk.
-    This was the subject of a recent stumper from Click and Clack: http://cartalk.com/content/puzzler/transcripts/200708/index.html</p>
-
-
-    <p>Arf!</p>'
 ---
 I've just done a `piston update` on a project I'm doing that's using edge Rails and was reviewing the changes.  Apart from the lovely documentation that ActiveResource appears to have been donated, there's another exciting change I spotted:
 

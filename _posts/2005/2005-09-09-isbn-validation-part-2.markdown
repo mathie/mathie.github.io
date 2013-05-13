@@ -5,39 +5,6 @@ date: 2005-09-09 09:25:59 +01:00
 categories:
 - Geekery
 - Python
-comments:
-- id: 106
-  author: digitalkatie
-  author_email: kate@kategalloway.co.uk
-  author_url: ''
-  date: !binary |-
-    MjAwNS0wOS0xMiAxNzozNzoxOSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOS0xMiAxNjozNzoxOSArMDEwMA==
-  content: You don't fancy coming and teaching my 4th years do you?  Most of them
-    failed the "what is a check digit" question in last weeks test!
-- id: 107
-  author: kesor
-  author_email: kesor@kesor.net
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMS0yMSAxMzowMzo1NiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yMSAxMjowMzo1NiArMDAwMA==
-  content: ! "A ruby version . . . (correct me if i'm wrong)\n\n[code lang=\"ruby\"]def
-    isValidISBN(isbn, c_map = '0123456789X')\n        sum = 0;\n        isbn[0..-2].scan(/\\d/).each_with_index
-    { |c,i| sum += c.to_i*(i+1) }\n        isbn[-1] == c_map[sum % c_map.length]\nend[/code]"
-- id: 108
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0xMS0yMSAxMzoxMTowNiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yMSAxMjoxMTowNiArMDAwMA==
-  content: ! 'kesor:  Looks about right to my Ruby-virgin eyes. :-)  Thanks, in fact,
-    since one of the projects I have on the back burner will be needing this for input
-    validation soon. :-)'
 ---
 An update to <a href="http://woss.name/2005/09/08/isbn-validation/">ISBN validation</a>. After thinking about Sean's comment, I do see that I've repeated some assumptions in many different places.  So, here's a new version:
 

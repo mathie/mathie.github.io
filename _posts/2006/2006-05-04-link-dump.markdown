@@ -5,22 +5,6 @@ date: 2006-05-04 13:54:32 +01:00
 categories:
 - Geekery
 - Work
-comments:
-- id: 417
-  author: Annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNi0wNS0wNSAxMjoxODoxMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNS0wNSAxMToxODoxMCArMDEwMA==
-  content: ! '<p>i was looking at trains to lodnol for that weekend, and aparently
-    you cant book them further than 3 months in advance... so i''ve set up a reminder
-    at work to  make us book asap :o)
-
-    was thinking i''d just come down to join you on the friday after work though if
-    thats alright? then i dont have to be in lodnol on me todsome! (and it wont take
-    up holidays :O)</p>'
 ---
 <img src="http://woss.name/dist/railsconf-europe-attendee.png" class="alignleft" /> [RailsConf Europe](http://europe.railsconf.org/) has been announced.  Have you booked your place yet?  I have.  :-)  And I'm looking forward to it already!  I haven't organised any accommodation or travel yet -- I should really do that further in advance this time...
 

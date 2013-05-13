@@ -6,28 +6,6 @@ categories:
 - Geekery
 - Personal
 - Photography
-comments:
-- id: 163
-  author: annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMC0yMCAxMjozNjo1MiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0yMCAxMTozNjo1MiArMDEwMA==
-  content: ! 'dont you dare!!
-
-
-    *stern look*'
-- id: 164
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0xMC0yMCAxMjo0MjozNSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0yMCAxMTo0MjozNSArMDEwMA==
-  content: What, knock the second 30" display off the order? :-P
 ---
 <a href="http://woss.name/wp-content/applestoreg5.png"><img src='http://woss.name/wp-content/thumb-applestoreg5.png' alt='Must resist the temptation to click \&#39;add to basket\&#39;!' class="centered" /></a>
 (click the image for the full-sized version)

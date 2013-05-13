@@ -12,26 +12,6 @@ tags:
 - RailsConf Europe
 - Ruby and Rails
 - Work
-comments:
-- id: 808
-  author: Colin
-  author_email: colin@doch.org.uk
-  author_url: http://doch.org.uk
-  date: !binary |-
-    MjAwNy0wNS0xNCAwODoyNDowMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNS0xNCAwNzoyNDowMyArMDEwMA==
-  content: <p>All the best Graeme, have a safe trip. Lets make sure we meet up when
-    you get back...</p>
-- id: 809
-  author: Jim Remsik Jr
-  author_email: jremsikjr@gmail.com
-  author_url: http://semji.blogspot.com
-  date: !binary |-
-    MjAwNy0wNS0xNCAxMjozODoyNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNS0xNCAxMTozODoyNyArMDEwMA==
-  content: <p>Have a safe trip. We'll see you on the other side.</p>
 ---
 Well, that's me packed, I hope.  I'm just grabbing a coffee or three before I start my journey out to Portland for RailsConf 2007!  The laptop has the latest Peepcode screencast: [Javascript with Prototype.js](http://peepcode.com/products/javascript-with-prototypejs); and a couple of the newest Pragmatic Programmers' books: [Release It!](http://pragmaticprogrammer.com/titles/mnee/index.html) and [Programming Erlang](http://pragmaticprogrammer.com/titles/jaerlang/index.html) (not that I'm thinking seriously of switching to Erlang any time soon, it just sounds interesting, and I do like to learn a new language every year or so!).  I've got a pile of paper books with me for when the laptop batteries give out.
 

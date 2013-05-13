@@ -4,24 +4,6 @@ title: links for 2007-04-27
 date: 2007-04-27 01:36:20 +01:00
 categories:
 - Web surfing
-comments:
-- id: 803
-  author: Matty
-  author_email: matty91@gmail.com
-  author_url: http://prefetch.net
-  date: !binary |-
-    MjAwNy0wNC0yNyAxMjowMzoxMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNC0yNyAxMTowMzoxMyArMDEwMA==
-  content: ! '<p>I saw NIN a few months ago, and they are awesome live (Hurt was especially
-    good live)! If your a NIN fan, you will love the show.</p>
-
-
-    <ul>
-
-    <li>Ryan</li>
-
-    </ul>'
 ---
 <ul class="delicious">
 	<li>

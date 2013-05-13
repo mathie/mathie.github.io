@@ -4,16 +4,6 @@ title: Arrival in, and first day of, Naxos
 date: 2005-09-17 21:30:24 +01:00
 categories:
 - Personal
-comments:
-- id: 119
-  author: ! '&raquo; Writeup of Greece (Notes from a messy desk)'
-  author_email: ''
-  author_url: http://woss.name/2005/10/21/writeup-of-greece/
-  date: !binary |-
-    MjAwNS0xMS0yMiAxNToyNToyNCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yMiAxNDoyNToyNCArMDAwMA==
-  content: ! '[...] Arrival in, and first day of, Naxos [...]'
 ---
 <p>So after that exertion of writing all that, I fell asleep &amp; completely missed sunset.  Nor did we ever notice anything shiny in the wake.  We docked at Paros (about 21:30) where we dropped off the majority of the ship's passengers -- I spent most of the time trying to take long exposure shots of bits around the port, whilst cursing the eejits who were trying to take photographs of the same subjects (that were quite a distance away!) with a flash!  The only thing they succeeded in lighting up was glare on my exposure!  Bah!  Still, none of them turned out anyway, since the ship's engines were causing too much camera shake...</p>
 

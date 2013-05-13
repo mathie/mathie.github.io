@@ -5,28 +5,6 @@ date: 2006-04-03 12:34:20 +01:00
 categories:
 - Geekery
 - Work
-comments:
-- id: 357
-  author: David Goodlad
-  author_email: dgoodlad@gmail.com
-  author_url: http://david.goodlad.ca/
-  date: !binary |-
-    MjAwNi0wNC0wMyAxNzowOTowMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNC0wMyAxNjowOTowMCArMDEwMA==
-  content: <p>IIRC, you can append to existing methods in capistrano recipes by defining
-    a method called 'after_[methodname]'.  For example, @after_update_code@ and @after_setup@
-    should work...</p>
-- id: 358
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNi0wNC0wMyAxNzoyNDoyMSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNC0wMyAxNjoyNDoyMSArMDEwMA==
-  content: ! '<p>David: Oh, yeah, so you can.  That makes life a whole lot easier.
-    :)  Thanks!</p>'
 ---
 I've just submitted by first tip to [Rails Weenie](http://rails.techno-weenie.net/): [integrating file_column and capistrano](http://rails.techno-weenie.net/tip/2006/4/3/integrating_file_column_and_capistrano).  Well, it works for me.  I should really DRY it up a litle, taking the file_column path from environment.rb in deploy.rb, and I'm not entirely enthused about replacing `update_code` and `setup`, but I couldn't see a way to append stuff to an existing task.
 

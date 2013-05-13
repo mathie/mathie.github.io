@@ -4,34 +4,6 @@ title: Quake III Source Released
 date: 2005-08-22 12:47:52 +01:00
 categories:
 - Geekery
-comments:
-- id: 58
-  author: annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0wOC0yMiAxNjowNjo0NiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0yMiAxNTowNjo0NiArMDEwMA==
-  content: ! 'The one major thing I noticed is the tingly feeling in my stomach while
-    I was scanning through those lines of C
-
-
-
-    awww.... my gorgeous geek-boy, so sweet :o)'
-- id: 59
-  author: Mike
-  author_email: m.rovardi@blueyonder.co.uk
-  author_url: http://www.livejournal.com/users/digitalwanderer/
-  date: !binary |-
-    MjAwNS0wOC0yMyAyMzoxNDo0MiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0yMyAyMjoxNDo0MiArMDEwMA==
-  content: ! 'Do you two want to be left alone with the code for a while...?  :-)
-
-
-
-    Mike'
 ---
 The source to <a href="http://www.idsoftware.com/games/quake/quake3-arena/" title="id Software: Quake III Arena">Quake III</a> has been released.  The canonical forum for discussions seems to be the <a href="http://www.quakesrc.org/forums/viewforum.php?f=20">Quake Standards Group</a> (and there's a couple of posts there about mirrors since the id FTP site is permanently busy!).
 

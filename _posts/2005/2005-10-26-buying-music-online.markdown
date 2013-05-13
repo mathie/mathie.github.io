@@ -5,17 +5,6 @@ date: 2005-10-26 15:27:01 +01:00
 categories:
 - Entertainment
 - Geekery
-comments:
-- id: 175
-  author: Mark Brown
-  author_email: broonie@sirena.org.uk
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMC0yNiAxNzoxNTo1NyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0yNiAxNjoxNTo1NyArMDEwMA==
-  content: And in case anyone was wondering, <a href='http://www.museekster.com/allofmp3faq.htm'
-    rel="nofollow">here's a summary of the legal status</a>.
 ---
 For the first time in my life, I have bought music online (in a downloadable format; I've bought CDs from Amazon before...).  I was introduced to <a href="http://www.allofmp3.com/">AllOfMP3</a> by <a href="http://www.livejournal.com/users/broonie/">Broonie</a> (who learned about it from <a href="http://www.livejournal.com/users/render/">Render</a>) this morning and decided to give it a whirl.  It's <em>incredibly</em> cheap -- tracks are charged by the bandwidth consumed downloading them and so far I'm averaging $0.12 per track!  So I loaded my account up with $10 (less than &pound;6) and have managed to acquire:
 

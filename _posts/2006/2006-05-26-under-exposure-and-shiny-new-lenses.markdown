@@ -11,24 +11,6 @@ tags:
 - Photography
 - sigma
 - underexposed
-comments:
-- id: 474
-  author: Tim Kerby
-  author_email: tim@pentaprism.org
-  author_url: ''
-  date: !binary |-
-    MjAwNi0wNS0zMSAxNjowOToxNCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNS0zMSAxNTowOToxNCArMDEwMA==
-  content: ! '<p>The 50mm f1.8 is on my wishlist too, although I''d also consider
-    the 50mm f2.5 Macro or the 50mm f1.4</p>
-
-
-    <p>I''d also like this Tamron: http://www.onestop-digital.com/catalog/product_info.php?cPath=24_29&amp;products_id=95</p>
-
-
-    <p>It seems to get amazing reviews everywhere on the web and its not too expensive
-    for an f/2.8 zoom</p>'
 ---
 <a class="imagelink" href="http://woss.name/wp-content/uploads/2006/05/under_exposed.jpg" title="Under exposing pictures"><img id="image278" class="alignleft" src="http://woss.name/wp-content/uploads/2006/05/under_exposed.jpg" alt="Under exposing pictures" /></a>
 

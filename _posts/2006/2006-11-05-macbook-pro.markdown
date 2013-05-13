@@ -6,21 +6,6 @@ categories:
 - Geekery
 tags:
 - Geekery
-comments:
-- id: 667
-  author: TJ Stankus
-  author_email: tj@stank.us
-  author_url: http://tj.stank.us/
-  date: !binary |-
-    MjAwNi0xMS0wNSAxNTo1NzozMyArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMS0wNSAxNDo1NzozMyArMDAwMA==
-  content: <p>I had something similar happen at Apple and they were true to their
-    word when I went back. When I bought my wife's Powerbook a couple of years ago,
-    I was told it came with some software that it turned out was not included. When
-    I went back to the store, the salesman admitted his mistake and gave me the software
-    for free. They won my trust with their honesty. I've spent about $4000 at that
-    store since.</p>
 ---
 I finally succumbed.  I am the proud owner of a 17" Macbook Pro.  Not the shiniest, newest Core 2 Duo one, but the previous model.  See, I popped into [Scotsys](http://www.scotsys.co.uk/) in Glasgow yesterday afternoon, fully intending to buy the latest one if they had it in stock.  They didn't, but they were offering Â£200 off the old one, *plus* upgrading the memory to 2GB.  That still makes it a much sweeter machine than my old laptop and a little bit cheaper (or maybe including a new iPod in the deal...!).
 

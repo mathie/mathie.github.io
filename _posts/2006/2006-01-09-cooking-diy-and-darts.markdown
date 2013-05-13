@@ -4,35 +4,6 @@ title: Cooking, DIY and Darts
 date: 2006-01-09 16:43:54 +00:00
 categories:
 - Personal
-comments:
-- id: 249
-  author: Denver Trouton
-  author_email: dtrouton@yahoo.com
-  author_url: ''
-  date: !binary |-
-    MjAwNi0wMS0wOSAxOTo0MToyNSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0wOSAxODo0MToyNSArMDAwMA==
-  content: Carrots with fennel -- never tried that before, must give it a shot some
-    time!
-- id: 250
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNi0wMS0xMCAwOTozNDoxMiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0xMCAwODozNDoxMiArMDAwMA==
-  content: ! 'Denver: Yeah, it tastes fantastic.  I''ve only ever had it in a restaurant
-    a couple of times, and have been trying to emulate it at home since.
-
-
-    This version was boiling the carrots up with the fennel seeds, draining them,
-    returning to the pan and heating through with a dollop of creme fraiche.  Previously,
-    I''ve just cooked the carrots, drained them, returned to the pan, *then* added
-    the fennel seeds and fried it in a little butter.  I prefer the butter variant,
-    but next time I will add the fennel seeds while it''s being cooked, as that brings
-    out the flavour much better.'
 ---
 Sunday was one of those relaxing, yet productive days.  After spending the first part of the morning lying in bed, drinking coffee, catching up on back-issues of Practical Photography, listening to <a href="http://www.bbc.co.uk/radio4/news/bh/">Broadcasting House</a>, we got up and tidied the house a little in preparation for my parents visiting for Sunday Lunch.  Things like clearing the study of all the carboard boxes that wedding gifts had arrived in.  Putting up the mirror in the living room that's been lying against a wall for over 6 months now, waiting to be placed above the fire.  Putting pictures up on walls.  Cleaning some of the kerfuffle that has developed recently.
 

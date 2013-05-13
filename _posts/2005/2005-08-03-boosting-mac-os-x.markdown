@@ -15,29 +15,6 @@ excerpt: ! 'I''ve been mucking around with <a href="http://www.boost.org/" title
 date: 2005-08-03 20:30:50 +01:00
 categories:
 - Geekery
-comments:
-- id: 14
-  author: Lally
-  author_email: lally@vt.edu
-  author_url: ''
-  date: !binary |-
-    MjAwNS0wOC0yMCAxMzozMToxNSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0yMCAxMjozMToxNSArMDEwMA==
-  content: Gotta warn you, Qt's pretty assesque on OS X, even Qt 4.  They draw it
-    all themselves using their own drawing code, and the difference is pretty obvious.  After
-    using it for a while, I'm going Objective-C++.
-- id: 15
-  author: Jason K.
-  author_email: jkankiewicz@advpubtech.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMC0wNCAxODoxODo1NiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0wNCAxNzoxODo1NiArMDEwMA==
-  content: Why not use wxWidgets instead? It's cross-platform like QT but uses the
-    native GUI toolkit to render its controls so you'll get the native look and feel
-    in your GUI.
 ---
 I've been mucking around with <a href="http://www.boost.org/" title="Boost C++ Library">Boost</a> over the past couple of evenings to see if I can get it setup on my laptop and get back into a bit of C++ development.  I've succeeded, but it wasn't as simple as I'd thought.  Well, I suppose it could have been, but I also decided to figure out <a href="http://www.boost.org/tools/build/v2/index.html" title="Boost Build System v2">Boost.Build</a>.  BTW, a prerequisite for all the following is that the Apple <a href="http://developer.apple.com/" title="Apple Developer Tools">Developer Tools</a> installed.
 

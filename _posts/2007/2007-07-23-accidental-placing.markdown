@@ -8,16 +8,6 @@ categories:
 tags:
 - Geekery
 - Ruby and Rails
-comments:
-- id: 941
-  author: Jade Dias
-  author_email: kdias@telegraph.co.uk
-  author_url: ''
-  date: !binary |-
-    MjAwNy0wNy0yNSAyMzo0ODo1MSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNy0yNSAyMjo0ODo1MSArMDEwMA==
-  content: <p>Great work!</p>
 ---
 It's weird when you're reading through your RSS feeds and come across your own name in a screenshot.  Apparently I'm one of the top ten contributors to Rails this month: [Working with Rails July Hackfest](http://www.workingwithrails.com/hackfest/13-monthly-july-2-7) (currently at no. 7).  Not quite sure how I managed that, it's just been pure coincidence that I've been hacking on edge with a new project lately. :-)  So, what do you reckon I could do to get [#8830](http://dev.rubyonrails.org/ticket/8830), [#8831](http://dev.rubyonrails.org/ticket/8831), [#8832](http://dev.rubyonrails.org/ticket/8832), [#9051](http://dev.rubyonrails.org/ticket/9051) or [#9056](http://dev.rubyonrails.org/ticket/9056) accepted before the end of the month?
 

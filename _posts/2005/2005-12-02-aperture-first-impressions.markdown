@@ -5,30 +5,6 @@ date: 2005-12-02 18:32:23 +00:00
 categories:
 - Geekery
 - Photography
-comments:
-- id: 240
-  author: Paul D
-  author_email: paul@hiddenfortress.net
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMi0wMyAwNjoxMzoyOCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMi0wMyAwNToxMzoyOCArMDAwMA==
-  content: ! 'It''s nice hearing performance reports from people with machines on
-    the low end of the requirements scale.
-
-
-    And I had to chuckle, noticing that you have 518 unread articles in NetNewsWire.
-    :)'
-- id: 241
-  author: thebimbo
-  author_email: mjpsmith@excite.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMi0wNSAwMzo1MDo1MyArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMi0wNSAwMjo1MDo1MyArMDAwMA==
-  content: yes - all the Pro apps have the same interface...
 ---
 OK, I managed to resist installing Aperture until 17:00.  I'm still in the office -- I couldn't actually wait to get home to have a shot of it!  Installation was a breeze: bung in the DVD, double-click "Install Aperture" and go.  First time I try to run it, I attempt to grab one of the projects I have sitting (unedited) on the hard disk (a visit to Butterfly World a couple of months back) and go to import.  It whirs away for a while, then pops up with "Unsupported file format" for each of the images.  Oh, bugger, I think.  But then I remember that I'd un-applied the fixes for Mac OS X 10.4.3 mentioned <a href="http://minimal.cx/2005/11/01/make-os-x-1043-understand-canon-eos-350d-raw-files/ title="Make OS X 10.4.3 understand Canon EOS 350D raw files">here</a> and <a href="http://www.cyberhq.nl/2005/11/04/make-osx-1043-like-the-canon-350d.html" title="Make OSX 10.4.3 like the Canon 350D">here</a>, as I'd been having trouble importing photos a couple of evenings ago.  So I grabbed and reapplied those fixes, restarted Aperture and *phew* it works!
 

@@ -12,28 +12,6 @@ tags:
 - Python
 - Ruby and Rails
 - Solaris
-comments:
-- id: 761
-  author: Mike McKay
-  author_email: mike@vdomck.org
-  author_url: http://www.baobabhealth.org
-  date: !binary |-
-    MjAwNy0wMi0wMyAwODowMzo1NCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNy0wMi0wMyAwNzowMzo1NCArMDAwMA==
-  content: <p>Brilliant! I just copied it to .bashrc and it works perfectlty. This
-    is great!</p>
-- id: 762
-  author: Szemere Szemere
-  author_email: SzemereSzemere@googlemail.com
-  author_url: ''
-  date: !binary |-
-    MjAwOC0wNC0xNyAxMzowODowOSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNC0xNyAxMjowODowOSArMDEwMA==
-  content: <p>It's a very nice feature. I've dropped the '-q' as I think its better
-    to see the update inf e.g. if there is a merge. I'm noticing some other quirks,
-    but hope those will go away.</p>
 ---
 I'm working on a project with a team of people.  And when I do an `svn up` after other people have committed stuff, it's handy to get an overview of what's changed while I'm in the context of getting the updates.  (I also get an email everytime something is committed, but reading that involves switching to a different context from my development environment.)  So I came up with the following bash functions:
 

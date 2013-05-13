@@ -4,21 +4,6 @@ title: Pasteboard in Mac OS X
 date: 2005-08-26 12:13:23 +01:00
 categories:
 - Geekery
-comments:
-- id: 82
-  author: Gavin Kistner
-  author_email: gavin@refinery.com
-  author_url: http://phrogz.net/
-  date: !binary |-
-    MjAwNS0xMC0xMSAxNDowNzoyOSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0xMSAxMzowNzoyOSArMDEwMA==
-  content: ! 'Ahhh! So *that''s* why, when I entered a find string in TextMate, and
-    then opened up the file in BBEdit and opened its find dialog...the string was
-    already there.
-
-
-    It really creeped me out when it happened. Way too prescient. Now I know why :)'
 ---
 I've just discovered a couple of nice things about the Pasteboard (or clipboard as it's called in every other UI!) in Mac OS X.
 

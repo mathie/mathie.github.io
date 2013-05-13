@@ -10,27 +10,6 @@ tags:
 - Edinburgh Local
 - Geekery
 - Ruby and Rails
-comments:
-- id: 912
-  author: Mark Brown
-  author_email: broonie@sirena.org.uk
-  author_url: http://www.sirena.org.uk/log/
-  date: !binary |-
-    MjAwNy0wNy0xOCAyMjoyNzowNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNy0xOCAyMToyNzowNyArMDEwMA==
-  content: <p>You might want to say which intercom - IIRC they had a selection of
-    buzzers but I might be misremembering.</p>
-- id: 913
-  author: Graeme Mathieson
-  author_email: mathie@rubaidh.com
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNy0wNy0xOSAwODo1ODozOSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNy0wNy0xOSAwNzo1ODozOSArMDEwMA==
-  content: ! '<p>Mark: There''s a keypad which allows you to enter an entry code,
-    and an intercom buzzer to call and ask to be let in.  IIRC.</p>'
 ---
 At this month's Scottish Ruby User Group meeting, I'll be talking about some of the neat things I've been doing with [Capistrano 2](http://capify.org/) lately and how it totally rocks my world.  Chances are (can you tell I haven't finished writing it yet?!?) we'll cover:
 

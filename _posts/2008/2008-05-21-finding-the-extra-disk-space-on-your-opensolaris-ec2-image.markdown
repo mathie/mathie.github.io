@@ -5,17 +5,6 @@ date: 2008-05-21 12:35:03 +01:00
 categories:
 - Geekery
 - Solaris
-comments:
-- id: 1017
-  author: David Comay
-  author_email: David.Comay@Sun.COM
-  author_url: http://blogs.sun.com/comay/
-  date: !binary |-
-    MjAwOC0wNi0zMCAxODo0NDoyMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNi0zMCAxNzo0NDoyMCArMDEwMA==
-  content: <p>Yes, the initial smf(5) import is slow on builds earlier than snv_84.  OpenSolaris
-    2008.05 was built on snv_86 so you won't see this issue there.</p>
 ---
 Sun and Amazon recently announced the [Launch of OpenSolaris on Amazon
 EC2](http://blogs.sun.com/ec2/entry/launch_of_opensolaris_on_amazon) and I've

@@ -12,29 +12,6 @@ tags:
 - Python
 - railsconfeurope
 - Ruby and Rails
-comments:
-- id: 603
-  author: Kisin
-  author_email: jjm@ixtab.org.uk
-  author_url: ''
-  date: !binary |-
-    MjAwNi0xMC0wNCAyMzo1NzoxOSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMC0wNCAyMjo1NzoxOSArMDEwMA==
-  content: <p>Close to the holyrood for that post course pint I notice.</p>
-- id: 604
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNi0xMC0wNSAwODoyMTozMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMC0wNSAwNzoyMTozMiArMDEwMA==
-  content: ! '<p>kisin: That thought had crossed my mind, yeah. :-)</p>
-
-
-    <p>Don''t suppose DC are interested in training people up in the latest exciting
-    web technology...?</p>'
 ---
 This is a blatant bit of advertising, I'm afraid.
 

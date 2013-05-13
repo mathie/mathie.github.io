@@ -4,15 +4,5 @@ title: Winter
 date: 2005-11-21 10:45:28 +00:00
 categories:
 - Personal
-comments:
-- id: 217
-  author: annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMS0yMSAxNDowNDoxNyArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yMSAxMzowNDoxNyArMDAwMA==
-  content: ! '*hugs*'
 ---
 I think it's safe to say that winter's kicking in. :-/

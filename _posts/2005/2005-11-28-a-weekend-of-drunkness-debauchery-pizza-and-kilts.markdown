@@ -4,46 +4,6 @@ title: A weekend of drunkness, debauchery, pizza and kilts
 date: 2005-11-28 10:11:11 +00:00
 categories:
 - Personal
-comments:
-- id: 234
-  author: Mark Brown
-  author_email: broonie@sirena.org.uk
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMS0yOCAxMDo1ODoyMiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yOCAwOTo1ODoyMiArMDAwMA==
-  content: Lia Fail.
-- id: 235
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0xMS0yOCAxMTozNzo0OCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yOCAxMDozNzo0OCArMDAwMA==
-  content: ! 'Mark: Thanks, fixed now. :-)'
-- id: 236
-  author: Denver Trouton
-  author_email: dtrouton@yahoo.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMS0yOCAxNToxOToyMSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yOCAxNDoxOToyMSArMDAwMA==
-  content: ! 'There was nothing accidental about my not going back to the office :p
-
-
-    Glad you had a good night on Saturday, sorry I missed it!'
-- id: 237
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0xMS0yOSAxMDo1Nzo1NCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yOSAwOTo1Nzo1NCArMDAwMA==
-  content: ! 'denver: Yeah, so what was your excuse? :-P'
 ---
 Well, maybe not the debauchery, really. :-)  I've had a fantastic weekend, mostly spent 'out drinking with the lads'.  It's ages since I've done that, and it was great to catch up with people I've not seen in far too long.
 

@@ -4,38 +4,6 @@ title: A bit cheeky
 date: 2005-09-08 12:44:00 +01:00
 categories:
 - Personal
-comments:
-- id: 98
-  author: Mike
-  author_email: m.rovardi@blueyonder.co.uk
-  author_url: http://www.livejournal.com/users/digitalwanderer
-  date: !binary |-
-    MjAwNS0wOS0wOCAxNToxMjo0NyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOS0wOCAxNDoxMjo0NyArMDEwMA==
-  content: ! 'My understanding is that, if you approach a company "as a consumer"
-    - i.e. they have no reason to believe that you''re a business, and they quote
-    you a price without mentioning VAT, you can assume that they''ve included it in
-    said quote.
-
-
-    If you engage their services at said price and they then add VAT on top, you can
-    legitimately dispute it on the grounds that they''ve mispriced.
-
-
-    Mike'
-- id: 99
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0wOS0wOCAxNTozNzozOSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOS0wOCAxNDozNzozOSArMDEwMA==
-  content: They do explicitly say &pound;x.xx+VAT for every price, so I guess that
-    doesn't count.  It's just sly, though, because when you're discussing it and comparing
-    quotes, you always think of the &pound;x.xx bit and not remember to count the
-    VAT.
 ---
 As part of our negotiations with the caterers for the wedding, I just asked:
 

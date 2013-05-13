@@ -5,39 +5,6 @@ date: 2005-08-19 09:36:15 +01:00
 categories:
 - Entertainment
 - Personal
-comments:
-- id: 53
-  author: Peter
-  author_email: peter@logicalware.com
-  author_url: http://ww.logicalware.com
-  date: !binary |-
-    MjAwNS0wOC0xOSAwOTo1NjozMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0xOSAwODo1NjozMyArMDEwMA==
-  content: What about pints seven and eight, you forgot about them surely?
-- id: 54
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNS0wOC0xOSAwOTo1OTozNiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0xOSAwODo1OTozNiArMDEwMA==
-  content: I have no recollection whatsoever of pints seven and eight!  I'm pretty
-    sure I only had one pint after you guys left, but it does start to get a little
-    hazy...
-- id: 55
-  author: annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0wOC0xOSAxMDozOToyNiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0xOSAwOTozOToyNiArMDEwMA==
-  content: ! 'awww... poor thingmy....
-
-
-    ..if its any conselation... i''m feeling great :oP'
 ---
 There was a young man who swallowed pint one
 Just the one, after work was done

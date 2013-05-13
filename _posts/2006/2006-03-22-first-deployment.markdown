@@ -4,19 +4,6 @@ title: First Deployment
 date: 2006-03-22 18:12:13 +00:00
 categories:
 - Geekery
-comments:
-- id: 328
-  author: b922182dcab8
-  author_email: ''
-  author_url: http://b922182dcab8.us
-  date: !binary |-
-    MjAwOC0wNS0xNSAxODowMjozNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0wNS0xNSAxNzowMjozNyArMDEwMA==
-  content: ! '<p><strong>b922182dcab8...</strong></p>
-
-
-    <p>b922182dcab8c57c5f58...</p>'
 ---
 It's wonderful when a new application gets to a certain stage (let's call it 'First Deployment').  It's that point where, instead of battering away for hours on end with no real, tangible, visible progress, you are able to do short, sharp iterations, improving one thing and them deploying it.  Instead of spending 3 days battering your head against a slew of interdependent features, you can implement one thing and deploy it.  And then repeat.  And repeat.
 

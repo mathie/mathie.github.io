@@ -8,37 +8,6 @@ categories:
 tags:
 - Meta
 - Photography
-comments:
-- id: 560
-  author: Annabel
-  author_email: annabel@rubaidh.com
-  author_url: ''
-  date: !binary |-
-    MjAwNi0wNy0xNCAxNTozMzowNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNy0xNCAxNDozMzowNyArMDEwMA==
-  content: ! '<p>ooh, theyre lovely :o)
-
-    you clever little beakie you :o)</p>'
-- id: 561
-  author: Annabel
-  author_email: annabel@rubaidh.com
-  author_url: ''
-  date: !binary |-
-    MjAwNi0wNy0xNCAxNTozNTo1MyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNy0xNCAxNDozNTo1MyArMDEwMA==
-  content: <p>...are there prizes for guessing what/where each one is?</p>
-- id: 562
-  author: mathie
-  author_email: mathie@woss.name
-  author_url: http://woss.name/
-  date: !binary |-
-    MjAwNi0wNy0xNCAxNTo0MToxMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNy0xNCAxNDo0MToxMiArMDEwMA==
-  content: ! '<p>annabel:  Yeah, what a good idea. :-) But seeing as you have an advantage
-    over other folks, you need to tell me what <em>and</em> where!</p>'
 ---
 Apparently I'm having a slightly distracted day.  I should be fiddling around with portal catalogues in [Plone](http://www.plone.org/) and I should be creating a simple photograph gallery controller in [Rails](http://www.rubyonrails.org/) but instead I'm fiddling with my blog...
 

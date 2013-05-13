@@ -10,23 +10,6 @@ tags:
 - Geekery
 - Ruby and Rails
 - Work
-comments:
-- id: 774
-  author: RobinHood
-  author_email: wossname@zestnet.com
-  author_url: http://www.explorenormandy.com
-  date: !binary |-
-    MjAwNy0wMi0xNSAxODoxODozMiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNy0wMi0xNSAxNzoxODozMiArMDAwMA==
-  content: ! '<p>I think you have done a great design. It is clean, with clear, easy
-    on the eye images. The banner could stand out more but I have already used it
-    to learn a lot more about CT scanning. I can see why the physicians are concerned
-    at the amount of radiation dose received using these devices. I never thought
-    of the risks. This is a good site and congratulations to the medicos who commissioned
-    it.
-
-    Don''t change anything.</p>'
 ---
 After way too long in development, [Rubaidh](http://www.rubaidh.com/) is pleased to announce the launch of [Behind the Medical Headlines](http://www.behindthemedicalheadlines.com/), a site for the general public which intends to give y'all an authoritative, unbiased view of what's currently being talked about in the media.  I've been developing it (part time, because of funding) for about 10 months now, with quite a few iterations which eventually produced the current site.
 

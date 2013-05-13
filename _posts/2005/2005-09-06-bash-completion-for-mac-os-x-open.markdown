@@ -4,18 +4,6 @@ title: Bash completion for Mac OS X &#039;open&#039;
 date: 2005-09-06 11:14:10 +01:00
 categories:
 - Geekery
-comments:
-- id: 97
-  author: Philip (flip) Kromer
-  author_email: flip@infochimps.org
-  author_url: http://infochimps.org
-  date: !binary |-
-    MjAwOC0wOC0yOSAxNTo1OTo1NyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOC0wOC0yOSAxNDo1OTo1NyArMDEwMA==
-  content: ! "<p>Thanks so much for this!</p>\n\n<p>Textile or whatever has screwed
-    up the formatting here -- but try\n  http://gist.github.com/7983</p>\n\n<p>for
-    a cleaned-up worksforme</p>"
 ---
 Mac OS X has a neat command, <code>open(1)</code>, which will, by default, open a file specified as an argument with its default application.  However, it also allows to explicitly specify the application with the <code>-a</code> parameter.  So, for example, I can do <code>open -a "Adobe Photoshop CS2" foo.png</code> to open that image in Photoshop.  Much easier than fiddling around finding stuff in the Finder, at least for me.  OK, so one up on that, we can now have bash command completion, inspired by some other examples in <a href="http://www.caliban.org/bash/index.shtml">bash_completion</a> and a (non-working) example at <a href="http://iterm.sourceforge.net/resource.shtml">iTerm's resources page</a>.  Stick the following in <code>/path/to/bash_completion.d/open</code>, or simply in your <code>.bashrc</code>:
 

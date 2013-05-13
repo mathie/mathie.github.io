@@ -4,38 +4,6 @@ title: My photography kit
 date: 2005-08-13 19:44:03 +01:00
 categories:
 - Photography
-comments:
-- id: 39
-  author: Notes from a messy desk &raquo; Blog Archive &raquo; Digital Photography
-    Workflow
-  author_email: ''
-  author_url: http://woss.name/?p=70
-  date: !binary |-
-    MjAwNS0wOC0xOSAyMjo1MToxMSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0wOC0xOSAyMTo1MToxMSArMDEwMA==
-  content: ! '[...] But gradually, I became dissatisfied with the ability to attach
-    meta data to images. It&#8217;s awkward to add keywords in iPhoto (something which
-    Keyword Assistant mitigates somewhat) and there&#8217;s insufficient access to
-    meta data to append the kind of information I would like to apply to my images
-    in a structured format. Add to that the fact that I&#8217;ve started to take my
-    photography a little more &#8217;seriously&#8217;. I&#8217;ve got a shiny new
-    camera and now I shoot in RAW format. Unfortunately, iPhoto doesn&#8217;t support
-    the new Canon RAW (.CR2) format. And I&#8217;m unimpressed with iPhoto&#8217;s
-    support for RAW images anyway. [...]'
-- id: 40
-  author: ! '&raquo; Aperture: Second Impressions (Notes from a messy desk)'
-  author_email: ''
-  author_url: http://woss.name/?p=204
-  date: !binary |-
-    MjAwNS0xMi0wMyAxMDowNzo0NiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMi0wMyAwOTowNzo0NiArMDAwMA==
-  content: ! '[...] We&#8217;ve yet to explore most of the features of the workflow
-    (adding keywords, tweaking images, producing something at the other end), but
-    Aperture is making me as excited about the post-production side of photography
-    as getting a proper dSLR did for shooting pictures in the first place!  tags:
-    barcelona, loupe, photography, sagrada familia, aperture [...]'
 ---
 This is what I have in the way of photography kit just now:
 

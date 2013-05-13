@@ -4,28 +4,6 @@ title: Waiting to Leave Pireaus
 date: 2005-09-16 17:15:50 +01:00
 categories:
 - Personal
-comments:
-- id: 117
-  author: Notes from a messy desk &raquo; Blog Archive &raquo; Writeup of Greece
-  author_email: ''
-  author_url: http://woss.name/?p=156
-  date: !binary |-
-    MjAwNS0xMC0yMSAxMTozODozNSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0yMSAxMDozODozNSArMDEwMA==
-  content: ! '[...] Waiting to leave Pireaus [...]'
-- id: 118
-  author: Peter
-  author_email: peter@dunkley.me.uk
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMC0yMiAxNzo1MzoyMiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0yMiAxNjo1MzoyMiArMDEwMA==
-  content: ! '"... Iâ€™m now glad of studying all that maths at University."
-
-
-    I''m just trying to remember exactly when all that studying maths happened?'
 ---
 <p>OK, this isn't supposed to be a diary.  It's more like notes to remind me of stuff to blog about later.  Right now, we're sitting on the <em>Blue Star Paros</em>, waiting for it to leave Piraeus, our eventual destination: Naxos.  We're sitting in 'Oik' class (yes, that really is what it says on the tickets!) at the stern of the boat, looking back over the harbour &ellipse; and we've just left!  There goes our theory that they forgot to untie the boat and we've been dragging the town along behind us for the past 10 miles! :-) </p>
 

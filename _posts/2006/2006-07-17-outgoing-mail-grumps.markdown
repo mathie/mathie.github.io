@@ -6,31 +6,6 @@ categories:
 - Work
 tags:
 - Work
-comments:
-- id: 563
-  author: Kisin
-  author_email: jjm@ixtab.org.uk
-  author_url: ''
-  date: !binary |-
-    MjAwNi0wNy0yMSAxNjozMTowMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0wNy0yMSAxNTozMTowMyArMDEwMA==
-  content: <p>How about looking at MessageLabs for your email ? They will clean it
-    of most spam and all virus's, you may need to run your own SMTP server that they
-    can reach tho. We've been using them at work for a while and it's been really
-    good on the lack of spam stuff.</p>
-- id: 564
-  author: Switching to Gmail from DreamHost at Notes from a messy desk
-  author_email: ''
-  author_url: http://woss.name/2006/10/19/switching-to-gmail-from-dreamhost/
-  date: !binary |-
-    MjAwNi0xMC0xOSAxMzozMToxOSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNi0xMC0xOSAxMjozMToxOSArMDEwMA==
-  content: <p>[...] I&#8217;m still having outgoing messages bounced because they
-    are regularly listed in Spamcop. See the linked post for a more balanced discussion
-    of that, but it still doesn&#8217;t help me communicate with the people who&#8217;s
-    ISP uses Spamcop! [...]</p>
 ---
 *sigh* From the [SpamCop listing of mailbigip.dreamhost.com](http://www.spamcop.net/w3m?action=blcheck&ip=208.97.132.5):
 

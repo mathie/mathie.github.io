@@ -4,35 +4,6 @@ title: Nuts to curry
 date: 2005-10-24 12:48:41 +01:00
 categories:
 - Personal
-comments:
-- id: 167
-  author: annabel
-  author_email: annabel@durasonline.com
-  author_url: ''
-  date: !binary |-
-    MjAwNS0xMC0yNCAxMzozODoxOSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0yNCAxMjozODoxOSArMDEwMA==
-  content: ! 'yeah epipen might not be a bad idea.... so long as you remembered to
-    take it places!
-
-
-    :o*'
-- id: 168
-  author: Notes from a messy desk &raquo; Blog Archive &raquo; OK, now I want to eat
-    some nuts&#8230;
-  author_email: ''
-  author_url: http://woss.name/?p=164
-  date: !binary |-
-    MjAwNS0xMC0yNyAxMjo1NjoyNiArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0yNyAxMTo1NjoyNiArMDEwMA==
-  content: ! '[...] Following Sunday&#8217;s incident, I had an appointment with the
-    doctor today, finally registering with a new GP in Musselburgh. He agreed with
-    me that the best thing to do was to be prescribed an EpiPen. So I now have this
-    pen-like device in a funny yellow tube, with 0.3mg of adrenaline (Epinephrine).
-    I&#8217;m almost tempted to try some nuts, just to see how it works!   tags: anaphylaxis,
-    epipen, nuts, peanuts, allergic reaction [...]'
 ---
 Oops.  Annabel and I decided to treat ourselves to takeaway curry last night, from the local Indian restaurant we've bought from several times previously.  Annabel had her usual -- a Sabzi Pasanda -- and I ordered a Nawabi Bindi Ghosht, along with a couple of portions of vegetable pakora, some rice and a garlic &amp; coriander nan bread.  Dinner was delivered just in time for the final episode of <a href="http://www.bbc.co.uk/scotland/tv/monarch/">Monarch of the Glen</a> (not that I've ever really watched it before, so I had to keep asking who people were and what was going on, much to Annabel's annoyance, I guess, as she used to watch it avidly and so was keen to see the <em>last ever episode</em>).  So we settled down and munched our way through the lovely pakora.  I had some of my own curry, which is absolutely fantastic.
 

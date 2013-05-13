@@ -8,34 +8,6 @@ categories:
 tags:
 - Geekery
 - Photography
-comments:
-- id: 782
-  author: ! 'gaba: Apple Aperture Ã©s Adobe Lightroom'
-  author_email: ''
-  author_url: http://gaba.lenard.hu/2007/02/21/apple-aperture-es-adobe-lightroom/
-  date: !binary |-
-    MjAwNy0wMi0yMSAxNDoxNDo1NSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNy0wMi0yMSAxMzoxNDo1NSArMDAwMA==
-  content: ! '<p>[...] De most itt van Graeme Mathieson SkÃ³ciÃ¡bÃ³l, egy Ã©lvonalbeli
-    Aperture-felhasznÃ¡lÃ³, Ã©s nagyon meglepÅ‘ dolgokat mond, miutÃ¡n kiprÃ³bÃ¡lta
-    a Lightroomot: Notes from a messy desk: Adobe Photoshop Lightroom: first impressions
-    To be honest, Iâ€™ve been avoiding looking at Lightroom. I have a lot invested
-    in Aperture: I bought it at full price the day it came out and never quite got
-    around to claiming the rebate when 1.1 was released; Iâ€™ve spent a lot of time
-    using it; and Iâ€™ve got 15,000 images sitting in its library. [&#8230;] [...]</p>'
-- id: 783
-  author: Renato Godinho
-  author_email: renatogodinho@gmail.com
-  author_url: http://web.mac.com/rgodinho
-  date: !binary |-
-    MjAwNy0wMi0yMiAxNjoxMjo0MyArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNy0wMi0yMiAxNToxMjo0MyArMDAwMA==
-  content: <p>Well, when you finally look thoroughly at lightroom and if you decide
-    to switch, drop a line. My case is exactly like yours, save for the fact that
-    my only machine is a Powerbook G4 with 1 GB RAM. If you decide to go for Lightroom
-    despite the investment you made, I think I should consider it, too...</p>
 ---
 So [Adobe Lightroom](http://www.adobe.com/products/photoshoplightroom/) has been released.  (What's with sticking 'Photoshop' in the middle there?  I do dimly recall you developed that product too Adobe, and if you'll only get a move on and produce a native Intel build -- CS3 -- you'll get more cash out of me for that too!)  I've been broadly aware of its development, being an avid reader of [James Duncan Davidson's](http://blog.duncandavidson.com/) blogs.
 
