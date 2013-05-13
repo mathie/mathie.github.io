@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 444
-wordpress_url: http://woss.name/2007/06/24/solaris-upgrading-to-sun-studio-12/
 date: 2007-06-24 16:57:12.000000000 +01:00
 categories:
 - Geekery

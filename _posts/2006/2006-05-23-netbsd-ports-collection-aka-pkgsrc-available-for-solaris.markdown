@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 275
-wordpress_url: http://woss.name/2006/05/23/netbsd-ports-collection-aka-pkgsrc-available-for-solaris/
 date: 2006-05-23 11:25:20.000000000 +01:00
 categories:
 - Geekery

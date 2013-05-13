@@ -10,8 +10,6 @@ author_url: http://woss.name/
 excerpt: In which I take a long, long time just to retrieve a couple of numbers from
   a DB and display them on a web page. Ah, the joys of learning a new programming
   language, framework and ecosystem, all at once!
-wordpress_id: 664
-wordpress_url: http://woss.name/?p=664
 date: 2012-04-02 11:07:05.000000000 +01:00
 categories:
 - Geekery

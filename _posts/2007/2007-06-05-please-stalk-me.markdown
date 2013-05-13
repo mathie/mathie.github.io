@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 435
-wordpress_url: http://woss.name/2007/06/05/please-stalk-me/
 date: 2007-06-05 13:39:04.000000000 +01:00
 categories:
 - Geekery

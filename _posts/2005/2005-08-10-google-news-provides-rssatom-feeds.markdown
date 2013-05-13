@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 42
-wordpress_url: http://woss.name/?p=42
 date: 2005-08-10 15:53:42.000000000 +01:00
 categories:
 - Current Affairs

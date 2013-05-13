@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 353
-wordpress_url: http://woss.name/2006/11/20/omg-extreme-critical-emergency-everythings-broken-people-are-dying/
 date: 2006-11-20 12:04:06.000000000 +00:00
 categories:
 - Geekery

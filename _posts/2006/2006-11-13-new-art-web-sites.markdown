@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 348
-wordpress_url: http://woss.name/2006/11/13/new-art-web-sites/
 date: 2006-11-13 15:33:30.000000000 +00:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 217
-wordpress_url: http://woss.name/2006/01/16/upgrading-to-wp-20/
 date: 2006-01-16 22:45:12.000000000 +00:00
 categories:
 - Meta

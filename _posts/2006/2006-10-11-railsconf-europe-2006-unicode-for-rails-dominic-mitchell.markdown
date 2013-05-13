@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 334
-wordpress_url: http://woss.name/2006/10/11/railsconf-europe-2006-unicode-for-rails-dominic-mitchell/
 date: 2006-10-11 09:07:36.000000000 +01:00
 categories:
 - Geekery

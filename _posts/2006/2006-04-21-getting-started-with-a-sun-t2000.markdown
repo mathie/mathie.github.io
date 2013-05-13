@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 261
-wordpress_url: http://woss.name/2006/04/21/getting-started-with-a-sun-t2000/
 date: 2006-04-21 09:13:11.000000000 +01:00
 categories:
 - Geekery

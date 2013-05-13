@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 531
-wordpress_url: http://wordpress.woss.name/?p=531
 date: 2010-03-03 15:41:59.000000000 +00:00
 categories:
 - Uncategorized

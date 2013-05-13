@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 104
-wordpress_url: http://woss.name/?p=104
 date: 2005-09-07 12:32:46.000000000 +01:00
 categories:
 - Photography

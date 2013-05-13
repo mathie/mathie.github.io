@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 394
-wordpress_url: http://woss.name/2007/02/16/show-us-yer-gems/
 date: 2007-02-16 16:40:09.000000000 +00:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 425
-wordpress_url: http://woss.name/2007/05/24/thumper-the-first-impressions/
 date: 2007-05-24 18:56:23.000000000 +01:00
 categories:
 - Geekery

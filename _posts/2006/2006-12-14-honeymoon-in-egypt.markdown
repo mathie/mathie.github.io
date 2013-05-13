@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 370
-wordpress_url: http://woss.name/2006/12/14/honeymoon-in-egypt/
 date: 2006-12-14 14:08:36.000000000 +00:00
 categories:
 - Personal

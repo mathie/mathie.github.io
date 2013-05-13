@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 460
-wordpress_url: http://woss.name/2007/08/22/railsconf-europe/
 date: 2007-08-22 12:45:08.000000000 +01:00
 categories:
 - Geekery

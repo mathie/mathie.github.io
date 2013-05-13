@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 442
-wordpress_url: http://woss.name/2007/06/17/solaris-logging-to-a-separate-loghost-the-easy-way/
 date: 2007-06-17 10:20:38.000000000 +01:00
 categories:
 - Geekery

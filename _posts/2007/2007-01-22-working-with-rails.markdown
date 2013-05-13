@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 377
-wordpress_url: http://woss.name/2007/01/22/working-with-rails/
 date: 2007-01-22 15:19:51.000000000 +00:00
 categories:
 - Geekery

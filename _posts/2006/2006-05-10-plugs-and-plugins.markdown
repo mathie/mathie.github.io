@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 270
-wordpress_url: http://woss.name/2006/05/10/plugs-and-plugins/
 date: 2006-05-10 15:22:30.000000000 +01:00
 categories:
 - Geekery

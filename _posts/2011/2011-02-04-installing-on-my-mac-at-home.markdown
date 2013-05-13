@@ -11,8 +11,6 @@ excerpt: This is a short tutorial on connecting back to your home Mac via SSH, t
   the magic of MobileMe, then downloading some software, mounting the disk image and
   installing it, all without the need of the Mac OS X GUI. I use VirtualBox as an
   example, but it should work for any standard Mac OS X installer.
-wordpress_id: 575
-wordpress_url: http://woss.name/?p=575
 date: 2011-02-04 11:42:55.000000000 +00:00
 categories:
 - Geekery

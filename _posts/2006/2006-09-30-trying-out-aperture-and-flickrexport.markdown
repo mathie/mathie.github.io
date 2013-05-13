@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 311
-wordpress_url: http://woss.name/2006/09/30/trying-out-aperture-and-flickrexport/
 date: 2006-09-30 12:12:32.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 392
-wordpress_url: http://woss.name/2007/02/14/electricity-consumption/
 date: 2007-02-14 09:47:22.000000000 +00:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 446
-wordpress_url: http://woss.name/2007/06/26/tracking-which-deployment-youre-looking-at/
 date: 2007-06-26 02:15:30.000000000 +01:00
 categories:
 - Geekery

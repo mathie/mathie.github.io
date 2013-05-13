@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 277
-wordpress_url: http://woss.name/2006/05/25/bunch-of-unrelated-questions/
 date: 2006-05-25 09:53:06.000000000 +01:00
 categories:
 - Geekery

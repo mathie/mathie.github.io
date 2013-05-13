@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 273
-wordpress_url: http://woss.name/2006/05/17/keysigning-in-edinburgh/
 date: 2006-05-17 16:20:00.000000000 +01:00
 categories:
 - Geekery

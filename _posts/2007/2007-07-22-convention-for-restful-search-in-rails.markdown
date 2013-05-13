@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 455
-wordpress_url: http://woss.name/2007/07/22/convention-for-restful-search-in-rails/
 date: 2007-07-22 18:12:22.000000000 +01:00
 categories:
 - Geekery

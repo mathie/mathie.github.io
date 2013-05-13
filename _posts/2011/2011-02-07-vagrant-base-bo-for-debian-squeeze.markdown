@@ -10,8 +10,6 @@ author_url: http://woss.name/
 excerpt: I've built a Vagrant base box for the newly released Debian 6.0 "Squeeze"
   which went live over the weekend. I figured I'd share it to save you the bother
   of building one too.
-wordpress_id: 581
-wordpress_url: http://woss.name/?p=581
 date: 2011-02-07 10:57:36.000000000 +00:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 103
-wordpress_url: http://woss.name/?p=103
 date: 2005-09-07 11:56:22.000000000 +01:00
 categories:
 - Geekery

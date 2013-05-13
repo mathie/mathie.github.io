@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 271
-wordpress_url: http://woss.name/2006/05/11/scottish-ruby-user-group/
 date: 2006-05-11 11:49:26.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 244
-wordpress_url: http://woss.name/2006/03/22/did-you-forget-to-take-your-meds/
 date: 2006-03-22 10:35:58.000000000 +00:00
 categories:
 - Entertainment

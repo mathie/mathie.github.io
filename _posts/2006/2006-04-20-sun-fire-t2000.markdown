@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 260
-wordpress_url: http://woss.name/2006/04/20/sun-fire-t2000/
 date: 2006-04-20 16:33:49.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 242
-wordpress_url: http://woss.name/2006/03/10/updating-the-theme/
 date: 2006-03-10 08:35:02.000000000 +00:00
 categories:
 - Meta

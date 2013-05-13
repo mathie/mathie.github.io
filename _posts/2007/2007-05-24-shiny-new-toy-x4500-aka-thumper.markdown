@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 424
-wordpress_url: http://woss.name/2007/05/24/shiny-new-toy-x4500-aka-thumper/
 date: 2007-05-24 11:38:35.000000000 +01:00
 categories:
 - Geekery

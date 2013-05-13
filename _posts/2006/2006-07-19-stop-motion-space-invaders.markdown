@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 301
-wordpress_url: http://woss.name/2006/07/19/stop-motion-space-invaders/
 date: 2006-07-19 09:30:46.000000000 +01:00
 categories:
 - Web surfing

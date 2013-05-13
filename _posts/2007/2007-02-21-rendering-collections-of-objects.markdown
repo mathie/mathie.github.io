@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 396
-wordpress_url: http://woss.name/2007/02/21/rendering-collections-of-objects/
 date: 2007-02-21 15:31:51.000000000 +00:00
 categories:
 - Geekery

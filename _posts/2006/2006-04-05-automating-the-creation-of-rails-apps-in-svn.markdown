@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 254
-wordpress_url: http://woss.name/2006/04/05/automating-the-creation-of-rails-apps-in-svn/
 date: 2006-04-05 14:33:54.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 459
-wordpress_url: http://woss.name/2007/08/14/sentences-with-grammar-and-sense-like-stuff/
 date: 2007-08-14 16:18:34.000000000 +01:00
 categories:
 - Work

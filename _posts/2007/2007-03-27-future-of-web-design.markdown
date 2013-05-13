@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 402
-wordpress_url: http://woss.name/2007/03/27/future-of-web-design/
 date: 2007-03-27 13:23:10.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 286
-wordpress_url: http://woss.name/2006/06/20/of-consulting-and-developing-and-spending-money/
 date: 2006-06-20 14:22:34.000000000 +01:00
 categories:
 - Geekery

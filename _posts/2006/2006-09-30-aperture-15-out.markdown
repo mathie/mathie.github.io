@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 310
-wordpress_url: http://woss.name/2006/09/30/aperture-15-out/
 date: 2006-09-30 11:38:20.000000000 +01:00
 categories:
 - Geekery

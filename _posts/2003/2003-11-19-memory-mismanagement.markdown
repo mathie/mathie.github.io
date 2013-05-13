@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 330
-wordpress_url: http://woss.name/2003/11/19/memory-mismanagement/
 date: 2003-11-19 15:50:08.000000000 +00:00
 categories:
 - Geekery

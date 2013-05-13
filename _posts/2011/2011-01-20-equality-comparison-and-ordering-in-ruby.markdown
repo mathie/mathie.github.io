@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 547
-wordpress_url: http://woss.name/2011/01/20/equality-comparison-and-ordering-in-ruby/
 date: 2011-01-20 19:50:26.000000000 +00:00
 categories:
 - Ruby and Rails

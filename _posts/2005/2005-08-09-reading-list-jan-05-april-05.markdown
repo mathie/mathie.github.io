@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 37
-wordpress_url: http://woss.name/?p=37
 date: 2005-08-09 22:43:22.000000000 +01:00
 categories:
 - Entertainment

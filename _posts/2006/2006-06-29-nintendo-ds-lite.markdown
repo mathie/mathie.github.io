@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 292
-wordpress_url: http://woss.name/2006/06/29/nintendo-ds-lite/
 date: 2006-06-29 11:01:59.000000000 +01:00
 categories:
 - Geekery

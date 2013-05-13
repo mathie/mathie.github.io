@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 487
-wordpress_url: http://woss.name/?p=487
 date: 2008-09-19 10:20:33.000000000 +01:00
 categories:
 - Edinburgh Local

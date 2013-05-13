@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 294
-wordpress_url: http://woss.name/2006/07/04/game-recommendations/
 date: 2006-07-04 14:47:53.000000000 +01:00
 categories:
 - Geekery

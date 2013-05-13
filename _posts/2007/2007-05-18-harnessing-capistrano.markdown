@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 423
-wordpress_url: http://woss.name/2007/05/18/harnessing-capistrano/
 date: 2007-05-18 00:24:11.000000000 +01:00
 categories:
 - Uncategorized

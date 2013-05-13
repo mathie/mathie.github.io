@@ -14,8 +14,6 @@ excerpt: ! "I'm working on adding Atom (and RSS) support to MailManager and I'm 
   example of how to map an application that predates (popular) syndication to support
   RSS and Atom.</li>\n</ul>\n\nI'll cut it away from general view since it's probably
   not of interest to most of the readers here; click below if you'd like to read.\n"
-wordpress_id: 143
-wordpress_url: http://woss.name/?p=143
 date: 2005-10-10 17:56:03.000000000 +01:00
 categories:
 - Geekery

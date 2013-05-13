@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 388
-wordpress_url: http://woss.name/2007/02/08/lazyweb-ruby-diff-visualiser/
 date: 2007-02-08 18:50:29.000000000 +00:00
 categories:
 - Geekery

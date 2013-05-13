@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 239
-wordpress_url: http://woss.name/2006/03/09/essential-mac-os-x-software-revisited/
 date: 2006-03-09 10:27:14.000000000 +00:00
 categories:
 - Geekery

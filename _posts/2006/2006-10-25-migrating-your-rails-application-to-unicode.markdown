@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 342
-wordpress_url: http://woss.name/2006/10/25/migrating-your-rails-application-to-unicode/
 date: 2006-10-25 15:46:00.000000000 +01:00
 categories:
 - Geekery

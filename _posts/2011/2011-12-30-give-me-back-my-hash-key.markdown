@@ -10,8 +10,6 @@ author_url: http://woss.name/
 excerpt: Since I switched on "Use option as meta" in my Terminal app, I've lost my
   hash key. Can I have it back, please? Plus a bonus tip for quickly commenting out
   commands at the command line.
-wordpress_id: 637
-wordpress_url: http://woss.name/?p=637
 date: 2011-12-30 11:21:22.000000000 +00:00
 categories:
 - Geekery

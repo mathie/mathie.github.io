@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 149
-wordpress_url: http://woss.name/?p=149
 date: 2005-10-17 13:08:26.000000000 +01:00
 categories:
 - Personal

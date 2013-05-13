@@ -18,8 +18,6 @@ excerpt: ! 'I''ve been mucking around with <a href="http://www.boost.org/" title
 
 
 '
-wordpress_id: 22
-wordpress_url: http://woss.name/?p=22
 date: 2005-08-03 20:30:50.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 337
-wordpress_url: http://woss.name/2006/10/19/switching-to-gmail-from-dreamhost/
 date: 2006-10-19 13:31:01.000000000 +01:00
 categories:
 - Geekery

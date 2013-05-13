@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 322
-wordpress_url: http://woss.name/2006/10/04/railsconf-europe-2006-keynote-jim-weirich/
 date: 2006-10-04 10:47:59.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 489
-wordpress_url: http://woss.name/?p=489
 date: 2008-10-16 15:20:34.000000000 +01:00
 categories:
 - Ruby and Rails

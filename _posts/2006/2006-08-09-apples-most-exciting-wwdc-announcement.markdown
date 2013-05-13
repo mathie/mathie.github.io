@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 303
-wordpress_url: http://woss.name/2006/08/09/apples-most-exciting-wwdc-announcement/
 date: 2006-08-09 10:30:57.000000000 +01:00
 categories:
 - Geekery

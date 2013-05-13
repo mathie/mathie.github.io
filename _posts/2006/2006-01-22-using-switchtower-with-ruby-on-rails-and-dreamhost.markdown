@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 229
-wordpress_url: http://woss.name/2006/01/22/using-switchtower-with-ruby-on-rails-and-dreamhost/
 date: 2006-01-22 19:31:57.000000000 +00:00
 categories:
 - Geekery

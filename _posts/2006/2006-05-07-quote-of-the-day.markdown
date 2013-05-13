@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 267
-wordpress_url: http://woss.name/2006/05/07/quote-of-the-day/
 date: 2006-05-07 10:50:10.000000000 +01:00
 categories:
 - Personal

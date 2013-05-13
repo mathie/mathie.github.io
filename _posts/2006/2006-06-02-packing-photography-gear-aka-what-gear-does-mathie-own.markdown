@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 284
-wordpress_url: http://woss.name/2006/06/02/packing-photography-gear-aka-what-gear-does-mathie-own/
 date: 2006-06-02 01:00:00.000000000 +01:00
 categories:
 - Photography

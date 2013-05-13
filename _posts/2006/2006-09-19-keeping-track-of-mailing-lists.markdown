@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 306
-wordpress_url: http://woss.name/2006/09/19/keeping-track-of-mailing-lists/
 date: 2006-09-19 13:40:59.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 253
-wordpress_url: http://woss.name/2006/04/04/rails-normalizing-data-in-the-model/
 date: 2006-04-04 17:41:19.000000000 +01:00
 categories:
 - Geekery

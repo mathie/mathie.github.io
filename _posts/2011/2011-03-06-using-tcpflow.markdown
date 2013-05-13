@@ -12,8 +12,6 @@ excerpt: Sometimes, when you're writing applications that use a library to talk 
   exposes translates into the on-the-wire protocol. Funnily enough, I was having that
   very problem yesterday, so I dug `tcpflow` out my toolbox to better understand what
   was happening.
-wordpress_id: 601
-wordpress_url: http://woss.name/?p=601
 date: 2011-03-06 13:15:18.000000000 +00:00
 categories:
 - Geekery

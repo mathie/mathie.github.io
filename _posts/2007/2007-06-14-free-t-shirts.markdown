@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 440
-wordpress_url: http://woss.name/2007/06/14/free-t-shirts/
 date: 2007-06-14 13:26:17.000000000 +01:00
 categories:
 - Geekery

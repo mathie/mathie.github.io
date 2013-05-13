@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 263
-wordpress_url: http://woss.name/2006/05/02/dtrace-with-ruby-on-rails/
 date: 2006-05-02 09:50:16.000000000 +01:00
 categories:
 - Geekery

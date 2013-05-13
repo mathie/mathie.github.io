@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 407
-wordpress_url: http://woss.name/2007/03/30/links-for-2007-03-30/
 date: 2007-03-30 01:41:31.000000000 +01:00
 categories:
 - Web surfing

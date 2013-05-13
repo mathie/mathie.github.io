@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 457
-wordpress_url: http://woss.name/2007/07/24/resources-resources-everywhere-and-not-a-drop-to-consume/
 date: 2007-07-24 15:47:02.000000000 +01:00
 categories:
 - Geekery

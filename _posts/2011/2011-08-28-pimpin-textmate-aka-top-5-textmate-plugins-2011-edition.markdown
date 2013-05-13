@@ -10,8 +10,6 @@ author_url: http://woss.name/
 excerpt: I've put together a list of the indispensable TextMate plugins that take
   a great editor and make it awesome, including enhanced file finding, project search
   and Lion full screen support.
-wordpress_id: 616
-wordpress_url: http://woss.name/?p=616
 date: 2011-08-28 10:59:05.000000000 +01:00
 categories:
 - Geekery

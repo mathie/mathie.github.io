@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 318
-wordpress_url: http://woss.name/2006/10/02/photographing-hale-bopp/
 date: 2006-10-02 14:44:54.000000000 +01:00
 categories:
 - Photography

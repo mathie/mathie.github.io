@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 336
-wordpress_url: http://woss.name/2006/10/18/project-blackbox/
 date: 2006-10-18 14:12:54.000000000 +01:00
 categories:
 - Geekery

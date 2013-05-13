@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 291
-wordpress_url: http://woss.name/2006/06/28/dublin-ireland-in-a-nutshell/
 date: 2006-06-28 11:09:32.000000000 +01:00
 categories:
 - Personal

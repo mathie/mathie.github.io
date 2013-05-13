@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 368
-wordpress_url: http://woss.name/2006/12/08/places-i-can-be-found-on-the-internet/
 date: 2006-12-08 12:57:08.000000000 +00:00
 categories:
 - Geekery

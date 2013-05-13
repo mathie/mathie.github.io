@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 445
-wordpress_url: http://woss.name/2007/06/24/integrating-capistrano-with-smf/
 date: 2007-06-24 21:11:42.000000000 +01:00
 categories:
 - Geekery

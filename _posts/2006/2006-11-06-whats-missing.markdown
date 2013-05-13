@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 345
-wordpress_url: http://woss.name/2006/11/06/whats-missing/
 date: 2006-11-06 19:01:10.000000000 +00:00
 categories:
 - Geekery

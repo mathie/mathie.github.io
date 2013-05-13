@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 464
-wordpress_url: http://woss.name/2007/12/31/moving-to-a-new-host/
 date: 2007-12-31 07:35:04.000000000 +00:00
 categories:
 - Meta

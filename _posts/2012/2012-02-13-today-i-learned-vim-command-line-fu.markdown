@@ -9,8 +9,6 @@ author_email: mathie@woss.name
 author_url: http://woss.name/
 excerpt: In which I learn some useful shortcuts to make life faster with the Vim command
   line.
-wordpress_id: 657
-wordpress_url: http://woss.name/?p=657
 date: 2012-02-13 12:26:07.000000000 +00:00
 categories:
 - Geekery

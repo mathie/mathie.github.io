@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 419
-wordpress_url: http://woss.name/2007/05/10/levellers-beer-festival/
 date: 2007-05-10 11:40:00.000000000 +01:00
 categories:
 - Edinburgh Local

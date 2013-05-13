@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 437
-wordpress_url: http://woss.name/2007/06/11/waa-my-subversion-is-broken/
 date: 2007-06-11 11:24:12.000000000 +01:00
 categories:
 - Geekery

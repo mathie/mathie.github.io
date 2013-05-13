@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 344
-wordpress_url: http://woss.name/2006/11/05/macbook-pro/
 date: 2006-11-05 10:55:58.000000000 +00:00
 categories:
 - Geekery

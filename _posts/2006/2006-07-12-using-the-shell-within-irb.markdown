@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 296
-wordpress_url: http://woss.name/2006/07/12/using-the-shell-within-irb/
 date: 2006-07-12 11:50:39.000000000 +01:00
 categories:
 - Geekery

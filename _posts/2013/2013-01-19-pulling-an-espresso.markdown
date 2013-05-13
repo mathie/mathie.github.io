@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 690
-wordpress_url: http://woss.name/?p=690
 date: 2013-01-19 07:58:15.000000000 +00:00
 categories:
 - Food and drink

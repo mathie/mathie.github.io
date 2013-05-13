@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 488
-wordpress_url: http://woss.name/2008/09/21/first-shot-with-my-new-canon-eos-50d/
 date: 2008-09-21 11:21:56.000000000 +01:00
 categories:
 - Personal

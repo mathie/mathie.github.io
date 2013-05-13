@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 248
-wordpress_url: http://woss.name/2006/03/29/ruby-on-rails-hosting/
 date: 2006-03-29 09:08:13.000000000 +01:00
 categories:
 - Geekery

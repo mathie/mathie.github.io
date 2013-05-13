@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 395
-wordpress_url: http://woss.name/2007/02/21/adobe-photoshop-lightroom-first-impressions/
 date: 2007-02-21 10:25:19.000000000 +00:00
 categories:
 - Geekery

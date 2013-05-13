@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 333
-wordpress_url: http://woss.name/2006/10/10/railsconf-europe-2006-unobtrusive-javascript-dan-webb/
 date: 2006-10-10 09:10:26.000000000 +01:00
 categories:
 - Geekery

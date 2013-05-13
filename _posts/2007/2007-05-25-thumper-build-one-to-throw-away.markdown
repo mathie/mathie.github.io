@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 427
-wordpress_url: http://woss.name/2007/05/25/thumper-build-one-to-throw-away/
 date: 2007-05-25 09:21:30.000000000 +01:00
 categories:
 - Geekery

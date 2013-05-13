@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 329
-wordpress_url: http://woss.name/2003/10/13/duplicate-suppression-in-procmail/
 date: 2003-10-13 09:26:40.000000000 +01:00
 categories:
 - Geekery

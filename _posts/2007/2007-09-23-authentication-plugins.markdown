@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 461
-wordpress_url: http://woss.name/2007/09/23/authentication-plugins/
 date: 2007-09-23 11:03:32.000000000 +01:00
 categories:
 - Geekery

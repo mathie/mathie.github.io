@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 343
-wordpress_url: http://woss.name/2006/10/27/my-dream-app-results-are-in/
 date: 2006-10-27 08:28:48.000000000 +01:00
 categories:
 - Geekery

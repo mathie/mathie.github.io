@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 338
-wordpress_url: http://woss.name/2006/10/22/jon-aprils-wedding/
 date: 2006-10-22 12:09:49.000000000 +01:00
 categories:
 - Photography

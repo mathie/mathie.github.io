@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 309
-wordpress_url: http://woss.name/2006/09/21/another-chat-gizmo/
 date: 2006-09-21 13:07:30.000000000 +01:00
 categories:
 - Geekery

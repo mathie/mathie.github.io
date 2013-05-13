@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 456
-wordpress_url: http://woss.name/2007/07/23/accidental-placing/
 date: 2007-07-23 12:11:09.000000000 +01:00
 categories:
 - Geekery

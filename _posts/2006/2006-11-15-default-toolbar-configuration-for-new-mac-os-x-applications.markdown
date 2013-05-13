@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 350
-wordpress_url: http://woss.name/2006/11/15/default-toolbar-configuration-for-new-mac-os-x-applications/
 date: 2006-11-15 14:14:59.000000000 +00:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 356
-wordpress_url: http://woss.name/2006/11/21/quicksilver-widget-for-parallels/
 date: 2006-11-21 17:17:04.000000000 +00:00
 categories:
 - Geekery

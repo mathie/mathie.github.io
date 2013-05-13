@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 414
-wordpress_url: http://woss.name/2007/05/03/rails-conf-2007/
 date: 2007-05-03 14:02:38.000000000 +01:00
 categories:
 - Geekery

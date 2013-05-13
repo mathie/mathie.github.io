@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 327
-wordpress_url: http://woss.name/2003/10/16/sauce-with-postfix/
 date: 2003-10-16 08:09:58.000000000 +01:00
 categories:
 - Geekery

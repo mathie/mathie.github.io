@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 351
-wordpress_url: http://woss.name/2006/11/15/twittering-about-current-status-messages/
 date: 2006-11-15 16:08:55.000000000 +00:00
 categories:
 - Uncategorized

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 469
-wordpress_url: http://woss.name/2008/03/29/using-git-to-fix-up-other-projects/
 date: 2008-03-29 12:54:40.000000000 +00:00
 categories:
 - Geekery

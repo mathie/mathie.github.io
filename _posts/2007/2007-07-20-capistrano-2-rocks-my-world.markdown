@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 452
-wordpress_url: http://woss.name/2007/07/20/capistrano-2-rocks-my-world/
 date: 2007-07-20 09:27:09.000000000 +01:00
 categories:
 - Edinburgh Local

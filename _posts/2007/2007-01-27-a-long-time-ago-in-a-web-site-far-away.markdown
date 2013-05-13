@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 379
-wordpress_url: http://woss.name/2007/01/27/a-long-time-ago-in-a-web-site-far-away/
 date: 2007-01-27 12:35:51.000000000 +00:00
 categories:
 - Geekery

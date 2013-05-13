@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 358
-wordpress_url: http://woss.name/2006/11/25/multi-select-boxes-in-your-rails-view/
 date: 2006-11-25 14:43:59.000000000 +00:00
 categories:
 - Geekery

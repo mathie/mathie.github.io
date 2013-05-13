@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 683
-wordpress_url: http://woss.name/?p=683
 date: 2013-01-03 08:32:19.000000000 +00:00
 categories:
 - Commentary

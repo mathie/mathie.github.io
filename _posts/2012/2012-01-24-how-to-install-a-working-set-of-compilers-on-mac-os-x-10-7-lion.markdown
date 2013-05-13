@@ -9,8 +9,6 @@ author_email: mathie@woss.name
 author_url: http://woss.name/
 excerpt: Xcode 4.2 removed GCC, which seems to be causing a bit of confusion. Here's
   a bit of background and a workaround 'til the dust settles.
-wordpress_id: 648
-wordpress_url: http://woss.name/?p=648
 date: 2012-01-24 22:05:51.000000000 +00:00
 categories:
 - Geekery

@@ -10,8 +10,6 @@ author_url: http://woss.name/
 excerpt: ! "In this tutorial, I'll take you through using Chef and Homebrew to manage
   your\r\nhome directory in Mac OS X. I've also included a neat cookbook which will
   allow\r\nyou to use Homebrew as your native packaging system in Chef."
-wordpress_id: 551
-wordpress_url: http://woss.name/?p=551
 date: 2011-01-23 17:24:06.000000000 +00:00
 categories:
 - Geekery

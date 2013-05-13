@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 422
-wordpress_url: http://woss.name/2007/05/17/railsconf-2007-is-javascript-over-rated/
 date: 2007-05-17 20:59:25.000000000 +01:00
 categories:
 - Geekery

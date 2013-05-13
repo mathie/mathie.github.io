@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 428
-wordpress_url: http://woss.name/2007/05/26/thumper-debugging-and-not-jumping-to-conclusions/
 date: 2007-05-26 16:23:30.000000000 +01:00
 categories:
 - Geekery

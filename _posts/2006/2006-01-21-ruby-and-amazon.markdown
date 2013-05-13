@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 227
-wordpress_url: http://woss.name/2006/01/21/ruby-and-amazon/
 date: 2006-01-21 18:52:09.000000000 +00:00
 categories:
 - Geekery

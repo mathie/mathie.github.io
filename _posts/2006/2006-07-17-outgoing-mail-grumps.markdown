@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 300
-wordpress_url: http://woss.name/2006/07/17/outgoing-mail-grumps/
 date: 2006-07-17 14:36:55.000000000 +01:00
 categories:
 - Work

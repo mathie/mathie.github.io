@@ -29,8 +29,6 @@ excerpt: ! "<p>OK, mostly these are notes just now, as I do a little research fo
   \ For dropping the message, I agree with everything but point 3 (which I'm not entirely
   sure about).  And I'm not convinced that the algorithm for choosing the reply address
   is robust enough.  So let's start digging into the RFCs.</p>\n"
-wordpress_id: 177
-wordpress_url: http://woss.name/?p=177
 date: 2005-11-09 15:55:26.000000000 +00:00
 categories:
 - Geekery

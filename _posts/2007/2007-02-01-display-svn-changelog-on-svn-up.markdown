@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 386
-wordpress_url: http://woss.name/2007/02/01/display-svn-changelog-on-svn-up/
 date: 2007-02-01 14:22:53.000000000 +00:00
 categories:
 - Geekery

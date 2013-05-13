@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 349
-wordpress_url: http://woss.name/2006/11/15/desktop-pager-for-mac-os-x/
 date: 2006-11-15 12:05:34.000000000 +00:00
 categories:
 - Geekery

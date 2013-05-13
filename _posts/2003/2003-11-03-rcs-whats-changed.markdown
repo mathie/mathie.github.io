@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 324
-wordpress_url: http://woss.name/2003/11/03/rcs-whats-changed/
 date: 2003-11-03 13:36:39.000000000 +00:00
 categories:
 - Geekery

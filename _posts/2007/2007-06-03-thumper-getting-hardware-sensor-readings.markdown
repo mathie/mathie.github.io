@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 430
-wordpress_url: http://woss.name/2007/06/03/thumper-getting-hardware-sensor-readings/
 date: 2007-06-03 14:37:19.000000000 +01:00
 categories:
 - Geekery

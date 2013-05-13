@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 447
-wordpress_url: http://woss.name/2007/07/02/tip-mark-all-those-annoying-iphone-blog-posts-as-read/
 date: 2007-07-02 13:48:03.000000000 +01:00
 categories:
 - Web surfing

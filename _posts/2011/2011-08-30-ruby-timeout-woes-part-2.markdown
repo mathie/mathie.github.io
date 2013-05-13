@@ -9,8 +9,6 @@ author_email: mathie@woss.name
 author_url: http://woss.name/
 excerpt: in which I discover how Ruby's Timeout implementation actually works, and
   discover why some of our code inside a timeout block never really times out.
-wordpress_id: 629
-wordpress_url: http://woss.name/?p=629
 date: 2011-08-30 14:09:41.000000000 +01:00
 categories:
 - Geekery

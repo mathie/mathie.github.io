@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 272
-wordpress_url: http://woss.name/2006/05/17/whats-in-your-irbrc/
 date: 2006-05-17 12:58:04.000000000 +01:00
 categories:
 - Geekery

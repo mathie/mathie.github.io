@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 314
-wordpress_url: http://woss.name/2006/09/30/railsconf-europe-2006-integrating-asterisk-rails/
 date: 2006-09-30 16:41:45.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 316
-wordpress_url: http://woss.name/2006/10/02/railsconf-europe-2006-sharing-rjs/
 date: 2006-10-02 10:00:24.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 401
-wordpress_url: http://woss.name/2007/03/27/kathy-sierra-receives-death-threats/
 date: 2007-03-27 08:44:11.000000000 +01:00
 categories:
 - Current Affairs

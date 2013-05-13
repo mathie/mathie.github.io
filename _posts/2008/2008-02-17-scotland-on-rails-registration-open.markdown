@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 465
-wordpress_url: http://woss.name/2008/02/17/scotland-on-rails-registration-open/
 date: 2008-02-17 10:56:52.000000000 +00:00
 categories:
 - Geekery

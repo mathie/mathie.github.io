@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 404
-wordpress_url: http://woss.name/2007/03/28/ingredients-one-summers-day-and-two-very-photogenic-kids/
 date: 2007-03-28 11:12:20.000000000 +01:00
 categories:
 - Uncategorized

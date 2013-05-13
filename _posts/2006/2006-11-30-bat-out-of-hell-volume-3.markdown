@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 361
-wordpress_url: http://woss.name/2006/11/30/bat-out-of-hell-volume-3/
 date: 2006-11-30 11:56:22.000000000 +00:00
 categories:
 - Entertainment

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 492
-wordpress_url: http://woss.name/2008/11/18/rubaidhs-new-office-sign/
 date: 2008-11-18 12:55:27.000000000 +00:00
 categories:
 - Uncategorized

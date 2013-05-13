@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 436
-wordpress_url: http://woss.name/2007/06/09/solaris-bonding-network-interfaces/
 date: 2007-06-09 13:54:37.000000000 +01:00
 categories:
 - Geekery

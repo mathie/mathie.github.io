@@ -9,8 +9,6 @@ author_email: mathie@woss.name
 author_url: http://woss.name/
 excerpt: in which I discover that the behaviour of Ruby's built in timeout mechanism
   has changed slightly between Ruby 1.8.x and Ruby 1.9.
-wordpress_id: 623
-wordpress_url: http://woss.name/?p=623
 date: 2011-08-30 13:21:43.000000000 +01:00
 categories:
 - Geekery

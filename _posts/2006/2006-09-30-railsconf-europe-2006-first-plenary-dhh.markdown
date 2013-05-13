@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 313
-wordpress_url: http://woss.name/2006/09/30/railsconf-europe-2006-first-plenary-dhh/
 date: 2006-09-30 16:37:02.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 259
-wordpress_url: http://woss.name/2006/04/19/reminders-to-self/
 date: 2006-04-19 11:59:49.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 258
-wordpress_url: http://woss.name/2006/04/19/re-windows/
 date: 2006-04-19 11:55:31.000000000 +01:00
 categories:
 - Geekery

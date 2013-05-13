@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 393
-wordpress_url: http://woss.name/2007/02/16/its-official-ruby-is-a-fast-programming-language/
 date: 2007-02-16 12:53:24.000000000 +00:00
 categories:
 - Geekery

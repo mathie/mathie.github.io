@@ -14,8 +14,6 @@ excerpt: ! 'This is something I submitted to Apple''s <a href="http://bugreport.
   format below is that recommended by Apple.
 
 '
-wordpress_id: 23
-wordpress_url: http://woss.name/?p=23
 date: 2005-08-04 10:18:32.000000000 +01:00
 categories:
 - Geekery

@@ -7,8 +7,6 @@ author: Graeme Mathieson
 author_login: mathie
 author_email: mathie@woss.name
 author_url: http://woss.name/
-wordpress_id: 354
-wordpress_url: http://woss.name/2006/11/20/howto-using-mailapp-to-archive-your-gmail-email/
 date: 2006-11-20 13:57:31.000000000 +00:00
 categories:
 - Geekery
