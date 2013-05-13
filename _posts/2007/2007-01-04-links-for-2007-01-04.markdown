@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-01-04
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 372
+wordpress_url: http://woss.name/2007/01/04/links-for-2007-01-04/
+date: 2007-01-04 01:47:31.000000000 +00:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.bitboost.com&#47;pawsense&#47;">PawSense helps you catproof your computer.<&#47;a><&#47;div>
+		<div class="delicious-extended">An (unfortunately Windows-only) application for detecting when your loveable cat has decided to assist your typing...<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;software">software<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;cats">cats<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;funny">funny<&#47;a>)<&#47;div>
+	<&#47;li>
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.regrettheerror.com&#47;2006&#47;12&#47;crunks_06_the_y.html">Regret the Error: Crunks &acirc;&euro;&trade;06: The Year in Media Errors and Corrections<&#47;a><&#47;div>
+		<div class="delicious-extended">"...a recipe last Wednesday for meatballs with an article about foods to serve during the Super Bowl misstated the amount of chipotle chilies in adobo to be used. It is one or two canned chilies, not one or two cans."<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;corrections">corrections<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;humor">humor<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;funny">funny<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;media">media<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;journalism">journalism<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

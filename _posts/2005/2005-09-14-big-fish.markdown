@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Big Fish
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 114
+wordpress_url: http://woss.name/?p=114
+date: 2005-09-14 13:23:19.000000000 +01:00
+categories:
+- Personal
+tags: []
+comments: []
+---
+On Friday evening, my parents, my (nearly!) in-laws, Annabel and I went to <a href="http:&#47;&#47;www.thecommissary.co.uk&#47;bigfish.htm">Big Fish<&#47;a> for dinner, as it was my birthday on Wednesday.  We discovered the place through <a href="http:&#47;&#47;www.livejournal.com&#47;users&#47;edinburgers" title="Edinburgh LiveJournal community">edinburgers<&#47;a> a few months back and have been three times over the summer.  The place is only open occasionally -- every couple of weekends, and only through the summer -- being used as a base for James Robb's catering company the rest of the time.
+
+It's a unique concept, to me at least.  For the main  course, you select the type of fish you'd like -- salmon, tuna, swordfish or monk fish -- along with the way you'd like it prepared -- char-grilled, blackened, steamed or pan-fried.  Each method of preparation has its own appropriate accompaniment.  Every time I've been, I've had monk fish in one style or another.  It's a fantastic meaty fish (almost the consistency of king prawns, but <em>way<&#47;em> larger!) and I've never really noticed the opportunity to sample it elsewhere.  This time, I had it char-grilled, which was out of this world.  My starter was steamed mussels in a Thai-style coconut broth and pudding was Lanark Blue cheese with oatcakes and quince.  The Lanark Blue was a bit too strong for my tastes, I think -- I'm still learning to like strong cheeses -- but all in all it was a fantastic meal.
+
+I would highly recommend heading along to Big Fish, but unfortunately, the web site indicates that it has now closed for the winter.  I'm looking forward to next summer already...

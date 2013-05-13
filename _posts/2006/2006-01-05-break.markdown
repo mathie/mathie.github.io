@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Break
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 209
+wordpress_url: http://woss.name/2006/01/05/break/
+date: 2006-01-05 14:55:29.000000000 +00:00
+categories:
+- Personal
+tags: []
+comments: []
+---
+Happy New Year, y'all!  I've had an incredibly relaxing, stress-free Christmas break, barely touching a computer (well, I reinstalled Mac OS X Tiger onto my laptop, but that's as far as I got).  Which is why here's been pretty quiet.  You'll be pleased to know that I have lots of writing planned for here, and lots of geeking I want to do.
+
+But this year is going to be the year of photography, cooking and reading.  I <strong>will<&#47;strong> actually manage to read my height in books this year (I managed about 1.2 metres -- about two thirds of my height -- last year).  I will sort through the thousands of photos I've got and stick some good ones up on a web gallery.  I will get better at taking photographs.  And I will be using all those shiny new implements I have for the kitchen to create interesting culinary experiences.
+
+But for now I should get on with some work.  I shall be back soon...

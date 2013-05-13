@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-02-02
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 387
+wordpress_url: http://woss.name/2007/02/02/links-for-2007-02-02/
+date: 2007-02-02 01:34:55.000000000 +00:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;weblog.jamisbuck.org&#47;2007&#47;1&#47;31&#47;more-on-watching-activerecord">More on watching ActiveRecord<&#47;a><&#47;div>
+		<div class="delicious-extended">This is one for my ~&#47;.irbrc -- now I can do stuff in script&#47;console and see what SQL queries are actually generated without flipping to another tab.<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;tips">tips<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;logging">logging<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

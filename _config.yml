@@ -7,5 +7,7 @@ assets:
     css: sass
     js:  uglifier
 
+permalink: /:title/
+
 exclude:
   - Gemfile*

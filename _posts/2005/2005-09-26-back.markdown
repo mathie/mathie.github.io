@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: Back
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 121
+wordpress_url: http://woss.name/?p=121
+date: 2005-09-26 19:52:17.000000000 +01:00
+categories:
+- Personal
+tags: []
+comments: []
+---
+Well that's us just arrived back in Musselburgh, with a pair of cats obviously pleased to see us!  I have over 15 pages of 'paper blog' to type up at some point in the near future, detailing most of the week we were away, but first things first ... I need coffee, food and sleep.  Not necessarily in that order!  The holiday was wonderful, totally relaxing and just what I needed.

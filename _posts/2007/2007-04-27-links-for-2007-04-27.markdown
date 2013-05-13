@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-04-27
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 412
+wordpress_url: http://woss.name/2007/04/27/links-for-2007-04-27/
+date: 2007-04-27 01:36:20.000000000 +01:00
+categories:
+- Web surfing
+tags: []
+comments:
+- id: 803
+  author: Matty
+  author_email: matty91@gmail.com
+  author_url: http://prefetch.net
+  date: !binary |-
+    MjAwNy0wNC0yNyAxMjowMzoxMyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0wNC0yNyAxMTowMzoxMyArMDEwMA==
+  content: ! '<p>I saw NIN a few months ago, and they are awesome live (Hurt was especially
+    good live)! If your a NIN fan, you will love the show.<&#47;p>
+
+
+    <ul>
+
+    <li>Ryan<&#47;li>
+
+    <&#47;ul>'
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.ticketmaster.co.uk&#47;event&#47;12003E6EDD713ACE">Foo Fighters & Nine Inch Nails @ Meadowbank, Edinburgh<&#47;a><&#47;div>
+		<div class="delicious-extended">Yay!  Nine Inch Nails!  My tickets are already booked.  Annabel has just noted that "NIN are the rude ones" (she might just have found 'Closer') so I may have a ticket going spare. :)<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;nineinchnails">nineinchnails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;music">music<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;concerts">concerts<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;live">live<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;edinburgh">edinburgh<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

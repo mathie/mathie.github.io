@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Take Away
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 106
+wordpress_url: http://woss.name/?p=106
+date: 2005-09-07 18:46:47.000000000 +01:00
+categories:
+- Personal
+tags: []
+comments: []
+---
+Currently being delivered (well, sometime in the next hour or so), from our local Indian Restaurant, the Shish Mahal, is:
+
+<ul>
+  <li>Vegetable Pakora.<&#47;li>
+  <li>Mushroom Pakora.  The dips that come with the pakora are particularly lovely from here.  I've never tried the mushroom pakora before...<&#47;li>
+  <li>Nawabi Bhindi Gosht.  We've had this one a couple of times before.  The menu describes it as <q>Lamb cooked with herbs and spices, fresh bhindi (okra) and fresh coriander -- medium to hot taste.<&#47;q>  I'm not normally a fan of lady's fingers, but they're pretty good in this one, and the sauce is just wonderful.  Just the right spiciness.<&#47;li>
+  <li>Sabzi Pasanda.  Annabel has had this dish <em>every time we've ordered from there<&#47;em>.  I can see why -- it's fantastic -- and I'll certainly be nicking a bit of it!  <q>Fresh mixed vegetables cooked with tomato and fresh cream to create a slightly sour taste.<&#47;q><&#47;li>
+  <li>Saffron rice<&#47;li>
+  <li>Garlic and coriander nan bread.<&#47;li>
+<&#47;ul>
+
+My tummy is rumbling with anticipation!  Though I suspect it won't be for long, and that there will be plenty left over for breakfast tomorrow!

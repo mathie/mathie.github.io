@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-01-30
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 381
+wordpress_url: http://woss.name/2007/01/30/links-for-2007-01-30/
+date: 2007-01-30 01:35:41.000000000 +00:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.squidoo.com&#47;homemaking">Homemaking & Housekeeping<&#47;a><&#47;div>
+		<div class="delicious-extended">We really need to get our house in order one of these days.  In particular, the section on 'Contain the Clutter' could be a godsend, if you've ever seen our kitchen worksurfaces!<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;home">home<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;housekeeping">housekeeping<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;tidying">tidying<&#47;a>)<&#47;div>
+	<&#47;li>
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.uesp.net&#47;wiki&#47;Oblivion:Oblivion">Elder Scrolls IV: Oblivion<&#47;a><&#47;div>
+		<div class="delicious-extended">A wiki with lots of information about the entire Elder Scrolls series, such as whether or not to hand over all your kit to the Mythic Dawn weenie at the Dagon Shrine<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;oblivion">oblivion<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;games">games<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;walkthrough">walkthrough<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;xbox360">xbox360<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;wiki">wiki<&#47;a>)<&#47;div>
+	<&#47;li>
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;10base-t.com&#47;#dropcopy">DropCopy<&#47;a><&#47;div>
+		<div class="delicious-extended">A neat wee application for Mac OS X for pushing files (and your clipboard!) to other computers on the local network.  I must convince my colleagues of its usefulness.  (Crap website, though!)<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;macosx">macosx<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;copy">copy<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;utilities">utilities<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;network">network<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;software">software<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

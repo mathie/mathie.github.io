@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2006-12-06
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 366
+wordpress_url: http://woss.name/2006/12/06/links-for-2006-12-06/
+date: 2006-12-06 01:43:55.000000000 +00:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;wanderingbarque.com&#47;nonintersecting&#47;2006&#47;11&#47;15&#47;the-s-stands-for-simple&#47;">Pete Lacey&acirc;&euro;&trade;s Weblog :: The S stands for Simple<&#47;a><&#47;div>
+		<div class="delicious-extended">A nice overview of how lovely SOAP is. :-)<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;soap">soap<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rest">rest<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;humor">humor<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;webservices">webservices<&#47;a>)<&#47;div>
+	<&#47;li>
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;eigenclass.org&#47;hiki.rb?ftsearch+repository+accessible">FTSearch full-text search engine for Ruby<&#47;a><&#47;div>
+		<div class="delicious-extended">FTSearch is a new full-text search engine for Ruby that claims to outperform Ferret.  It's pretty early in development but what interests me more is that it claims to be more *stable* than Ferret...<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;searching">searching<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

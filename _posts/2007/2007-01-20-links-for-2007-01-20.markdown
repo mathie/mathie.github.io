@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-01-20
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 376
+wordpress_url: http://woss.name/2007/01/20/links-for-2007-01-20/
+date: 2007-01-20 01:36:33.000000000 +00:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;prototypejs.org&#47;">Prototype Javascript Library<&#47;a><&#47;div>
+		<div class="delicious-extended">At last, online documentation for prototype!<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ajax">ajax<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;javascript">javascript<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;prototype">prototype<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;documentation">documentation<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;opensource">opensource<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

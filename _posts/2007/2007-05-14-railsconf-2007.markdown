@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: RailsConf 2007
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 420
+wordpress_url: http://woss.name/2007/05/14/railsconf-2007/
+date: 2007-05-14 08:04:37.000000000 +01:00
+categories:
+- Geekery
+- Ruby and Rails
+- Work
+- RailsConf Europe
+tags:
+- Geekery
+- RailsConf Europe
+- Ruby and Rails
+- Work
+comments:
+- id: 808
+  author: Colin
+  author_email: colin@doch.org.uk
+  author_url: http://doch.org.uk
+  date: !binary |-
+    MjAwNy0wNS0xNCAwODoyNDowMyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0wNS0xNCAwNzoyNDowMyArMDEwMA==
+  content: <p>All the best Graeme, have a safe trip. Lets make sure we meet up when
+    you get back...<&#47;p>
+- id: 809
+  author: Jim Remsik Jr
+  author_email: jremsikjr@gmail.com
+  author_url: http://semji.blogspot.com
+  date: !binary |-
+    MjAwNy0wNS0xNCAxMjozODoyNyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0wNS0xNCAxMTozODoyNyArMDEwMA==
+  content: <p>Have a safe trip. We'll see you on the other side.<&#47;p>
+---
+Well, that's me packed, I hope.  I'm just grabbing a coffee or three before I start my journey out to Portland for RailsConf 2007!  The laptop has the latest Peepcode screencast: [Javascript with Prototype.js](http:&#47;&#47;peepcode.com&#47;products&#47;javascript-with-prototypejs); and a couple of the newest Pragmatic Programmers' books: [Release It!](http:&#47;&#47;pragmaticprogrammer.com&#47;titles&#47;mnee&#47;index.html) and [Programming Erlang](http:&#47;&#47;pragmaticprogrammer.com&#47;titles&#47;jaerlang&#47;index.html) (not that I'm thinking seriously of switching to Erlang any time soon, it just sounds interesting, and I do like to learn a new language every year or so!).  I've got a pile of paper books with me for when the laptop batteries give out.
+
+The journey will be about 10.5 hours according to respective local wall clocks, but 17.5 hours elapsed time.  I get in to Portland International (PDX) at 22:02 and, hopefully, can figure out the MAX-Rail system to get to my hotel, the Inn at the Convention Centre (which, I get the impression, is pretty basic, but since I'm only planning on sleeping & washing there, I'm sure it'll do!), then collapse and hope I wake up sometime in the next 2 days!  Then it's just the strange local culture I'll have to adjust to. :-)
+
+Hrm, I wish O'Reilly had produced a PDF or something of the schedule, along with the abstracts.  I would like to have printed that off and read it on the journey.  If I'd thought about it further in advance, I could have taken the data from the web site and done so myself, but alas, no.  Lazyweb request: I don't suppose somebody else already has all the conference abstracts in one flat file that I could chown?
+
+I've just checked out the weather; apparently it'll be about 29&deg;C today!  Maybe I should have packed shorts instead of my kilt...  (Umm, yeah, I don't know if I'll get the opportunity to wear it -- that all depends if I'm invited to the cool parties! -- but I do have my kilt with me.)
+
+Anyway, all this is just my way of saying: Yay!  It's finally RailsConf and I'm on my way!

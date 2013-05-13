@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2008-03-01
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 466
+wordpress_url: http://woss.name/2008/03/01/links-for-2008-03-01/
+date: 2008-03-01 00:26:41.000000000 +00:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;rails.simpltry.com&#47;active_jax.html">Simpltry Rails<&#47;a><&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;activerecord">activerecord<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ajax">ajax<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;javascript">javascript<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;plugins">plugins<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

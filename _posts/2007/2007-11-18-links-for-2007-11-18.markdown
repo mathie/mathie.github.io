@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-11-18
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 462
+wordpress_url: http://woss.name/2007/11/18/links-for-2007-11-18/
+date: 2007-11-18 01:31:11.000000000 +00:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.macosxhints.com&#47;article.php?story=20071101055329470">Add a 'recent things' stack to the Dock<&#47;a><&#47;div>
+		<div class="delicious-extended">Neat trick for having "recent applications", "recent documents", "favourite servers" and others as stacks in your dock.<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;apple">apple<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;howto">howto<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;osx">osx<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;leopard">leopard<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;stacks">stacks<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;dock">dock<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

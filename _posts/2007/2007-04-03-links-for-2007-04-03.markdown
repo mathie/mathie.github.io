@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-04-03
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 408
+wordpress_url: http://woss.name/2007/04/03/links-for-2007-04-03/
+date: 2007-04-03 01:46:48.000000000 +01:00
+categories:
+- Web surfing
+tags: []
+comments:
+- id: 801
+  author: ee0c43019344
+  author_email: ''
+  author_url: http://ee0c43019344.us
+  date: !binary |-
+    MjAwOC0wNS0xNiAwNToyOTo0NyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOC0wNS0xNiAwNDoyOTo0NyArMDEwMA==
+  content: ! '<p><strong>ee0c43019344...<&#47;strong><&#47;p>
+
+
+    <p>ee0c430193442ca1967e...<&#47;p>'
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.howmanydaysago.com&#47;">DaysAgo :: Never guess again!<&#47;a><&#47;div>
+		<div class="delicious-extended">A counter for showing how many days ago you last did ... something to the attached device.  I could really use some of these, stuck to the cat litter tray, the leftover food I stuck in the fridge...  In fact, about the only things that are safe are my lap<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;reminders">reminders<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;gtd">gtd<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

@@ -1,0 +1,53 @@
+---
+layout: post
+status: publish
+published: true
+title: Packing
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 120
+wordpress_url: http://woss.name/?p=120
+date: 2005-09-15 08:56:40.000000000 +01:00
+categories:
+- Entertainment
+- Personal
+- Photography
+tags: []
+comments:
+- id: 115
+  author: annabel
+  author_email: annabel@durasonline.com
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOS0xNSAxMDo0NDozOCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOS0xNSAwOTo0NDozOCArMDEwMA==
+  content: erm... think you may have to go buy this months magazine? i'm pretty sure
+    they said your first issue would be printed&#47;sent 15 october.... or that could
+    be the one i said to start from cos i couldnt remember which issue it was you'd
+    just bought yourself... i have the confirmation on me pooter hang on.... yep first
+    issue is the 'november' one...
+- id: 116
+  author: mathie
+  author_email: mathie@woss.name
+  author_url: http://woss.name/
+  date: !binary |-
+    MjAwNS0wOS0xNSAxMTo1MDoxMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOS0xNSAxMDo1MDoxMCArMDEwMA==
+  content: ! 'annnabel: Oh well.  Actually, that''s probably for the best, really.  I
+    wouldn''t want it to not turn up today, then not have it to read all the holiday
+    just ''cos I was assuming it would turn up while we were away.  Remind me to pick
+    up a copy at the airport...'
+---
+I've not packed yet, but at least I've got a list of stuff that needs to be packed.  We're heading to Greece tomorrow, for 10 whole days!  Our flight leaves Glasgow Airport at 06:00 and arrives in Athens at 12:00 (local time).  After that, who knows?  We've a broad idea to heard down to Piraeus (the main port) to catch a ferry to Naxos -- where we'll be spending the majority of our stay -- but how and when that happens we're just playing by ear.  I'd like to spend a while in Athens, going to see the sights, but whether we do that at the start or the end of the stay, I don't know...
+
+At least I've sorted out all my photography gear -- the three lenses, proper tripod, mini tripod, flash gun, filters (polaroid &amp; ultraviolet), three compact flash cards (two lots of 512MB and one of 2GB,  giving me a total capacity of nearly 400 shots), spare batteries (AAs for the flash and two proprietary ones for the camera), battery charger for the camera, USB cable and my laptop to store all those images on after a day's shooting.  So that's  my hand luggage sorted out!  I could also do with adding a torch to that list, and I'm going to stick my Leatherman into the main luggage.  We've also picked up an underwater disposable camera to muck around with while snorkeling.  Oh, that's a point, I should sort out a plastic bag arrangement for my own camera to allow me to shoot if it's raining without the risk of water getting where it shouldn't...
+
+I've sorted out a wee pile of books to keep me entertained on the long flights, ferry rides and in the evenings: Dave Allen's <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0749922648&#47;mathieoftheen-21">Getting Things Done: The Art of Stress-free Productivity<&#47;a> (which I bought before we went to Harris and still haven't gotten around to reading!), <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0349116814&#47;mathieoftheen-21">Be My Enemy<&#47;a>, <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0575073659&#47;mathieoftheen-21">Chasm City<&#47;a> and the book I'm currently reading, <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0752877194&#47;mathieoftheen-21">Let It Bleed<&#47;a>.  I'll probably not even read half of them, but it covers several of my moods, so I should have <em>something<&#47;em> to keep me occupied.  With any luck, the latest edition of <a href="http:&#47;&#47;www.photographymags.co.uk&#47;">Practical Photography<&#47;a> (Annabel bought me a subscription for my birthday!) should hit the doormat this morning too!
+
+So what else does one need to pack?  Clothes, medication, sunglasses, GPS receiver, toiletries, sunscreen.  All the usual dull, boring things.
+
+So, what's to do in Greece?  What have I forgotten to pack?  What details to I want to acquire before we go?  (A bit sad, really, but I've already got a note of sunrise&#47;sunset times for the week, since they'll be the ideal time to be wandering out with the camera!)

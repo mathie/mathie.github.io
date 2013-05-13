@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Downtime
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 399
+wordpress_url: http://woss.name/2007/03/20/downtime/
+date: 2007-03-20 09:52:56.000000000 +00:00
+categories:
+- Geekery
+tags:
+- Geekery
+comments: []
+---
+I apologise for the abysmal availability of [Notes from a Messy Desk](http:&#47;&#47;woss.name&#47;) over the past couple of weeks.  Apparently the server that it was hosted on (at [DreamHost](http:&#47;&#47;www.dreamhost.com&#47;) for now) had a number of DDoS attacks.  In order to mitigate the problem, the server had its IP address changed.  Unfortunately, during one of the IP changes, they failed to update the DNS (which is also managed by DH for now) so woss.name was pointing to an IP that was no longer in use.
+
+To top it all off, I've been so incredibly busy that I ignored the monitoring system telling me it was down (since DH's servers are pretty much out of my control and, well, let's just say the QOS is not that great at the best of times) until Monday morning.
+
+As soon as I get a round tuit, I'll be shifting this blog across to my own hosting system.  That means a migration to [Mephisto](http:&#47;&#47;www.mephistoblog.com&#47;) which I'm using to host a number of other sites, so that I don't have to maintain a PHP installation in addition to Rails goodness.  It'll probably be a few weeks before that happens.

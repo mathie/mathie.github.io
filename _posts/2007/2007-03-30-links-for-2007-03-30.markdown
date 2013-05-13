@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-03-30
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 407
+wordpress_url: http://woss.name/2007/03/30/links-for-2007-03-30/
+date: 2007-03-30 01:41:31.000000000 +01:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;lighthouseapp.com&#47;">Lighthouse<&#47;a><&#47;div>
+		<div class="delicious-extended">A shiny new issue tracking application from activereload (one part Rails core, one part Scriptaculous core!) which looks beautifully simple to use.  I've set it up for an active project and am going to try it out over the next month.<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;issuetracking">issuetracking<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;bugs">bugs<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;projectmanagement">projectmanagement<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;projects">projects<&#47;a>)<&#47;div>
+	<&#47;li>
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;feeds.feedburner.com&#47;~r&#47;RyansScraps&#47;~3&#47;105051033&#47;what-s-new-in-edge-rails-restful-routes-get-a-new-custom-delimiter">What's New in Edge Rails: RESTful Routes Get a New Custom Delimiter<&#47;a><&#47;div>
+		<div class="delicious-extended">Goodbye, semi-colons!  While I see their point (to clearly separate the verb from the noun), they just look, well, a little bit ugly.<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;edgerails">edgerails<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

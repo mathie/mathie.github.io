@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: So Sue Me
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 38
+wordpress_url: http://woss.name/?p=38
+date: 2005-08-08 20:04:16.000000000 +01:00
+categories:
+- Geekery
+tags: []
+comments: []
+---
+From the HTML source of <a href="http:&#47;&#47;www.apple.com&#47;mightymouse&#47;" title="Apple - Mighty Mouse">http:&#47;&#47;www.apple.com&#47;mightymouse&#47;<&#47;a>:
+
+[code lang="xml"]<p class="sosumi">Mighty Mouse &#169; Viacom
+ International Inc. All Rights Reserved.<&#47;p>[&#47;code]
+
+Note the class name.  Tee hee. :-)  (Pointed out by <a href="http:&#47;&#47;www.tuaw.com&#47;2005&#47;08&#47;08&#47;coding-humor-into-their-style-sheets&#47;" title="The Unofficial Apple Weblog">TUAW<&#47;a>.)

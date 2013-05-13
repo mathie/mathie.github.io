@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-05-07
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 416
+wordpress_url: http://woss.name/2007/05/07/links-for-2007-05-07/
+date: 2007-05-07 01:29:13.000000000 +01:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.inter7.com&#47;courierimap&#47;README.sharedfolders.html">Shared folders in Courier IMAPd<&#47;a><&#47;div>
+		<div class="delicious-extended">Hmm.  That makes it about as clear as mud -- maildirmake(1) seems more sensible.<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;imap">imap<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;courier">courier<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;email">email<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-01-23
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 378
+wordpress_url: http://woss.name/2007/01/23/links-for-2007-01-23/
+date: 2007-01-23 01:37:36.000000000 +00:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.smashingmagazine.com&#47;2007&#47;01&#47;19&#47;53-css-techniques-you-couldnt-live-without">53 CSS-Techniques You Couldn&acirc;&euro;&trade;t Live Without | Smashing Magazine<&#47;a><&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;accessibility">accessibility<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ajax">ajax<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;javascript">javascript<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;css">css<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

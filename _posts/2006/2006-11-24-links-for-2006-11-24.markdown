@@ -1,0 +1,48 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2006-11-24
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 357
+wordpress_url: http://woss.name/2006/11/24/links-for-2006-11-24/
+date: 2006-11-24 01:36:15.000000000 +00:00
+categories:
+- Web surfing
+tags: []
+comments:
+- id: 716
+  author: Annabel
+  author_email: annabel@rubaidh.com
+  author_url: ''
+  date: !binary |-
+    MjAwNi0xMS0yNCAxMDo0MDozMSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMS0yNCAwOTo0MDozMSArMDAwMA==
+  content: ! '<p>hehehe, fantastic :o)
+
+    but yeah, the laughter did make it a bit hard to hear properly though...<&#47;p>'
+- id: 717
+  author: Semji Rkim
+  author_email: jremsikjr@hotmail.com
+  author_url: http://semji.blogspot.com
+  date: !binary |-
+    MjAwNi0xMi0wNiAxNDowMzo1MiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMi0wNiAxMzowMzo1MiArMDAwMA==
+  content: <p>Classic Bob&amp;Tom chuckling&#47;chortling over brilliant comedy nearly
+    killing it. Up for s'more laughs this morning? Check out Mike Birbiglia (<a href="http:&#47;&#47;www.youtube.com&#47;watch?v=lL59mauFEsc"
+    rel="nofollow">Part 1<&#47;a> &amp; <a href="http:&#47;&#47;www.youtube.com&#47;watch?v=NaMosxCylyM"
+    rel="nofollow">Part 2<&#47;a>) on YouTube. He's an up and coming comedian I first
+    heard through Bob&amp;Tom.<&#47;p>
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;joshualowry.vox.com&#47;library&#47;audio&#47;6a00c225203796f21900c2252ab8c18e1d.html">Audio: Bob and Tom - Telemarketer Nightmare<&#47;a><&#47;div>
+		<div class="delicious-extended">Absolutely hilarious way to deal with unsolicited calls.  I'll have to try it out next time. :-)  It could have done without the laughter in the foreground though...<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;humour">humour<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;marketing">marketing<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;radio">radio<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;entertainment">entertainment<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;phone">phone<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;telemarketing">telemarketing<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

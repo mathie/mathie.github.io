@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: Link Dump
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 264
+wordpress_url: http://woss.name/2006/05/04/link-dump/
+date: 2006-05-04 13:54:32.000000000 +01:00
+categories:
+- Geekery
+- Work
+tags: []
+comments:
+- id: 417
+  author: Annabel
+  author_email: annabel@durasonline.com
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wNS0wNSAxMjoxODoxMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNS0wNSAxMToxODoxMCArMDEwMA==
+  content: ! '<p>i was looking at trains to lodnol for that weekend, and aparently
+    you cant book them further than 3 months in advance... so i''ve set up a reminder
+    at work to  make us book asap :o)
+
+    was thinking i''d just come down to join you on the friday after work though if
+    thats alright? then i dont have to be in lodnol on me todsome! (and it wont take
+    up holidays :O)<&#47;p>'
+---
+<img src="http:&#47;&#47;woss.name&#47;dist&#47;railsconf-europe-attendee.png" class="alignleft" &#47;> [RailsConf Europe](http:&#47;&#47;europe.railsconf.org&#47;) has been announced.  Have you booked your place yet?  I have.  :-)  And I'm looking forward to it already!  I haven't organised any accommodation or travel yet -- I should really do that further in advance this time...
+
+Generate your own [ajax loader icons](http:&#47;&#47;www.ajaxload.info&#47;) here.  I'm still wanting to capture the spinning beach ball from Mac OS X to use as an indicator instead. :)
+
+And I've just started using the Party Shuffle feature on iTunes, with a slightly restricted playlist (basically anything tagged in the comments with 'owner: mathie' and 'type: album' so I don't get singles or have to put up with Annabel's questionable taste in music! :-P ).  I'm getting to listen to all sorts of stuff I haven't heard in a while, stuff I wouldn't normally think to listen to.  (For example, I'd forgotten I even owned Bernard Butler's first solo album!)  You can see today's eclectic selection on [my last.fm profile](http:&#47;&#47;www.last.fm&#47;user&#47;mathie_wossname).  And maybe it'll stop me listening to Placebo quite so much!
+
+Ach, back to contract negotiations, wrestling [pythons](http:&#47;&#47;www.python.org&#47;) for [Oxfam International](http:&#47;&#47;www.oxfam.org&#47;) and, well, nothing much to do with Ruby on Rails, really.  Still, contracts means money and that's what I'm doing this for, right?  Right!

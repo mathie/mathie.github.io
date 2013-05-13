@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: My Ewgeco
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 533
+wordpress_url: http://wordpress.woss.name/?p=533
+date: 2010-03-08 15:43:01.000000000 +00:00
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p><span class="full-image-float-left ssNonEditable"><span><img src="&#47;storage&#47;200eg_000.jpg?__SQUARESPACE_CACHEVERSION=1268043550658" alt="" &#47;><&#47;span><span class="thumbnail-caption" style="width: 95px;">Ewgeco E200<&#47;span><&#47;span><&#47;p>
+<p>We've had a test <a href="http:&#47;&#47;www.ewgeco.com&#47;">Ewgeco<&#47;a> unit kicking around the office for a while now, and since we've moved out the office, it's been lying in a box with all the other equipment. Over the weekend, I rescued it from storage and hooked it up in the house. And it's been a huge success.<&#47;p>
+<p>Ewgeco is an energy monitor that shows a real-time display of your electricity, water and gas usage, also recording the information for later analysis. The idea is to show a very simple bar graph user interface with a traffic light system: green means your consumption is low, red means it's much higher than your average. The device calibrates itself to your usage over time to make the traffic lights really mean something (though this takes about a week, so we haven't experienced that yet).<&#47;p>
+<p>You can retrieve the data from the device and upload it to a web app (which, as I say, we built, so take my gushing praise with that in mind!) where you can spot patterns in usage and feed that information back to actively reduce your energy bills. I haven't tried out the web app since we installed the unit at home &ndash; I've only got ~2 days of data now &ndash; but I'm really looking forward to giving it a shot from the perspective of the consumer. I'm sure it'll be awesome. :-)<&#47;p>
+<p>It's dead simple to install the device to measure electricity. You simply wrap a "current clamp" around the mains cable feeding your electricity meter. Done. That's the only one we have installed just now as the gas and water meter installations are a little more involved (though I'm really hoping to at least start measuring gas usage soon). A wizard on the device takes you through connecting to the (wireless) current clamp to retrieve the data, and set your tariffs so you can accurately measure costs.<&#47;p>
+<p>The real beauty of the Ewgeco device, though, is in the instant feedback. Until now, I've received feedback on our energy usage at most once a month and, more usually once a quarter, when we get a meter reading followed by a bill. Now, it's instant. Switch on the kettle, and you see the electricity graph jump into the red, the number increasing by 3KW. It's already demonstrated that, for example, that it's cheaper to make a cup of coffee (with our coffee maker) than it is to make a cup of tea, even just boiling the right amount of water.<&#47;p>
+<p>The fun bit is going to be walking around the house with the unit (which is wireless, so you can pick it up and wander around quite happily) and seeing what contributes to the "background" electricity usage in our house. When the house was quiet, I was noticing about 0.5KW background usage. I'd like to see how we can change our behaviour patterns to lower that (though I suspect it's largely down to the fridge, fish tank and a Sun X4100 M2 now sitting in the attic!).<&#47;p>
+<p>I've been aware of Ewgeco for well over a year now, but it hasn't been until I installed the unit in our house that I understood that it's a complete game changer. Visibility into our energy usage, instant feedback and being able to spot longer term trends is <em>definitely<&#47;em> going to lower our energy usage, save us money and have us contribute less adversely to the environment.<&#47;p>

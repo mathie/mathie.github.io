@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Holidays
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 285
+wordpress_url: http://woss.name/2006/06/07/holidays/
+date: 2006-06-07 18:24:13.000000000 +01:00
+categories:
+- Personal
+- Photography
+tags:
+- Personal
+- Photography
+comments: []
+---
+Well, I'm currently sitting out in the garden of the Coll Hotel, overlooking Ariganour Bay.  I can see Mull in the distance.  The wind is absolutely still (which brings the traditional Scottish problem: midges!) and it's quite balmy really.  The weather has been fantastic all week -- I'm beginning to think (after a week in Harris last year, too) that it *never* rains in the Hebrides!
+
+I'm mildly unimpressed with the photographs I've managed to take so far -- plenty that are good enought for web presentation, but nothing that would make for a stunning print.  I either fail to get close enough or, sometimes, they just aren't sharp enough.  Still, I think I've found out where the peregrine is, and where some little terns are nesting, so I shall have to persevere.
+
+Anyway, the whole point of a holiday is that I don't geek!  I just popped on to check [Rubaidh](http:&#47;&#47;www.rubaidh.com&#47;) hadn't crashed around my ears and to, well, see if there were any properties for sale on Coll... :-)

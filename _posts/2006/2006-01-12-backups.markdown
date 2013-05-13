@@ -1,0 +1,104 @@
+---
+layout: post
+status: publish
+published: true
+title: Backups
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 216
+wordpress_url: http://woss.name/?p=216
+date: 2006-01-12 13:33:34.000000000 +00:00
+categories:
+- Geekery
+tags: []
+comments:
+- id: 251
+  author: Mike
+  author_email: m.rovardi@blueyonder.co.uk
+  author_url: http://www.livejournal.com/users/digitalwanderer
+  date: !binary |-
+    MjAwNi0wMS0xMiAxNDozNToxMSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMS0xMiAxMzozNToxMSArMDAwMA==
+  content: ! 'Shame there''s no Windows version... (ducks the thrown objects from
+    the Mac users).  I''ve just started looking around at Backup options myself (only
+    2 or so years since I promised myself I''d sort out something concrete for my
+    PCs) - I''m currently pondering an external HDD (although I''m not sure whether
+    to use it as additional storage or a pure backup device).  At the moment the problem
+    seems to be finding an enclosure with all the features I want (USB2 and Firewire
+    access, backup button, not limtied to 250GB) for a reasonable price - best balance
+    I''ve found so far is a Maxtor OneTouchII 300GB from Amazon for &Acirc;&pound;141.  Or
+    perhaps I should forego the backup button and do it via software like everyone
+    else... :-)
+
+
+    Mike'
+- id: 252
+  author: mathie
+  author_email: mathie@woss.name
+  author_url: http://woss.name/
+  date: !binary |-
+    MjAwNi0wMS0xMyAwOTo0MTo1OCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMS0xMyAwODo0MTo1OCArMDAwMA==
+  content: I've got a 160GB original Maxtor OneTouch which has both USB and Firewire,
+    which works reasonably well, and I intend to start doing offsite backups with
+    it at some point.  But the main backup disk I'm using is a <a href="http:&#47;&#47;www.seagate.com&#47;products&#47;retail&#47;external&#47;usbfirewire"
+    rel="nofollow">Seagate 280GB USB&#47;Firewire disk<&#47;a>.  I did also see that
+    Staples (in Teeside Park) was doing an offer on <a href="http:&#47;&#47;www.lacie.com&#47;products&#47;product.htm?pid=10511"
+    rel="nofollow">LaCie d2 500GB<&#47;a> drives for &pound;200.  It doesn't have
+    the one-touch backup button, but they get a good reputation in the Mac community
+    and it seems a reasonable price to me.
+- id: 253
+  author: Mike
+  author_email: m.rovardi@blueyonder.co.uk
+  author_url: http://www.livejournal.com/users/digitalwanderer
+  date: !binary |-
+    MjAwNi0wMS0xMyAxMzoxOTo1NiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMS0xMyAxMjoxOTo1NiArMDAwMA==
+  content: ! 'Hmmm, that is pretty good - especially considering that the cheapest
+    500GB internal IDE drive that Scan.co.uk do is &Acirc;&pound;235.  And it includes
+    a Firewire800 interface, too.  Although a friend of mine''s Lacie failed after
+    about a month''s use - annoying, but the worst part was that it took them 6 weeks
+    to sort out the problem.
+
+
+    I''ve read reviews of the Seagate that were less than flattering, in terms of
+    poor performance (speedwise).
+
+
+    I''ll have to have a think - I was thinking that the Maxtor was a bit pricey at
+    &Acirc;&pound;141 (given an enclosure + 300GB drive would cost &Acirc;&pound;115),
+    but for 500GB capacity...
+
+
+
+    Mike'
+- id: 254
+  author: Mike
+  author_email: m.rovardi@blueyonder.co.uk
+  author_url: http://www.livejournal.com/users/digitalwanderer/
+  date: !binary |-
+    MjAwNi0wMS0xMyAxNjoyODowNiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0wMS0xMyAxNToyODowNiArMDAwMA==
+  content: ! 'Unfortunately, the LaCie drive in Staples is this one: <a href="http:&#47;&#47;www.lacie.com&#47;products&#47;product.htm?pid=10450"
+    rel="nofollow">Big Disk<&#47;a> - it''s 2x250GB HDDs in a single casing, with
+    a single USB2 connector.  It''s still a good deal, but I''m wondering if you''d
+    be better off picking up a pair of 250GB multi-connection drives, if you can get
+    them for &Acirc;&pound;100 each or less - if you plug them into different hubs,
+    would you get twice the data transfer rate...?
+
+
+    Mike'
+---
+OK, so over the holidays I finally developed a new, exciting habit: backing up my laptop.  I still haven't worked it into a regular schedule, but having a week old backup is better than none at all, I suppose!
+
+I'm using <a href="http:&#47;&#47;www.shirt-pocket.com&#47;SuperDuper&#47;SuperDuperDescription.html">SuperDuper!<&#47;a>on my laptop to make regular backups to an external Firewire disk.  I had started simply by using SuperDuper to back up my laptop prior to nuking everything and reinstalling, but I've continued to use it since.  I back up to a sparse disk image on the firewire drive which, while not bootable, means I'm not using the entire 280GB drive to back up a 100GB disk in the laptop.  At some point I should repartition that drive so that I can back straight to another disk and make it bootable, leaving another partition of 80GB for my desktop machine and the remainder for my <a href="http:&#47;&#47;www.apple.com&#47;aperture&#47;">Aperture<&#47;a> file vault.
+
+Anyway, this isn't so much of a how-to or what-I-should-do, but a recommendation of SuperDuper!  It's really easy to use -- creating my first complete backup took only a couple of clicks -- fast and I've successfully used it for restoring data too.  It does have a 'smart update' feature which reduces backup times -- from nearly 2 hours to around 15 minutes in my case -- by copying only the data that has changed since the last backup.
+
+Dead simple, it Just Works, and it lowers the barrier to getting around to doing backups.  What better can be said for backup software?

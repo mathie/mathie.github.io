@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: Upgrading Wordpress
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 176
+wordpress_url: http://woss.name/?p=176
+date: 2005-11-08 18:48:30.000000000 +00:00
+categories:
+- Meta
+- Personal
+tags: []
+comments:
+- id: 203
+  author: digitalkatie
+  author_email: kate@kategalloway.co.uk
+  author_url: ''
+  date: !binary |-
+    MjAwNS0xMS0wOSAwODozMDozMCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNS0xMS0wOSAwNzozMDozMCArMDAwMA==
+  content: Mathie, please say you're going to get your hair trimmed for your wedding
+    ;-)
+- id: 204
+  author: mathie
+  author_email: mathie@woss.name
+  author_url: http://woss.name/
+  date: !binary |-
+    MjAwNS0xMS0wOSAxMToxODowOCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNS0xMS0wOSAxMDoxODowOCArMDAwMA==
+  content: And that's with most of it cropped out the frame!  I think I need to take
+    smiling lessons for the wedding photos too. :-)
+---
+In a random act of distraction yesterday, I finally got around to upgrading <a href="http:&#47;&#47;wordpress.org&#47;">Wordpress<&#47;a> to version 1.5.2 (not prompted by somebody mentioning a register article about PHP XML-RPC vulnerabilities or anything, no!).  And I've tweaked my theme a little bit -- mostly so that articles are dated properly instead of 'early morning' or '3 hours ago' (depending upon where you looked).  <img src="http:&#47;&#47;woss.name&#47;wp-content&#47;themes&#47;notes-from-a-messy-desk&#47;images&#47;graeme.jpg" class="alignleft" alt="The author's ugly mug" &#47;> Oh, and you'll also see my ugly mug on the right hand side of the page, next to the bio.  I nicked that photograph from <a href="http:&#47;&#47;www.logicalware.com&#47;">work's web site<&#47;a>, which was taken by <a href="http:&#47;&#47;www.richardx.co.uk&#47;">RichardX<&#47;a> a couple of weeks ago.  So it's current and everything...  Since you lucky feed reading people would otherwise have not gotten to see it, I've included it in this post too.  Wasn't that kind of me?  I'm sorry if I've put you off your dinner. :-)

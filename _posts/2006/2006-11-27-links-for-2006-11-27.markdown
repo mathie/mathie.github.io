@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2006-11-27
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 359
+wordpress_url: http://woss.name/2006/11/27/links-for-2006-11-27/
+date: 2006-11-27 01:28:47.000000000 +00:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;bugs.mysql.com&#47;bug.php?id=24601">MySQL Bugs: #24601: MySQLd crashes upon creation of an index<&#47;a><&#47;div>
+		<div class="delicious-extended">Bug report I just submitted because MySQL is crashing when I try to create an index.  So much for spending the afternoon tweaking performance, eh?<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;mysql">mysql<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;bugs">bugs<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

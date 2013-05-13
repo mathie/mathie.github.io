@@ -1,0 +1,49 @@
+---
+layout: post
+status: publish
+published: true
+title: Bad days, beer and books
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 94
+wordpress_url: http://woss.name/?p=94
+date: 2005-09-01 10:08:59.000000000 +01:00
+categories:
+- Entertainment
+- Personal
+- Work
+tags: []
+comments:
+- id: 87
+  author: annabel
+  author_email: annabel@durasonline.com
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wOS0wMSAxMTo0Mjo0NCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOS0wMSAxMDo0Mjo0NCArMDEwMA==
+  content: ! 'hey gorgeous,
+
+    just thought i''d let you know, you have comments on this on your LJ bit...'
+- id: 88
+  author: mathie
+  author_email: mathie@woss.name
+  author_url: http://woss.name/
+  date: !binary |-
+    MjAwNS0wOS0wMSAxNjowMzo0MCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wOS0wMSAxNTowMzo0MCArMDEwMA==
+  content: Ooh, ta for the pointing of it out...  I'd never have noticed them otherwise.
+    :-*
+---
+Annabel figured out the ideal way to deal with a really crappy day at work last night, when I discovered she'd nicked into the shops on the way home, picked up some Leffe (one <a href="http:&#47;&#47;www.silrubin.com&#47;leffe_brown.htm">Brune<&#47;a>, one <a href="http:&#47;&#47;www.silrubin.com&#47;leffe_blond.htm">Blond<&#47;a>), a Kronenburg Blanc &amp; an Erdinger, and they'd been in the fridge long enough to be cold by the time I got home.
+
+Not that this was the reason for putting me in a crappy mood from the morning, but it about sums yesterday up.  We'd been running really low on coffee, but there were a couple of sachets in there (from somebody's last hotel stay, perhaps?), so I decided to use one of them up instead.  Only to find out it was <em>decaffeinated<&#47;em> coffee.  What kind of a low, evil trick is that?!?  Cutting work's coffee supply with decaf?!? :-)
+
+<img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;0552151696.02._SCMZZZZZZZ_.jpg" alt="book cover" class="alignleft" &#47;> Anyway, the evening was spent lying in bed, supping nice beers, eating crisps and reading a crappy book.  Dan Brown's first -- <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0552151696&#47;mathieoftheen-21">Digital Fortress<&#47;a>.  At least it's added 34mm to my total for the year.  Actually, if you ignore the fact that he knows nothing more than buzzwords about crypto, it's quite a gripping read.  I suspect this is consistent with his book: he knows sod all about his subject matter, but writes good thrillers.  Hence the Da Vinci Code...
+
+<img src="http:&#47;&#47;images-eu.amazon.com&#47;images&#47;P&#47;0743231511.02.__SCMZZZZZZZ_.jpg" alt="Book Cover" class="alignright" &#47;> I decided my head deserved some more nurishment after that.  Though given the slightly low mood I've been in the past couple of days, Douglas Coupland's <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0743231511&#47;mathieoftheen-21">Life After God<&#47;a> was a poor choice.  It's an excellent book, very introspective, with little snippets of my life written right into it.  And another 22mm.  Who says size matters? :)  That's 753mm total, only another 1117mm to go...
+
+I really need to add some more Coupland to my collection.  I've only got <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0743231511&#47;mathieoftheen-21">Life After God<&#47;a> and <a href="http:&#47;&#47;www.amazon.co.uk&#47;exec&#47;obidos&#47;ASIN&#47;0007162510&#47;mathieoftheen-21">Hey Nostradamus!<&#47;a> -- the rest I've borrowed from friends at one time or another.  In particular I'd like to re-read the post-apocalyptic one I can't recall the name of just now...

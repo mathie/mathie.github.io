@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: Wedding RSVPs
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 193
+wordpress_url: http://woss.name/?p=193
+date: 2005-11-23 17:57:32.000000000 +00:00
+categories:
+- Geekery
+- Personal
+tags: []
+comments: []
+---
+OK, since I don't really have the time to code it into the application proper just now, here are some statistics:
+
+[code lang="sql"]SELECT COUNT(*) AS 'Total Guests'
+    FROM guests \G
+Total Guests: 120
+
+SELECT COUNT(*) AS 'Guests confirmed attending'
+    FROM guests
+    WHERE rsvp_ed = 1 AND attending_ceremony = 1 \G
+Guests confirmed attending: 50
+
+SELECT COUNT(*) AS 'Guests confirmed *not* attending'
+    FROM guests
+    WHERE rsvp_ed = 1 AND attending_ceremony = 0 \G
+Guests confirmed *not* attending: 11
+
+SELECT COUNT(*) AS 'Guests still to respond'
+    FROM guests
+    WHERE rsvp_ed = 0 \G
+Guests still to respond: 59[&#47;code]
+
+Not bad.  But there are a number of people I would have expected to be attending that haven't actually let us know yet...  Though I suppose parents and ushers and suchlike probably feel they don't need to let us know. :-)
+
+If you haven't yet RSVPed, head along to <a href="http:&#47;&#47;wedding.mathieson.name&#47;rsvp&#47;">http:&#47;&#47;wedding.mathieson.name&#47;rsvp&#47;<&#47;a> and fill in your details!

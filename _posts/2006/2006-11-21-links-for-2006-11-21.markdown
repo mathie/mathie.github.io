@@ -1,0 +1,62 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2006-11-21
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 355
+wordpress_url: http://woss.name/2006/11/21/links-for-2006-11-21/
+date: 2006-11-21 01:43:09.000000000 +00:00
+categories:
+- Web surfing
+tags: []
+comments:
+- id: 713
+  author: Matty
+  author_email: matty91@gmail.com
+  author_url: http://prefetch.net
+  date: !binary |-
+    MjAwNi0xMS0yMSAxMTo0MTo1OCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMS0yMSAxMDo0MTo1OCArMDAwMA==
+  content: ! '<p>Dnscheck looks nifty. I typically use a combination of nsping, dnstrace
+    and DNS report to ensure that my DNS infrastructure is "clean." Nsping and dnstrace
+    are available as source code, and DNS report resides at the following location:<&#47;p>
+
+
+    <p>http:&#47;&#47;www.dnsreport.com&#47;<&#47;p>
+
+
+    <p>Thanks,
+
+    - Ryan<&#47;p>'
+- id: 714
+  author: mathie
+  author_email: mathie@rubaidh.com
+  author_url: http://woss.name/
+  date: !binary |-
+    MjAwNi0xMS0yMSAxMjowMDo0NyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMS0yMSAxMTowMDo0NyArMDAwMA==
+  content: ! '<p>Matty: Ooh, dnstrace looks like it''s a command line version the
+    web-based tool I was using yesterday.  Much better. :-)  Thanks!<&#47;p>'
+- id: 715
+  author: Mark Brown
+  author_email: broonie@sirena.org.uk
+  author_url: http://www.sirena.org.uk/log/
+  date: !binary |-
+    MjAwNi0xMS0yMyAyMDozNzoyNSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNi0xMS0yMyAxOTozNzoyNSArMDAwMA==
+  content: <p>dlint is pretty handy too, though it does have some editorial ideas.<&#47;p>
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.squish.net&#47;dnscheck&#47;">DNS traversal checking<&#47;a><&#47;div>
+		<div class="delicious-extended">I've been using this DNS tool for years now, just keep forgetting to bookmark it!<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;admin">admin<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;dns">dns<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;internet">internet<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;network">network<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;sysadmin">sysadmin<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

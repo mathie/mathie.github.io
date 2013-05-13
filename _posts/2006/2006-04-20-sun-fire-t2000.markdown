@@ -1,0 +1,112 @@
+---
+layout: post
+status: publish
+published: true
+title: Sun Fire T2000
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 260
+wordpress_url: http://woss.name/2006/04/20/sun-fire-t2000/
+date: 2006-04-20 16:33:49.000000000 +01:00
+categories:
+- Geekery
+- Solaris
+- Work
+tags: []
+comments:
+- id: 388
+  author: Joe
+  author_email: joe@pinkpucker.net
+  author_url: ''
+  date: !binary |-
+    MjAwNi0wNC0yMCAxODo1NTo0OCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yMCAxNzo1NTo0OCArMDEwMA==
+  content: <p>Uh, so, it doesn't work with a normal keyboard?<&#47;p>
+- id: 389
+  author: mathie
+  author_email: mathie@woss.name
+  author_url: http://woss.name/
+  date: !binary |-
+    MjAwNi0wNC0yMCAxOTo1Mzo1NiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yMCAxODo1Mzo1NiArMDEwMA==
+  content: ! '<p>Joe: There''s a possibility I''m being really dim, but no, I don''t
+    think so.  There''s no graphics adapter in the T2000 and, while you might be able
+    to install one, it''d have to be a low profile PCI card, and I don''t have anything
+    like that kicking around.  I guess there''s a possibility you could interact with
+    it blind, with a USB keyboard, but I certainly doubt that would work for the SC
+    side of things.<&#47;p>
+
+
+    <p>Now I''m trying to get my head around the Solaris patching system.  Oww.  I
+    think I need a dummies guide to Solaris...<&#47;p>'
+- id: 390
+  author: Gerard Byrne
+  author_email: gbyrne@experience.ie
+  author_url: http://experience.ie
+  date: !binary |-
+    MjAwNi0wNC0yNiAwNzo0MzoyNiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNC0yNiAwNjo0MzoyNiArMDEwMA==
+  content: ! '<p>That''s why I keep an old (serial) DUMB terminal in the attic. You
+    wouldn''t be interested in an ADM3A or VT100? I wouldn''t be surprised if that
+    beastie had a 9-pin serial port ready and waiting at the back.<&#47;p>
+
+
+    <p>Why emulate when you can do the real thing :-)<&#47;p>
+
+
+    <p>GB<&#47;p>
+
+
+    <p>PS: Noisy buggers aren''t they. Now you know why my XServe does not live beside
+    my desk!<&#47;p>'
+- id: 391
+  author: Ole Eichhorn
+  author_email: ole@aperio.com
+  author_url: http://www.aperio.com
+  date: !binary |-
+    MjAwNi0wNS0wNCAyMjozODo1NiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNS0wNCAyMTozODo1NiArMDEwMA==
+  content: ! '<p>I just got a trial T2000 also.  Hooked the serial port to a nearby
+    PC''s port and was able to use Hyperterm to configure it.  Reminded me of something
+    I would have done ten years ago.  I love the "#." control sequence to go back
+    from console mode to SC mode.<&#47;p>
+
+
+    <p>Anyway my reason for posting - my machine is SO LOUD.  I can''t even believe
+    any machine would make that much noise.  I was sure the machine had a hardware
+    problem and thought it was overheating, and cranked its fans up to max to compensate.  Reading
+    your post makes me think they are just always this loud.  Do the fans'' speeds
+    vary, or is the machine really just always SO LOUD?<&#47;p>'
+- id: 392
+  author: mathie
+  author_email: mathie@woss.name
+  author_url: http://woss.name/
+  date: !binary |-
+    MjAwNi0wNS0wNSAwOTowNToxMiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNi0wNS0wNSAwODowNToxMiArMDEwMA==
+  content: ! '<p>Gerard: actually come to think of it I''ve an old VT100 terminal
+    kicking around ... somewhere.  It''s probably in my parents'' loft these days,
+    still on top of the pile of SparcStations 2s, 4s and 5s I used it as a console
+    for...<&#47;p>
+
+
+    <p>Ole: The only thing I''ve found that makes it quieter is to put it in another
+    room and turn some music on!  I think it really is just that loud...<&#47;p>'
+---
+I'm currently staring at a spinning `&#47;`, trying to drown out the noise of fans below me with Placebo:
+
+    Sun Fire T200, No Keyboard
+    Copyright 2005 Sun Microsystems, Inc.  All rights reserved.
+    OpenBoot 4.19.0, 8184 MB memory installed, Serial #67267664.
+    Ethernet address 0:14:4f:2:6c:50, Host ID: 84026c50.
+
+Yeah, that's right, I have just received an evaluation [Sun Fire T2000](http:&#47;&#47;www.sun.com&#47;servers&#47;coolthreads&#47;t2000&#47;test&#47;overview_a.jsp?name=A) for 60 days to play around with.  Very first impressions?  **Argh!** I had to go speak nicely to my local [Sun Resellers](http:&#47;&#47;www.accesscomputing.co.uk&#47;) to borrow a serial console cable since it didn't ship with one.  I then had to dig out an old PC laptop with a working serial port and get that running with `minicom` just so that I could set up the network ALOM interface.  But now I have it booting and I'm doing the initial configuration.
+
+The idea is that I'm going to attempt to do some [detailed performance analysis](http:&#47;&#47;blogs.sun.com&#47;roller&#47;page&#47;jonathan&#47;20060221) of the machine running RoR apps, comparing it to the Quad G5 I have sitting next to me.  Hopefully, I might even then be able to deploy it somewhere, running RoR apps. :)

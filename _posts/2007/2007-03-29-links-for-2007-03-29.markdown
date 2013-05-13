@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-03-29
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 406
+wordpress_url: http://woss.name/2007/03/29/links-for-2007-03-29/
+date: 2007-03-29 01:37:42.000000000 +01:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;capazon.rubyforge.org&#47;">capazon's capazon-0.1.0 Documentation<&#47;a><&#47;div>
+		<div class="delicious-extended">Extensions to capistrano which allow you to manage EC2 instances all from the comfort of `cap`.  Neat!<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;capistrano">capistrano<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;amazon">amazon<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ec2">ec2<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;deployment">deployment<&#47;a>)<&#47;div>
+	<&#47;li>
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Special:Randompage">http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Special:Randompage<&#47;a><&#47;div>
+		<div class="delicious-extended">Brings up a random wikipedia entry when you visit it.  It's been suggested that it would make a great default page in Firefox, but the risk of getting distracted by something new and interesting when I was supposed to be checking my email it too great!<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;education">education<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;entertainment">entertainment<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;wikipedia">wikipedia<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;reference">reference<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;daily">daily<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;knowledge">knowledge<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

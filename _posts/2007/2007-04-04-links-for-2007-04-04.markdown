@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: links for 2007-04-04
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 409
+wordpress_url: http://woss.name/2007/04/04/links-for-2007-04-04/
+date: 2007-04-04 01:39:13.000000000 +01:00
+categories:
+- Web surfing
+tags: []
+comments: []
+---
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.schneier.com&#47;blog&#47;archives&#47;2007&#47;04&#47;javascript_hija.html">Schneier on Security: JavaScript Hijacking<&#47;a><&#47;div>
+		<div class="delicious-extended">I think I need to read and digest this paper, see what will affect the applications we have in production!<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;javascript">javascript<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ajax">ajax<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;security">security<&#47;a>)<&#47;div>
+	<&#47;li>
+	<li>
+		<div class="delicious-link"><a href="http:&#47;&#47;www.dcmanges.com&#47;blog&#47;21">Dan Manges - Scope Out ActiveRecord Conditions<&#47;a><&#47;div>
+		<div class="delicious-extended">Yeah, scope_out sounds pretty useful.  I've been doing that sort of thing for a while, but haven't actually codified it up into a plugin, and hadn't thought of extending associations.<&#47;div>
+		<div class="delicious-tags">(tags: <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;plugins">plugins<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rails">rails<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;ruby">ruby<&#47;a> <a href="http:&#47;&#47;del.icio.us&#47;mathie&#47;rubyonrails">rubyonrails<&#47;a>)<&#47;div>
+	<&#47;li>
+<&#47;ul>

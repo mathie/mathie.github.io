@@ -1,0 +1,74 @@
+---
+layout: post
+status: publish
+published: true
+title: Enola Gay
+author: Graeme Mathieson
+author_login: mathie
+author_email: mathie@woss.name
+author_url: http://woss.name/
+wordpress_id: 29
+wordpress_url: http://woss.name/?p=29
+date: 2005-08-06 10:31:15.000000000 +01:00
+categories:
+- Current Affairs
+- Web surfing
+tags: []
+comments:
+- id: 28
+  author: Brian
+  author_email: brianw@surfglobal.net
+  author_url: ''
+  date: !binary |-
+    MjAwNy0wMS0wNiAxODoxMjoxNyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNy0wMS0wNiAxNzoxMjoxNyArMDAwMA==
+  content: <p>I recall probably forty or more years ago hearing that the name Enola
+    Gay stood for "Young American GIs Alone".  It was only this morning while watching
+    a DVD of the TV series "The World at War" produced in the mid seventies that I
+    learned the pilot had named the plane after his mother.<&#47;p>
+- id: 29
+  author: Linda DiNardo
+  author_email: l_dinardo@hotmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNy0wNS0xOCAxMDozMzoxMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNy0wNS0xOCAwOTozMzoxMCArMDEwMA==
+  content: ! '<p>Thank you for settling this for me.  I''ve pondered this for years.  Never
+    before had I heard that BG Tibbets named the plane for his mother.  It''s just
+    too uncanny that the anagram reads:  Young American GI''s Alone, yet it''s not
+    the reason for the name.  I was surprised that you made no mention of&#47;reference
+    to the eerily descriptive anagram.<&#47;p>
+
+
+    <p>That said, thank you again.  It was fun finding this online and reading the
+    interesting story of General Tibbets and the Enola Gay.<&#47;p>
+
+
+    <p>Best,
+
+    Linda DiNardo<&#47;p>'
+- id: 30
+  author: MRN Olenick
+  author_email: mrn_olenic@yahoo.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMi0wNSAwNDoyNDozNCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMi0wNSAwMzoyNDozNCArMDAwMA==
+  content: ! '<p>It''s possible that Tibbets was chosen  his mother''s name was Enola
+    Gay.  From what I''ve heard, he was a last minute substi-tute for the man who
+    was originally to have flown the mission, much to the latter''s displeasure.<&#47;p>
+
+
+    <p>Though I''m not a geneologist, I did manage to confirm through research that
+    Enola Gay was his mother''s name.  Nothing this important ever happens by chance.<&#47;p>'
+---
+Today's episode of <a href="http:&#47;&#47;www.bbc.co.uk&#47;radio4&#47;excessbaggage&#47;" title="Excess Baggage on BBC Radio 4">Excess Baggage<&#47;a> is (predictably) about Hiroshima.  I've been meaning, every time I've heard it recently to find out the significance of the name of the aeroplane that dropped 'Little Boy' on Hiroshima: <em>Enola Gay<&#47;em>.  I'd assumed there was some significance about Enola being 'alone' spelled backwards, but I couldn't see where Gay ('yag'?) fitted in.  Wikipedia to the rescue -- from its entry on <a href="http:&#47;&#47;en.wikipedia.org&#47;wiki&#47;Enola_Gay" title="Enola Gay - Wikipedia">Enola Gay<&#47;a>:
+
+<blockquote><p>Colonel Paul Tibbets, the plane's pilot, named her <em>[the plane]<&#47;em> after his mother Enola Gay Tibbets (1893&acirc;&euro;&ldquo;1983, who in turn had been named after the heroine of a novel).<&#47;p><&#47;blockquote>
+
+I haven't managed to find out anything more about the novel, other than it being one her father liked...
+
+On the other hand, I have discovered, through Google, that there are several sites that are basically reskins of Wikipedia, reprinting exactly the same text, links an' all.  I suppose that's one of the 'advantages' of releasing stuff under a free license, but really, what's the point of cargo-culting stuff from elsewhere, rather than linking to it, particularly when somebody who isn't paying close attention might assume it to be your own work?
