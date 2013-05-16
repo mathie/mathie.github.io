@@ -5,6 +5,7 @@ gem 'jekyll-assets'
 
 gem 'sass'
 gem 'uglifier'
+gem 'bootstrap-sass'
 
 # Uncomment this set of gems to reimport content from Wordpress. Please don't
 # commit the resulting Gemfile.lock.
