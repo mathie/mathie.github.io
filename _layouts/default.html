@@ -10,23 +10,13 @@
 
   <body>
     <div class="container-fluid">
-      {% include header.html %}
-
       <div class="row-fluid">
-        <div class="span10 offset1">
+        <div class="span8 offset2">
 
-          <div class="row-fluid">
-            <div class="span10">
-              {{ content }}
+          {{ content }}
 
-              <div class="footer">
-                {% include footer.html %}
-              </div>
-            </div>
-
-            <div class="span2">
-              {% include sidebar.html %}
-            </div>
+          <div class="footer">
+            {% include footer.html %}
           </div>
         </div>
       </div>

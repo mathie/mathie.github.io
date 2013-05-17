@@ -24,7 +24,7 @@ title: Notes from a Messy Desk
 <ul class="pager">
   {% if paginator.next_page %}
     <li class="previous">
-      <a href="{{ paginator.next_page_path }}">
+      <a href="/{{ paginator.next_page_path }}">
         &larr; Older
       </a>
     </li>
@@ -43,7 +43,7 @@ title: Notes from a Messy Desk
           Newer &rarr;
         </a>
       {% else %}
-        <a href="{{ paginator.previous_page_path }}">
+        <a href="/{{ paginator.previous_page_path }}">
           Newer &rarr;
         </a>
       {% endif %}
