@@ -14,20 +14,20 @@ layout: default
       {% if page.categories %}
         <br>Filed under:
         {% for category in page.categories limit:1 %}
-          <a href="/categories/{{ category | slugify }}">{{ category }}</a>
+          <a href="/category/{{ category | slugify }}">{{ category }}</a>
         {% endfor %}
         {% for category in page.categories offset:1 %}
-          | <a href="/categories/{{ category | slugify }}">{{ category }}</a>
+          | <a href="/category/{{ category | slugify }}">{{ category }}</a>
         {% endfor %}
       {% endif %}
 
       {% if page.tags %}
         <br>Tagged:
         {% for tag in page.tags limit:1 %}
-          <a href="/tags/{{ tag | downcase | slugify }}">{{ tag }}</a>
+          <a href="/tag/{{ tag | downcase | slugify }}">{{ tag }}</a>
         {% endfor %}
         {% for tag in page.tags offset:1 %}
-          | <a href="/tags/{{ tag | downcase | slugify }}">{{ tag }}</a>
+          | <a href="/tag/{{ tag | downcase | slugify }}">{{ tag }}</a>
         {% endfor %}
       {% endif %}
     </p>
