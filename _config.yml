@@ -1,6 +1,7 @@
 name: Notes from a Messy Desk
 
 pygments: true
+lsi: true
 
 assets:
   compress:
