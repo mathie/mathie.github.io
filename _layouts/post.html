@@ -21,7 +21,7 @@ layout: default
   <hr>
 
   <section id="related-posts">
-    <h3>(Possibly) related posts</h3>
+    <h4>Related posts</h4>
 
     <p>If you enjoyed this post, then Latent Semantic Indexing suggests that you may also enjoy some of the following posts:</p>
 
@@ -31,4 +31,24 @@ layout: default
       {% endfor %}
     </ul>
   </section>
+
+  <hr>
+
+  <section id="comments" itemprop="comments" itemscope itemtype="http://schema.org/UserComments">
+    <div id="disqus_thread"></div>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </section>
 </article>
+
+<script type="text/javascript">
+  var disqus_shortname  = 'wossname';
+  var disqus_title      = '{{ page.title }}';
+  var disqus_url        = window.location.protocol + '//' + window.location.hostname + '{{ page.url }}';
+  var disqus_identifier = '{{ page.id }}';
+
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
