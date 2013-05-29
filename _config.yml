@@ -17,3 +17,4 @@ paginate: 4
 
 exclude:
   - Gemfile*
+  - Rakefile

@@ -8,6 +8,8 @@ gem 'sass'
 gem 'uglifier'
 gem 'bootstrap-sass'
 
+gem 'rake'
+
 # Uncomment this set of gems to reimport content from Wordpress. Please don't
 # commit the resulting Gemfile.lock.
 #
