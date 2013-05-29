@@ -1,11 +1,46 @@
----
-layout: default
----
-<div class="page-header">
-  <h1>{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date_to_string }}</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<div id="post">
-{{ content }}
-</div>
+    {% stylesheet app %}
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span8 offset2">
+          <div class="page-header">
+            <h1>{{ site.name }}</h1>
+            <h2>
+              {{ page.title}}
+              <small>{{ page.date | date_to_string }}</small>
+            </h2>
+          </div>
+
+          {{ content }}
+
+          <hr>
+
+          <div id="related-posts">
+            <h3>(Possibly) related posts</h3>
+
+            <p>If you enjoyed this post, then Latent Semantic Indexing suggests that you may also enjoy some of the following posts:</p>
+
+            <ul>
+              {% for post in site.related_posts limit: 4 %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="muted">{{ post.date | date_to_string }}</span></li>
+              {% endfor %}
+            </ul>
+          </div>
+
+          <div class="footer">
+            {% include footer.html %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
