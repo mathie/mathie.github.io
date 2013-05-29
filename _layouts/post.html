@@ -11,6 +11,15 @@ layout: default
     </h2>
     <p class="muted" itemprop="author creator copyrightHolder" itemscope itemtype="http://schema.org/Person">
       By <a href="https://plus.google.com/u/0/100653048199781266668?rel=author" itemprop="url"><span itemprop="name"><span itemprop="givenName">Graeme</span> <span itemprop="familyName">Mathieson</span></span></a>.
+      {% if page.categories %}
+        <br>Filed under:
+        {% for category in page.categories limit:1 %}
+          <a href="/categories/{{ category | slugify }}">{{ category }}</a>
+        {% endfor %}
+        {% for category in page.categories offset:1 %}
+          | <a href="/categories/{{ category | slugify }}">{{ category }}</a>
+        {% endfor %}
+      {% endif %}
     </p>
   </header>
 
