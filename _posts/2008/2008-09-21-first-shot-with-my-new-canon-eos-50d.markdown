@@ -6,7 +6,7 @@ categories:
 - Personal
 - Photography
 ---
-<a href="http://www.flickr.com/photos/mathie/2872522573/" title="First shot with my new Canon EOS 50D!"><img src="http://farm4.static.flickr.com/3206/2872522573_0c6f27fd88_m.jpg" alt="First shot with my new Canon EOS 50D!" class="alignright" style="border: solid 1px #000000; float: right;" /></a>I picked up my pre-ordered Canon EOS 50D from Jessops on Saturday afternoon, after I had been pestering them daily to find out when it would come into stock.  (It was alleged at the store that they were the only outlet in Scotland to currently have them, and that I was therefore the second person in Scotland to purchase the 50D!  I'd love to know who beat me to the punch and got their paws on one Friday night!)
+<p><a href="http://www.flickr.com/photos/mathie/2872522573/" title="First shot with my new Canon EOS 50D!"><img src="http://farm4.static.flickr.com/3206/2872522573_0c6f27fd88_m.jpg" alt="First shot with my new Canon EOS 50D!" class="alignright" style="border: solid 1px #000000; float: right;" /></a>I picked up my pre-ordered Canon EOS 50D from Jessops on Saturday afternoon, after I had been pestering them daily to find out when it would come into stock.  (It was alleged at the store that they were the only outlet in Scotland to currently have them, and that I was therefore the second person in Scotland to purchase the 50D!  I'd love to know who beat me to the punch and got their paws on one Friday night!)</p>
 
 Anyway, a few first impressions (bearing in mind that I'm upgrading from an EOS 350D, these are not necessarily anything new about the 50D, but a win from the upgrade to the next line up):
 
