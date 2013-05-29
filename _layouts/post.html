@@ -20,6 +20,16 @@ layout: default
           | <a href="/categories/{{ category | slugify }}">{{ category }}</a>
         {% endfor %}
       {% endif %}
+
+      {% if page.tags %}
+        <br>Tagged:
+        {% for tag in page.tags limit:1 %}
+          <a href="/tags/{{ tag | downcase | slugify }}">{{ tag }}</a>
+        {% endfor %}
+        {% for tag in page.tags offset:1 %}
+          | <a href="/tags/{{ tag | downcase | slugify }}">{{ tag }}</a>
+        {% endfor %}
+      {% endif %}
     </p>
   </header>
 
