@@ -6,15 +6,17 @@ title: Notes from a Messy Desk
 
 <div class="row-fluid">
   {% for post in paginator.posts %}
-    <article class="span6">
+    <article class="span6" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
       <header>
         <h2>
-          <a href="{{ post.url }}">{{ post.title }}</a><br>
-          <small>{{ post.date | date_to_string }}</small>
+          <span itemprop="name headline"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></span><br>
+          <small><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="dateModified datePublished">{{ post.date | date_to_string }}</time></small>
         </h2>
       </header>
 
-      {{ post.excerpt }}
+      <div itemprop="description">
+        {{ post.excerpt }}
+      </div>
     </article>
   {% cycle '', '</div><div class="row-fluid">' %}
   {% endfor %}
