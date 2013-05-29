@@ -11,7 +11,7 @@ module Jekyll
       self.data['category'] = category
       self.data['posts'] = site.categories[category]
 
-      category_title_prefix = site.config['category_title_prefix'] || 'Category: '
+      category_title_prefix = site.config['category_title_prefix'] || 'Posts filed under: '
       self.data['title'] = "#{category_title_prefix}#{category}"
     end
   end
@@ -21,7 +21,7 @@ module Jekyll
 
     def generate(site)
       if site.layouts.key? 'archive'
-        dir = site.config['category_dir'] || 'categories'
+        dir = site.config['category_dir'] || 'category'
         site.categories.keys.each do |category|
           site.pages << CategoryPage.new(site, site.source, File.join(dir, category.gsub(/[^0-9a-zA-Z]+/, '-')), category)
         end

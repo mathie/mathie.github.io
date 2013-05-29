@@ -11,7 +11,7 @@ module Jekyll
       self.data['tag'] = tag
       self.data['posts'] = site.tags[tag]
 
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tag: '
+      tag_title_prefix = site.config['tag_title_prefix'] || 'Posts tagged: '
       self.data['title'] = "#{tag_title_prefix}#{tag}"
     end
   end
@@ -21,7 +21,7 @@ module Jekyll
 
     def generate(site)
       if site.layouts.key? 'archive'
-        dir = site.config['tag_dir'] || 'tags'
+        dir = site.config['tag_dir'] || 'tag'
         site.tags.keys.each do |tag|
           site.pages << TagPage.new(site, site.source, File.join(dir, tag.downcase.gsub(/[^0-9a-z]+/, '-')), tag)
         end
