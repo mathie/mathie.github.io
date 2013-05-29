@@ -1,0 +1,29 @@
+---
+layout: post
+title: Reboot
+categories:
+- Meta
+tags:
+- jekyll
+- bootstrap
+- wordpress
+excerpt: >
+  It's been a while since I've blogged. That seems to be about 25% of what I
+  say here. So it's time for a change.
+---
+It's been a while since I've blogged. That seems to be about 25% of what I say
+here. I seem to have spent more time patching
+[WordPress](http://www.wordpress.org/) to cover security vulnerabilities than I
+have actually writing content in the past year.
+
+So it's time for a change. I've switched to a static site generator called
+[Jekyll](http://jekyllrb.com) and I've hacked together a very plain visual
+style (with [Bootstrap](http://twitter.github.io/bootstrap/) because it's about
+the only way I can pretend to do CSS).
+
+And I've been writing again. I've got a backlog of material sitting in
+[EverNote](http://www.evernote.com) which can be tidied up and turned into
+potentially useful blog posts. Let's set a schedule and see what we can do.
+
+So check back here next Wednesday, and every Wednesday after that, see if I've
+kept my promise to myself...
