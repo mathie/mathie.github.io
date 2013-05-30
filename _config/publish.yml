@@ -1,0 +1,9 @@
+url: http://woss.name
+
+assets:
+  compress:
+    css: sass
+    js:  uglifier
+  baseurl: http://assets.woss.name/assets
+
+destination: ./_deploy

@@ -1,14 +1,9 @@
 name: Notes from a Messy Desk
-url: http://woss.name
 description: The original net.presence of Graeme Mathieson (aka @mathie)
+timezone: Europe/London
 
 pygments: true
 lsi: true
-
-assets:
-  compress:
-    css: sass
-    js:  uglifier
 
 permalink: /:year/:month/:day/:title/
 
