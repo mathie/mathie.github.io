@@ -1,5 +1,15 @@
 ---
 layout: default
+head: |
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">
+    stLight.options({
+      publisher: "baf31c90-4e6f-495e-832c-66a4d1e026d6",
+      doNotHash: true,
+      doNotCopy: true,
+      hashAddressBar: false
+    });
+  </script>
 ---
 <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
   <header>
@@ -36,6 +46,23 @@ layout: default
   <div itemprop="text description articleBody">
     {{ content }}
   </div>
+
+  <hr>
+
+  <section id="share-this">
+    <h4>Sharing</h4>
+    <p>
+      If you enjoyed this article, perhaps you'd like to tell your friends all about it?
+    </p>
+
+    <p>
+      <span class='st_twitter_hcount' displayText='Tweet'></span>
+      <span class='st_facebook_hcount' displayText='Facebook'></span>
+      <span class='st_googleplus_hcount' displayText='Google +'></span>
+      <span class='st_linkedin_hcount' displayText='LinkedIn'></span>
+      <span class='st_instapaper_hcount' displayText='Instapaper'></span>
+    </p>
+  </section>
 
   <hr>
 

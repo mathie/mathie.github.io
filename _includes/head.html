@@ -29,3 +29,7 @@
 <link rel="shortcut icon" href="/favicon.ico">
 
 {% stylesheet app %}
+
+{% if page.head %}
+  {{ page.head }}
+{% endif %}
