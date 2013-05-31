@@ -5,7 +5,7 @@ date: 2006-01-20 13:10:15 +00:00
 categories:
 - Geekery
 ---
-Being a *nix weenie of old, I'm used to using `locate(1)` to search for files on my filesystem.  Unfortunately, on Mac OS X, that doesn't work so well, since the locate database isn't automatically updated.  Previously I'd been manually updating the locate database every so often, mostly at the point where I wanted to locate something!
+Being a \*nix weenie of old, I'm used to using `locate(1)` to search for files on my filesystem.  Unfortunately, on Mac OS X, that doesn't work so well, since the locate database isn't automatically updated.  Previously I'd been manually updating the locate database every so often, mostly at the point where I wanted to locate something!
 
 Today I came up with a better plan: [Spotlight](http://www.apple.com/macosx/features/spotlight/).  Recently I'd been reading up on the use of `mdfind` to drive Spotlight from the command line, which is kinda neat, but the language for telling it what you're looking for, while extremely flexible, is a bit long winded.  So the following has just made it into my `~/.bashrc`:
 

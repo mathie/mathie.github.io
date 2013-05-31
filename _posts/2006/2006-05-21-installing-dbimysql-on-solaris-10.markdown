@@ -21,6 +21,6 @@ Is that correct?  It's certainly the case that simply doing:
 
 doesn't work, since it tries to build the Perl module with `-xarch=v8` (inheriting from the perl installation) and link with the `libmysqlclient.a` which is built with `-xarch=v9`.  It appears to configure and build OK, but all the tests fail with:
 
-`install_driver(mysql) failed: Can't load '[...]/blib/arch/auto/DBD/mysql/mysql.so' for module DBD::mysql: ld.so.1: perl: fatal: relocation error: file [...]/blib/arch/auto/DBD/mysql/mysql.so: symbol mysql_real_escape_string: referenced symbol not found at /usr/perl5/5.8.4/lib/sun4-solaris-64int/DynaLoader.pm line 230.`
+    install_driver(mysql) failed: Can't load '[...]/blib/arch/auto/DBD/mysql/mysql.so' for module DBD::mysql: ld.so.1: perl: fatal: relocation error: file [...]/blib/arch/auto/DBD/mysql/mysql.so: symbol mysql_real_escape_string: referenced symbol not found at /usr/perl5/5.8.4/lib/sun4-solaris-64int/DynaLoader.pm line 230.
 
 Bugger.  So much for being lazy and trying to use prebuilt binaries of stuff.

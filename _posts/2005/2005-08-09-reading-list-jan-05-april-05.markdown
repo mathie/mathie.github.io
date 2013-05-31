@@ -19,8 +19,8 @@ This is was list, as of April '05:
 </tr></thead>
 <tbody>
 <tr>
-<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1582344167/mathieoftheen-21"><img src="http://images.amazon.com/images/P/1582344167.01._SCTHUMBZZZ_.jpg" alt="Jonathan Strange & Mr. Norrell" class="centered" /></a></td>
-<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1582344167/mathieoftheen-21" title="Jonathan Strange & Mr. Norrell">Jonathan Strange &amp; Mr Norrell</a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1582344167/mathieoftheen-21"><img src="http://images.amazon.com/images/P/1582344167.01._SCTHUMBZZZ_.jpg" alt="Jonathan Strange &amp; Mr. Norrell" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1582344167/mathieoftheen-21" title="Jonathan Strange &amp; Mr. Norrell">Jonathan Strange &amp; Mr Norrell</a></td>
 <td>Susanna Clarke</td>
 <td>73mm</td>
 </tr>
@@ -37,8 +37,8 @@ This is was list, as of April '05:
 <td>24mm</td>
 </tr>
 <tr>
-<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0752809431/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/0752809431.02.THUMBZZZ.jpg" alt="A Good Hanging & Other Stories" class="centered" /></a></td>
-<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0752809431/mathieoftheen-21">A Good Hanging & Other Stories</a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0752809431/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/0752809431.02.THUMBZZZ.jpg" alt="A Good Hanging &amp; Other Stories" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/0752809431/mathieoftheen-21">A Good Hanging &amp; Other Stories</a></td>
 <td>Ian Rankin</td>
 <td>20mm</td>
 </tr>
@@ -49,8 +49,8 @@ This is was list, as of April '05:
 <td>34mm</td>
 </tr>
 <tr>
-<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1852863269/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1852863269.02.THUMBZZZ.jpg" alt="Preludes & Nocturnes" class="centered" /></a></td>
-<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1852863269/mathieoftheen-21">The Sandman: Preludes & Nocturnes</a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1852863269/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1852863269.02.THUMBZZZ.jpg" alt="Preludes &amp; Nocturnes" class="centered" /></a></td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1852863269/mathieoftheen-21">The Sandman: Preludes &amp; Nocturnes</a></td>
 <td>Neil Gaiman</td>
 <td>12mm</td>
 </tr>
@@ -68,7 +68,7 @@ This is was list, as of April '05:
 </tr>
 <tr>
 <td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1857239490/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1857239490.02.THUMBZZZ.jpg" alt="Only Human" class="centered" /></a> <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1841492086/mathieoftheen-21"><img src="http://images-eu.amazon.com/images/P/1841492086.02.THUMBZZZ.jpg" alt="The Portable Door" class="centered" /></a></td>
-<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1857239490/mathieoftheen-21">Only Human</a> & <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1841492086/mathieoftheen-21">The Portable Door</a> Omnibus</td>
+<td><a href="http://www.amazon.co.uk/exec/obidos/ASIN/1857239490/mathieoftheen-21">Only Human</a> &amp; <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1841492086/mathieoftheen-21">The Portable Door</a> Omnibus</td>
 <td>Tom Holt</td>
 <td>53mm</td>
 </tr>
