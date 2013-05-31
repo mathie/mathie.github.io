@@ -49,34 +49,34 @@ head: |
 
   <hr>
 
-  <section id="share-this">
-    <h4>Sharing</h4>
-    <p>
-      If you enjoyed this article, perhaps you'd like to tell your friends all about it?
-    </p>
+  <div class="row-fluid">
+    <section id="related-posts" class="span6">
+      <h4>Related posts</h4>
 
-    <p>
-      <span class='st_twitter_hcount' displayText='Tweet'></span>
-      <span class='st_facebook_hcount' displayText='Facebook'></span>
-      <span class='st_googleplus_hcount' displayText='Google +'></span>
-      <span class='st_linkedin_hcount' displayText='LinkedIn'></span>
-      <span class='st_instapaper_hcount' displayText='Instapaper'></span>
-    </p>
-  </section>
+      <p>If you enjoyed this post, then Latent Semantic Indexing suggests that you may also enjoy some of the following posts:</p>
 
-  <hr>
+      <ul>
+        {% for post in site.related_posts limit: 4 %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="muted">{{ post.date | date_to_string }}</span></li>
+        {% endfor %}
+      </ul>
+    </section>
 
-  <section id="related-posts">
-    <h4>Related posts</h4>
+    <section id="share-this" class="span6">
+      <h4>Sharing</h4>
+      <p>
+        If you enjoyed this article, perhaps you'd like to tell your friends all about it?
+      </p>
 
-    <p>If you enjoyed this post, then Latent Semantic Indexing suggests that you may also enjoy some of the following posts:</p>
-
-    <ul>
-      {% for post in site.related_posts limit: 4 %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="muted">{{ post.date | date_to_string }}</span></li>
-      {% endfor %}
-    </ul>
-  </section>
+      <p>
+        <span class='st_twitter' displayText='Tweet'></span>
+        <span class='st_facebook' displayText='Facebook'></span>
+        <span class='st_googleplus' displayText='Google +'></span>
+        <span class='st_linkedin' displayText='LinkedIn'></span>
+        <span class='st_instapaper' displayText='Instapaper'></span>
+      </p>
+    </section>
+  </div>
 
   <hr>
 
