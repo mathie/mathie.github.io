@@ -1,0 +1,31 @@
+<nav id="other-posts">
+  <ul class="pager">
+    {% if page.previous %}
+      <li class="previous">
+        <a href="{{ page.previous.url }}" title="Previous post: {{ page.previous.title }}">
+          &larr; Previous
+        </a>
+      </li>
+    {% else %}
+      <li class="previous disabled">
+        <a href="#">
+          &larr; Previous
+        </a>
+      </li>
+    {% endif %}
+
+    {% if page.next %}
+      <li class="next">
+        <a href="{{ page.next.url }}" title="Next post: {{ page.next.title }}">
+          Next &rarr;
+        </a>
+      </li>
+    {% else %}
+      <li class="next disabled">
+        <a href="#">
+          Next &rarr;
+        </a>
+      </li>
+    {% endif %}
+  </ul>
+</nav>
