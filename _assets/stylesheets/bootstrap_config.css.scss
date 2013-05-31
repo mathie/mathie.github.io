@@ -2,3 +2,15 @@
 
 // Finally, import bootstrap itself.
 @import 'bootstrap';
+
+// I want horizontally scrolling, non-wrapping pre blocks
+pre {
+  word-break: normal;
+  word-wrap: normal;
+  white-space: pre;
+  overflow-x: scroll;
+
+  code {
+    white-space: inherit;
+  }
+}
