@@ -29,6 +29,9 @@
 <link rel="shortcut icon" href="/favicon.ico">
 
 {% stylesheet app %}
+<!--[if IE]>
+  {% stylesheet ie %}
+<![endif]-->
 
 {% if page.head %}
   {{ page.head }}
