@@ -7,8 +7,8 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://www.squish.net/dnscheck/">DNS traversal checking</a></div>
+		<div class="delicious-link">[DNS traversal checking](http://www.squish.net/dnscheck/)</div>
 		<div class="delicious-extended">I've been using this DNS tool for years now, just keep forgetting to bookmark it!</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/admin">admin</a> <a href="http://del.icio.us/mathie/dns">dns</a> <a href="http://del.icio.us/mathie/internet">internet</a> <a href="http://del.icio.us/mathie/network">network</a> <a href="http://del.icio.us/mathie/sysadmin">sysadmin</a>)</div>
+		<div class="delicious-tags">(tags: [admin](http://del.icio.us/mathie/admin) [dns](http://del.icio.us/mathie/dns) [internet](http://del.icio.us/mathie/internet) [network](http://del.icio.us/mathie/network) [sysadmin](http://del.icio.us/mathie/sysadmin))</div>
 	</li>
 </ul>

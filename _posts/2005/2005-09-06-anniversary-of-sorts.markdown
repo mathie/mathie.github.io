@@ -6,4 +6,4 @@ categories:
 - Personal
 - Work
 ---
-I've now been working for <a href="http://www.logicalware.com/">Logicalware Ltd</a> (n&eacute;e Logical Progression Ltd) for exactly a year as of today.  What an incredibly exciting year it's been, too. :-)
+I've now been working for [Logicalware Ltd](http://www.logicalware.com/) (n&eacute;e Logical Progression Ltd) for exactly a year as of today.  What an incredibly exciting year it's been, too. :-)

@@ -7,28 +7,28 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://agilewebdevelopment.com/plugins">Ruby on Rails Plugins - Agile Web Development</a></div>
+		<div class="delicious-link">[Ruby on Rails Plugins - Agile Web Development](http://agilewebdevelopment.com/plugins)</div>
 		<div class="delicious-extended">Ruby on Rails Plugin directory.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/plugins">plugins</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/development">development</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a>)</div>
+		<div class="delicious-tags">(tags: [rails](http://del.icio.us/mathie/rails) [plugins](http://del.icio.us/mathie/plugins) [ruby](http://del.icio.us/mathie/ruby) [development](http://del.icio.us/mathie/development) [rubyonrails](http://del.icio.us/mathie/rubyonrails))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.peepcode.com/articles/2006/11/26/test-first-development">Test-First Development :: PeepCode Ruby on Rails Screencasts</a></div>
+		<div class="delicious-link">[Test-First Development :: PeepCode Ruby on Rails Screencasts](http://www.peepcode.com/articles/2006/11/26/test-first-development)</div>
 		<div class="delicious-extended">A new screencast from Topfunky on Test- (or Behaviour-) Driven Development with Rails.  Hopefully there shouldn't be much new content here for me, but I guarantee I pick up something interesting.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/testing">testing</a> <a href="http://del.icio.us/mathie/tdd">tdd</a> <a href="http://del.icio.us/mathie/bdd">bdd</a> <a href="http://del.icio.us/mathie/screencasts">screencasts</a>)</div>
+		<div class="delicious-tags">(tags: [rubyonrails](http://del.icio.us/mathie/rubyonrails) [ruby](http://del.icio.us/mathie/ruby) [rails](http://del.icio.us/mathie/rails) [testing](http://del.icio.us/mathie/testing) [tdd](http://del.icio.us/mathie/tdd) [bdd](http://del.icio.us/mathie/bdd) [screencasts](http://del.icio.us/mathie/screencasts))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://lunchroom.lunchboxsoftware.com/articles/2006/01/21/acts-as-state-machine">Rubyist - Acts As State Machine</a></div>
+		<div class="delicious-link">[Rubyist - Acts As State Machine](http://lunchroom.lunchboxsoftware.com/articles/2006/01/21/acts-as-state-machine)</div>
 		<div class="delicious-extended">A plugin for Ruby on Rails to implement a state machine on Rails models.  Looks like it could be useful for modelling workflow.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/plugins">plugins</a> <a href="http://del.icio.us/mathie/workflow">workflow</a>)</div>
+		<div class="delicious-tags">(tags: [rails](http://del.icio.us/mathie/rails) [ruby](http://del.icio.us/mathie/ruby) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [plugins](http://del.icio.us/mathie/plugins) [workflow](http://del.icio.us/mathie/workflow))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.onlamp.com/pub/a/onlamp/2004/11/18/slony.html">ONLamp.com -- Introducing Slony</a></div>
+		<div class="delicious-link">[ONLamp.com -- Introducing Slony](http://www.onlamp.com/pub/a/onlamp/2004/11/18/slony.html)</div>
 		<div class="delicious-extended">An overview of Slony, a replication system for PostgreSQL.  Worth investigating more to see if we can make it do automatic failover.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/postgresql">postgresql</a> <a href="http://del.icio.us/mathie/sql">sql</a> <a href="http://del.icio.us/mathie/replication">replication</a> <a href="http://del.icio.us/mathie/database">database</a>)</div>
+		<div class="delicious-tags">(tags: [postgresql](http://del.icio.us/mathie/postgresql) [sql](http://del.icio.us/mathie/sql) [replication](http://del.icio.us/mathie/replication) [database](http://del.icio.us/mathie/database))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.danga.com/words/2004_mysqlcon/mysql-slides.pdf">Livejournal's evolving server architecture</a></div>
+		<div class="delicious-link">[Livejournal's evolving server architecture](http://www.danga.com/words/2004_mysqlcon/mysql-slides.pdf)</div>
 		<div class="delicious-extended">Livejournal's server architecture and how it's changed to scale over time.  In particular, the idea of Master-Master clusters (slide 25 & 26) sounds interesting.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/mysql">mysql</a> <a href="http://del.icio.us/mathie/scalability">scalability</a> <a href="http://del.icio.us/mathie/database">database</a> <a href="http://del.icio.us/mathie/performance">performance</a> <a href="http://del.icio.us/mathie/clustering">clustering</a>)</div>
+		<div class="delicious-tags">(tags: [mysql](http://del.icio.us/mathie/mysql) [scalability](http://del.icio.us/mathie/scalability) [database](http://del.icio.us/mathie/database) [performance](http://del.icio.us/mathie/performance) [clustering](http://del.icio.us/mathie/clustering))</div>
 	</li>
 </ul>

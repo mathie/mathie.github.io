@@ -1,24 +1,18 @@
 ---
 layout: post
 title: Boosting Mac OS X
-excerpt: ! 'I''ve been mucking around with <a href="http://www.boost.org/" title="Boost
-  C++ Library">Boost</a> over the past couple of evenings to see if I can get it setup
-  on my laptop and get back into a bit of C++ development.  I''ve succeeded, but it
-  wasn''t as simple as I''d thought.  Well, I suppose it could have been, but I also
-  decided to figure out <a href="http://www.boost.org/tools/build/v2/index.html" title="Boost
-  Build System v2">Boost.Build</a>.  BTW, a prerequisite for all the following is
-  that the Apple <a href="http://developer.apple.com/" title="Apple Developer Tools">Developer
-  Tools</a> installed.
-
-
-'
+excerpt: >
+  I've been mucking around with Boost over the past couple of evenings to see
+  if I can get it setup on my laptop and get back into a bit of C++
+  development.  I've succeeded, but it wasn't as simple as I'd thought.
+  Well, I suppose it could have been, but I also decided to figure out
+  Boost.Build.  BTW, a prerequisite for all the following is that the Apple
+  Developer Tools installed.
 date: 2005-08-03 20:30:50 +01:00
 categories:
 - Geekery
 ---
-I've been mucking around with <a href="http://www.boost.org/" title="Boost C++ Library">Boost</a> over the past couple of evenings to see if I can get it setup on my laptop and get back into a bit of C++ development.  I've succeeded, but it wasn't as simple as I'd thought.  Well, I suppose it could have been, but I also decided to figure out <a href="http://www.boost.org/tools/build/v2/index.html" title="Boost Build System v2">Boost.Build</a>.  BTW, a prerequisite for all the following is that the Apple <a href="http://developer.apple.com/" title="Apple Developer Tools">Developer Tools</a> installed.
-
-<a id="more"></a><a id="more-22"></a>
+I've been mucking around with [Boost](http://www.boost.org/) over the past couple of evenings to see if I can get it setup on my laptop and get back into a bit of C++ development.  I've succeeded, but it wasn't as simple as I'd thought.  Well, I suppose it could have been, but I also decided to figure out [Boost.Build](http://www.boost.org/tools/build/v2/index.html).  BTW, a prerequisite for all the following is that the Apple [Developer Tools](http://developer.apple.com/) installed.
 
 Part of the trouble is that the released version of Boost doesn't support Mac OS X 10.4 out the box.  The new version of gcc it ships with (4.0) no longer has the <code>-fcoalesce-templates</code> flag, which the Boost build system automatically passes in.  It wasn't <em>that</em> difficult to figure out how to modify the Darwin toolset to fiddle the flags, but I decided to grab the CVS version anyway:
 
@@ -60,7 +54,7 @@ Unless ICU is an Intensive Care Unit, I'm not too worried about it, so I ignored
 using darwin ;
 {% endhighlight %}
 
-I've created an extra file for Boost.build v2 so that using Boost is easier.  I'm not a Jam expert, so it's probably very wrong, but it does <em>appear</em> to work.  Take <a href="/dist/boost.jam" title="Using Boost.build for applications with Boost">boost.jam</a> and place it in <code>${BOOST_BUILD_PATH}/tools/boost.jam</code>.  Now let's create ourselves a very quick project to demo it works.  Create a directory to put the project in, change to that directory and create an empty file to tell Jam this is the project root:
+I've created an extra file for Boost.build v2 so that using Boost is easier.  I'm not a Jam expert, so it's probably very wrong, but it does <em>appear</em> to work.  Take [boost.jam](/dist/boost.jam) and place it in <code>${BOOST_BUILD_PATH}/tools/boost.jam</code>.  Now let's create ourselves a very quick project to demo it works.  Create a directory to put the project in, change to that directory and create an empty file to tell Jam this is the project root:
 
 {% highlight bash %}
 mathie@Tandoori:tmp$ mkdir boostdemo
@@ -119,4 +113,4 @@ boostdemo.cc(8): error in "free_test_function": check 2 == 1 failed
 
 I have no idea how accurate these instructions are, nor how they'll cope with building production applications for distribution, but so far they're working for me, and it's been an interesting learning experience figuring out how Jam works.  I think I'd like to persevere with it.
 
-Next up?  Figuring out how to build <a href="http://www.trolltech.com/products/qt/index.html" title="Trolltech's Qt 4">Qt</a> version 4, which, I'm hoping will provide me with a decent C++ GUI framework...
+Next up?  Figuring out how to build [Qt](http://www.trolltech.com/products/qt/index.html) version 4, which, I'm hoping will provide me with a decent C++ GUI framework...

@@ -7,8 +7,8 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://www.ticketmaster.co.uk/event/12003E6EDD713ACE">Foo Fighters & Nine Inch Nails @ Meadowbank, Edinburgh</a></div>
+		<div class="delicious-link">[Foo Fighters & Nine Inch Nails @ Meadowbank, Edinburgh](http://www.ticketmaster.co.uk/event/12003E6EDD713ACE)</div>
 		<div class="delicious-extended">Yay!  Nine Inch Nails!  My tickets are already booked.  Annabel has just noted that "NIN are the rude ones" (she might just have found 'Closer') so I may have a ticket going spare. :)</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/nineinchnails">nineinchnails</a> <a href="http://del.icio.us/mathie/music">music</a> <a href="http://del.icio.us/mathie/concerts">concerts</a> <a href="http://del.icio.us/mathie/live">live</a> <a href="http://del.icio.us/mathie/edinburgh">edinburgh</a>)</div>
+		<div class="delicious-tags">(tags: [nineinchnails](http://del.icio.us/mathie/nineinchnails) [music](http://del.icio.us/mathie/music) [concerts](http://del.icio.us/mathie/concerts) [live](http://del.icio.us/mathie/live) [edinburgh](http://del.icio.us/mathie/edinburgh))</div>
 	</li>
 </ul>

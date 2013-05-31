@@ -5,7 +5,7 @@ date: 2005-08-22 12:47:52 +01:00
 categories:
 - Geekery
 ---
-The source to <a href="http://www.idsoftware.com/games/quake/quake3-arena/" title="id Software: Quake III Arena">Quake III</a> has been released.  The canonical forum for discussions seems to be the <a href="http://www.quakesrc.org/forums/viewforum.php?f=20">Quake Standards Group</a> (and there's a couple of posts there about mirrors since the id FTP site is permanently busy!).
+The source to [Quake III](http://www.idsoftware.com/games/quake/quake3-arena/) has been released.  The canonical forum for discussions seems to be the [Quake Standards Group](http://www.quakesrc.org/forums/viewforum.php?f=20) (and there's a couple of posts there about mirrors since the id FTP site is permanently busy!).
 
 So I've got the source.  It has a Mac OS X PowerBuilder project already, so it's ready to go in Xcode.  When you initially open it up, it will mention that it needs to convert the project format and write it out, calling it <code>Quake3.xcodeproj</code> instead of <code>Quake3.pbproj</code>.  That's fine and lovely.  Building straight from Xcode works OK.  Building from the command line can be achieved by:
 

@@ -7,13 +7,13 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://lighthouseapp.com/">Lighthouse</a></div>
+		<div class="delicious-link">[Lighthouse](http://lighthouseapp.com/)</div>
 		<div class="delicious-extended">A shiny new issue tracking application from activereload (one part Rails core, one part Scriptaculous core!) which looks beautifully simple to use.  I've set it up for an active project and am going to try it out over the next month.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/issuetracking">issuetracking</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/bugs">bugs</a> <a href="http://del.icio.us/mathie/projectmanagement">projectmanagement</a> <a href="http://del.icio.us/mathie/projects">projects</a>)</div>
+		<div class="delicious-tags">(tags: [rails](http://del.icio.us/mathie/rails) [issuetracking](http://del.icio.us/mathie/issuetracking) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [bugs](http://del.icio.us/mathie/bugs) [projectmanagement](http://del.icio.us/mathie/projectmanagement) [projects](http://del.icio.us/mathie/projects))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://feeds.feedburner.com/~r/RyansScraps/~3/105051033/what-s-new-in-edge-rails-restful-routes-get-a-new-custom-delimiter">What's New in Edge Rails: RESTful Routes Get a New Custom Delimiter</a></div>
+		<div class="delicious-link">[What's New in Edge Rails: RESTful Routes Get a New Custom Delimiter](http://feeds.feedburner.com/~r/RyansScraps/~3/105051033/what-s-new-in-edge-rails-restful-routes-get-a-new-custom-delimiter)</div>
 		<div class="delicious-extended">Goodbye, semi-colons!  While I see their point (to clearly separate the verb from the noun), they just look, well, a little bit ugly.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/edgerails">edgerails</a>)</div>
+		<div class="delicious-tags">(tags: [rails](http://del.icio.us/mathie/rails) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [ruby](http://del.icio.us/mathie/ruby) [edgerails](http://del.icio.us/mathie/edgerails))</div>
 	</li>
 </ul>

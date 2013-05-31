@@ -13,12 +13,12 @@ categories:
 - Geekery
 - Python
 ---
-This is something I submitted to Apple's <a href="http://bugreport.apple.com/" title="Apple Bug Reporter">radar</a> a couple of weeks ago, and I thought I'd reproduce it here in the hope that it might be <a href="http://www.google.com/" title="The Collective Mind">Googlable</a> and that others might confirm/deny the sighting.  The format below is that recommended by Apple.
-<a id="more"></a><a id="more-23"></a>
+This is something I submitted to Apple's [radar](http://bugreport.apple.com/) a couple of weeks ago, and I thought I'd reproduce it here in the hope that it might be [Googlable](http://www.google.com/) and that others might confirm/deny the sighting.  The format below is that recommended by Apple.
+
 <blockquote>
 <h3>Summary</h3>
 
-When using Safari to talk to a local <a href="http://www.zope.org/" title="Zope Web Application Framework">Zope</a> (I'm using version 2.7.6) instance directly (rather than through an Apache front-end as we use in production) I often see the page fail to completely load, most or all of the images not appearing.  It would appear that there is some specific misinteraction with Safari and Zope when Zope returns an HTTP response code of <code>304 Not Modified</code>.
+When using Safari to talk to a local [Zope](http://www.zope.org/) (I'm using version 2.7.6) instance directly (rather than through an Apache front-end as we use in production) I often see the page fail to completely load, most or all of the images not appearing.  It would appear that there is some specific misinteraction with Safari and Zope when Zope returns an HTTP response code of <code>304 Not Modified</code>.
 
 <h3>Steps to Reproduce</h3>
 

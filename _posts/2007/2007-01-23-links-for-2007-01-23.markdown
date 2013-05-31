@@ -7,7 +7,7 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://www.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without">53 CSS-Techniques You Couldnâ€™t Live Without | Smashing Magazine</a></div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/accessibility">accessibility</a> <a href="http://del.icio.us/mathie/ajax">ajax</a> <a href="http://del.icio.us/mathie/javascript">javascript</a> <a href="http://del.icio.us/mathie/css">css</a>)</div>
+		<div class="delicious-link">[53 CSS-Techniques You Couldnâ€™t Live Without | Smashing Magazine](http://www.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without)</div>
+		<div class="delicious-tags">(tags: [accessibility](http://del.icio.us/mathie/accessibility) [ajax](http://del.icio.us/mathie/ajax) [javascript](http://del.icio.us/mathie/javascript) [css](http://del.icio.us/mathie/css))</div>
 	</li>
 </ul>

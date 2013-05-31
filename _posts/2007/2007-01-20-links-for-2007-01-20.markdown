@@ -7,8 +7,8 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://prototypejs.org/">Prototype Javascript Library</a></div>
+		<div class="delicious-link">[Prototype Javascript Library](http://prototypejs.org/)</div>
 		<div class="delicious-extended">At last, online documentation for prototype!</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/ajax">ajax</a> <a href="http://del.icio.us/mathie/javascript">javascript</a> <a href="http://del.icio.us/mathie/prototype">prototype</a> <a href="http://del.icio.us/mathie/documentation">documentation</a> <a href="http://del.icio.us/mathie/opensource">opensource</a> <a href="http://del.icio.us/mathie/rails">rails</a>)</div>
+		<div class="delicious-tags">(tags: [ajax](http://del.icio.us/mathie/ajax) [javascript](http://del.icio.us/mathie/javascript) [prototype](http://del.icio.us/mathie/prototype) [documentation](http://del.icio.us/mathie/documentation) [opensource](http://del.icio.us/mathie/opensource) [rails](http://del.icio.us/mathie/rails))</div>
 	</li>
 </ul>

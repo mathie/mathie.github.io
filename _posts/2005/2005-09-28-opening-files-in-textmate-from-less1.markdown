@@ -5,7 +5,7 @@ date: 2005-09-28 17:20:48 +01:00
 categories:
 - Geekery
 ---
-A quick <a href="http://macromates.com/">TextMate</a> trick, inspired from reading <a href="http://macromates.com/blog/archives/2005/09/28/html-output-for-commands/">HTML output for commands</a> (in particular the section on hyperlinking back to TextMate), I came up with the following:
+A quick [TextMate](http://macromates.com/) trick, inspired from reading [HTML output for commands](http://macromates.com/blog/archives/2005/09/28/html-output-for-commands/) (in particular the section on hyperlinking back to TextMate), I came up with the following:
 
 {% highlight bash %}
 export LESSEDIT='open txmt\://open\?url=file\:///`pwd`/%f?lm\\&line=%lm.'

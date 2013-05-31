@@ -7,8 +7,8 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://pragdave.pragprog.com/pragdave/2007/01/my_eurorailscon.html">RailsConf Europe Keynote: Dave Thomas</a></div>
+		<div class="delicious-link">[RailsConf Europe Keynote: Dave Thomas](http://pragdave.pragprog.com/pragdave/2007/01/my_eurorailscon.html)</div>
 		<div class="delicious-extended">Dave's keynote at the close of RailsConf Europe 2006, which deservedly got a standing ovation.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/keynote">keynote</a> <a href="http://del.icio.us/mathie/railsconfeurope">railsconfeurope</a>)</div>
+		<div class="delicious-tags">(tags: [ruby](http://del.icio.us/mathie/ruby) [rails](http://del.icio.us/mathie/rails) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [keynote](http://del.icio.us/mathie/keynote) [railsconfeurope](http://del.icio.us/mathie/railsconfeurope))</div>
 	</li>
 </ul>

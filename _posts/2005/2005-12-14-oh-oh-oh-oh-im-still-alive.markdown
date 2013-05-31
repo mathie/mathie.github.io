@@ -11,7 +11,7 @@ categories:
 ---
 What, no posts in over a week?  What's happened to him?  Yeah, technically I'm still alive and here.  It's just that the combination of last minute wedding preparations, Christmas and an excess of stress at work have been keeping me insanely busy!
 
-Just to prove I'm still here, have a snippet of a shell function to clear out all those old <a href="http://docs.rubygems.org/">RubyGems</a> you have lying around from doing a regular <code>gem upgrade</code> to get the latest version of <a href="http://www.rubyonrails.org/">Rails</a> (which has hit 1.0!  Wooo!  Party!):
+Just to prove I'm still here, have a snippet of a shell function to clear out all those old [RubyGems](http://docs.rubygems.org/) you have lying around from doing a regular <code>gem upgrade</code> to get the latest version of [Rails](http://www.rubyonrails.org/) (which has hit 1.0!  Wooo!  Party!):
 
 {% highlight bash %}
 # Uninstall all the old versions of gems, leaving only the current

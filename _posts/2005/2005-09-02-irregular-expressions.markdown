@@ -7,7 +7,7 @@ categories:
 - Python
 - Work
 ---
-Looking through some sample data for <a href="http://www.logicalware.com/">MailManager</a>, I came across the following:
+Looking through some sample data for [MailManager](http://www.logicalware.com/), I came across the following:
 
 {% highlight bash %}
 r.examplemended

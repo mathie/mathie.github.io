@@ -5,7 +5,7 @@ date: 2005-11-22 12:35:43 +00:00
 categories:
 - Entertainment
 ---
-The Guardian Online have an article on the <a href="http://blogs.guardian.co.uk/technology/archives/2005/11/09/top_20_geek_novels_the_results.html">Top 20 geek novels</a>, surveying the best of the 'geek' novels written in English since 1932.  The results are as follows, with the ones I have read highlighted in bold:
+The Guardian Online have an article on the [Top 20 geek novels](http://blogs.guardian.co.uk/technology/archives/2005/11/09/top_20_geek_novels_the_results.html), surveying the best of the 'geek' novels written in English since 1932.  The results are as follows, with the ones I have read highlighted in bold:
 
 <ol class="compact">
 <li><strong>The HitchHiker's Guide to the Galaxy -- Douglas Adams</strong></li>

@@ -5,7 +5,7 @@ date: 2005-09-06 11:14:10 +01:00
 categories:
 - Geekery
 ---
-Mac OS X has a neat command, <code>open(1)</code>, which will, by default, open a file specified as an argument with its default application.  However, it also allows to explicitly specify the application with the <code>-a</code> parameter.  So, for example, I can do <code>open -a "Adobe Photoshop CS2" foo.png</code> to open that image in Photoshop.  Much easier than fiddling around finding stuff in the Finder, at least for me.  OK, so one up on that, we can now have bash command completion, inspired by some other examples in <a href="http://www.caliban.org/bash/index.shtml">bash_completion</a> and a (non-working) example at <a href="http://iterm.sourceforge.net/resource.shtml">iTerm's resources page</a>.  Stick the following in <code>/path/to/bash_completion.d/open</code>, or simply in your <code>.bashrc</code>:
+Mac OS X has a neat command, <code>open(1)</code>, which will, by default, open a file specified as an argument with its default application.  However, it also allows to explicitly specify the application with the <code>-a</code> parameter.  So, for example, I can do <code>open -a "Adobe Photoshop CS2" foo.png</code> to open that image in Photoshop.  Much easier than fiddling around finding stuff in the Finder, at least for me.  OK, so one up on that, we can now have bash command completion, inspired by some other examples in [bash_completion](http://www.caliban.org/bash/index.shtml) and a (non-working) example at [iTerm's resources page](http://iterm.sourceforge.net/resource.shtml).  Stick the following in <code>/path/to/bash_completion.d/open</code>, or simply in your <code>.bashrc</code>:
 
 {% highlight bash %}
 if [ "`uname`" = "Darwin" ]; then
@@ -32,4 +32,4 @@ Done.  Now bring up a fresh shell and do <code>open -a </code> and then hit <cod
 
 Of course, what I was <em>actually</em> trying to figure out is how to make the backspace key work correctly inside a screen session on an ssh session to another (Linux) host.  Works fine with Terminal, in all cases, works fine with screen on localhost in iTerm, works fine when I'm ssh'd to that machine without screen running in iTerm, just not the combination of all three...  Bah to evil keyboard mapping issues.
 
-Of course, the only reason I'm fiddling with <a href="http://iterm.sourceforge.net/">iTerm</a> again is after seeing it in the Rails video I mentioned previously.  Having tabbed terminal windows is kinda handy and less irritating, screen real estate-wise, when you're permanently running a (Zope|WEBrick) daemon and tailing half a dozen logs...
+Of course, the only reason I'm fiddling with [iTerm](http://iterm.sourceforge.net/) again is after seeing it in the Rails video I mentioned previously.  Having tabbed terminal windows is kinda handy and less irritating, screen real estate-wise, when you're permanently running a (Zope|WEBrick) daemon and tailing half a dozen logs...

@@ -11,25 +11,31 @@ tags:
 
 <p>Thinking about it this morning, I figured a possible solution.  From my <code>~/.procmailrc</code>:</p>
 
-<pre># Duplicate detection
+{% highlight bash %}
+# Duplicate detection
 :0Whc: $MAILDIR/.msgid$LOCKEXT
 | formail -D 16384 $MAILDIR/msgid.cache
 
 :0afw
-| formail -A 'X-Duplicate: YES'</pre>
+| formail -A 'X-Duplicate: YES'
+{% endhighlight %}
 
 <p>This is near the top of my procmail configuration.  It uses formail to keep a cache of Message IDs and, if it detects a duplicate, inserts the header 'X-Duplicate: YES'.  Then my procmail configuration goes on to deal with mailing lists (incidentally, as much as possible using the (X-)?List-Id header).  Before the final delivery recipe which dumps stuff into various particular inboxes, I then have:</p>
 
-<pre># Dump duplicates after mailing lists are dealt with
+{% highlight bash %}
+# Dump duplicates after mailing lists are dealt with
 :0
 * ^X-Duplicate: YES
-.Junk.Duplicates/</pre>
+.Junk.Duplicates/
+{% endhighlight %}
 
 <p>which will put the duplicate into a separate mailbox.  Of course, this isn't going to detect many duplicates - only mail which is sent CC'd to several of my accounts or list mail which is CC'd to me <em>and the mail from the list itself arrives first</em>.  But it's better than nothing at all, I guess.</p>
 
 <p>While I'm at it, here is another procmai recipe I threw together this morning:</p>
 
-<pre>:0 Whf
-| formail -z -R 'X-Original-To:' 'Original-To:'</pre>
+{% highlight bash %}
+:0 Whf
+| formail -z -R 'X-Original-To:' 'Original-To:'
+{% endhighlight %}
 
 <p>This takes the X-Original-To header (which Postfix appears to insert) and removes the X- prefix, which means that it will then match the ^TO_ shortcut expression you can use in your procmail script.</p>

@@ -29,7 +29,7 @@ categories:
 - Python
 - Work
 ---
-<p>OK, mostly these are notes just now, as I do a little research for <a href="https://sourceforge.net/tracker/index.php?func=detail&aid=1350425&group_id=85788&atid=577305">#1350425</a>.  I'm trying to figure out what the 'correct' behaviour for an email auto responder is.  <a href="http://www.logicalware.com/">MailManager</a> has an auto response system which will send out an email when a ticket is submitted, to acknowledge its receipt.  I want to get it <em>right</em>.</p>
+<p>OK, mostly these are notes just now, as I do a little research for [#1350425](https://sourceforge.net/tracker/index.php?func=detail&aid=1350425&group_id=85788&atid=577305).  I'm trying to figure out what the 'correct' behaviour for an email auto responder is.  [MailManager](http://www.logicalware.com/) has an auto response system which will send out an email when a ticket is submitted, to acknowledge its receipt.  I want to get it <em>right</em>.</p>
 
 <p>There are two problems:</p>
 
@@ -38,7 +38,7 @@ categories:
   <li>If you do decide to send a message, who do you send it to?  That might sound daft, but there are a number of header fields which indicate who might wish receipt of a message, including ('From', 'Sender', 'Reply-To', 'Return-Path', 'Resent-From').</li>
 </ul>
 
-<p>Currently <a href="http://www.logicalware.com/">MailManager</a> will refuse to send a response if any of the following conditions are met:</p>
+<p>Currently [MailManager](http://www.logicalware.com/) will refuse to send a response if any of the following conditions are met:</p>
 
 <ol>
   <li>It's a mailing list identified by the existence of any header in ('list-id', 'list-help', 'list-unsubscribe', 'list-owner').</li>
@@ -49,17 +49,17 @@ categories:
 
 <p>And it will unconditionally send the auto response message to the address in Return-Path.  For dropping the message, I agree with everything but point 3 (which I'm not entirely sure about).  And I'm not convinced that the algorithm for choosing the reply address is robust enough.  So let's start digging into the RFCs.</p>
 <a id="more"></a><a id="more-177"></a>
-<h3>RFC <a href="http://www.faqs.org/rfcs/rfc822.html">822</a> and <a href="http://www.faqs.org/rfcs/rfc2822.html">2822</a> -- Internet Message Format</h3>
+<h3>RFC [822](http://www.faqs.org/rfcs/rfc822.html) and [2822](http://www.faqs.org/rfcs/rfc2822.html) -- Internet Message Format</h3>
 
 <p>RFC 822 (which has been superseded by 2822, but appears to be more verbose on the subject) suggests, in section 4.4.4, that 'Sender' should <em>only</em> be used to indicate delivery problems.  If it gets as far as us, it's a successful delivery, so we should <strong>never</strong> send messages to the address listed in Sender.  So, we should send to the 'Reply-To' field for preference and, in its absence, 'From'.</p>
 
 <p>RFC 2822 has a similar thing to say in section 3.6.2: we should use Reply-To, then From, for preference.  No mention is made of Sender with respect to responding to messages, so I think we can take RFC822's word for it that it shouldn't be used.  Section 3.6.6 rules out the possibility of using the Resent-From and Resent-Sender field for our purposes too.  Section 3.6.7 disavows any formal meaning of Return-Path for its purposes.</p>
 
-<h3>RFC <a href="http://www.faqs.org/rfcs/rfc3798.html">3798</a> -- Message Disposition Notification</h3>
+<h3>RFC [3798](http://www.faqs.org/rfcs/rfc3798.html) -- Message Disposition Notification</h3>
 
 <p>It occurs to me at this point that the function we're really performing is a receipt notification, which is described in RFC 2298.  But I'll examine that some  other time...</p>
 
-<h3>RFC <a href="http://www.faqs.org/rfcs/rfc3834.html">3834</a> -- Recommendation for Automatic Responses to Electronic Mail</h3>
+<h3>RFC [3834](http://www.faqs.org/rfcs/rfc3834.html) -- Recommendation for Automatic Responses to Electronic Mail</h3>
 
 <p>Finally, you think, he's gotten around to the RFC which is explicitly applicable to what we're trying to figure out, you think.  I'm just trying to be thorough, OK? :-)  OK, this doesn't apply at all if we decided that what MailManager is sending out is either a Message Disposition Notification or a Delivery Status Notification.  For the purposes of this section, we'll assume that's the case.  A summary of the relevant restrictions is:</p>
 
@@ -67,7 +67,7 @@ categories:
   <li>Only send a response if the account is explicitly listed in one of the recipient fields ('To', 'Cc', 'Bcc' and the equivalent 'Resent-*' fields).</li>
   <li>Only send a response if the 'Auto-submitted' field is absent or set to 'no'.</li>
   <li>Drop the response if the Return-Path or From is '&lt;&gt;' (the <q>null address</q>).</li>
-  <li>Drop the response if it looks like it might be from a mailing list.  Hints include <a href="http://www.faqs.org/rfcs/rfc2369.html">RFC2369</a> and <a href="http://www.faqs.org/rfcs/rfc2919.html">RFC2919</a> headers, the From address's local part being something like foo-owner or foo-request, or if the precedence is set to one of the commonly used 'low' types.</li>
+  <li>Drop the response if it looks like it might be from a mailing list.  Hints include [RFC2369](http://www.faqs.org/rfcs/rfc2369.html) and [RFC2919](http://www.faqs.org/rfcs/rfc2919.html) headers, the From address's local part being something like foo-owner or foo-request, or if the precedence is set to one of the commonly used 'low' types.</li>
   <li>Drop the response if the original message was not well formed.  Malformed messages are a hallmark of spam, so it seems sensible not to heed the first part of John Postel's famous maxim here.</li>
 </ul>
 

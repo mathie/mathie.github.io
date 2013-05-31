@@ -7,13 +7,13 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://www.lifehacker.com/software/instant-messaging/look-like-youre-online-with-a-mycybertwin-chatbot-249324.php">Look like you're online with a MyCyberTwin chatbot</a></div>
+		<div class="delicious-link">[Look like you're online with a MyCyberTwin chatbot](http://www.lifehacker.com/software/instant-messaging/look-like-youre-online-with-a-mycybertwin-chatbot-249324.php)</div>
 		<div class="delicious-extended">I need to hook my Jabber ID up to Eliza when I'm not around...</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/eliza">eliza</a> <a href="http://del.icio.us/mathie/turingtest">turingtest</a> <a href="http://del.icio.us/mathie/instantmessaging">instantmessaging</a> <a href="http://del.icio.us/mathie/bots">bots</a> <a href="http://del.icio.us/mathie/chatbots">chatbots</a>)</div>
+		<div class="delicious-tags">(tags: [eliza](http://del.icio.us/mathie/eliza) [turingtest](http://del.icio.us/mathie/turingtest) [instantmessaging](http://del.icio.us/mathie/instantmessaging) [bots](http://del.icio.us/mathie/bots) [chatbots](http://del.icio.us/mathie/chatbots))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://on-ruby.blogspot.com/2007/04/april-bloggin-contest.html">On Ruby: April Bloggin Contest</a></div>
+		<div class="delicious-link">[On Ruby: April Bloggin Contest](http://on-ruby.blogspot.com/2007/04/april-bloggin-contest.html)</div>
 		<div class="delicious-extended">So, what changes would I like to see to ruby?  What bugs me?  I shall have to remember this post when I'm in deep hack mode and something has actually bothered me!</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/competition">competition</a>)</div>
+		<div class="delicious-tags">(tags: [ruby](http://del.icio.us/mathie/ruby) [rails](http://del.icio.us/mathie/rails) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [competition](http://del.icio.us/mathie/competition))</div>
 	</li>
 </ul>

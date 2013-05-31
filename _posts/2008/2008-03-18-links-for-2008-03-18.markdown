@@ -7,7 +7,7 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://furbo.org/2008/03/16/brain-surgeons/">furbo.org · Brain surgeons</a></div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/apple">apple</a> <a href="http://del.icio.us/mathie/development">development</a> <a href="http://del.icio.us/mathie/programming">programming</a> <a href="http://del.icio.us/mathie/iphone">iphone</a> <a href="http://del.icio.us/mathie/sdk">sdk</a> <a href="http://del.icio.us/mathie/mobile">mobile</a>)</div>
+		<div class="delicious-link">[furbo.org · Brain surgeons](http://furbo.org/2008/03/16/brain-surgeons/)</div>
+		<div class="delicious-tags">(tags: [apple](http://del.icio.us/mathie/apple) [development](http://del.icio.us/mathie/development) [programming](http://del.icio.us/mathie/programming) [iphone](http://del.icio.us/mathie/iphone) [sdk](http://del.icio.us/mathie/sdk) [mobile](http://del.icio.us/mathie/mobile))</div>
 	</li>
 </ul>

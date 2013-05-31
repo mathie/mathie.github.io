@@ -7,7 +7,7 @@ categories:
 - Geekery
 - Ruby and Rails
 ---
-I was invited to give a short introduction to Ruby on Rails at <a href="http://www.techmeetup.co.uk/">Tech Meetup</a> in Edinburgh a couple of days ago.  I'd been racking my brain for days on what to talk about -- 15 minutes is too short for me to give a meaningful introduction to Rails -- and eventually settled on telling a few stories.
+I was invited to give a short introduction to Ruby on Rails at [Tech Meetup](http://www.techmeetup.co.uk/) in Edinburgh a couple of days ago.  I'd been racking my brain for days on what to talk about -- 15 minutes is too short for me to give a meaningful introduction to Rails -- and eventually settled on telling a few stories.
 
 <div style='width:425px;text-align:left'><object style='margin:0px' width='425' height='355'><param name='movie' value='http://static.slideshare.net/swf/ssplayer2.swf?doc=RubyandRailsisAwesome-12321018767-phpapp02&amp;stripped_title=Ruby-and-Rails-is-Awesome' /><param name='allowFullScreen' value='true'/><param name='allowScriptAccess' value='always'/><embed src='http://static.slideshare.net/swf/ssplayer2.swf?doc=RubyandRailsisAwesome-12321018767-phpapp02&amp;stripped_title=Ruby-and-Rails-is-Awesome' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='425' height='355'></embed></object></div>
 
@@ -85,7 +85,7 @@ Tickets are £175 for the conference, though there’s an early bird offer of £
 
 Prior to the two day conference, Chad Fowler and Marcel are running an all day charity tutorial.  All the proceeds go to the Children’s Hospice Association Scotland.  It’s a £75 minimum donation, but considering these folks are both Pragmatic Studio teachers (where the courses are nearly £300/day), it’s an utter steal.
 
-Run, don’t walk, to <a href="http://scotlandonrails.com/">scotlandonrails.com</a> to sign up.
+Run, don’t walk, to [scotlandonrails.com](http://scotlandonrails.com/) to sign up.
 
 To close, I’d like to share a story from Jim Weirich, one of our speakers at Scotland on Rails.  He was talking a couple of years ago at RailsConf Europe about a financial application he and his team had developed in Java. It took a team of 4 of them about 6 months.  As an experiment, they tried a spike of it in Ruby.  It took them 4 evenings.
 

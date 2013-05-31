@@ -6,7 +6,7 @@ categories:
 - Geekery
 - Photography
 ---
-OK, so I'm starting to see <a href="http://www.jennandlucien.net/lucien/archives/2005/11/aperture_mini_r.html">reviews</a> of <a href="http://www.apple.com/aperture/">Aperture</a> from people that have received their copy.  And the web site even claims that it's now shipping.  But not to me, apparently:
+OK, so I'm starting to see [reviews](http://www.jennandlucien.net/lucien/archives/2005/11/aperture_mini_r.html) of [Aperture](http://www.apple.com/aperture/) from people that have received their copy.  And the web site even claims that it's now shipping.  But not to me, apparently:
 
 <img src='http://woss.name/wp-content/stillnoaperture.png' alt='Still not shipping Aperture' class="centered" />
 

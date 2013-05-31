@@ -7,18 +7,18 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://textsnippets.com/posts/show/931">Text* Snippets: make mongrel cleanup stale pidfiles [rails] [mongrel]</a></div>
+		<div class="delicious-link">[Text* Snippets: make mongrel cleanup stale pidfiles [rails] [mongrel]](http://textsnippets.com/posts/show/931)</div>
 		<div class="delicious-extended">A patch to mongrel that makes it clean up stale pid files instead of just refusing to start.  Applied on all our production hosts.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/deployment">deployment</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/mongrel">mongrel</a>)</div>
+		<div class="delicious-tags">(tags: [deployment](http://del.icio.us/mathie/deployment) [rails](http://del.icio.us/mathie/rails) [ruby](http://del.icio.us/mathie/ruby) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [mongrel](http://del.icio.us/mathie/mongrel))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.tildeslash.com/monit/">monit</a></div>
+		<div class="delicious-link">[monit](http://www.tildeslash.com/monit/)</div>
 		<div class="delicious-extended">Process monitoring, which seems to be particularly useful for automatically restarting dodgy processes.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/monitoring">monitoring</a> <a href="http://del.icio.us/mathie/sysadmin">sysadmin</a> <a href="http://del.icio.us/mathie/unix">unix</a>)</div>
+		<div class="delicious-tags">(tags: [monitoring](http://del.icio.us/mathie/monitoring) [sysadmin](http://del.icio.us/mathie/sysadmin) [unix](http://del.icio.us/mathie/unix))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.igvita.com/blog/2006/11/07/monit-makes-mongrel-play-nice/">Monit makes Mongrel play nice!</a></div>
+		<div class="delicious-link">[Monit makes Mongrel play nice!](http://www.igvita.com/blog/2006/11/07/monit-makes-mongrel-play-nice/)</div>
 		<div class="delicious-extended">A monit configuration to keep an eye on mongrel processes.  In my case, I felt it needed a little tweaking, but it's yet another thing to add to my default capistrano deployment.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/mongrel">mongrel</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/monit">monit</a> <a href="http://del.icio.us/mathie/monitoring">monitoring</a> <a href="http://del.icio.us/mathie/capistrano">capistrano</a> <a href="http://del.icio.us/mathie/deployment">deployment</a> <a href="http://del.icio.us/mathie/howto">howto</a>)</div>
+		<div class="delicious-tags">(tags: [mongrel](http://del.icio.us/mathie/mongrel) [rails](http://del.icio.us/mathie/rails) [monit](http://del.icio.us/mathie/monit) [monitoring](http://del.icio.us/mathie/monitoring) [capistrano](http://del.icio.us/mathie/capistrano) [deployment](http://del.icio.us/mathie/deployment) [howto](http://del.icio.us/mathie/howto))</div>
 	</li>
 </ul>

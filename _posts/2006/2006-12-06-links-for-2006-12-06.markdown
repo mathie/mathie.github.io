@@ -7,13 +7,13 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://wanderingbarque.com/nonintersecting/2006/11/15/the-s-stands-for-simple/">Pete Laceyâ€™s Weblog :: The S stands for Simple</a></div>
+		<div class="delicious-link">[Pete Laceyâ€™s Weblog :: The S stands for Simple](http://wanderingbarque.com/nonintersecting/2006/11/15/the-s-stands-for-simple/)</div>
 		<div class="delicious-extended">A nice overview of how lovely SOAP is. :-)</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/soap">soap</a> <a href="http://del.icio.us/mathie/rest">rest</a> <a href="http://del.icio.us/mathie/humor">humor</a> <a href="http://del.icio.us/mathie/webservices">webservices</a>)</div>
+		<div class="delicious-tags">(tags: [soap](http://del.icio.us/mathie/soap) [rest](http://del.icio.us/mathie/rest) [humor](http://del.icio.us/mathie/humor) [webservices](http://del.icio.us/mathie/webservices))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://eigenclass.org/hiki.rb?ftsearch+repository+accessible">FTSearch full-text search engine for Ruby</a></div>
+		<div class="delicious-link">[FTSearch full-text search engine for Ruby](http://eigenclass.org/hiki.rb?ftsearch+repository+accessible)</div>
 		<div class="delicious-extended">FTSearch is a new full-text search engine for Ruby that claims to outperform Ferret.  It's pretty early in development but what interests me more is that it claims to be more *stable* than Ferret...</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/searching">searching</a>)</div>
+		<div class="delicious-tags">(tags: [rubyonrails](http://del.icio.us/mathie/rubyonrails) [rails](http://del.icio.us/mathie/rails) [ruby](http://del.icio.us/mathie/ruby) [searching](http://del.icio.us/mathie/searching))</div>
 	</li>
 </ul>

@@ -13,4 +13,4 @@ script/generate scaffold Book Admin
 
 to create an admin interface for adding, removing and editing books.  The book refers to 'Admin' as being a controller.  But while I was writing the svn commit message, I mentioned it as a view, since clearly it was the 'administrative' view on the 'Book' model.  I'm probably just confused, though, so I guess I need to refresh my memory...
 
-FWIW, notes of what I've been fiddling with are available in <a href="http://woss.name/svn/mathie/projects/library/trunk/doc/README_FOR_APP">projects/library/trunk/doc/README_FOR_APP</a> in my svn repository.
+FWIW, notes of what I've been fiddling with are available in [projects/library/trunk/doc/README_FOR_APP](http://woss.name/svn/mathie/projects/library/trunk/doc/README_FOR_APP) in my svn repository.

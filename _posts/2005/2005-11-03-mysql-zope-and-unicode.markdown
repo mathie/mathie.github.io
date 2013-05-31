@@ -7,7 +7,7 @@ categories:
 - Python
 - Work
 ---
-OK, I think I can debunk <a href="http://mail.zope.org/pipermail/zope-db/2005-March/003990.html">the real hack</a> (that you can append UNICODE=1 to the connection string to set the MySQL connection to Unicode) after poking around in the source a little.  This is the code in question which parses the connection string, from <a href="http://cvs.sourceforge.net/viewcvs.py/mysql-python/ZMySQLDA/lib/python/Products/ZMySQLDA/db.py?rev=1.21&view=auto">db.py</a>:
+OK, I think I can debunk [the real hack](http://mail.zope.org/pipermail/zope-db/2005-March/003990.html) (that you can append UNICODE=1 to the connection string to set the MySQL connection to Unicode) after poking around in the source a little.  This is the code in question which parses the connection string, from [db.py](http://cvs.sourceforge.net/viewcvs.py/mysql-python/ZMySQLDA/lib/python/Products/ZMySQLDA/db.py?rev=1.21&view=auto):
 {% highlight python %}
   def _parse_connection_string(self, connection):
         kwargs = {'conv': self.conv}
@@ -51,4 +51,4 @@ which does everything it's documented to do (allows you to specify the database,
 
 So that answers that.  Looks like the only solution is to set the default encoding globally in <code>sitecustomise.py</code>.  Unfortunately, one can't set the default encoding anywhere else, since one of the last things that <code>site.py</code> does is to delete <code>sys.setdefaultencoding()</code> so that, once the Python interpreter is initialised, the encoding is fixed for the duration.  (I guess there's a very good reason for this.)
 
-Bother.  I don't like that we have to make changes outside our application's domain.  But for email, you <em>need</em> Unicode.  Think of all that foreign character set spam you get -- at least <a href="http://www.logicalware.com/">MailManager</a> will render it beautifully!
+Bother.  I don't like that we have to make changes outside our application's domain.  But for email, you <em>need</em> Unicode.  Think of all that foreign character set spam you get -- at least [MailManager](http://www.logicalware.com/) will render it beautifully!

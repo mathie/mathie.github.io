@@ -5,7 +5,7 @@ date: 2005-08-09 17:48:56 +01:00
 categories:
 - Geekery
 ---
-I've spent today using <a href="http://macromates.com/" title="TextMate: The Missing Editor for OS X">TextMate</a> in anger for the first time.  I think I downloaded it quite a while back and gave it a five minute spin, but never used it in anger.  Today, after seeing it mentioned on this <a href="http://maczealots.com/articles/shareware/2005/" title="MacZealots - Top 10 Shareware Apps of 2005">top 10 shareware apps</a> list, I decided to give it a proper shot.  So I've been writing Python, Zope Page Templates and XHTML in it for the day.
+I've spent today using [TextMate](http://macromates.com/) in anger for the first time.  I think I downloaded it quite a while back and gave it a five minute spin, but never used it in anger.  Today, after seeing it mentioned on this [top 10 shareware apps](http://maczealots.com/articles/shareware/2005/) list, I decided to give it a proper shot.  So I've been writing Python, Zope Page Templates and XHTML in it for the day.
 
 I'm impressed.
 

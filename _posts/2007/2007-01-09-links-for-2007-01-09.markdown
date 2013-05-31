@@ -7,8 +7,8 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://lunchroom.lunchboxsoftware.com/2006/1/21/acts-as-state-machine">Rubyist - Acts As State Machine</a></div>
+		<div class="delicious-link">[Rubyist - Acts As State Machine](http://lunchroom.lunchboxsoftware.com/2006/1/21/acts-as-state-machine)</div>
 		<div class="delicious-extended">A state machine plugin for Rails, which looks nice and clean code-wise.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/plugins">plugins</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/workflow">workflow</a>)</div>
+		<div class="delicious-tags">(tags: [plugins](http://del.icio.us/mathie/plugins) [rails](http://del.icio.us/mathie/rails) [ruby](http://del.icio.us/mathie/ruby) [workflow](http://del.icio.us/mathie/workflow))</div>
 	</li>
 </ul>

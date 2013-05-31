@@ -7,18 +7,18 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://www.squidoo.com/homemaking">Homemaking & Housekeeping</a></div>
+		<div class="delicious-link">[Homemaking & Housekeeping](http://www.squidoo.com/homemaking)</div>
 		<div class="delicious-extended">We really need to get our house in order one of these days.  In particular, the section on 'Contain the Clutter' could be a godsend, if you've ever seen our kitchen worksurfaces!</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/home">home</a> <a href="http://del.icio.us/mathie/housekeeping">housekeeping</a> <a href="http://del.icio.us/mathie/tidying">tidying</a>)</div>
+		<div class="delicious-tags">(tags: [home](http://del.icio.us/mathie/home) [housekeeping](http://del.icio.us/mathie/housekeeping) [tidying](http://del.icio.us/mathie/tidying))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.uesp.net/wiki/Oblivion:Oblivion">Elder Scrolls IV: Oblivion</a></div>
+		<div class="delicious-link">[Elder Scrolls IV: Oblivion](http://www.uesp.net/wiki/Oblivion:Oblivion)</div>
 		<div class="delicious-extended">A wiki with lots of information about the entire Elder Scrolls series, such as whether or not to hand over all your kit to the Mythic Dawn weenie at the Dagon Shrine</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/oblivion">oblivion</a> <a href="http://del.icio.us/mathie/games">games</a> <a href="http://del.icio.us/mathie/walkthrough">walkthrough</a> <a href="http://del.icio.us/mathie/xbox360">xbox360</a> <a href="http://del.icio.us/mathie/wiki">wiki</a>)</div>
+		<div class="delicious-tags">(tags: [oblivion](http://del.icio.us/mathie/oblivion) [games](http://del.icio.us/mathie/games) [walkthrough](http://del.icio.us/mathie/walkthrough) [xbox360](http://del.icio.us/mathie/xbox360) [wiki](http://del.icio.us/mathie/wiki))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://10base-t.com/#dropcopy">DropCopy</a></div>
+		<div class="delicious-link">[DropCopy](http://10base-t.com/#dropcopy)</div>
 		<div class="delicious-extended">A neat wee application for Mac OS X for pushing files (and your clipboard!) to other computers on the local network.  I must convince my colleagues of its usefulness.  (Crap website, though!)</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/macosx">macosx</a> <a href="http://del.icio.us/mathie/copy">copy</a> <a href="http://del.icio.us/mathie/utilities">utilities</a> <a href="http://del.icio.us/mathie/network">network</a> <a href="http://del.icio.us/mathie/software">software</a>)</div>
+		<div class="delicious-tags">(tags: [macosx](http://del.icio.us/mathie/macosx) [copy](http://del.icio.us/mathie/copy) [utilities](http://del.icio.us/mathie/utilities) [network](http://del.icio.us/mathie/network) [software](http://del.icio.us/mathie/software))</div>
 	</li>
 </ul>

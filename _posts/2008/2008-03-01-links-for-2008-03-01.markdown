@@ -7,7 +7,7 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://rails.simpltry.com/active_jax.html">Simpltry Rails</a></div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/activerecord">activerecord</a> <a href="http://del.icio.us/mathie/ajax">ajax</a> <a href="http://del.icio.us/mathie/javascript">javascript</a> <a href="http://del.icio.us/mathie/plugins">plugins</a> <a href="http://del.icio.us/mathie/rails">rails</a>)</div>
+		<div class="delicious-link">[Simpltry Rails](http://rails.simpltry.com/active_jax.html)</div>
+		<div class="delicious-tags">(tags: [activerecord](http://del.icio.us/mathie/activerecord) [ajax](http://del.icio.us/mathie/ajax) [javascript](http://del.icio.us/mathie/javascript) [plugins](http://del.icio.us/mathie/plugins) [rails](http://del.icio.us/mathie/rails))</div>
 	</li>
 </ul>

@@ -7,7 +7,7 @@ categories:
 - Python
 - Work
 ---
-Has anybody else noticed that <a href="http://sourceforge.net/">Sourceforge</a>'s CVS repositories seem a little erratic over the past couple of days?
+Has anybody else noticed that [Sourceforge](http://sourceforge.net/)'s CVS repositories seem a little erratic over the past couple of days?
 
 {% highlight bash %}
 mathie@Tandoori:mailmanager-2.0.1$ cvs add sql/setTableCharsets.zsql

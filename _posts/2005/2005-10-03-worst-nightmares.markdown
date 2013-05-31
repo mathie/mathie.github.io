@@ -9,6 +9,6 @@ Imagine your worst nightmare.  Well, in terms of shopping, anyway.  Does it invo
 
 Now, if that sounds bad enough, how about you compound it with looking through tartan tat shops on the Royal Mile, trying to find tartan ribbon?  It could have been worse -- it could have been festival-time -- but not by much.  But we were successful.
 
-The shopping started off a bit better though: we now have on order a pair of 18ct white gold wedding rings (one plain court, 6mm wide for me, one with a celtic knot design for Annabel) from <a href="http://www.clarksonsedinburgh.co.uk/">Clarksons</a> on Victoria Street.  All their rings are made on the premises and bear the 'Edinburgh Hallmark', which sounds nice.  They came well recommended from Colin &amp; Fiona, Andrew &amp; Lisa, and Zoe &amp; Dan.
+The shopping started off a bit better though: we now have on order a pair of 18ct white gold wedding rings (one plain court, 6mm wide for me, one with a celtic knot design for Annabel) from [Clarksons](http://www.clarksonsedinburgh.co.uk/) on Victoria Street.  All their rings are made on the premises and bear the 'Edinburgh Hallmark', which sounds nice.  They came well recommended from Colin &amp; Fiona, Andrew &amp; Lisa, and Zoe &amp; Dan.
 
 So we now have most of Annabel's attire for the day sorted out (ready for the fitting this week), ribbon for the wedding cake, wedding rings <em>and</em> we've ordered all the bits for the favours.  So it was a pretty successful day, really.  It just needed a bottle of wine back at home to recover. :-)

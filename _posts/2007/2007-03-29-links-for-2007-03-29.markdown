@@ -7,13 +7,13 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://capazon.rubyforge.org/">capazon's capazon-0.1.0 Documentation</a></div>
+		<div class="delicious-link">[capazon's capazon-0.1.0 Documentation](http://capazon.rubyforge.org/)</div>
 		<div class="delicious-extended">Extensions to capistrano which allow you to manage EC2 instances all from the comfort of `cap`.  Neat!</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/capistrano">capistrano</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/amazon">amazon</a> <a href="http://del.icio.us/mathie/ec2">ec2</a> <a href="http://del.icio.us/mathie/deployment">deployment</a>)</div>
+		<div class="delicious-tags">(tags: [capistrano](http://del.icio.us/mathie/capistrano) [rails](http://del.icio.us/mathie/rails) [ruby](http://del.icio.us/mathie/ruby) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [amazon](http://del.icio.us/mathie/amazon) [ec2](http://del.icio.us/mathie/ec2) [deployment](http://del.icio.us/mathie/deployment))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://en.wikipedia.org/wiki/Special:Randompage">http://en.wikipedia.org/wiki/Special:Randompage</a></div>
+		<div class="delicious-link">[http://en.wikipedia.org/wiki/Special:Randompage](http://en.wikipedia.org/wiki/Special:Randompage)</div>
 		<div class="delicious-extended">Brings up a random wikipedia entry when you visit it.  It's been suggested that it would make a great default page in Firefox, but the risk of getting distracted by something new and interesting when I was supposed to be checking my email it too great!</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/education">education</a> <a href="http://del.icio.us/mathie/entertainment">entertainment</a> <a href="http://del.icio.us/mathie/wikipedia">wikipedia</a> <a href="http://del.icio.us/mathie/reference">reference</a> <a href="http://del.icio.us/mathie/daily">daily</a> <a href="http://del.icio.us/mathie/knowledge">knowledge</a>)</div>
+		<div class="delicious-tags">(tags: [education](http://del.icio.us/mathie/education) [entertainment](http://del.icio.us/mathie/entertainment) [wikipedia](http://del.icio.us/mathie/wikipedia) [reference](http://del.icio.us/mathie/reference) [daily](http://del.icio.us/mathie/daily) [knowledge](http://del.icio.us/mathie/knowledge))</div>
 	</li>
 </ul>

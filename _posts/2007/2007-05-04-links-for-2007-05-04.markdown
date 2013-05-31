@@ -7,8 +7,8 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://joyeur.com/2007/04/24/solaris-dtrace-and-rails">Solaris, DTrace and Rails</a></div>
+		<div class="delicious-link">[Solaris, DTrace and Rails](http://joyeur.com/2007/04/24/solaris-dtrace-and-rails)</div>
 		<div class="delicious-extended">Jason talking about yet another experience of DTrace being all Superman-like and rescusing damsels^W websites in distress.  I'm hoping one of the linked articles will be a more technical overview of the day...</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/solaris">solaris</a> <a href="http://del.icio.us/mathie/dtrace">dtrace</a> <a href="http://del.icio.us/mathie/performance">performance</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/ruby">ruby</a> <a href="http://del.icio.us/mathie/rails">rails</a>)</div>
+		<div class="delicious-tags">(tags: [solaris](http://del.icio.us/mathie/solaris) [dtrace](http://del.icio.us/mathie/dtrace) [performance](http://del.icio.us/mathie/performance) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [ruby](http://del.icio.us/mathie/ruby) [rails](http://del.icio.us/mathie/rails))</div>
 	</li>
 </ul>

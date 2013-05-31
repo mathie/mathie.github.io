@@ -19,4 +19,4 @@ So, US companies:  if you've been toying with the idea of making use of the awes
 
 And, to the UK Ruby talent; if you've always fancied the idea of remote working for a US company, now is a good time to convince them it's worth a try.  But only once I've got my books full again. :-)
 
-Oh, and the main, subtle, take-home point of this post: **Rubaidh Ltd is looking for new work and is happy working for anybody, anywhere!  <a href="mailto:mathie@rubaidh.com">Get in touch!</a>** :-)
+Oh, and the main, subtle, take-home point of this post: **Rubaidh Ltd is looking for new work and is happy working for anybody, anywhere!  [Get in touch!](mailto:mathie@rubaidh.com)** :-)

@@ -11,7 +11,8 @@ tags:
 
 <p>In addition to <code>release</code>, there's <code>autorelease</code> which will release the object at some point in the future, but guarantees it will stick around for the current scope.  (Actually, it gets released properly if the reference count is still 0 when the next auto-release pool gets released, so objects can hang around for the entire life of the application, or in the case of an AppKit GUI, at least 'til the next time the run loop goes round.)  This in itself is not a problem and is quite useful in practice.  Think of a temporary object in a function.  Instead of just allocating it near the start of the function and having to remember to free it again at the end:</p>
 
-<pre>void fn()
+{% highlight objective-c %}
+void fn()
 {
     Foo *a = [[Foo alloc] init];
     if([a bar]) {
@@ -21,11 +22,13 @@ tags:
     /* Do some other stuff */
     [a release];
     return;
-}</pre>
+}
+{% endhighlight %}
 
 <p>we can <code>autorelease</code> it at the top, know it's still valid through the function, but not have to worry about correctly deleting it before the referencing variable goes out of scope:</p>
 
-<pre>void fn()
+{% highlight objective-c %}
+void fn()
 {
     Foo *a = [[[Foo alloc] init] autorelease];
     if([a bar]) {
@@ -33,7 +36,8 @@ tags:
     }
     /* Do some other stuff */
     return;
-}</pre>
+}
+{% endhighlight %}
 
 <p>In addition to this, there is a common idiom in Apple's API where a class will provide particular functions which return temporary objects (ie objects which have already been autoreleased to save you the trouble).  For example, the following <code>[[[NSString alloc] initWithString:@"hello world"] autorelease]</code> is neatly packaged up into <code>[NSString stringWithString:@"hello world"]</code>. </p>
 

@@ -6,7 +6,7 @@ categories:
 - Geekery
 - Python
 ---
-... that XML namespaces are not actually valid in XHTML, even in <a href="http://www.w3.org/TR/xhtml11/" title="XHTML 1.1 - Module-based XHTML">XHTML 1.1</a>.  This comes as quite a surprise, since I thought that's how <a href="http://www.w3.org/Math/" title="W3C Math home">MathML</a> was built on top of it.  The reason for discovering this is that I'm working with Zope's <a href="http://www.plope.com/Books/2_7Edition/ZPT.stx" title="Zope Page Templates">page templates</a> to revamp the user interface for <a href="http://mailmanager.sourceforge.net" title="Email response management system">MailManager</a>.  And working with the source templates, one of the steps I'm taking it to run them through <a href="http://www.cogsci.ed.ac.uk/~richard/rxp.html" title="Richard's (?) XML Parser">RXP</a> to verify they are correct and validate them.  So I'm starting off with page templates that are something like the following:
+... that XML namespaces are not actually valid in XHTML, even in [XHTML 1.1](http://www.w3.org/TR/xhtml11/).  This comes as quite a surprise, since I thought that's how [MathML](http://www.w3.org/Math/) was built on top of it.  The reason for discovering this is that I'm working with Zope's [page templates](http://www.plope.com/Books/2_7Edition/ZPT.stx) to revamp the user interface for [MailManager](http://mailmanager.sourceforge.net).  And working with the source templates, one of the steps I'm taking it to run them through [RXP](http://www.cogsci.ed.ac.uk/~richard/rxp.html) to verify they are correct and validate them.  So I'm starting off with page templates that are something like the following:
 
 {% highlight xml %}
 <?xml version="1.0" encoding="utf-8"?>
@@ -30,7 +30,7 @@ categories:
 
 (OK, that's a very contrived example!)  Now that is well formed XML and the parser tells me so.  Unfortunately, it doesn't <em>validate</em>, complaining about <code>Undeclared attribute xmlns:tal for element html</code> for each of the XML namespace declarations, then complaining about the namespace-constrained <code>tal:content</code> tags.  This is pesky, because it doesn't allow me to validate the HTML that's contained in the default namespace, whilst ignoring the namespace-related errors for namespaces that it doesn't recognise (which is how a browser SHOULD behave).
 
-Reading the <a href="http://www.w3.org/TR/xhtml1/" title="eXtensible HyperText Markup Language">XHTML 1.0</a> standard, this is correct.  Section <a href="http://www.w3.org/TR/xhtml1/#well-formed" title="3.1.2. Using XHTML with other namespaces">3.1.2</a> states:
+Reading the [XHTML 1.0](http://www.w3.org/TR/xhtml1/) standard, this is correct.  Section [3.1.2](http://www.w3.org/TR/xhtml1/#well-formed) states:
 
 <blockquote>
 <p>The XHTML namespace may be used with other XML namespaces as per \[XMLNS\], although such documents are not strictly conforming XHTML 1.0 documents as defined above. Work by W3C is addressing ways to specify conformance for documents involving multiple namespaces.</p>

@@ -6,7 +6,7 @@ categories:
 - Geekery
 - Work
 ---
-A further note in regard to the <a href="http://woss.name/2005/08/02/mighty-mouse/">new Apple mouse</a>.  From my boss:
+A further note in regard to the [new Apple mouse](http://woss.name/2005/08/02/mighty-mouse/).  From my boss:
 
 <blockquote>I've ordered you a Mighty Mouse from the Apple Store.
 

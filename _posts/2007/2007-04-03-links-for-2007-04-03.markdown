@@ -7,8 +7,8 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://www.howmanydaysago.com/">DaysAgo :: Never guess again!</a></div>
+		<div class="delicious-link">[DaysAgo :: Never guess again!](http://www.howmanydaysago.com/)</div>
 		<div class="delicious-extended">A counter for showing how many days ago you last did ... something to the attached device.  I could really use some of these, stuck to the cat litter tray, the leftover food I stuck in the fridge...  In fact, about the only things that are safe are my lap</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/reminders">reminders</a> <a href="http://del.icio.us/mathie/gtd">gtd</a>)</div>
+		<div class="delicious-tags">(tags: [reminders](http://del.icio.us/mathie/reminders) [gtd](http://del.icio.us/mathie/gtd))</div>
 	</li>
 </ul>

@@ -6,7 +6,7 @@ categories:
 - Geekery
 - Python
 ---
-An update to <a href="http://woss.name/2005/09/08/isbn-validation/">ISBN validation</a>. After thinking about Sean's comment, I do see that I've repeated some assumptions in many different places.  So, here's a new version:
+An update to [ISBN validation](http://woss.name/2005/09/08/isbn-validation/). After thinking about Sean's comment, I do see that I've repeated some assumptions in many different places.  So, here's a new version:
 
 {% highlight python %}
 import operator

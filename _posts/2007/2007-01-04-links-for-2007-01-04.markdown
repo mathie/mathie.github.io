@@ -7,13 +7,13 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://www.bitboost.com/pawsense/">PawSense helps you catproof your computer.</a></div>
+		<div class="delicious-link">[PawSense helps you catproof your computer.](http://www.bitboost.com/pawsense/)</div>
 		<div class="delicious-extended">An (unfortunately Windows-only) application for detecting when your loveable cat has decided to assist your typing...</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/software">software</a> <a href="http://del.icio.us/mathie/cats">cats</a> <a href="http://del.icio.us/mathie/funny">funny</a>)</div>
+		<div class="delicious-tags">(tags: [software](http://del.icio.us/mathie/software) [cats](http://del.icio.us/mathie/cats) [funny](http://del.icio.us/mathie/funny))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.regrettheerror.com/2006/12/crunks_06_the_y.html">Regret the Error: Crunks â€™06: The Year in Media Errors and Corrections</a></div>
+		<div class="delicious-link">[Regret the Error: Crunks â€™06: The Year in Media Errors and Corrections](http://www.regrettheerror.com/2006/12/crunks_06_the_y.html)</div>
 		<div class="delicious-extended">"...a recipe last Wednesday for meatballs with an article about foods to serve during the Super Bowl misstated the amount of chipotle chilies in adobo to be used. It is one or two canned chilies, not one or two cans."</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/corrections">corrections</a> <a href="http://del.icio.us/mathie/humor">humor</a> <a href="http://del.icio.us/mathie/funny">funny</a> <a href="http://del.icio.us/mathie/media">media</a> <a href="http://del.icio.us/mathie/journalism">journalism</a>)</div>
+		<div class="delicious-tags">(tags: [corrections](http://del.icio.us/mathie/corrections) [humor](http://del.icio.us/mathie/humor) [funny](http://del.icio.us/mathie/funny) [media](http://del.icio.us/mathie/media) [journalism](http://del.icio.us/mathie/journalism))</div>
 	</li>
 </ul>

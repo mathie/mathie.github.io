@@ -5,7 +5,7 @@ date: 2005-10-09 13:05:27 +01:00
 categories:
 - Geekery
 ---
-<a href="http://woss.name/synergydesksetup.jpg"><img src='http://woss.name/wp-content/thumb-synergydesksetup.jpg' alt='My desk at home, using Synergy' class="alignright" /></a> Thanks to <a href="http://www.livejournal.com/users/digitalwanderer/">Mike</a>'s comment <a href="http://woss.name/2005/10/06/testing-out-a-second-monitor/">a couple of posts ago</a>, I have been trying out <a href="http://synergy2.sourceforge.net/">Synergy</a> to share my mouse and keyboard between my laptop and desktop computers.  At first I was skeptical about how well it would work but, having now been using it for a couple of days, I'm converted.
+<a href="http://woss.name/synergydesksetup.jpg"><img src='http://woss.name/wp-content/thumb-synergydesksetup.jpg' alt='My desk at home, using Synergy' class="alignright" /></a> Thanks to [Mike](http://www.livejournal.com/users/digitalwanderer/)'s comment [a couple of posts ago](http://woss.name/2005/10/06/testing-out-a-second-monitor/), I have been trying out [Synergy](http://synergy2.sourceforge.net/) to share my mouse and keyboard between my laptop and desktop computers.  At first I was skeptical about how well it would work but, having now been using it for a couple of days, I'm converted.
 
 One machine runs as the Synergy server, and that's the computer which is connected to the keyboard and mouse you wish to use.  It is supplied with a configuration file mentioning all the possible clients that might want to connect to it, along with their relative physical positions (for example, as you can see from the picture, I specify my laptop as being 'below' me desktop machine).
 

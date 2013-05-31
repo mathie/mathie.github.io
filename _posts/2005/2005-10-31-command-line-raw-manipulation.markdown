@@ -6,7 +6,7 @@ categories:
 - Geekery
 - Photography
 ---
-Just a quickie this morning, since I seem to be insanely busy (and insanely tired from a mad weekend, which I'm sure I'll post more about later!).  Here's a piece of shell script (only tested on <a href="http://www.gnu.org/software/bash/bash.html">bash</a>) which will take a bunch of raw images and create lightweight JPEG images for browsing through.  It requires <a href="http://netpbm.sourceforge.net/">NetPBM</a> and <a href="http://www.cybercom.net/~dcoffin/dcraw/">dcraw</a>
+Just a quickie this morning, since I seem to be insanely busy (and insanely tired from a mad weekend, which I'm sure I'll post more about later!).  Here's a piece of shell script (only tested on [bash](http://www.gnu.org/software/bash/bash.html)) which will take a bunch of raw images and create lightweight JPEG images for browsing through.  It requires [NetPBM](http://netpbm.sourceforge.net/) and [dcraw](http://www.cybercom.net/~dcoffin/dcraw/)
 
 {% highlight bash %}
 export TIMEFORMAT="%R seconds"

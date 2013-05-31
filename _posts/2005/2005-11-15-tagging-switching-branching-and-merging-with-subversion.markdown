@@ -6,7 +6,7 @@ categories:
 - Geekery
 - Work
 ---
-I've spent too long typing out long, laborious commands with <a href="http://subversion.tigris.org/">Subversion</a> to do various operations, and having to look up the documentation each time I do tag/branch related commands, so I spent a wee while this afternoon tidying up my shell shortcuts and adding to them.  All of these commands assume that you are currently sitting in a checked out working copy of the code you're dealing with, and that you follow the regular naming scheme for projects inside your svn repository (ie for <code>project</code>, <code>project/trunk</code><code> is the mainline development, </code><code>project/tags</code> contains all your tags and <code>project/branches</code> contains all your branches).
+I've spent too long typing out long, laborious commands with [Subversion](http://subversion.tigris.org/) to do various operations, and having to look up the documentation each time I do tag/branch related commands, so I spent a wee while this afternoon tidying up my shell shortcuts and adding to them.  All of these commands assume that you are currently sitting in a checked out working copy of the code you're dealing with, and that you follow the regular naming scheme for projects inside your svn repository (ie for <code>project</code>, <code>project/trunk</code><code> is the mainline development, </code><code>project/tags</code> contains all your tags and <code>project/branches</code> contains all your branches).
 
 {% highlight bash %}
 _svn_project_root()

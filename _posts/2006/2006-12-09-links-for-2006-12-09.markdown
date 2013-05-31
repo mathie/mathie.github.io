@@ -7,15 +7,15 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://www.lost.eu/d7bc">LOST invite</a></div>
+		<div class="delicious-link">[LOST invite](http://www.lost.eu/d7bc)</div>
 		<div class="delicious-extended">LOST is a student project. The aim of LOST is to show how 7 million people connect to one another, and break the record for the game with the most players ever!
 
 LOST enables you to interact with people across the world, and see how you are linked to them</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/socialnetworking">socialnetworking</a> <a href="http://del.icio.us/mathie/networking">networking</a>)</div>
+		<div class="delicious-tags">(tags: [socialnetworking](http://del.icio.us/mathie/socialnetworking) [networking](http://del.icio.us/mathie/networking))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://www.bbc.co.uk/guidelines/newmedia/">BBC - bbc.co.uk Standards & Guidelines</a></div>
+		<div class="delicious-link">[BBC - bbc.co.uk Standards & Guidelines](http://www.bbc.co.uk/guidelines/newmedia/)</div>
 		<div class="delicious-extended">Standards and guidelines for producing applications suitable for production use by the BBC.  Includes database use, coding style and accessibility.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/accessibility">accessibility</a> <a href="http://del.icio.us/mathie/bbc">bbc</a> <a href="http://del.icio.us/mathie/design">design</a> <a href="http://del.icio.us/mathie/web">web</a> <a href="http://del.icio.us/mathie/development">development</a> <a href="http://del.icio.us/mathie/media">media</a> <a href="http://del.icio.us/mathie/webdesign">webdesign</a> <a href="http://del.icio.us/mathie/standards">standards</a> <a href="http://del.icio.us/mathie/guidelines">guidelines</a>)</div>
+		<div class="delicious-tags">(tags: [accessibility](http://del.icio.us/mathie/accessibility) [bbc](http://del.icio.us/mathie/bbc) [design](http://del.icio.us/mathie/design) [web](http://del.icio.us/mathie/web) [development](http://del.icio.us/mathie/development) [media](http://del.icio.us/mathie/media) [webdesign](http://del.icio.us/mathie/webdesign) [standards](http://del.icio.us/mathie/standards) [guidelines](http://del.icio.us/mathie/guidelines))</div>
 	</li>
 </ul>

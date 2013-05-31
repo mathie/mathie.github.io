@@ -8,9 +8,9 @@ categories:
 I've been skimming a few articles on photographers' legal rights -- what you can shoot and publish -- this morning:
 
 <ul>
-  <li><a href="http://www.usatoday.com/tech/columnist/andrewkantor/2005-12-29-camera-laws_x.htm">New digital camera? Know how, where you can use it</a></li>
-  <li><a href="http://www.kantor.com/blog/2005/12/legal_rights_of_photographers.html">Legal Rights for Photographers</a></li>
-  <li><a href="http://www.rcfp.org/photoguide/">Photographers' Guide to Privacy</a></li>
+  <li>[New digital camera? Know how, where you can use it](http://www.usatoday.com/tech/columnist/andrewkantor/2005-12-29-camera-laws_x.htm)</li>
+  <li>[Legal Rights for Photographers](http://www.kantor.com/blog/2005/12/legal_rights_of_photographers.html)</li>
+  <li>[Photographers' Guide to Privacy](http://www.rcfp.org/photoguide/)</li>
 </ul>
 
 which make interesting reading.  Basically, unless you actually invade somebody's privacy where they would reasonably expect some privacy and the photograph is not in the 'public interest', you can shoot almost anything, almost anywhere.  OK, you might get hauled up before a court for other criminal acts you commit at the same time (eg trespass) but the photographs are perfectly legal.

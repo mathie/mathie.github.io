@@ -7,7 +7,7 @@ categories:
 - Python
 - Work
 ---
-So we were having a 'discussion' on the work mailing list about a change I'd made to the UI code for <a href="http://www.logicalware.com/">MailManager</a>.  Given the following page template:
+So we were having a 'discussion' on the work mailing list about a change I'd made to the UI code for [MailManager](http://www.logicalware.com/).  Given the following page template:
 
 {% highlight xml %}
 <?xml version="1.0" encoding="utf-8"?>

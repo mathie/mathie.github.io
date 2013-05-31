@@ -6,7 +6,7 @@ categories:
 - Personal
 - Web surfing
 ---
-OK, it's Friday afternoon, I'm bored.  So, following up to <a href="http://www.livejournal.com/users/ibbs/10228.html">'Annabel needs...' google meme</a>:
+OK, it's Friday afternoon, I'm bored.  So, following up to ['Annabel needs...' google meme](http://www.livejournal.com/users/ibbs/10228.html):
 
 <ul>
   <li>Graeme needs to contact Jeremy Wilkinson</li>

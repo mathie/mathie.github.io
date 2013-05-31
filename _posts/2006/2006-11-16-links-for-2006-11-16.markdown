@@ -7,8 +7,8 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/48950578/">Apple releases EFI Firmware updates for Intel Macs</a></div>
+		<div class="delicious-link">[Apple releases EFI Firmware updates for Intel Macs](http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/48950578/)</div>
 		<div class="delicious-extended">Really, I'm just testing using NetNewsWire and WebnoteHappy to create bookmarks in del.icio.us</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/macosx">macosx</a> <a href="http://del.icio.us/mathie/firmware">firmware</a> <a href="http://del.icio.us/mathie/softwareupdate">softwareupdate</a>)</div>
+		<div class="delicious-tags">(tags: [macosx](http://del.icio.us/mathie/macosx) [firmware](http://del.icio.us/mathie/firmware) [softwareupdate](http://del.icio.us/mathie/softwareupdate))</div>
 	</li>
 </ul>

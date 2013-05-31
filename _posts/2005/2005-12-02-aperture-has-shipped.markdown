@@ -6,7 +6,7 @@ categories:
 - Geekery
 - Photography
 ---
-Woo!  According to the shipment tracker, <a href="http://www.apple.com/aperture/">Aperture</a> has reached Edinburgh:
+Woo!  According to the shipment tracker, [Aperture](http://www.apple.com/aperture/) has reached Edinburgh:
 
 <a href="http://woss.name/wp-content/apertureshipment.png"><img src='http://woss.name/wp-content/thumb-apertureshipment.png' alt='Aperture shipping information' class="centered" /></a>
 

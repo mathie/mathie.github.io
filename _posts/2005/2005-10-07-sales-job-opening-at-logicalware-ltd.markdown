@@ -40,4 +40,4 @@ This post will report to the CEO. In the near future it is envisaged that a VP B
 Salary is negotiable, depending on experience.
 </blockquote>
 
-If you can think of anybody who might fancy this kind of job, maybe even just part time at the beginning, do let me know (and I'll see if I can't arrange myself a finders' fee this time!) or just send an email directly to <a href="mailto:careers@logicalware.com">careers@logicalware.com</a>.
+If you can think of anybody who might fancy this kind of job, maybe even just part time at the beginning, do let me know (and I'll see if I can't arrange myself a finders' fee this time!) or just send an email directly to [careers@logicalware.com](mailto:careers@logicalware.com).

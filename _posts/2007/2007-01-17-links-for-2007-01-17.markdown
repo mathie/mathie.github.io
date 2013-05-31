@@ -7,8 +7,8 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://googlemac.blogspot.com/2007/01/taming-mac-os-x-file-systems.html">Taming Mac OS X File Systems</a></div>
+		<div class="delicious-link">[Taming Mac OS X File Systems](http://googlemac.blogspot.com/2007/01/taming-mac-os-x-file-systems.html)</div>
 		<div class="delicious-extended">Fuse ported to Mac OS X</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/linux">linux</a> <a href="http://del.icio.us/mathie/google">google</a> <a href="http://del.icio.us/mathie/opensource">opensource</a> <a href="http://del.icio.us/mathie/filesystem">filesystem</a> <a href="http://del.icio.us/mathie/fuse">fuse</a> <a href="http://del.icio.us/mathie/osx">osx</a>)</div>
+		<div class="delicious-tags">(tags: [linux](http://del.icio.us/mathie/linux) [google](http://del.icio.us/mathie/google) [opensource](http://del.icio.us/mathie/opensource) [filesystem](http://del.icio.us/mathie/filesystem) [fuse](http://del.icio.us/mathie/fuse) [osx](http://del.icio.us/mathie/osx))</div>
 	</li>
 </ul>

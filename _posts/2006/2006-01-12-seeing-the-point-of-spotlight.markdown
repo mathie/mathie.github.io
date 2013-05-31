@@ -5,7 +5,7 @@ date: 2006-01-12 09:59:37 +00:00
 categories:
 - Geekery
 ---
-After having used Mac OS X 10.4 since within days of its release, and having gotten to the stage of <em>turning off</em> <a href="http://www.apple.com/macosx/features/spotlight/">Spotlight</a> as I was aware of how much CPU time <code>mds</code> and <code>mdimport</code> were uselessly consuming, I have finally found a use for it.  (It was re-enabled when I reinstalled my laptop and I thought I'd leave it for a while, just to see if it grew on me.)
+After having used Mac OS X 10.4 since within days of its release, and having gotten to the stage of <em>turning off</em> [Spotlight](http://www.apple.com/macosx/features/spotlight/) as I was aware of how much CPU time <code>mds</code> and <code>mdimport</code> were uselessly consuming, I have finally found a use for it.  (It was re-enabled when I reinstalled my laptop and I thought I'd leave it for a while, just to see if it grew on me.)
 
 Back story:  I have all my iTunes music library stored on my iMac at home.  There's not enough space on my laptop to cope with the 46GB of music it contains.  But I'd like some tunes on my laptop.  How to copy a selection across?  Well, for performance (and backup, I suppose) reasons, I dumped the lot onto a Firewire drive.  But how to retrieve all the music I would like on my laptop?
 

@@ -5,11 +5,11 @@ date: 2005-08-08 20:04:16 +01:00
 categories:
 - Geekery
 ---
-From the HTML source of <a href="http://www.apple.com/mightymouse/" title="Apple - Mighty Mouse">http://www.apple.com/mightymouse/</a>:
+From the HTML source of [http://www.apple.com/mightymouse/](http://www.apple.com/mightymouse/):
 
 {% highlight xml %}
 <p class="sosumi">Mighty Mouse &#169; Viacom
  International Inc. All Rights Reserved.</p>
 {% endhighlight %}
 
-Note the class name.  Tee hee. :-)  (Pointed out by <a href="http://www.tuaw.com/2005/08/08/coding-humor-into-their-style-sheets/" title="The Unofficial Apple Weblog">TUAW</a>.)
+Note the class name.  Tee hee. :-)  (Pointed out by [TUAW](http://www.tuaw.com/2005/08/08/coding-humor-into-their-style-sheets/).)

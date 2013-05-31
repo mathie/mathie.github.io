@@ -7,21 +7,24 @@ categories:
 tags:
 - Geekery
 ---
-<p>I manage configuration files on most of my hosts with RCS.  This is probably less than perfect when I'm making exactly the same changes on a dozen machines, but there's only one domain where I manage more than one machine under the same administrative hat and <a href="http://www.cfengine.org/">cfengine</a> will make a return there one of these days.  Anyway, yes, RCS.  On these hosts, I'm a member of the <code>adm</code> group.  Generally the first thing that happens when I install a new package which creates its own configuration directory under /etc is along the lines of:</p>
+<p>I manage configuration files on most of my hosts with RCS.  This is probably less than perfect when I'm making exactly the same changes on a dozen machines, but there's only one domain where I manage more than one machine under the same administrative hat and [cfengine](http://www.cfengine.org/) will make a return there one of these days.  Anyway, yes, RCS.  On these hosts, I'm a member of the <code>adm</code> group.  Generally the first thing that happens when I install a new package which creates its own configuration directory under /etc is along the lines of:</p>
 
-<pre>cd /etc/${PACKAGE}
+{% highlight bash %}
+cd /etc/${PACKAGE}
 sudo chgrp adm .
 sudo chmod g+ws .
 mkdir RCS
 ci -l ${PACKAGE_CONFIG}
 vim ${PACKAGE_CONFIG}
-ci -u ${PACKAGE_CONFIG}</pre>
+ci -u ${PACKAGE_CONFIG}
+{% endhighlight %}
 
 <p>This allows me to check out and edit most configuration files without having to mess with sudo; doing so maintains the revision history (particularly with respect to blame) correctly if I'm sharing the configuration job with other people.</p>
 
-<p>Naturally I'm not entirely perfect.  Sometimes when I'm incrementally updating configurations and testing them, I forget to check in my changes.  So this morning I hacked together this script (I would chuck it into my <a href="http://svn.endless.org.uk/mathie">subversion repository</a> and link instead, but I've still to set it up properly...):</p>
+<p>Naturally I'm not entirely perfect.  Sometimes when I'm incrementally updating configurations and testing them, I forget to check in my changes.  So this morning I hacked together this script (I would chuck it into my [subversion repository](http://svn.endless.org.uk/mathie) and link instead, but I've still to set it up properly...):</p>
 
-<pre>#!/bin/bash
+{% highlight bash %}
+#!/bin/bash
 
 # Get stderr on stdout - the rcs command chuck potentially useful
 # crud there...
@@ -58,6 +61,7 @@ if [ ! -z "$changed_files" ]; then
     for i in $changed_files; do
         rcsdiff -u $i
     done
-fi</pre>
+fi
+{% endhighlight %}
 
 <p>It's not ideal â€” it would be nice to parse the rlog output and render it in the form <code>${FILE} (revision ${REVISION} currently locked by ${EEJIT})</code> instead of the currently verbose form â€” but, inserted into a daily cron job, it should serve as a subtle reminder to check stuff in when I'm done with it.  Speaking of which, while developing it, I found two files which were unnecessarily locked and several more which were locked and had uncommitted changes...</p>

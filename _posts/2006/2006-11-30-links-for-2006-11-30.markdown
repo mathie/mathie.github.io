@@ -7,13 +7,13 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://www.whatspop.com/blog/2006/11/glancing-alternative-song-structures.cfm">Glancing alternative song structures with Graphviz</a></div>
+		<div class="delicious-link">[Glancing alternative song structures with Graphviz](http://www.whatspop.com/blog/2006/11/glancing-alternative-song-structures.cfm)</div>
 		<div class="delicious-extended">FInite automata of song lyrics for 7 songs.  Well worth looking at the full-size images.  I wonder how much effort it would be to do this sort of thing on a grander scale, trawling one of the lyric archives...?</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/music">music</a> <a href="http://del.icio.us/mathie/graphviz">graphviz</a> <a href="http://del.icio.us/mathie/visualisation">visualisation</a> <a href="http://del.icio.us/mathie/lyrics">lyrics</a>)</div>
+		<div class="delicious-tags">(tags: [music](http://del.icio.us/mathie/music) [graphviz](http://del.icio.us/mathie/graphviz) [visualisation](http://del.icio.us/mathie/visualisation) [lyrics](http://del.icio.us/mathie/lyrics))</div>
 	</li>
 	<li>
-		<div class="delicious-link"><a href="http://errtheblog.com/post/41">Using with_scope in fat models and skinny controllers</a></div>
+		<div class="delicious-link">[Using with_scope in fat models and skinny controllers](http://errtheblog.com/post/41)</div>
 		<div class="delicious-extended">I'd heard that using with_scope in conjunction with around_filter was evil.  But I'd never really seen a use for with_scope until today.  When I realised it would DRY up one of my models quite nicely!</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/programming">programming</a> <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/activerecord">activerecord</a>)</div>
+		<div class="delicious-tags">(tags: [programming](http://del.icio.us/mathie/programming) [rails](http://del.icio.us/mathie/rails) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [activerecord](http://del.icio.us/mathie/activerecord))</div>
 	</li>
 </ul>

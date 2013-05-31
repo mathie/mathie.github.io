@@ -7,8 +7,8 @@ categories:
 ---
 <ul class="delicious">
 	<li>
-		<div class="delicious-link"><a href="http://weblog.jamisbuck.org/2007/1/31/more-on-watching-activerecord">More on watching ActiveRecord</a></div>
+		<div class="delicious-link">[More on watching ActiveRecord](http://weblog.jamisbuck.org/2007/1/31/more-on-watching-activerecord)</div>
 		<div class="delicious-extended">This is one for my ~/.irbrc -- now I can do stuff in script/console and see what SQL queries are actually generated without flipping to another tab.</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/rails">rails</a> <a href="http://del.icio.us/mathie/rubyonrails">rubyonrails</a> <a href="http://del.icio.us/mathie/tips">tips</a> <a href="http://del.icio.us/mathie/logging">logging</a>)</div>
+		<div class="delicious-tags">(tags: [rails](http://del.icio.us/mathie/rails) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [tips](http://del.icio.us/mathie/tips) [logging](http://del.icio.us/mathie/logging))</div>
 	</li>
 </ul>

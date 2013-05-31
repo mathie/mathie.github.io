@@ -8,11 +8,11 @@ categories:
 This is what I have in the way of photography kit just now:
 
 <ul>
-  <li><a href="http://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_350d/index.asp">Canon EOS 350D</a> (aka Digital Rebel XT) digital SLR camera.</li>
-  <li>Canon <a href="http://www.canon.co.uk/for_home/product_finder/cameras/ef_lenses/zoom_lenses/ef-s_18-55mm_f-3.5-5.6/index.asp">EF-S 18-55mm f/3.5-5.6 USM</a> lens (ie the default one that comes with the EOS 350D consumer kit).</li>
-  <li>Canon <a href="http://www.canon.co.uk/for_home/product_finder/cameras/ef_lenses/zoom_lenses/ef_75300mm_f456iii_usm/index.asp">EF 75-300mm f/4-5.6 III USM</a> lens.</li>
-  <li>Canon <a href="http://consumer.usa.canon.com/ir/controller?act=ModelDetailAct&fcategoryid=141&modelid=7394">Speedlite 420EX</a> flash.</li>
-  <li>A couple of Sandisk 512MB compact flash cards, one of which is <a href="http://www.sandisk.com/retail/cf.asp">dog slow</a>; the other is just a <a href="http://www.sandisk.com/retail/ultra2-cf.asp">bit slow</a>.</li>
+  <li>[Canon EOS 350D](http://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_350d/index.asp) (aka Digital Rebel XT) digital SLR camera.</li>
+  <li>Canon [EF-S 18-55mm f/3.5-5.6 USM](http://www.canon.co.uk/for_home/product_finder/cameras/ef_lenses/zoom_lenses/ef-s_18-55mm_f-3.5-5.6/index.asp) lens (ie the default one that comes with the EOS 350D consumer kit).</li>
+  <li>Canon [EF 75-300mm f/4-5.6 III USM](http://www.canon.co.uk/for_home/product_finder/cameras/ef_lenses/zoom_lenses/ef_75300mm_f456iii_usm/index.asp) lens.</li>
+  <li>Canon [Speedlite 420EX](http://consumer.usa.canon.com/ir/controller?act=ModelDetailAct&fcategoryid=141&modelid=7394) flash.</li>
+  <li>A couple of Sandisk 512MB compact flash cards, one of which is [dog slow](http://www.sandisk.com/retail/cf.asp); the other is just a [bit slow](http://www.sandisk.com/retail/ultra2-cf.asp).</li>
   <li>A velbon mini tripod</li>
   <li>Jessops-own floor-standing tripod, which maxes out at about 5 feet high.</li>
   <li>A circular polarising filter.</li>

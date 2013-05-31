@@ -6,7 +6,7 @@ categories:
 - Entertainment
 - Personal
 ---
-I was given permission to spend money on <a href="http://www.allofmp3.com/">AllOfMP3</a> last night by Annabel!  She's even suggesting albums that I might want to acquire!  So I've uploaded another $50 to it from my credit card and I'm currently searching for stuff to download. :-)  Though maybe it's not a good idea to admit, in public, that I'm currently grabbing the entire Queen back catalogue...
+I was given permission to spend money on [AllOfMP3](http://www.allofmp3.com/) last night by Annabel!  She's even suggesting albums that I might want to acquire!  So I've uploaded another $50 to it from my credit card and I'm currently searching for stuff to download. :-)  Though maybe it's not a good idea to admit, in public, that I'm currently grabbing the entire Queen back catalogue...
 
 Unfortunately, my head feels like it's been hit by an iceberg today.  Which might have something to do with the Titanic beer I was drinking last night in The Regent...  See, we <em>had</em> to nip in for a swift 'alf -- after all, I don't get to go to the Big Smoke very often these days -- following our trip to see the priest who's doing the paperwork for our wedding.  That was entertaining.  Apparently, since I'm not Catholic (Annabel is, and we're being married in the Catholic cathedral) we have to ask for a special dispensation from the local bishop.  Which means filling out a few forms.  The fun bit was the conversation while he was ticking some boxes:
 

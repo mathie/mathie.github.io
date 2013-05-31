@@ -5,9 +5,9 @@ date: 2005-09-13 11:08:49 +01:00
 categories:
 - Geekery
 ---
-OK, so last night I got fed up with the copy of <a href="http://www.ruby-lang.org" title="Ruby programming language">Ruby</a> that ships with Mac OS X Tiger.  There are a number of problems with it,  and people have been fixing them with varying degrees of success.  The one that finally broke the camel's back (no that doesn't mean I'm switching back to Perl!) was that readline support has been omitted, and so most of the Rails irb-related scripts don't work.
+OK, so last night I got fed up with the copy of [Ruby](http://www.ruby-lang.org) that ships with Mac OS X Tiger.  There are a number of problems with it,  and people have been fixing them with varying degrees of success.  The one that finally broke the camel's back (no that doesn't mean I'm switching back to Perl!) was that readline support has been omitted, and so most of the Rails irb-related scripts don't work.
 
-So, how do you go about switching to the version in <a href="http://darwinports.opendarwin.org/">DarwinPorts</a>?  Well, here's how I did it:
+So, how do you go about switching to the version in [DarwinPorts](http://darwinports.opendarwin.org/)?  Well, here's how I did it:
 
 <ul>
   <li>Remove the old gems.  Run <code>sudo gem uninstall .\*</code> and choose the last option, <q>All versions</q>.  You'll be warned that you're uninstalling dependencies of other gems, but agree to continue each time anyway, since you're uninstalling <em>all</em> the gems anyway.</li>

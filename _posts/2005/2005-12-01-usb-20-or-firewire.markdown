@@ -5,7 +5,7 @@ date: 2005-12-01 23:54:12 +00:00
 categories:
 - Geekery
 ---
-OK, this is a totally unscientific test, but I decided to see whether I was better using the USB 2.0 interface between my PowerBook laptop and an external hard disc, or the Firewire interface.  For the purposes of the test, I was using <a href="http://www.seagate.com/products/retail/external/usbfirewire">300GB Seagate</a> external drive I borrowed from work (for doing a backup of my laptop!) and my <a href="http://www.apple.com/support/powerbook/">Apple PowerBook G4</a>.  In each case, the devices were the only things on that bus, with a cable direct from one to the other.  I used <a href="http://sourceforge.net/projects/bonnie/">Bonnie++</a> to perform the tests.
+OK, this is a totally unscientific test, but I decided to see whether I was better using the USB 2.0 interface between my PowerBook laptop and an external hard disc, or the Firewire interface.  For the purposes of the test, I was using [300GB Seagate](http://www.seagate.com/products/retail/external/usbfirewire) external drive I borrowed from work (for doing a backup of my laptop!) and my [Apple PowerBook G4](http://www.apple.com/support/powerbook/).  In each case, the devices were the only things on that bus, with a cable direct from one to the other.  I used [Bonnie++](http://sourceforge.net/projects/bonnie/) to perform the tests.
 
 So, the results for USB 2.0:
 

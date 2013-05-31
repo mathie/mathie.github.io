@@ -7,7 +7,7 @@ categories:
 - Python
 - Work
 ---
-This is another one of these 'notes' that I'm keeping for myself, that I should write up into some <a href="http://www.logicalware.com/" title="MailManager email response management system">MailManager</a> UI documentation.  It all boils down to trying to use consistent idioms throughout the page templates since the old templates clearly demonstrate "There's More Than One Way to Do It", but not necessarily that all those ways wind up with exactly the same output, or are necessarily even correct... :-/
+This is another one of these 'notes' that I'm keeping for myself, that I should write up into some [MailManager](http://www.logicalware.com/) UI documentation.  It all boils down to trying to use consistent idioms throughout the page templates since the old templates clearly demonstrate "There's More Than One Way to Do It", but not necessarily that all those ways wind up with exactly the same output, or are necessarily even correct... :-/
 
 So, when you've got something along the lines of:
 

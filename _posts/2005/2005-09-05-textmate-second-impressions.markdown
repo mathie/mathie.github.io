@@ -6,7 +6,7 @@ categories:
 - Geekery
 - Work
 ---
-Well, I finally got around to registering <a href="http://macromates.com/">TextMate</a> (by conning my work into registering me a copy, no less!) so I'm sticking with it for the long term.  It has finally ousted <a href="http://www.xemacs.org/">XEmacs</a> from my main toolset, and has even pushed <a href="http://vim.org/" title="Vi IMproved!">vim</a> from being <code>$EDITOR</code> and <code>$VISUAL</code> on the command line!
+Well, I finally got around to registering [TextMate](http://macromates.com/) (by conning my work into registering me a copy, no less!) so I'm sticking with it for the long term.  It has finally ousted [XEmacs](http://www.xemacs.org/) from my main toolset, and has even pushed [vim](http://vim.org/) from being <code>$EDITOR</code> and <code>$VISUAL</code> on the command line!
 
 It's taking time for my fingers to get the hang of new shortcuts -- they've been prefixing most commands with <code>C-x</code> or <code>C-c</code> for the best part of 10 years now, so I guess that's understandable.  I'm taking the tack of writing all the keyboard shortcuts I should be using on the whiteboard above my desk.
 
