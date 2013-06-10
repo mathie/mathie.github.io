@@ -1,7 +1,5 @@
 require 'jekyll-assets'
-
-# NB: This has been renamed to sass_functions in the latest HEAD.
-require 'bootstrap-sass/rails_functions'
+require 'bootstrap-sass/sass_functions'
 
 # FIXME: There must be a sensible way to query Bundler or Rubygems for the root of a gem...!
 bootstrap_sass_root = File.expand_path("#{$:.grep(/bootstrap-sass/).first}/..")
