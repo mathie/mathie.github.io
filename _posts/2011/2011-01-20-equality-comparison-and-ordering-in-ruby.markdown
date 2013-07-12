@@ -49,7 +49,7 @@ So, if you want to customise the way `#uniq` works for your particular class, yo
       end
 
       def eql?(other)
-        self.class == other.class && self <=> other
+        self.class == other.class && self == other
       end
 
       def hash
