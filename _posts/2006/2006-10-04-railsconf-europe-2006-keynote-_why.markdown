@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ! 'RailsConf Europe 2006: Keynote - _why'
+title: ! 'RailsConf Europe 2006: Keynote - \_why'
 date: 2006-10-04 10:48:52 +01:00
 categories:
 - Geekery

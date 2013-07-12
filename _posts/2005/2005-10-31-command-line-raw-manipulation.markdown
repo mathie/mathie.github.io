@@ -20,7 +20,7 @@ done
 
 That takes your original raw image, converts it to NetPBM's PPM format, scales it down to a quarter of the original size, and outputs a JPEG file.  Just for bonus points, it also tells you how long the conversion has taken.  Which, on my laptop, is about 20 - 30 seconds each...  Still, it means the resulting images can be quickly viewed, and even passed around elsewhere (by email or uploading to a web site) without abusing vast quantities of bandwidth!
 
-<strong>Update</strong> Or, if you use the <code>-h</code> switch to dcraw, it'll produce half-size images, which gives the rest less data to work with!  So it's now completing each image in 4 - 5 seconds.  I've also added <code>-a</code> to do automatic white balance correction.  Which makes the bash function I've just committed:
+**Update** Or, if you use the <code>-h</code> switch to dcraw, it'll produce half-size images, which gives the rest less data to work with!  So it's now completing each image in 4 - 5 seconds.  I've also added <code>-a</code> to do automatic white balance correction.  Which makes the bash function I've just committed:
 
 {% highlight bash %}
 raw_to_web_jpegs()

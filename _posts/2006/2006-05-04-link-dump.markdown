@@ -6,7 +6,7 @@ categories:
 - Geekery
 - Work
 ---
-<img src="http://woss.name/dist/railsconf-europe-attendee.png" class="alignleft" /> [RailsConf Europe](http://europe.railsconf.org/) has been announced.  Have you booked your place yet?  I have.  :-)  And I'm looking forward to it already!  I haven't organised any accommodation or travel yet -- I should really do that further in advance this time...
+<p><img src="http://woss.name/dist/railsconf-europe-attendee.png" class="alignleft" /> [RailsConf Europe](http://europe.railsconf.org/) has been announced.  Have you booked your place yet?  I have.  :-)  And I'm looking forward to it already!  I haven't organised any accommodation or travel yet -- I should really do that further in advance this time...</p>
 
 Generate your own [ajax loader icons](http://www.ajaxload.info/) here.  I'm still wanting to capture the spinning beach ball from Mac OS X to use as an indicator instead. :)
 

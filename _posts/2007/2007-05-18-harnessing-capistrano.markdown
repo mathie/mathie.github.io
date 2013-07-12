@@ -26,7 +26,7 @@ These are my notes from Jamis Buck's tutorial on Harnessing Capistrano, all in b
 
 * 2.0 preview: `gem install -s http://gems.rubyonrails.com/ capistrano` but you must have the prerequisites installed first (net-ssh, net-sftp & highline).
 
-* Requires a POSIX (*nix) target, ssh access & ssh keys (or identical passwords on all your servers).
+* Requires a POSIX (\*nix) target, ssh access & ssh keys (or identical passwords on all your servers).
 
 * Capistrano config is now called 'Capfile', is a ruby DSL similar to Rake's DSL, but it's not the same.
 

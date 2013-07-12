@@ -5,10 +5,5 @@ date: 2007-05-04 01:30:22 +01:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Solaris, DTrace and Rails](http://joyeur.com/2007/04/24/solaris-dtrace-and-rails)</div>
-		<div class="delicious-extended">Jason talking about yet another experience of DTrace being all Superman-like and rescusing damsels^W websites in distress.  I'm hoping one of the linked articles will be a more technical overview of the day...</div>
-		<div class="delicious-tags">(tags: [solaris](http://del.icio.us/mathie/solaris) [dtrace](http://del.icio.us/mathie/dtrace) [performance](http://del.icio.us/mathie/performance) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [ruby](http://del.icio.us/mathie/ruby) [rails](http://del.icio.us/mathie/rails))</div>
-	</li>
-</ul>
+* [Solaris, DTrace and Rails](http://joyeur.com/2007/04/24/solaris-dtrace-and-rails): Jason talking about yet another experience of DTrace being all Superman-like and rescusing damsels^W websites in distress.  I'm hoping one of the linked articles will be a more technical overview of the day...
+

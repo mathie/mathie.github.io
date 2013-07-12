@@ -17,22 +17,21 @@ running on Debian Sarge.  I make no guarantees about it working with anything
 else at all.
 
 Postfix allows you to run with an alternative configuration, by setting the
-<code>MAIL_CONFIG</code> environment variable to the name of a directory
+`MAIL_CONFIG` environment variable to the name of a directory
 containing the configuration.  To complicate matters though, Postfix also
 ignores any UCE restrictions specified in the configuration unless the program
-is running as <code>$mail_owner</code>.  So, let's start by setting up an
-alternative Postfix configuration in <code>/etc/sauce</code>.  I copied my
-existing <code>main.cf</code> across and I will need to remember to keep the
+is running as `$mail_owner`.  So, let's start by setting up an
+alternative Postfix configuration in `/etc/sauce`.  I copied my
+existing `main.cf` across and I will need to remember to keep the
 two copies in sync.  I guess the important parts are to keep the delivery and
 virtual configurations consistent.  (Maybe it would really be more sensible to
 have a minimal configuration which just passes the mail onto the real Postfix
 daemon, but I'll think about that more closely later.)
 
-Anyway, the only change required to work correctly with SAUCE is to
-<em>remove</em> <code>permit_mynetworks</code> from
-<code>smtpd_recipient_restrictions</code>.  If you haven't explicitly specified
-that configuration option in your <code>/etc/sauce/main.cf</code>, it should
-probably be set to:
+Anyway, the only change required to work correctly with SAUCE is to *remove*
+`permit_mynetworks` from `smtpd_recipient_restrictions`.  If you haven't
+explicitly specified that configuration option in your `/etc/sauce/main.cf`, it
+should probably be set to:
 
 {% highlight ini %}
 smtpd_recipient_restrictions = reject_unauth_destination
@@ -41,7 +40,7 @@ smtpd_recipient_restrictions = reject_unauth_destination
 This has the effect of no longer implicitly trusting connections from localhost
 (and so not allowing it to relay mail to other machines).  You will also have
 to add to your primary Postfix configuration
-(<code>/etc/postfix/main.cf</code>) the following line:
+(`/etc/postfix/main.cf`) the following line:
 
 {% highlight ini %}
 alternate_config_directories = /etc/sauce
@@ -50,17 +49,17 @@ alternate_config_directories = /etc/sauce
 or it will get upset when we try to run with the alternative configuration.  In
 order to avoid warnings about the file being missing (and definitely if you use
 dynamic maps of some variety for virtual domain or alias lookups) you may want
-to symlink <code>/etc/postfix/dynamicmaps.cf</code> into
-<code>/etc/sauce</code>.
+to symlink `/etc/postfix/dynamicmaps.cf` into
+`/etc/sauce`.
 
-Next up is to try and convince SAUCE to run <code>/usr/sbin/sendmail</code> as
+Next up is to try and convince SAUCE to run `/usr/sbin/sendmail` as
 the 'postfix' user, with the environment variable
-<code>MAIL_CONFIG=/etc/sauce</code>.  Fortunately SAUCE already depends on a
+`MAIL_CONFIG=/etc/sauce`.  Fortunately SAUCE already depends on a
 neat piece of software called
 [userv](http://www.chiark.greenend.org.uk/~ian/userv/) which allows particular
 programs to be executed as another user.  So, using one of the existing
 configuration snippets as an example, I created
-<code>/etc/userv/services.d/sauce-postfix-sendmail</code> with the following:
+`/etc/userv/services.d/sauce-postfix-sendmail` with the following:
 
 {% highlight tcl %}
 if ( glob calling-user mail
@@ -73,7 +72,7 @@ fi
 {% endhighlight %}
 
 which should allow SAUCE to run the program
-<code>/usr/share/sauce/postfix-sendmail</code> as the 'postfix' user.  The
+`/usr/share/sauce/postfix-sendmail` as the 'postfix' user.  The
 program is just a straightforward shell script:
 
 {% highlight bash %}
@@ -89,8 +88,8 @@ test -f /etc/sauce/sys-config || exit 1
 exec /usr/sbin/sendmail -bs
 {% endhighlight %}
 
-<code>/etc/sauce/sys-config</code> now just has the extra line
-<code>MAIL_CONFIG=/etc/sauce; export MAIL_CONFIG</code> to tell sendmail where
+`/etc/sauce/sys-config` now just has the extra line
+`MAIL_CONFIG=/etc/sauce; export MAIL_CONFIG` to tell sendmail where
 the Postfix configuration is.  We're nearly done.  All that's left is a small
 patch to SAUCE itself, namely:
 
@@ -126,8 +125,8 @@ patch to SAUCE itself, namely:
  config_var conns_max                 120    number	     1  10000
 {% endhighlight %}
 
-Turn on the changes by adding <code>postfix_sendmail true</code> to
-<code>/etc/sauce/config</code>.
+Turn on the changes by adding `postfix_sendmail true` to
+`/etc/sauce/config`.
 
 That should do the job.  Restart SAUCE and irritate it until it's ecstatic with
 you.  You still lose some data from the Postfix logs (connections which happen

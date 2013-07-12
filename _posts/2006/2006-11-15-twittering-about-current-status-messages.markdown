@@ -5,7 +5,7 @@ date: 2006-11-15 16:08:55 +00:00
 categories:
 - Uncategorized
 ---
-<img class="alignright" src="http://woss.name/dist/fuzzy_logic.png" /> I
+<p><img class="alignright" src="http://woss.name/dist/fuzzy_logic.png" /> I
 discovered (via [Gruber](http://daringfireball.net/) talking about
 [Dunstan's](http://www.1976design.com/) new job with Flickr) a new web
 application called [Twitter](http://www.twitter.com/). It allows you to write
@@ -13,7 +13,7 @@ short 'status' messages through a number of mechanisms, and to keep up with
 other people's status messages in a similar manner. I can submit messages
 directly through their web site, by IM (using Jabber/GTalk) or by text
 message, which means I can trivially update my status pretty much wherever I
-am. I can also receive friends' status messages through all these mechanisms.
+am. I can also receive friends' status messages through all these mechanisms.</p>
 
 In practice, I can see it having a few practical purposes. I can effectively
 have an accurate status message of where I am/what I'm doing at all times,

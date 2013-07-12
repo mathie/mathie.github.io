@@ -5,15 +5,6 @@ date: 2006-12-06 01:43:55 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Pete Laceyâ€™s Weblog :: The S stands for Simple](http://wanderingbarque.com/nonintersecting/2006/11/15/the-s-stands-for-simple/)</div>
-		<div class="delicious-extended">A nice overview of how lovely SOAP is. :-)</div>
-		<div class="delicious-tags">(tags: [soap](http://del.icio.us/mathie/soap) [rest](http://del.icio.us/mathie/rest) [humor](http://del.icio.us/mathie/humor) [webservices](http://del.icio.us/mathie/webservices))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[FTSearch full-text search engine for Ruby](http://eigenclass.org/hiki.rb?ftsearch+repository+accessible)</div>
-		<div class="delicious-extended">FTSearch is a new full-text search engine for Ruby that claims to outperform Ferret.  It's pretty early in development but what interests me more is that it claims to be more *stable* than Ferret...</div>
-		<div class="delicious-tags">(tags: [rubyonrails](http://del.icio.us/mathie/rubyonrails) [rails](http://del.icio.us/mathie/rails) [ruby](http://del.icio.us/mathie/ruby) [searching](http://del.icio.us/mathie/searching))</div>
-	</li>
-</ul>
+* [Pete Laceyâ€™s Weblog :: The S stands for Simple](http://wanderingbarque.com/nonintersecting/2006/11/15/the-s-stands-for-simple/): A nice overview of how lovely SOAP is. :-)
+* [FTSearch full-text search engine for Ruby](http://eigenclass.org/hiki.rb?ftsearch+repository+accessible): FTSearch is a new full-text search engine for Ruby that claims to outperform Ferret.  It's pretty early in development but what interests me more is that it claims to be more *stable* than Ferret...
+

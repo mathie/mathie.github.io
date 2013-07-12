@@ -5,10 +5,5 @@ date: 2007-04-03 01:46:48 +01:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[DaysAgo :: Never guess again!](http://www.howmanydaysago.com/)</div>
-		<div class="delicious-extended">A counter for showing how many days ago you last did ... something to the attached device.  I could really use some of these, stuck to the cat litter tray, the leftover food I stuck in the fridge...  In fact, about the only things that are safe are my lap</div>
-		<div class="delicious-tags">(tags: [reminders](http://del.icio.us/mathie/reminders) [gtd](http://del.icio.us/mathie/gtd))</div>
-	</li>
-</ul>
+* [DaysAgo :: Never guess again!](http://www.howmanydaysago.com/): A counter for showing how many days ago you last did ... something to the attached device.  I could really use some of these, stuck to the cat litter tray, the leftover food I stuck in the fridge...  In fact, about the only things that are safe are my lap
+

@@ -5,9 +5,5 @@ date: 2008-03-01 00:26:41 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Simpltry Rails](http://rails.simpltry.com/active_jax.html)</div>
-		<div class="delicious-tags">(tags: [activerecord](http://del.icio.us/mathie/activerecord) [ajax](http://del.icio.us/mathie/ajax) [javascript](http://del.icio.us/mathie/javascript) [plugins](http://del.icio.us/mathie/plugins) [rails](http://del.icio.us/mathie/rails))</div>
-	</li>
-</ul>
+* [Simpltry Rails](http://rails.simpltry.com/active_jax.html)
+

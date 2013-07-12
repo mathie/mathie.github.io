@@ -5,7 +5,7 @@ date: 2005-09-29 19:32:51 +01:00
 categories:
 - Entertainment
 ---
-<img class="alignright" src="http://images-eu.amazon.com/images/P/000715125X.02._SCMZZZZZZZ_.jpg" alt="Book Cover" /> Well, I've gotten a few books read, both before I left for Greece and while I was away.  So we have:
+<p><img class="alignright" src="http://images-eu.amazon.com/images/P/000715125X.02._SCMZZZZZZZ_.jpg" alt="Book Cover" /> Well, I've gotten a few books read, both before I left for Greece and while I was away.  So we have:</p>
 
 <ul>
   <li>[The Curious Incident of the Dog in the Night Time](http://www.amazon.co.uk/exec/obidos/ASIN/0099450259/mathieoftheen-21) by Mark Haddon (26mm)</li>

@@ -5,20 +5,7 @@ date: 2006-12-04 01:35:16 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Star Wars: Knights of the Old Republic II: The Sith Lords -- Walkthrough](http://db.gamefaqs.com/console/xbox/file/star_wars_kotor_ii_a.txt)</div>
-		<div class="delicious-extended">Nice, detailed walkthrough of KOTOR II, for assisting in those tricky moments when you accidentally get a DSP and want to redeem yourself.  Uh, yeah, that's it.</div>
-		<div class="delicious-tags">(tags: [games](http://del.icio.us/mathie/games) [starwars](http://del.icio.us/mathie/starwars) [kotor2](http://del.icio.us/mathie/kotor2) [walkthrough](http://del.icio.us/mathie/walkthrough))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[spod.cx: Solaris 10 / Nevada on Parallels desktop](http://spod.cx/blog/solaris_on_parallels.shtml)</div>
-		<div class="delicious-extended">Aha, that's how to get Solaris Express (Nevada b50) to install on Parallels.  Now it works nicely. :)</div>
-		<div class="delicious-tags">(tags: [solaris](http://del.icio.us/mathie/solaris) [parallels](http://del.icio.us/mathie/parallels) [howto](http://del.icio.us/mathie/howto))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[Martian LifeBoat](http://www.martian.com/LifeBoat.html)</div>
-		<div class="delicious-extended">New backup software for Mac OS X -- the USP being that it seems to automatically do backups when the appropriate media is around.  Must try it out some time.</div>
-		<div class="delicious-tags">(tags: [backup](http://del.icio.us/mathie/backup) [macosx](http://del.icio.us/mathie/macosx) [software](http://del.icio.us/mathie/software) [apple](http://del.icio.us/mathie/apple) [utilities](http://del.icio.us/mathie/utilities))</div>
-	</li>
-</ul>
+* [Star Wars: Knights of the Old Republic II: The Sith Lords -- Walkthrough](http://db.gamefaqs.com/console/xbox/file/star_wars_kotor_ii_a.txt): Nice, detailed walkthrough of KOTOR II, for assisting in those tricky moments when you accidentally get a DSP and want to redeem yourself.  Uh, yeah, that's it.
+* [spod.cx: Solaris 10 / Nevada on Parallels desktop](http://spod.cx/blog/solaris_on_parallels.shtml): Aha, that's how to get Solaris Express (Nevada b50) to install on Parallels.  Now it works nicely. :)
+* [Martian LifeBoat](http://www.martian.com/LifeBoat.html): New backup software for Mac OS X -- the USP being that it seems to automatically do backups when the appropriate media is around.  Must try it out some time.
+

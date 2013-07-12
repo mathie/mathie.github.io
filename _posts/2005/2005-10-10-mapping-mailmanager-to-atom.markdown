@@ -22,7 +22,6 @@ I'm working on adding Atom (and RSS) support to MailManager and I'm trying to wo
 </ul>
 
 I'll cut it away from general view since it's probably not of interest to most of the readers here; click below if you'd like to read.
-<a id="more"></a><a id="more-143"></a>
 
 <strong>I apologise in advance for the really poor formatting of the (large) tables below!</strong>
 
@@ -144,7 +143,7 @@ All date times stored by MailManager are in UTC.  So all dates will be specified
 <tr>
 <td>category</td>
 <td><code>Ticket.status</code></td>
-<td>The current status of the ticket.  Since you can have 0..* categories per atom entry, perhaps we should have one for status, and for each of category0..2?  How about one for specifying the account the message came from?  How are categories actually shown in feed agents?</td>
+<td>The current status of the ticket.  Since you can have 0..\* categories per atom entry, perhaps we should have one for status, and for each of category0..2?  How about one for specifying the account the message came from?  How are categories actually shown in feed agents?</td>
 </tr>
 <tr>
 <td>content</td>

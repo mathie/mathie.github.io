@@ -28,7 +28,7 @@ thing. One type of console server, one type of disk subsystem, one type of
 network switch, even down to only using one type of power plug.
 
 Their load-balanced web setup is a redundant pair of F5 6400 hardware load
-balancers with a RAM cache, talking directly to mongrel\_rails instances.
+balancers with a RAM cache, talking directly to `mongrel_rails` instances.
 
 Jason then went on to talk about how fantastic Solaris 11 is, including its
 support for zones & containers (virtualisation, which he considers to be

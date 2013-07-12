@@ -29,11 +29,11 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
 * Ruby doesn't actually support named arguments yet (planned for 2.0?).  It's
   emulated in Rails by the last argument to a function being a hash.  So this:
 
-    link\_to "display name", :action => "action", :controller => 'controller'
+  `link_to "display name", :action => "action", :controller => 'controller'`
 
   actually parsed as this:
 
-    link\_to "display name", {:action => "action", :controller => 'controller'}
+  `link_to "display name", {:action => "action", :controller => 'controller'}`
 
 * Take a look at `throw`/`catch`, and continuations for creating resumable
   or retryable exceptions.
@@ -44,11 +44,11 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
 
 * Interacting with shell programs:
 
-    grepper = IO.p open("grep ruby", "w+")
-    grepper.puts "This line will not print"
-    grepper.puts "But this ruby one will!"
-    grepper.close\_write
-    puts grepper.read
+    `grepper = IO.popen("grep ruby", "w+")`
+    `grepper.puts "This line will not print"`
+    `grepper.puts "But this ruby one will!"`
+    `grepper.close_write`
+    `puts grepper.read`
 
   should return the second line...
 
@@ -250,7 +250,7 @@ I've been meaning to post my copy of these for a few weeks now.  I took some not
   view, one with each MIME type on it.  Ooh, shiny.
 
 * If you POST to an action with content-type application/xml and the XML is
-  usefully formed like a hash, it will be pushed into params[].  So you can
+  usefully formed like a hash, it will be pushed into `params[]`.  So you can
   effectively push in XML-formatted active records into the db.
 
 * Creating your own template handler (slide 10 on the XMLBuilder section)

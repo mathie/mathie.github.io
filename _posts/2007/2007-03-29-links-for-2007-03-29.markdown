@@ -5,15 +5,6 @@ date: 2007-03-29 01:37:42 +01:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[capazon's capazon-0.1.0 Documentation](http://capazon.rubyforge.org/)</div>
-		<div class="delicious-extended">Extensions to capistrano which allow you to manage EC2 instances all from the comfort of `cap`.  Neat!</div>
-		<div class="delicious-tags">(tags: [capistrano](http://del.icio.us/mathie/capistrano) [rails](http://del.icio.us/mathie/rails) [ruby](http://del.icio.us/mathie/ruby) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [amazon](http://del.icio.us/mathie/amazon) [ec2](http://del.icio.us/mathie/ec2) [deployment](http://del.icio.us/mathie/deployment))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[http://en.wikipedia.org/wiki/Special:Randompage](http://en.wikipedia.org/wiki/Special:Randompage)</div>
-		<div class="delicious-extended">Brings up a random wikipedia entry when you visit it.  It's been suggested that it would make a great default page in Firefox, but the risk of getting distracted by something new and interesting when I was supposed to be checking my email it too great!</div>
-		<div class="delicious-tags">(tags: [education](http://del.icio.us/mathie/education) [entertainment](http://del.icio.us/mathie/entertainment) [wikipedia](http://del.icio.us/mathie/wikipedia) [reference](http://del.icio.us/mathie/reference) [daily](http://del.icio.us/mathie/daily) [knowledge](http://del.icio.us/mathie/knowledge))</div>
-	</li>
-</ul>
+* [capazon's capazon-0.1.0 Documentation](http://capazon.rubyforge.org/): Extensions to capistrano which allow you to manage EC2 instances all from the comfort of `cap`.  Neat!
+* [http://en.wikipedia.org/wiki/Special:Randompage](http://en.wikipedia.org/wiki/Special:Randompage): Brings up a random wikipedia entry when you visit it.  It's been suggested that it would make a great default page in Firefox, but the risk of getting distracted by something new and interesting when I was supposed to be checking my email it too great!
+

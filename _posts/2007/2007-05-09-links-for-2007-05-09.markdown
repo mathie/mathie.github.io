@@ -5,10 +5,5 @@ date: 2007-05-09 01:38:57 +01:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[DTrace for Ruby is available](http://joyeur.com/2007/05/07/dtrace-for-ruby-is-available)</div>
-		<div class="delicious-extended">DTrace probes for Ruby 1.8.5.  Now to actually learn how to use DTrace, rather than just knowing it's a good thing!</div>
-		<div class="delicious-tags">(tags: [solaris](http://del.icio.us/mathie/solaris) [ruby](http://del.icio.us/mathie/ruby) [rails](http://del.icio.us/mathie/rails) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [dtrace](http://del.icio.us/mathie/dtrace) [deployment](http://del.icio.us/mathie/deployment) [debugging](http://del.icio.us/mathie/debugging))</div>
-	</li>
-</ul>
+* [DTrace for Ruby is available](http://joyeur.com/2007/05/07/dtrace-for-ruby-is-available): DTrace probes for Ruby 1.8.5.  Now to actually learn how to use DTrace, rather than just knowing it's a good thing!
+

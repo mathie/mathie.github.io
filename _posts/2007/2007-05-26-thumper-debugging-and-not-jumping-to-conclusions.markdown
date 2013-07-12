@@ -44,7 +44,7 @@ So, what's happening here?  Well, first of all the program is looking to see if 
 
 OK, interesting.  A little googling finds a similar problem with `bootadm` in [bug 6419989](http://bugs.opensolaris.org/bugdatabase/view_bug.do?bug_id=6419989) on OpenSolaris.  Jan succinctly describes the problem:
 
-> The long and short of it is that if the amount of free space available in the root filesystem is greater than can be represented in the vfstat's f_bavail, the statvfs call will fail with EOVERFLOW.  To fix this, bootadm must be compiled with -D_FILE_OFFSET_BITS=64 [ ... ]
+> The long and short of it is that if the amount of free space available in the root filesystem is greater than can be represented in the vfstat's f_bavail, the statvfs call will fail with EOVERFLOW.  To fix this, bootadm must be compiled with -D_FILE_OFFSET_BITS=64 \[ ... \]
 
 So it looks like `pkgadd` is suffering the same problem on Solaris 10 U3.  To try and verify that this was the problem, I tweaked the `/opt/csw` file system so that the quota was somewhat less than 2TB (the maximum size of filesystem that can be represented in 32 bits):
 

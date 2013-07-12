@@ -5,10 +5,5 @@ date: 2007-04-27 01:36:20 +01:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Foo Fighters & Nine Inch Nails @ Meadowbank, Edinburgh](http://www.ticketmaster.co.uk/event/12003E6EDD713ACE)</div>
-		<div class="delicious-extended">Yay!  Nine Inch Nails!  My tickets are already booked.  Annabel has just noted that "NIN are the rude ones" (she might just have found 'Closer') so I may have a ticket going spare. :)</div>
-		<div class="delicious-tags">(tags: [nineinchnails](http://del.icio.us/mathie/nineinchnails) [music](http://del.icio.us/mathie/music) [concerts](http://del.icio.us/mathie/concerts) [live](http://del.icio.us/mathie/live) [edinburgh](http://del.icio.us/mathie/edinburgh))</div>
-	</li>
-</ul>
+* [Foo Fighters &amp; Nine Inch Nails @ Meadowbank, Edinburgh](http://www.ticketmaster.co.uk/event/12003E6EDD713ACE): Yay!  Nine Inch Nails!  My tickets are already booked.  Annabel has just noted that "NIN are the rude ones" (she might just have found 'Closer') so I may have a ticket going spare. :)
+

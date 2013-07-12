@@ -5,7 +5,7 @@ date: 2005-08-26 09:17:02 +01:00
 categories:
 - Personal
 ---
-<a href="http://woss.name/wp-content/WineCollection.jpg"><img src='http://woss.name/wp-content/thumb-WineCollection.jpg' alt='Laying down wine for the wedding' class="alignright" /></a> Last week we took delivery of 108 bottles of wine from Annabel's mum.  It's all wine for the reception after our wedding.  Click on the image to see it in more detail.  You'd never think that people could drink that much!  So far (!) we have:
+<p><a href="http://woss.name/wp-content/WineCollection.jpg"><img src='http://woss.name/wp-content/thumb-WineCollection.jpg' alt='Laying down wine for the wedding' class="alignright" /></a> Last week we took delivery of 108 bottles of wine from Annabel's mum.  It's all wine for the reception after our wedding.  Click on the image to see it in more detail.  You'd never think that people could drink that much!  So far (!) we have:</p>
 
 <ul>
   <li>30 bottles of sparkling wine for the pre-dinner drinks reception.  We reckon that's not enough.</li>

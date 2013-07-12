@@ -13,7 +13,7 @@ tags:
 
 > If there are no reports of ongoing objectionable email from this system it will be delisted automatically in approximately 15 hours.
 
-> [ ... ]
+> \[ ... \]
 
 > #### Listing History
 

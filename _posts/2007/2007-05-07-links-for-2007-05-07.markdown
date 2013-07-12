@@ -5,10 +5,5 @@ date: 2007-05-07 01:29:13 +01:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Shared folders in Courier IMAPd](http://www.inter7.com/courierimap/README.sharedfolders.html)</div>
-		<div class="delicious-extended">Hmm.  That makes it about as clear as mud -- maildirmake(1) seems more sensible.</div>
-		<div class="delicious-tags">(tags: [imap](http://del.icio.us/mathie/imap) [courier](http://del.icio.us/mathie/courier) [email](http://del.icio.us/mathie/email))</div>
-	</li>
-</ul>
+* [Shared folders in Courier IMAPd](http://www.inter7.com/courierimap/README.sharedfolders.html): Hmm.  That makes it about as clear as mud -- maildirmake(1) seems more sensible.
+

@@ -9,7 +9,7 @@ tags:
 ---
 I spent a little time yesterday morning trying to configure
 [SAUCE](http://www.chiark.greenend.org.uk/~ian/sauce/) on this machine to
-handle some of my domains, alleviating some of the load for the <em>vast</em>
+handle some of my domains, alleviating some of the load for the *vast*
 volume of spam and mail to non-existant mailboxes.  SAUCE is designed to work
 with [Exim](http://www.exim.org/) and, while I gather it is a rather shiny MTA,
 I'm perfectly happy with [Postfix](http://www.postfix.org/) and have no great
@@ -24,7 +24,7 @@ another MTA which does not have this extension is not going to work.  SAUCE
 delegates its relay checking to the real MTA.  If the real MTA thinks the
 connection is coming from localhost, you're creating an (albeit very
 unfriendly) open relay.  I had started by thinking that the config statement
-<code>local_domain</code> was the list of domains that it should accept mail
+`local_domain` was the list of domains that it should accept mail
 for but as far as I can tell, that is only used to determine if an address
 pattern is local.  I'm having more than a little difficulty reading
 [TCL](http://www.tcl.tk/) and the commentary on the code is not overly

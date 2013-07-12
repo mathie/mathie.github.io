@@ -5,10 +5,4 @@ date: 2006-11-21 01:43:09 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[DNS traversal checking](http://www.squish.net/dnscheck/)</div>
-		<div class="delicious-extended">I've been using this DNS tool for years now, just keep forgetting to bookmark it!</div>
-		<div class="delicious-tags">(tags: [admin](http://del.icio.us/mathie/admin) [dns](http://del.icio.us/mathie/dns) [internet](http://del.icio.us/mathie/internet) [network](http://del.icio.us/mathie/network) [sysadmin](http://del.icio.us/mathie/sysadmin))</div>
-	</li>
-</ul>
+* [DNS traversal checking](http://www.squish.net/dnscheck/): I've been using this DNS tool for years now, just keep forgetting to bookmark it!

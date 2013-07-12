@@ -5,10 +5,5 @@ date: 2007-11-18 01:31:11 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Add a 'recent things' stack to the Dock](http://www.macosxhints.com/article.php?story=20071101055329470)</div>
-		<div class="delicious-extended">Neat trick for having "recent applications", "recent documents", "favourite servers" and others as stacks in your dock.</div>
-		<div class="delicious-tags">(tags: [apple](http://del.icio.us/mathie/apple) [howto](http://del.icio.us/mathie/howto) [osx](http://del.icio.us/mathie/osx) [leopard](http://del.icio.us/mathie/leopard) [stacks](http://del.icio.us/mathie/stacks) [dock](http://del.icio.us/mathie/dock))</div>
-	</li>
-</ul>
+* [Add a 'recent things' stack to the Dock](http://www.macosxhints.com/article.php?story=20071101055329470): Neat trick for having "recent applications", "recent documents", "favourite servers" and others as stacks in your dock.
+

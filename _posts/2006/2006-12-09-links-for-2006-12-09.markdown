@@ -5,17 +5,8 @@ date: 2006-12-09 01:37:52 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[LOST invite](http://www.lost.eu/d7bc)</div>
-		<div class="delicious-extended">LOST is a student project. The aim of LOST is to show how 7 million people connect to one another, and break the record for the game with the most players ever!
+* [LOST invite](http://www.lost.eu/d7bc): LOST is a student project. The aim of LOST is to show how 7 million people connect to one another, and break the record for the game with the most players ever!
 
-LOST enables you to interact with people across the world, and see how you are linked to them</div>
-		<div class="delicious-tags">(tags: [socialnetworking](http://del.icio.us/mathie/socialnetworking) [networking](http://del.icio.us/mathie/networking))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[BBC - bbc.co.uk Standards & Guidelines](http://www.bbc.co.uk/guidelines/newmedia/)</div>
-		<div class="delicious-extended">Standards and guidelines for producing applications suitable for production use by the BBC.  Includes database use, coding style and accessibility.</div>
-		<div class="delicious-tags">(tags: [accessibility](http://del.icio.us/mathie/accessibility) [bbc](http://del.icio.us/mathie/bbc) [design](http://del.icio.us/mathie/design) [web](http://del.icio.us/mathie/web) [development](http://del.icio.us/mathie/development) [media](http://del.icio.us/mathie/media) [webdesign](http://del.icio.us/mathie/webdesign) [standards](http://del.icio.us/mathie/standards) [guidelines](http://del.icio.us/mathie/guidelines))</div>
-	</li>
-</ul>
+  LOST enables you to interact with people across the world, and see how you are linked to them
+
+* [BBC - bbc.co.uk Standards &amp; Guidelines](http://www.bbc.co.uk/guidelines/newmedia/): Standards and guidelines for producing applications suitable for production use by the BBC.  Includes database use, coding style and accessibility.

@@ -5,10 +5,4 @@ date: 2006-11-16 01:36:15 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Apple releases EFI Firmware updates for Intel Macs](http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/48950578/)</div>
-		<div class="delicious-extended">Really, I'm just testing using NetNewsWire and WebnoteHappy to create bookmarks in del.icio.us</div>
-		<div class="delicious-tags">(tags: [macosx](http://del.icio.us/mathie/macosx) [firmware](http://del.icio.us/mathie/firmware) [softwareupdate](http://del.icio.us/mathie/softwareupdate))</div>
-	</li>
-</ul>
+* [Apple releases EFI Firmware updates for Intel Macs](http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/48950578/): Really, I'm just testing using NetNewsWire and WebnoteHappy to create bookmarks in del.icio.us

@@ -5,20 +5,7 @@ date: 2007-04-06 01:42:55 +01:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link"><a href="http://weblog.openlaszlo.org/archives/2007/03/how-we-deal-with-browser-quirks-with-a-compendium-of-ie-7-issues/">OpenLaszlo Project Blog Â» How we deal with browser quirks, with a compendium of IE 7 issues</a></div>
-		<div class="delicious-extended">Now that's the right way to deal with browser quirks.  Much more readable code because I can (as a non-JS-guru) now figure out why you're doing all that apparently useless code!</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/javascript">javascript</a> <a href="http://del.icio.us/mathie/quirks">quirks</a> <a href="http://del.icio.us/mathie/bugs">bugs</a> <a href="http://del.icio.us/mathie/browsers">browsers</a> <a href="http://del.icio.us/mathie/ie">ie</a> <a href="http://del.icio.us/mathie/firefox">firefox</a> <a href="http://del.icio.us/mathie/opera">opera</a>)</div>
-	</li>
-	<li>
-		<div class="delicious-link"><a href="http://mailhook.org/">Mailhook - The easiest way to accept mail in your web apps</a></div>
-		<div class="delicious-extended">Neat application which acts as an email -> http gateway and supposedly handles all the nasty email parsing for you.  I wonder how complete it is...?</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/email">email</a> <a href="http://del.icio.us/mathie/webservices">webservices</a>)</div>
-	</li>
-	<li>
-		<div class="delicious-link"><a href="http://www.openidenabled.com/openid/use-your-own-url-as-an-openid">Use your own URL as an OpenID</a></div>
-		<div class="delicious-extended">Mwuahaha, now, thanks to this insight, my openid is http://woss.name/ -- not that I've really found a genuine use for OpenID yet...</div>
-		<div class="delicious-tags">(tags: <a href="http://del.icio.us/mathie/openid">openid</a> <a href="http://del.icio.us/mathie/authentication">authentication</a> <a href="http://del.icio.us/mathie/identity">identity</a> <a href="http://del.icio.us/mathie/tutorial">tutorial</a>)</div>
-	</li>
-</ul>
+* [OpenLaszlo Project Blog Â» How we deal with browser quirks, with a compendium of IE 7 issues](http://weblog.openlaszlo.org/archives/2007/03/how-we-deal-with-browser-quirks-with-a-compendium-of-ie-7-issues/): Now that's the right way to deal with browser quirks.  Much more readable code because I can (as a non-JS-guru) now figure out why you're doing all that apparently useless code!
+* [Mailhook - The easiest way to accept mail in your web apps](http://mailhook.org/): Neat application which acts as an email -> http gateway and supposedly handles all the nasty email parsing for you.  I wonder how complete it is...?
+* [Use your own URL as an OpenID](http://www.openidenabled.com/openid/use-your-own-url-as-an-openid): Mwuahaha, now, thanks to this insight, my openid is http://woss.name/ -- not that I've really found a genuine use for OpenID yet...
+

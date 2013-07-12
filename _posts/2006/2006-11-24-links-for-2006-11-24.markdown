@@ -5,10 +5,5 @@ date: 2006-11-24 01:36:15 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Audio: Bob and Tom - Telemarketer Nightmare](http://joshualowry.vox.com/library/audio/6a00c225203796f21900c2252ab8c18e1d.html)</div>
-		<div class="delicious-extended">Absolutely hilarious way to deal with unsolicited calls.  I'll have to try it out next time. :-)  It could have done without the laughter in the foreground though...</div>
-		<div class="delicious-tags">(tags: [humour](http://del.icio.us/mathie/humour) [marketing](http://del.icio.us/mathie/marketing) [radio](http://del.icio.us/mathie/radio) [entertainment](http://del.icio.us/mathie/entertainment) [phone](http://del.icio.us/mathie/phone) [telemarketing](http://del.icio.us/mathie/telemarketing))</div>
-	</li>
-</ul>
+* [Audio: Bob and Tom - Telemarketer Nightmare](http://joshualowry.vox.com/library/audio/6a00c225203796f21900c2252ab8c18e1d.html): Absolutely hilarious way to deal with unsolicited calls.  I'll have to try it out next time. :-)  It could have done without the laughter in the foreground though...
+

@@ -7,7 +7,7 @@ categories:
 - Python
 - Work
 ---
-<img src="http://www.rubaidh.com/images/logo-graphic.gif" class="alignleft" /> I don't think I've ever 'officially' mentioned here what I'm up to these days.  Just over two months ago (1st March, to be precise), I quit my day job and started my own company:  [Rubaidh Ltd](http://www.rubaidh.com/).  I'm a one-man consultancy doing [Ruby on Rails](http://www.rubyonrails.org/) development and hosting.  For my sins, I also still do some Python, Zope & Plone work -- it pays the rent. :)
+<p><img src="http://www.rubaidh.com/images/logo-graphic.gif" class="alignleft" /> I don't think I've ever 'officially' mentioned here what I'm up to these days.  Just over two months ago (1st March, to be precise), I quit my day job and started my own company:  [Rubaidh Ltd](http://www.rubaidh.com/).  I'm a one-man consultancy doing [Ruby on Rails](http://www.rubyonrails.org/) development and hosting.  For my sins, I also still do some Python, Zope &amp; Plone work -- it pays the rent. :)</p>
 
 'Rubaidh' is the Gaelic for 'ruby', which I feel encompasses the company nicely -- I'm Scottish and aim to use RoR for as much of my development work as possible.  I love both the language & framework, and feel it is better to know one thing in depth than to have a surface understanding of a dozen different frameworks.
 

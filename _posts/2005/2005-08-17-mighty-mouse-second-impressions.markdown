@@ -11,11 +11,11 @@ The other major irritation?  The scroll ball is currently refusing to scroll up,
 
 Oh, and it occasionally decided to move the pointer in exactly the opposite direction to the one I'm trying to direct it in.  But maybe that's just because I'm not on the 'right' surface (I'm just directly onto a beech-lamite desk).
 
-On the other hand, I <em>do</em> like the scroll ball in general.  And it's useful to have it bring up the Dashboard when I press it -- I now use the Dashboard more often too.  And the 'fourth' button, despite having to squeeze just a little too hard, is great for getting to Expos&eacute; quickly to switch to another window.  OK, <code>command-tab</code> does the same thing quicker, but this is prettier. :-)
+On the other hand, I *do* like the scroll ball in general.  And it's useful to have it bring up the Dashboard when I press it -- I now use the Dashboard more often too.  And the 'fourth' button, despite having to squeeze just a little too hard, is great for getting to Expos&eacute; quickly to switch to another window.  OK, <code>command-tab</code> does the same thing quicker, but this is prettier. :-)
 
 If the scroll ball issues are temporary, all in all I really like the new mouse.
 
-<strong>Update</strong>  Well, it's not restarting Firefox that cured the problem, it's fiddling with the correct configuration variables.  In order to stop the mighty mouse' horizontal scrolling action from moving backwards and forwards through your history, do the following:
+**Update**  Well, it's not restarting Firefox that cured the problem, it's fiddling with the correct configuration variables.  In order to stop the mighty mouse' horizontal scrolling action from moving backwards and forwards through your history, do the following:
 
 <ul>
   <li>In the address bar, type the location [about:config](about:config).  (The link might work, but load it into a new window/tab so you can still see these instructions!)</li>

@@ -5,10 +5,5 @@ date: 2007-01-31 01:33:36 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[RailsConf Europe Keynote: Dave Thomas](http://pragdave.pragprog.com/pragdave/2007/01/my_eurorailscon.html)</div>
-		<div class="delicious-extended">Dave's keynote at the close of RailsConf Europe 2006, which deservedly got a standing ovation.</div>
-		<div class="delicious-tags">(tags: [ruby](http://del.icio.us/mathie/ruby) [rails](http://del.icio.us/mathie/rails) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [keynote](http://del.icio.us/mathie/keynote) [railsconfeurope](http://del.icio.us/mathie/railsconfeurope))</div>
-	</li>
-</ul>
+* [RailsConf Europe Keynote: Dave Thomas](http://pragdave.pragprog.com/pragdave/2007/01/my_eurorailscon.html): Dave's keynote at the close of RailsConf Europe 2006, which deservedly got a standing ovation.
+

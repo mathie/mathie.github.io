@@ -5,15 +5,6 @@ date: 2007-04-04 01:39:13 +01:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Schneier on Security: JavaScript Hijacking](http://www.schneier.com/blog/archives/2007/04/javascript_hija.html)</div>
-		<div class="delicious-extended">I think I need to read and digest this paper, see what will affect the applications we have in production!</div>
-		<div class="delicious-tags">(tags: [javascript](http://del.icio.us/mathie/javascript) [ajax](http://del.icio.us/mathie/ajax) [security](http://del.icio.us/mathie/security))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[Dan Manges - Scope Out ActiveRecord Conditions](http://www.dcmanges.com/blog/21)</div>
-		<div class="delicious-extended">Yeah, scope_out sounds pretty useful.  I've been doing that sort of thing for a while, but haven't actually codified it up into a plugin, and hadn't thought of extending associations.</div>
-		<div class="delicious-tags">(tags: [plugins](http://del.icio.us/mathie/plugins) [rails](http://del.icio.us/mathie/rails) [ruby](http://del.icio.us/mathie/ruby) [rubyonrails](http://del.icio.us/mathie/rubyonrails))</div>
-	</li>
-</ul>
+* [Schneier on Security: JavaScript Hijacking](http://www.schneier.com/blog/archives/2007/04/javascript_hija.html): I think I need to read and digest this paper, see what will affect the applications we have in production!
+* [Dan Manges - Scope Out ActiveRecord Conditions](http://www.dcmanges.com/blog/21): Yeah, scope_out sounds pretty useful.  I've been doing that sort of thing for a while, but haven't actually codified it up into a plugin, and hadn't thought of extending associations.
+

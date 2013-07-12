@@ -6,7 +6,7 @@ categories:
 - Geekery
 - Work
 ---
-The advantages of using `svn:externals' is that you can track the latest trunk of a particular piece of software and you can share plugins between products.
+The advantages of using `svn:externals` is that you can track the latest trunk of a particular piece of software and you can share plugins between products.
 
 The disadvantage is when you're using `exception_notification` from http://dev.rubyonrails.org/ and the host appears to have died.  Then you can't deploy!
 

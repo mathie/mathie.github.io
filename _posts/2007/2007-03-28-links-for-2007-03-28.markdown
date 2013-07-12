@@ -5,40 +5,11 @@ date: 2007-03-28 01:34:35 +01:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[google-ctemplate - Google Code](http://code.google.com/p/google-ctemplate/)</div>
-		<div class="delicious-extended">Neat.  If I ever get back into C++, I'll have to check out this templating system.</div>
-		<div class="delicious-tags">(tags: [c++](http://del.icio.us/mathie/c++) [mvc](http://del.icio.us/mathie/mvc) [google](http://del.icio.us/mathie/google))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[err.the_blog.find_by_title('Vendor Everything')](http://errtheblog.com/post/2120)</div>
-		<div class="delicious-extended">Nice write-up of how to put gems in your vendor/ directory.  We have done exactly as was documented here (and I meant to document it myself!) but failed to think of a nice way of handling C extensions (notably hpricot).</div>
-		<div class="delicious-tags">(tags: [ruby](http://del.icio.us/mathie/ruby) [rails](http://del.icio.us/mathie/rails) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [gems](http://del.icio.us/mathie/gems) [plugins](http://del.icio.us/mathie/plugins))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[chris blogs: Announcing test/spec 0.3, a BDD interface for Test::Unit](http://chneukirchen.org/blog/archive/2007/01/announcing-test-spec-0-3-a-bdd-interface-for-test-unit.html)</div>
-		<div class="delicious-extended">Woo, perhaps this is the alternative to rspec (which changes/reimplements too much for my liking) I've been looking for.</div>
-		<div class="delicious-tags">(tags: [ruby](http://del.icio.us/mathie/ruby) [rails](http://del.icio.us/mathie/rails) [rubyonrails](http://del.icio.us/mathie/rubyonrails) [testing](http://del.icio.us/mathie/testing) [testsuite](http://del.icio.us/mathie/testsuite) [plugins](http://del.icio.us/mathie/plugins) [bdd](http://del.icio.us/mathie/bdd))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[DED|Chainâ„¢ JavaScript Library](http://dedchain.dustindiaz.com/)</div>
-		<div class="delicious-extended">New JS library with the elegance of jQuery and the "reliability" of YUI.  Worth looking into, since I'm using YUI for a couple of projects now.</div>
-		<div class="delicious-tags">(tags: [javascript](http://del.icio.us/mathie/javascript) [yui](http://del.icio.us/mathie/yui) [yahoo](http://del.icio.us/mathie/yahoo) [ajax](http://del.icio.us/mathie/ajax))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[Expose Right](http://www.luminous-landscape.com/tutorials/expose-right.shtml)</div>
-		<div class="delicious-extended">This article talks about making sure that your photo (by using the histogram) contains as much information as far to the right as possible (effectively overexposing while not blowing the highlights) to be able to record more detail from the sensor.</div>
-		<div class="delicious-tags">(tags: [photography](http://del.icio.us/mathie/photography) [photoshop](http://del.icio.us/mathie/photoshop) [exposure](http://del.icio.us/mathie/exposure) [histogram](http://del.icio.us/mathie/histogram))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[How to Run a Small Conference](http://www.chadfowler.com/2007/3/26/how-to-run-a-small-conference)</div>
-		<div class="delicious-extended">Chad's braindump on how to organise a small conference.  Lots of useful material here.</div>
-		<div class="delicious-tags">(tags: [conferences](http://del.icio.us/mathie/conferences) [ruby](http://del.icio.us/mathie/ruby) [rails](http://del.icio.us/mathie/rails) [railsconfeurope](http://del.icio.us/mathie/railsconfeurope))</div>
-	</li>
-	<li>
-		<div class="delicious-link">[Adobe - Creative Suite 3](http://www.adobe.com/products/creativesuite/)</div>
-		<div class="delicious-extended">Adobe Creative Suite 3 has been announced.  There's so much here to be excited about that I can't express it in 255 characters!</div>
-		<div class="delicious-tags">(tags: [design](http://del.icio.us/mathie/design) [graphics](http://del.icio.us/mathie/graphics) [photography](http://del.icio.us/mathie/photography) [photoshop](http://del.icio.us/mathie/photoshop) [software](http://del.icio.us/mathie/software) [tools](http://del.icio.us/mathie/tools) [adobe](http://del.icio.us/mathie/adobe))</div>
-	</li>
-</ul>
+* [google-ctemplate - Google Code](http://code.google.com/p/google-ctemplate/): Neat.  If I ever get back into C++, I'll have to check out this templating system.
+* [err.the_blog.find_by_title('Vendor Everything')](http://errtheblog.com/post/2120): Nice write-up of how to put gems in your vendor/ directory.  We have done exactly as was documented here (and I meant to document it myself!) but failed to think of a nice way of handling C extensions (notably hpricot).
+* [chris blogs: Announcing test/spec 0.3, a BDD interface for Test::Unit](http://chneukirchen.org/blog/archive/2007/01/announcing-test-spec-0-3-a-bdd-interface-for-test-unit.html): Woo, perhaps this is the alternative to rspec (which changes/reimplements too much for my liking) I've been looking for.
+* [DED|Chainâ„¢ JavaScript Library](http://dedchain.dustindiaz.com/): New JS library with the elegance of jQuery and the "reliability" of YUI.  Worth looking into, since I'm using YUI for a couple of projects now.
+* [Expose Right](http://www.luminous-landscape.com/tutorials/expose-right.shtml): This article talks about making sure that your photo (by using the histogram) contains as much information as far to the right as possible (effectively overexposing while not blowing the highlights) to be able to record more detail from the sensor.
+* [How to Run a Small Conference](http://www.chadfowler.com/2007/3/26/how-to-run-a-small-conference): Chad's braindump on how to organise a small conference.  Lots of useful material here.
+* [Adobe - Creative Suite 3](http://www.adobe.com/products/creativesuite/): Adobe Creative Suite 3 has been announced.  There's so much here to be excited about that I can't express it in 255 characters!
+

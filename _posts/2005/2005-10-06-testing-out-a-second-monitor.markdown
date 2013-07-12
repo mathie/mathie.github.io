@@ -28,7 +28,7 @@ Ooh, yeah, it's shiny.  It is how I work at home, really, though in that
 instance its with two computers.  In some ways this is even better: with two
 computers, you have to switch keyboard/mouse and you don't have a shared
 pasteboard.  (Well, actually, I suppose you do, you just have to do
-<code>pbpaste | ssh otherhost pbcopy</code> in between the copy and paste. :-)
+`pbpaste | ssh otherhost pbcopy` in between the copy and paste. :-)
 )  I think I might have to try and convince Annabel that we really need a new
 flat panel monitor at home too...
 

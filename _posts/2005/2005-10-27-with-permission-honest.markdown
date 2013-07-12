@@ -17,7 +17,7 @@ Unfortunately, my head feels like it's been hit by an iceberg today.  Which migh
   <dt>Me</dt>
   <dd>Uh, well, erm, the jury's still out on that one for me.</dd>
   <dt>Priest</dt>
-  <dd>Ooh, good answer! [ ... ] It must have been pretty scary for you, coming to see a priest tonight?</dd>
+  <dd>Ooh, good answer! ... It must have been pretty scary for you, coming to see a priest tonight?</dd>
   <dt>Me</dt>
   <dd>Nah, not really.  I've spent a week on holiday in France with Pete before and see him most times we're down at Annabel's parents.</dd>
   </dl>

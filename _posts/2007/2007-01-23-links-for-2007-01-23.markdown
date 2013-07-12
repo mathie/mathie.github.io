@@ -5,9 +5,5 @@ date: 2007-01-23 01:37:36 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[53 CSS-Techniques You Couldnâ€™t Live Without | Smashing Magazine](http://www.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without)</div>
-		<div class="delicious-tags">(tags: [accessibility](http://del.icio.us/mathie/accessibility) [ajax](http://del.icio.us/mathie/ajax) [javascript](http://del.icio.us/mathie/javascript) [css](http://del.icio.us/mathie/css))</div>
-	</li>
-</ul>
+* [53 CSS-Techniques You Couldnâ€™t Live Without | Smashing Magazine](http://www.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without)
+

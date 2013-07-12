@@ -5,9 +5,5 @@ date: 2008-03-18 00:27:16 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[furbo.org · Brain surgeons](http://furbo.org/2008/03/16/brain-surgeons/)</div>
-		<div class="delicious-tags">(tags: [apple](http://del.icio.us/mathie/apple) [development](http://del.icio.us/mathie/development) [programming](http://del.icio.us/mathie/programming) [iphone](http://del.icio.us/mathie/iphone) [sdk](http://del.icio.us/mathie/sdk) [mobile](http://del.icio.us/mathie/mobile))</div>
-	</li>
-</ul>
+* [furbo.org · Brain surgeons](http://furbo.org/2008/03/16/brain-surgeons/)
+

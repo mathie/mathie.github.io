@@ -5,10 +5,5 @@ date: 2007-01-09 01:38:11 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Rubyist - Acts As State Machine](http://lunchroom.lunchboxsoftware.com/2006/1/21/acts-as-state-machine)</div>
-		<div class="delicious-extended">A state machine plugin for Rails, which looks nice and clean code-wise.</div>
-		<div class="delicious-tags">(tags: [plugins](http://del.icio.us/mathie/plugins) [rails](http://del.icio.us/mathie/rails) [ruby](http://del.icio.us/mathie/ruby) [workflow](http://del.icio.us/mathie/workflow))</div>
-	</li>
-</ul>
+* [Rubyist - Acts As State Machine](http://lunchroom.lunchboxsoftware.com/2006/1/21/acts-as-state-machine): A state machine plugin for Rails, which looks nice and clean code-wise.
+

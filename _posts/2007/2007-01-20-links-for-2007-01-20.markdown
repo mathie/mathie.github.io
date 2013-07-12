@@ -5,10 +5,5 @@ date: 2007-01-20 01:36:33 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[Prototype Javascript Library](http://prototypejs.org/)</div>
-		<div class="delicious-extended">At last, online documentation for prototype!</div>
-		<div class="delicious-tags">(tags: [ajax](http://del.icio.us/mathie/ajax) [javascript](http://del.icio.us/mathie/javascript) [prototype](http://del.icio.us/mathie/prototype) [documentation](http://del.icio.us/mathie/documentation) [opensource](http://del.icio.us/mathie/opensource) [rails](http://del.icio.us/mathie/rails))</div>
-	</li>
-</ul>
+* [Prototype Javascript Library](http://prototypejs.org/): At last, online documentation for prototype!
+

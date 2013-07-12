@@ -5,10 +5,5 @@ date: 2006-11-27 01:28:47 +00:00
 categories:
 - Web surfing
 ---
-<ul class="delicious">
-	<li>
-		<div class="delicious-link">[MySQL Bugs: #24601: MySQLd crashes upon creation of an index](http://bugs.mysql.com/bug.php?id=24601)</div>
-		<div class="delicious-extended">Bug report I just submitted because MySQL is crashing when I try to create an index.  So much for spending the afternoon tweaking performance, eh?</div>
-		<div class="delicious-tags">(tags: [mysql](http://del.icio.us/mathie/mysql) [bugs](http://del.icio.us/mathie/bugs))</div>
-	</li>
-</ul>
+* [MySQL Bugs: #24601: MySQLd crashes upon creation of an index](http://bugs.mysql.com/bug.php?id=24601): Bug report I just submitted because MySQL is crashing when I try to create an index.  So much for spending the afternoon tweaking performance, eh?
+
