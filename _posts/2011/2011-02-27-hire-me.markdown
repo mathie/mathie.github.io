@@ -1,6 +1,0 @@
----
-layout: nav_menu_item
-title: Hire Me!
-date: 2011-02-27 08:57:09 +00:00
----
-
