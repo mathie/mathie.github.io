@@ -17,6 +17,13 @@ description: |
   out [mathie](https://github.com/mathie) on GitHub &ndash; because that
   implies some obligation &ndash; but it would make me curiously happy.
 
+exclude:
+  - bin
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+
 # GitHub-enforced defaults
 pygments: true
 safe: true
