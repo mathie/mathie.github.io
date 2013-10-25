@@ -13,31 +13,32 @@
     </hgroup>
   </header>
 
-  <div itemprop="text description articleBody">
+  <section itemprop="text description articleBody">
     {{ include.content }}
-  </div>
+  </section>
+
+  <section class="well feedback">
+    <h4>Feedback</h4>
+    <p>
+      I'm trying an experiment. Rather than having a traditional comment system,
+      I'm soliciting feedback in the GitHub Way. If there's something not quite
+      right about this article, please
+      <a href="https://github.com/mathie/mathie.github.io/issues/new?title={{ include.post.title | url_escape }}">raise a new issue</a>
+      on GitHub.  Better still, if you can fix it yourself:
+      <a href="https://github.com/mathie/mathie.github.io/blob/master/{{ include.post.path }}">the source to this article is on GitHub</a>.
+      Fork it, make your changes and send me a pull request!
+    </p>
+
+    <p>
+      Of course, if you'd just like to get in touch, feel free to do so via email
+      (<a href="mailto:mathie@woss.name?subject=Followup%20to%20{{ include.post.title | url_escape }}">mathie@woss.name</a>)
+      or Twitter (<a href="https://twitter.com/mathie">@mathie</a>).
+    </p>
+
+    <h4>More to read</h4>
+
+    <p>
+      If you've enjoyed this article, perhaps you'd like to peruse some <a href="/articles/">other things I've written</a>.
+    </p>
+  </section>
 </article>
-
-<hr>
-
-<h3>Feedback?</h3>
-
-<p>
-  I'm trying an experiment. Rather than having a traditional comment system,
-  I'm soliciting feedback in the GitHub Way. If there's something not quite
-  right about this article, please
-  <a href="https://github.com/mathie/mathie.github.io/issues/new?title={{ include.post.title | url_escape }}">raise a new issue</a>
-  on GitHub.  Better still, if you can fix it yourself:
-  <a href="https://github.com/mathie/mathie.github.io/blob/master/{{ include.post.path }}">the source to this article is on GitHub</a>.
-  Fork it, make your changes and send me a pull request!
-</p>
-
-<p>
-  Of course, if you'd just like to get in touch, feel free to drop me an email
-  (<a href="mailto:mathie@woss.name?subject=Followup%20to%20{{ include.post.title | url_escape }}">mathie@woss.name</a>)
-  or via Twitter (<a href="https://twitter.com/mathie">@mathie</a>).
-</p>
-
-<p>
-  If you've enjoyed this article, perhaps you'd like to peruse some of the others: <a href="/articles/">all articles</a>.
-</p>
