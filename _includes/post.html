@@ -4,12 +4,7 @@
       <h1><a href="{{ include.post.url }}">{{ include.post.title }}</a></h1>
 
       <p class="text-muted">
-        {% if include.post.updated %}
-          First published on <time datetime="{{ include.post.date | date_to_xmlschema }}" itemprop="datePublished">{{ include.post.date | date_to_string }}</time>.
-          Last revised on <time datetime="{{ include.post.updated | date_to_xmlschema }}" itemprop="dateModified">{{ include.post.updated | date_to_string }}</time>.
-        {% else %}
-          Published on <time datetime="{{ include.post.date | date_to_xmlschema }}" itemprop="dateModified datePublished">{{ include.post.date | date_to_string }}</time>.
-        {% endif %}
+        {% include datestamp.html post=include.post %}
       </p>
     </hgroup>
   </header>
