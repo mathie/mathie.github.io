@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>
+      {% if page.title %}
+        {{ page.title }} |
+      {% endif %}
+
+      Notes from a Messy Desk
+    </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/css/bootstrap.min.css" media="screen">
+    <link rel="stylesheet" href="/css/code.css" media="screen">
+    <link rel="stylesheet" href="/css/custom.css" media="screen">
+
+    <!--[if lt IE 9]>
+      <script src="/js/html5shiv.js"></script>
+      <script src="/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div id="wrap">
+      <header class="container">
+        <hgroup class="page-header">
+          <h1><a href="/">woss.name</a> <small>because I couldn't think what else to call it.</small></h1>
+          <p class="lead">
+            This is where I (Graeme Mathieson, often known online as mathie)
+            writes the occasional article about whatever interests me this
+            week. The latest article will always be on the <a href="/">home page</a>,
+            but you can see previous articles in reverse chronological order at
+            <a href="/articles">all articles</a>. I'm not saying you
+            <em>should</em> follow
+            <a href="https://twitter.com/mathie">@mathie</a> on Twitter, or
+            check out <a href="https://github.com/mathie">mathie</a> on GitHub &ndash;
+            because that implies some obligation &ndash; but it would make me
+            curiously happy.
+          </p>
+        </hgroup>
+      </header>
+
+      <section class="container">
+        {{ content }}
+      </section>
+    </div>
+
+    <footer>
+      <div class="container">
+        <p class="text-muted">
+          <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Notes from a Messy Desk</span>
+          by
+          <a xmlns:cc="http://creativecommons.org/ns#" href="http://woss.name/" property="cc:attributionName" rel="cc:attributionURL">Graeme Mathieson</a>
+          is licensed under a
+          <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+        </p>
+      </div>
+    </footer>
+
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+timezone: Europe/London
+encoding: UTF-8
+
+redcarpet:
+  extensions: [ 'autolinks', 'smart', 'no_intra_emphasis', 'superscript' ]
+
+permalink: /articles/:title/
+
+# GitHub-enforced defaults
+pygments: true
+safe: true
+lsi: false
