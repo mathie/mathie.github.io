@@ -8,7 +8,7 @@
         {{ page.title }} |
       {% endif %}
 
-      Notes from a Messy Desk
+      {{ site.name }}
     </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,6 +16,8 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css" media="screen">
     <link rel="stylesheet" href="/css/code.css" media="screen">
     <link rel="stylesheet" href="/css/custom.css" media="screen">
+
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml">
 
     <!--[if lt IE 9]>
       <script src="/js/html5shiv.js"></script>
@@ -28,18 +30,9 @@
       <header class="container">
         <hgroup class="page-header">
           <h1><a href="/">woss.name</a> <small>because I couldn't think what else to call it.</small></h1>
-          <p class="lead">
-            This is where I (Graeme Mathieson, often known online as <em>mathie</em>)
-            write the occasional article about whatever interests me this
-            week. The latest article will always be on the <a href="/">home page</a>,
-            but you can see previous articles in reverse chronological order at
-            <a href="/articles">all articles</a>. I'm not saying you
-            <em>should</em> follow
-            <a href="https://twitter.com/mathie">@mathie</a> on Twitter, or
-            check out <a href="https://github.com/mathie">mathie</a> on GitHub &ndash;
-            because that implies some obligation &ndash; but it would make me
-            curiously happy.
-          </p>
+          <div class="lead">
+            {{ site.description | markdownify }}
+          </div>
         </hgroup>
       </header>
 

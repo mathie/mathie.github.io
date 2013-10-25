@@ -6,6 +6,17 @@ redcarpet:
 
 permalink: /articles/:title/
 
+url: http://mathie.github.io
+name: Notes from a Messy Desk
+description: |
+  This is where I (Graeme Mathieson, often known online as *mathie*) write the
+  occasional article about whatever interests me this week. The latest article
+  will always be on the [home page](/), but you can see previous articles in
+  reverse chronological order at [all articles](/articles/). I'm not saying you
+  *should* follow [@mathie](https://twitter.com/mathie) on Twitter, or check
+  out [mathie](https://github.com/mathie) on GitHub &ndash; because that
+  implies some obligation &ndash; but it would make me curiously happy.
+
 # GitHub-enforced defaults
 pygments: true
 safe: true
