@@ -32,11 +32,11 @@
   <body>
     <div id="wrap">
       <header class="container">
-        <hgroup class="page-header">
-          <h1><a href="/">woss.name</a> <small>because I couldn't think what else to call it.</small></h1>
-          <div class="lead">
-            {{ site.description | markdownify }}
-          </div>
+        <hgroup class="jumbotron">
+          <h1 class="hidden-xs hidden-sm"><a href="/">woss.name</a> <small>because I couldn't think what else to call it.</small></h1>
+          <h1 class="visible-xs visible-sm"><a href="/">woss.name</a></h1>
+
+          {{ site.description | markdownify }}
         </hgroup>
       </header>
 
