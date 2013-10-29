@@ -47,10 +47,10 @@ benefit):
 
 * I don't always get around to doing them first thing in the morning (whoever
   came up with the idea never had young kids or hangovers, and certainly not
-  both!);
+  both!); and
 
 *  I don't get around to them every day (weekends are particularly tricky as
-   the morning routine is less well defined); and
+   the morning routine is less well defined).
 
 I discovered the concept of Morning Pages relatively recently, from my first
 reading of
@@ -60,16 +60,16 @@ At that point, I sought out a technical solution and found it in the form of
 make a public commitment to keeping up with those 750 words each day (which is
 about three pages of A4), but I get useful feedback on what my writing might
 say about my current psyche. Am I an uncertain introvert who's mostly worried
-about food and drink?  I also notice the exception days ("OMG I was
+about food and drink? Mostly, yes. I also notice the exception days ("OMG I was
 *extroverting* today!") and get a bit of a buzz from that.
 
-Lately I've taken a different tack. I'm hand writing my morning pages -- and
-first drafts of most other things, too. My average pace for banging out 750
-words at the computer is about 17 minutes, or about 45 words per minute. Which
-doesn't leave a lot of time for thinking between keystrokes. Contrast that with
-handwriting, where I'll be lucky to manage 15 words per minute. (I've no idea
-if that's a good or a bad pace, but I can say that I've barely used a pen in
-the past 20 years, so my writing hands have atrophied somewhat!)
+Lately, though, I've taken a different tack. I'm hand writing my morning pages
+-- and first drafts of most other things, too. My average pace for banging out
+750 words at the computer is about 17 minutes, or about 45 words per minute.
+Which doesn't leave a lot of time for thinking between keystrokes. Contrast
+that with handwriting, where I'll be lucky to manage 15 words per minute. (I've
+no idea if that's a good or a bad pace, but I can say that I've barely used a
+pen in the past 20 years, so my writing hands have atrophied somewhat!)
 
 Now my morning pages takes about an hour, but in that time, my brain has the
 space to think. At least, reviewing recent days, it seems to start focusing on
@@ -80,8 +80,8 @@ Learning, I suspect there's a grain of truth to that.)
 
 ## Gremlins
 
-So. If I enjoy writing so much -- and by some accounts, I do have useful
-knowledge to share -- why am I not out-blogging John Gruber?
+So, if I enjoy writing so much and, by some accounts, I do have useful
+knowledge to share, why am I not out-blogging John Gruber?
 
 I honestly believe that I am *not good enough* to write stuff and publish it on
 the wide world of the Internet. I believe that what I do write is factually
