@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://woss.name/sitemap.xml
+Sitemap: http://old.woss.name/sitemap.xml

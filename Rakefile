@@ -12,7 +12,7 @@ end
 
 desc "Publish the site to S3."
 task :publish => :build do
-  sh "s3cmd sync --delete-removed --acl-public --guess-mime-type _deploy/ s3://woss.name"
+  sh "s3cmd sync --delete-removed --acl-public --guess-mime-type _deploy/ s3://old.woss.name"
 end
 
 namespace :serve do

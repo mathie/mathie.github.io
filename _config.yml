@@ -3,7 +3,7 @@ description: The original net.presence of Graeme Mathieson (aka @mathie)
 timezone: Europe/London
 
 pygments: true
-lsi: true
+lsi: false
 
 permalink: /:year/:month/:day/:title/
 
