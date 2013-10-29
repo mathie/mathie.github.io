@@ -12,8 +12,10 @@ typical way:
 > First post!!!1!
 
 I recently unearthed a Subversion repository -- with content originally source
-controlled by RCS -- which had a "reboot" blog post from 2002. Over the past
-decade or so, blogging has performed various roles for me.
+controlled by
+<abbr title="Revision Control System" class="initialism">RCS</abbr> -- which
+had a "reboot" blog post from 2002. Over the past decade or so, blogging has
+performed various roles for me.
 
 Often, it's been a way to keep up with family & friends. Sometimes, it's been a
 way to share neat things I've learned through work and play. Occasionally it's
@@ -32,19 +34,22 @@ personality accurately.
 Then I stopped writing regularly. I'd like to say I blame Twitter and Facebook
 -- which certainly took over the role of keeping up with friends and family --
 and there's an element of truth to that. I also started doing more consulting
-work which was "commercially sensitive" (in other words, I had to sign an NDA)
-so it was trickier to talk about some of the things I'd been learning through
-work. The eventual reason is more insidious, but we'll come to that.
+work which was "commercially sensitive" (in other words, I had to sign an
+<abbr title="Non-Disclosure Agreement" class="initialism">NDA</abbr>) so it was
+trickier to talk about some of the things I'd been learning through work. The
+eventual reason is more insidious, but we'll come to that.
 
 ## Morning Pages to the Rescue
 
-Lately, I've taken to writing [Morning Pages](), where, first thing in the
-morning (before making coffee, showering, having breakfast or talking to the
-kids), I sit down and write three pages of A4. It's pure stream of
-consciousness. In my case, it's often what I was thinking about when I woke up,
-or what I'm planning to do that day, or what I did yesterday or just generally
-what's on my mind. Of course, it's not quite that straightforward. In reality,
-I've been doing Morning Pages like most development teams do XP (picking and
+Lately, I've taken to writing
+[Morning Pages](http://juliacameronlive.com/basic-tools/morning-pages/), where,
+first thing in the morning (before making coffee, showering, having breakfast
+or talking to the kids), I sit down and write three pages of A4. It's pure
+stream of consciousness. In my case, it's often what I was thinking about when
+I woke up, or what I'm planning to do that day, or what I did yesterday or just
+generally what's on my mind. Of course, it's not quite that straightforward. In
+reality, I've been doing Morning Pages like most development teams do
+<abbr title="eXtreme Programming" class="initialism">XP</abbr> (picking and
 choosing the bits of the routine that suit, discarding the whole and losing the
 benefit):
 
