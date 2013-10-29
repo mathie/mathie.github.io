@@ -87,7 +87,8 @@ Learning, I suspect there's a grain of truth to that.)
 ## Gremlins
 
 So, if I enjoy writing so much and, by some accounts, I do have useful
-knowledge to share, why am I not out-blogging John Gruber?
+knowledge to share, why am I not out-blogging
+[John Gruber](http://daringfireball.net/)?
 
 I honestly believe that I am *not good enough* to write stuff and publish it on
 the wide world of the Internet. I believe that what I do write is factually
