@@ -14,4 +14,4 @@ published_filename = "_posts/#{date.strftime('%Y-%m-%d')}-#{filename_title}.mark
 raise "Draft doesn't exist!" unless File.exist?(draft_filename)
 
 system "git mv #{draft_filename} #{published_filename}"
-system "git commit -m 'Published \'#{title}\'.'"
+system "git commit -m 'Published \"#{title}\".'"
