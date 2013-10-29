@@ -1,6 +1,10 @@
 ---
 layout: post
 title: A new hope
+excerpt: |
+  I get back on the horse - start blogging again - by talking about some of the
+  ways in which I've encouraged myself to write again, and some of the Gremlins
+  that have been stopping me from doing so in the first place.
 ---
 A long time ago, in a text editor far, far away, I started blogging in the
 typical way: *"First post!!!1!"*. I recently unearthed a Subversion repository --
