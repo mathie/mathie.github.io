@@ -7,10 +7,13 @@ excerpt: |
   that have been stopping me from doing so in the first place.
 ---
 A long time ago, in a text editor far, far away, I started blogging in the
-typical way: *"First post!!!1!"*. I recently unearthed a Subversion repository --
-with content originally source controlled by RCS -- which had a "reboot" blog
-post from 2002. Over the past decade or so, blogging has performed various
-roles for me.
+typical way:
+
+> First post!!!1!
+
+I recently unearthed a Subversion repository -- with content originally source
+controlled by RCS -- which had a "reboot" blog post from 2002. Over the past
+decade or so, blogging has performed various roles for me.
 
 Often, it's been a way to keep up with family & friends. Sometimes, it's been a
 way to share neat things I've learned through work and play. Occasionally it's
