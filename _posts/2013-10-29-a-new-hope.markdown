@@ -52,8 +52,7 @@ benefit):
 *  I don't get around to them every day (weekends are particularly tricky as
    the morning routine is less well defined).
 
-I discovered the concept of Morning Pages relatively recently, from my first
-reading of
+I first discovered the concept of Morning Pages in 2011, when I first read
 [Pragmatic Thinking and Learning](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning).
 At that point, I sought out a technical solution and found it in the form of
 [750words.com](http://750words.com/). It's a great idea: not only am I able to
