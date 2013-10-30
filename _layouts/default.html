@@ -34,7 +34,7 @@
     {% if page.tags %}
       <meta name="keywords" content="{{ page.tags | join }}">
       {% for tag in page.tags %}
-        <meta name="article:tag" content="{{ tag }}">
+        <meta property="article:tag" content="{{ tag }}">
       {% endfor %}
     {% endif %}
 
