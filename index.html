@@ -1,10 +1,5 @@
 ---
 layout: default
-head: |
-  <meta property="profile:first_name" content="Graeme">
-  <meta property="profile:last_name" content="Mathieson">
-  <meta property="profile:username" content="mathie">
-  <meta property="profile:gender" content="male">
 ---
 {% for post in site.posts limit: 1 %}
   {% include post.html post=post content=post.content %}
