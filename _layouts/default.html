@@ -28,13 +28,13 @@
     {% endif %}
 
     {% if page.category %}
-      <meta property="og:article:section" content="{{ page.category }}">
+      <meta property="article:section" content="{{ page.category }}">
     {% endif %}
 
     {% if page.tags %}
       <meta name="keywords" content="{{ page.tags | join }}">
       {% for tag in page.tags %}
-        <meta name="og:article:tag" content="{{ tag }}">
+        <meta name="article:tag" content="{{ tag }}">
       {% endfor %}
     {% endif %}
 
