@@ -14,17 +14,20 @@
     {% if page.title %}
       <title>{{ page.title }} | {{ site.name }}</title>
       <meta property="og:title" content="{{ page.title }}">
+      <meta name="twitter:title" content="{{ page.title }}">
     {% else %}
       <title>{{ site.name }}</title>
-      <meta property="og:title" content="{{ site.title }}">
+      <meta property="og:title" content="{{ site.name }}">
+      <meta name="twitter:title" content="{{ site.name }}">
     {% endif %}
 
     {% comment %}
       If the page has an excerpt, assume it's an article/blog post. Otherwise, assume it's a generic page.
     {% endcomment %}
     {% if page.excerpt %}
-      <meta name="description" content="{{ page.excerpt | markdownify | strip_html | xml_escape }}">
-      <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html | xml_escape }}">
+      <meta name="description" content="{{ page.excerpt | markdownify | strip_html }}">
+      <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html }}">
+      <meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html }}">
 
       <meta property="og:type" content="article">
       <meta property="article:author" content="http://woss.name/">
@@ -53,6 +56,7 @@
     {% else %}
       <meta name="description" content="{{ site.description | markdownify | strip_html | xml_escape }}">
       <meta property="og:description" content="{{ site.description | markdownify | strip_html | xml_escape }}">
+      <meta name="twitter:description" content="{{ site.description | markdownify | strip_html | xml_escape }}">
       <meta property="og:updated_time" content="{{ site.time | date_to_xmlschema }}">
 
       <meta property="og:type" content="profile">
@@ -61,7 +65,6 @@
       <meta property="profile:username" content="mathie">
       <meta property="profile:gender" content="male">
     {% endif %}
-
 
     <link rel="stylesheet" href="/css/bootstrap.min.css" media="screen">
     <link rel="stylesheet" href="/css/code.css" media="screen">
@@ -79,6 +82,11 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:locale" content="en_GB">
     <meta property="og:site_name" content="{{ site.name }}">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@mathie">
+    <meta name="twitter:domain" content="woss.name">
+    <meta name="twitter:image:src" content="http://www.gravatar.com/avatar/e9ed0907ebed6ba7ac45c3243261b86d.png">
 
     {% if page.head %}
       {{ page.head }}
