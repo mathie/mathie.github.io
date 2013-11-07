@@ -6,6 +6,10 @@ excerpt: |
   experiment a little with it, and have some insight on how to learn/teach
   along the way.
 ---
+> This is the first of the [NaNoWriMo](http://www.nanowrimo.org/) articles that
+> I've redrafted and turned into a post. Which is why it's a couple of days
+> late already!
+
 We're on holiday this week, in a [lovely place](http://www.ownersdirect.co.uk/england/E1909.htm)
 on the Northumbrian coast. The house is fantastic -- it's unusual for me to get
 stay somewhere that has an even better shower than home, and an even better
