@@ -8,7 +8,7 @@ excerpt: |
   retrospective on the month.
 ---
 November is [National Novel Writing Month](http://nanowrimo.org/) (NaNoWriMo),
-though given its international reach, it should probably be rebranded as
+though given its international reach, maybe it should be rebranded as
 InNoWriMo. The purpose of the project is to encourage people to write that
 novel you've been contemplating, but just haven't had the time to do. It gives
 you a concrete goal of 50,000 words (which is about half the length of an
@@ -18,8 +18,9 @@ I don't have a novel in me. Well, I might one day, but it's not what I'm
 desperate to write about just now. In my case, it's more about getting back on
 the horse, and practising writing again, to improve my communication, and to
 see if I have a book (of any sort) in me. It's always been a dream of mine to
-have an O'Reilly animal book I've written (or, more recently, a Pragmatic guide
-to something-or-other).
+have written an [O'Reilly animal book](http://oreilly.com/news/ediemals_0400.html)
+(or, in more recent years, a [Pragmatic](http://pragprog.com/) guide to
+something-or-other).
 
 So, without any single topic in mind, I started writing. Actually, that's not
 entirely true; I did do a little bit of [planning](/nanowrimo/planning/) on
@@ -30,21 +31,23 @@ what I was going to write about.
 I attempted to use that list for inspiration on the first couple of days, or
 when I was feeling a bit stuck for a topic, but in the end, I largely wrote
 about what I felt like writing about that day. That was the easiest way to
-crank out the word count, after all.
+crank out the word count, after all. Quite a few of the topics cropped up in
+one way or another, though.
 
 ## Failure
 
 I failed at the first hurdle. On November 1st, having driven down to our
-holiday location in the Northumbrian coast, I settled down with Rory's Story
-Cubes, intending to try my hand at fiction. I rolled them, and I started
-drawing a mind map of the results. And I brainstormed.
+holiday location in the Northumbrian coast, I settled down with
+[Rory's Story Cubes](http://www.storycubes.com/), intending to try my hand at
+fiction. I rolled them, and I started drawing a mind map of the results. And I
+brainstormed.
 
 **FIXME: Insert picture of the mind map here.**
 
 A whole pile of silly ideas came out of it, but I couldn't commit to any one. I
 couldn't get started. I couldn't see a way to expand any of those ideas into
 the whole 1,700 words I needed to write that day. So I didn't write anything at
-all. Failure. I knew I wasn't cut out for this writing malarky.
+all. Failure. I knew I wasn't cut out for this writing malarkey.
 
 ## Red, Green, Refactor
 
@@ -65,8 +68,6 @@ new language. I'm quite pleased with the way I described monads that day:
 
 > monads which are, roughly speaking, a mechanism by which programmers confuse
 > each other through analogy, simile and metaphors. They're like bad poetry.
-
-Needs some work. I had @sixthformpoet in mind when I wrote it.
 
 The next day, I continued to expand on the topic, talking about the various
 trade-offs between different programming paradigms, type systems vs test suites
@@ -109,7 +110,7 @@ it wasn't entirely cheating -- we were on holiday in a self catering place, I'd
 decided to be 'chef' for the week and I'd spent the week doing what I love best
 in the kitchen: glory cooking. Not the every day breaded-fish-and-waffles from
 the freezer. No, I was making fish pies, chilli con carne, a Sunday roast,
-canneloni. I was spending hours each day in the kitchen preparing these meals,
+cannelloni. I was spending hours each day in the kitchen preparing these meals,
 and I was mostly making them up as I went along (having cooked each before, I
 had rough recipes in my head, but I was experimenting and tweaking as I went).
 
@@ -134,17 +135,20 @@ got to a place where I felt it was 'complete' (well, the first draft anyway).
 
 ## The Book?
 
-By this point I was in London for the DevOps Days conference, followed by
-Puppet Camp. The latter inspired me to start writing down some thoughts on
-Puppet and configuration management. Over a couple of days, I got about 7,000
-words into it and I've got an outline of where I want to go. If there's ever a
-book going to come out of this exercise, that's probably it. (In fact, turning
-that into a book proposal is my December writing goal.)
+By this point I was in London for the
+[DevOps Days](http://devopsdays.org/events/2013-london/) conference, followed by
+[Puppet Camp](http://puppetlabs.com/events/puppet-camp-london). The latter
+inspired me to start writing down some thoughts on Puppet and configuration
+management. Over a couple of days, I got about 7,000 words into it and I've got
+an outline of where I want to go. If there's ever a book going to come out of
+this exercise, that's probably it. (In fact, turning that into a book proposal
+is my December writing goal.)
 
-Feeling a bit guilty about having missed a week on the blog, on the train home
-from London, I started drafting a post around my 'micro' git work flow and
-personal code review. It was nearly this week's post, but at the last minute I
-decided a retrospective on NaNoWriMo would be more fun (for me, at least).
+Feeling a bit guilty about having missed a week on the blog, while I was on the
+train home from London, I started drafting a post around my 'micro' git work
+flow and personal code review. It was nearly this week's post, but at the last
+minute I decided a retrospective on NaNoWriMo would be more fun (for me, at
+least).
 
 Then, finally, my first piece of fiction escaped; I finished writing up the
 Gruffalo's Demise. That was fun, although I'm not sure Julia Donaldson would
@@ -153,9 +157,9 @@ illustrate it, and that it would be popular with parents...
 
 The last short piece was an expansion of a private rant I'd dumped into my
 Evernote journal a few months back, called the Single Irresponsibility
-Principle. Expect that to get finished, redrafted and turn up as a blog post in
-the coming weeks. It's (mostly) tongue-in-cheek, partly a suggestion that
-there's not a one-size-fits-all solution we can apply at every scale.
+Principle. Expect that to be finished, redrafted, and turn up as a blog post in
+the coming weeks. It's (mostly) tongue-in-cheek, and partly a suggestion that
+there's no a one-size-fits-all solution we can apply at every scale.
 
 ## My Favourite Interview Question
 
@@ -165,14 +169,15 @@ my attempt to answer my favourite interview question:
 > When I type ‘www.bbc.co.uk’ into the location bar of my favourite browser,
 > and press return, what happens?
 
-I'm 11,000 words in so far. We've made the DNS lookup, we've made the HTTP
-request, and we're now diving down the stack through TCP to the IP layer, to
-see what happens there. I love this topic. Mostly I love this topic because it
-makes me feel clever. It turns out I do know quite a bit about the IP stack
-works, at several different levels of scale. Of what I've written so far, all I
-had to look up was the actual packet formats, and to remind myself exactly how
-TCP uses sequence numbers and windows to maintain a reliable stream in the face
-of packet loss.
+I'm 11,000 words in so far. We've made the DNS lookup (having figured out what
+to look up in the first place), we've made the HTTP request, and we're now
+diving down the stack through TCP to the IP layer, to see what happens there.
+
+I love this topic. Mostly I love this topic because it makes me feel clever. It
+turns out I do know quite a bit about the IP stack works, at several different
+levels of scale. Of what I've written so far, all I had to look up was the
+actual packet formats, and to remind myself exactly how TCP uses sequence
+numbers and windows to maintain a reliable stream in the face of packet loss.
 
 Of course, that almost certainly means it's full of inaccuracies and nonsense
 because I haven't done any real fact checking!
@@ -185,8 +190,21 @@ enjoyed the process of writing. I've got plenty of fodder for future blog
 posts. And who knows, maybe there's a book hidden somewhere in one of the
 topics I've written?
 
+What has this exercise taught me? I'm capable of writing 50,000 words. In fact,
+given the state of a couple of the pieces, I now know I'm capable of writing
+50,000 words on a single topic. I did get stressed about my word count for a
+while -- particularly when I was falling behind the curve. But I didn't need to
+stress it, really. In the end, I finished a couple of days ahead of schedule.
+Some days I struggled to write 500 words (either due to time pressure, or just
+because I didn't know what to say). Other days, I captured 5,000
+stream-of-consciousness words.
+
+Now that I know I can write the quantity needed to create a book, I suppose the
+next thing to figure out is whether I have the quality. That, as I say, is
+December's goal!
+
 I've deliberately not linked to any of the material I've written, because it's
 all stream-of-consciousness rough draft material. More than once I took the
 mantra of 'write drunk, revise sober' quite literally. If you're really keen,
-or you'd like to help me work on some of the pieces, they're all up on GitHub
-at [mathie/nanowrimo](https://github.com/mathie/nanowrimo).
+though, or you'd like to help me work on some of the pieces, they're all up on
+GitHub at [mathie/nanowrimo](https://github.com/mathie/nanowrimo).
