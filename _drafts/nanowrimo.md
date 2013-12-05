@@ -34,15 +34,29 @@ about what I felt like writing about that day. That was the easiest way to
 crank out the word count, after all. Quite a few of the topics cropped up in
 one way or another, though.
 
+## Feeling like a fraud
+
+On the very first day, a bunch of friends at Tech Cube met up to talk about
+their NaNoWriMo plans over lunch. Everyone else there had ideas of a novel,
+some had already done their word count for the day. Everyone was doing it
+"properly", writing a novel, and had an idea of their plot arc, how they were
+going to start. Most had previous experience. Me? I was just planning on
+rambling on about whatever I could think of. I wasn't doing it 'properly', I
+didn't have a plan. I was an imposter. Everyone else knew what they were doing
+and I was just winging it.
+
+But I was inspired by this meeting. Perhaps I could write a novel. Perhaps
+fiction was something I really was capable of. I do read a lot of fiction. I'm
+aware of how various literary devices can be deployed. I think I have a certain
+'way' with words; a definite style. And how hard can it be?
+
 ## Failure
 
-I failed at the first hurdle. On November 1st, having driven down to our
-holiday location in the Northumbrian coast, I settled down with
+I failed at the first hurdle. On November 1st, having driven down from work to
+our holiday location in the Northumbrian coast, I settled down with
 [Rory's Story Cubes](http://www.storycubes.com/), intending to try my hand at
 fiction. I rolled them, and I started drawing a mind map of the results. And I
 brainstormed.
-
-**FIXME: Insert picture of the mind map here.**
 
 A whole pile of silly ideas came out of it, but I couldn't commit to any one. I
 couldn't get started. I couldn't see a way to expand any of those ideas into
@@ -58,8 +72,6 @@ proposals). So let's start again with something a bit simpler, one of the
 technical ideas from the list. So I had a quick brainstorm/mind map on the
 topic of learning through refactoring, having used that technique on a toy
 project to learn about Go.
-
-**FIXME: Insert picture of the learning through refactoring mind map**
 
 And then I started writing. What I actually wrote that day had very little to
 do with learning through refactoring, and was instead a background on why one
