@@ -60,19 +60,19 @@ brainstormed.
 
 <div class="row">
   <div class="col-sm-10 col-sm-offset-1">
-    <a href="#kitten-lightbox" data-toggle="lightbox" class="thumbnail text-muted text-center" title="Click for a larger version.">
-      <img src="http://placekitten.com/g/1024/768" alt="Kittens!">
+    <a href="#story-cube-lightbox" data-toggle="lightbox" class="thumbnail text-muted text-center" title="Click for a larger version.">
+      <img src="/img/rory-story-cube-brainstorm.jpg" alt="Mind map and brainstorm from rolling Rory's Story Cubes.">
       <small>Click for a larger version.</small>
     </a>
   </div>
 </div>
 
-<div id="kitten-lightbox" class="lightbox fade" tabindex="-1" role="dialog" aria-hidden="true">
+<div id="story-cube-lightbox" class="lightbox fade" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="lightbox-dialog">
     <div class="lightbox-content">
-      <img src="http://placekitten.com/g/1024/768" alt="Kittens!">
+      <img src="/img/rory-story-cube-brainstorm.jpg" alt="Mind map and brainstorm from rolling Rory's Story Cubes.">
       <div class="lightbox-caption">
-        Cute Kittens.
+        Mind map and brainstorm from rolling Rory's Story Cubes.
       </div>
     </div>
   </div>
@@ -92,6 +92,26 @@ proposals). So let's start again with something a bit simpler, one of the
 technical ideas from the list. So I had a quick brainstorm/mind map on the
 topic of learning through refactoring, having used that technique on a toy
 project to learn about Go.
+
+<div class="row">
+  <div class="col-sm-10 col-sm-offset-1">
+    <a href="#refactoring-lightbox" data-toggle="lightbox" class="thumbnail text-muted text-center" title="Click for a larger version.">
+      <img src="/img/learn-by-refactoring.jpg" alt="Mind map on learning by refactoring">
+      <small>Click for a larger version.</small>
+    </a>
+  </div>
+</div>
+
+<div id="refactoring-lightbox" class="lightbox fade" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="lightbox-dialog">
+    <div class="lightbox-content">
+      <img src="/img/learn-by-refactoring.jpg" alt="Mind map on learning by refactoring">
+      <div class="lightbox-caption">
+        Mind map on learning by refactoring.
+      </div>
+    </div>
+  </div>
+</div>
 
 And then I started writing. What I actually wrote that day had very little to
 do with learning through refactoring, and was instead a background on why one
