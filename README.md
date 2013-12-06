@@ -21,7 +21,7 @@ all the jQuery plugins), then added:
 
 * Common CSS: typography, code, grid system, forms and buttons.
 
-* Components: Jumbotron, Wells
+* Components: Jumbotron, Thumbnails, Wells
 
 * Utilities: Responsive utilities.
 

@@ -58,6 +58,15 @@ our holiday location in the Northumbrian coast, I settled down with
 fiction. I rolled them, and I started drawing a mind map of the results. And I
 brainstormed.
 
+<div class="row">
+  <div class="col-sm-10 col-sm-offset-1" title="Kittens! Click for a larger version.">
+    <a href="#" class="thumbnail text-muted text-center">
+      <img src="http://placekitten.com/g/1024/768" alt="Kittens!">
+      <small>Click for a larger version.</small>
+    </a>
+  </div>
+</div>
+
 A whole pile of silly ideas came out of it, but I couldn't commit to any one. I
 couldn't get started. I couldn't see a way to expand any of those ideas into
 the whole 1,700 words I needed to write that day. So I didn't write anything at
