@@ -69,7 +69,53 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css" media="screen">
     <link rel="stylesheet" href="/css/bootstrap-lightbox.min.css" media="screen">
     <link rel="stylesheet" href="/css/code.css" media="screen">
-    <link rel="stylesheet" href="/css/custom.css" media="screen">
+    <style type="text/css">
+      html, body {
+        height: 100%;
+      }
+
+      #wrap {
+        min-height: 100%;
+        height: auto !important;
+        height: 100%;
+        margin: 0 auto -60px;
+        padding: 0 0 60px;
+      }
+
+      footer {
+        border-top: 1px solid #eee;
+        height: 60px;
+      }
+
+      footer p {
+        margin: 20px 0;
+        text-align: center;
+      }
+
+      h1 a:hover, h2 a:hover, h3 a:hover, a.thumbnail:hover {
+        text-decoration: none;
+      }
+
+      #article-body p {
+        line-height: 1.9;
+        font-size: 18px;
+        text-align: justify;
+        color: #777;
+      }
+
+      #article-body > p {
+        margin-bottom: 24px;
+      }
+
+      code {
+        background-color: #f5f5f5;
+        color: #333333;
+      }
+
+      code, pre {
+        font-family: "Source Code Pro",Monaco,Menlo,Consolas,"Courier New",monospace;
+      }
+    </style>
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml">
     <link rel="shortcut icon" href="/favicon.ico">
@@ -150,6 +196,13 @@
     <script src="/js/moment.min.js" type="text/javascript"></script>
     <script src="/js/bootstrap.min.js" type="text/javascript"></script>
     <script src="/js/bootstrap-lightbox.min.js" type="text/javascript"></script>
-    <script src="/js/custom.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      $(function() {
+        $('time').each(function() {
+          var time = $(this);
+          time.html("about " + moment(time.attr('datetime')).fromNow());
+        });
+      });
+    </script>
   </body>
 </html>
