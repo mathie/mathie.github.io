@@ -23,8 +23,47 @@ all the jQuery plugins), then added:
 
 * Components: Jumbotron, Thumbnails, Wells
 
-* Utilities: Responsive utilities.
+* JavaScript components: Modals
+
+* Utilities: Responsive utilities, Component animations
+
+* jQuery plugins: Modals, Transitions
 
 I haven't customised any of the LESS variables, since I figured it would be
 tricky to keep track of the changes. Now that I'm keeping track of changes
 here, that should be simpler. :)
+
+## Images
+
+I've got a clump of code to insert a thumbnail image, which then expands to a
+full size image in a lightbox style modal. It's not terribly elegant -- I could
+probably tidy it up to automatically generate the modal in JS based on the
+thumbnail itself. But it'll do for now.
+
+    <div class="row">
+      <div class="col-sm-10 col-sm-offset-1">
+        <a href="#kitten-lightbox" data-toggle="lightbox" class="thumbnail text-muted text-center" title="Click for a larger version.">
+          <img src="http://placekitten.com/g/1024/768" alt="Kittens!">
+          <small>Click for a larger version.</small>
+        </a>
+      </div>
+    </div>
+
+    <div id="kitten-lightbox" class="lightbox fade" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="lightbox-dialog">
+        <div class="lightbox-content">
+          <img src="http://placekitten.com/g/1024/768" alt="Kittens!">
+          <div class="lightbox-caption">
+            Cute Kittens.
+          </div>
+        </div>
+      </div>
+    </div>
+
+Customise the:
+
+* anchor link fragment and id of the lightbox.
+
+* The image `src` and `alt` tags (in both places).
+
+* The caption inside the lightbox.

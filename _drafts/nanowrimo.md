@@ -59,11 +59,22 @@ fiction. I rolled them, and I started drawing a mind map of the results. And I
 brainstormed.
 
 <div class="row">
-  <div class="col-sm-10 col-sm-offset-1" title="Kittens! Click for a larger version.">
-    <a href="#" class="thumbnail text-muted text-center">
+  <div class="col-sm-10 col-sm-offset-1">
+    <a href="#kitten-lightbox" data-toggle="lightbox" class="thumbnail text-muted text-center" title="Click for a larger version.">
       <img src="http://placekitten.com/g/1024/768" alt="Kittens!">
       <small>Click for a larger version.</small>
     </a>
+  </div>
+</div>
+
+<div id="kitten-lightbox" class="lightbox fade" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="lightbox-dialog">
+    <div class="lightbox-content">
+      <img src="http://placekitten.com/g/1024/768" alt="Kittens!">
+      <div class="lightbox-caption">
+        Cute Kittens.
+      </div>
+    </div>
   </div>
 </div>
 
