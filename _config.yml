@@ -19,6 +19,7 @@ exclude:
   - bin
   - Gemfile
   - Gemfile.lock
+  - Procfile
   - LICENSE
   - README.md
 
