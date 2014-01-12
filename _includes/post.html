@@ -105,6 +105,17 @@
   </section>
 </article>
 
+{% if include.post.maths %}
+  <script src="/js/MathJax/MathJax.js?config=AM_HTMLorMML" type="text/javascript"></script>
+  <script type="text/javascript">
+    MathJax.Hub.Config({
+      asciimath2jax: {
+        delimiters: [['$$','$$']]
+      }
+    });
+  </script>
+{% endif %}
+
 <script type="text/javascript">
   window.___gcfg = {lang: 'en-GB'};
 
