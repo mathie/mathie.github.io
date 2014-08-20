@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A new hope
 excerpt: |
   I get back on the horse - start blogging again - by talking about some of the

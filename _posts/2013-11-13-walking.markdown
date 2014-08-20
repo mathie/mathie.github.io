@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Walking
 excerpt: |
   I love walking. The world is full of beauty, and the best way to find it is

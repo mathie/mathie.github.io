@@ -1,5 +1,4 @@
 ---
-layout: post
 title: National Novel Writing Month
 excerpt: |
   I did it! I successfully validated 50,340 written words for NaNoWriMo by the

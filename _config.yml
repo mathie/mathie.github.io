@@ -16,6 +16,19 @@ description: |
   [home page](/), but you could always peruse [previous articles](/articles/)
   too.
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: post
+    values:
+      layout: post
+
 exclude:
   - bin
   - Gemfile
@@ -24,6 +37,6 @@ exclude:
   - README.md
 
 # GitHub-enforced defaults
-pygments: true
+highlighter: pygments
 safe: true
 lsi: false

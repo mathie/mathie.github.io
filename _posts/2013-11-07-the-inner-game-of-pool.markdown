@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The inner game of pool
 excerpt: |
   It's a funny old game, pool. But how do you learn to play it? Malcolm and I
