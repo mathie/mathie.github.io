@@ -165,6 +165,8 @@ show you each individual change you've made (not just the files, but the
 individual changes in those files) allowing you to choose whether to stage that
 change for commit or not.
 
+## Staging
+
 It's worth talking about staging at this point. Maybe I should have brought it
 up earlier, but it's one of these things I take for granted now. The 'index'
 (the place where changes are staged prior to commit) is a place for you to
@@ -181,6 +183,8 @@ naturally from the previous story in this plot arc)? In some cases, it's easy
 because there's a natural ordering. Pick the prerequisite first. Otherwise, I
 tend to just accept the one that shows up first, then accept all the other
 changes atomically associated with that hunk.
+
+## Reviewing
 
 When you've accepted all the hunks associated with that change, you can review
 the proposed commit with `git diff --cached`. This is your chance to cast a
@@ -223,6 +227,8 @@ Now that I'm satisfied about what I'm committing, I commit that chunk. And then
 I repeat this process of the other, related, changes that are part of this pull
 request's plot arc.
 
+## Unrelated Changes
+
 But there's a complication. What about the other, unrelated, changes? They
 don't have a place in this plot arc. Sometimes they're part of a plot arc of
 their own, but more often than not, they're like the standalone 'filler'
@@ -251,6 +257,8 @@ the stash afterwards.
 
 You'll still need to resolve the conflicts yourself, though.
 
+## Splitting Patches
+
 When things get a bit more complicated, `git add --patch` still has your back.
 When you've got an intertwined set of changes which are close to each other in
 the source, but are semantically unrelated, it's a bit more effort to unpick
@@ -268,6 +276,8 @@ don't want to add, delete that line from the patch. If the patch is removing a
 line that you don't want removed, turn it into a context line (by turning the
 leading `-` into a space). This can be a bit finickity, but when you need to do
 it, it's awesome.
+
+## Resistance
 
 I've had a couple of people pushing back a little on this work flow (usually
 when I'm in the driving seat while pairing) over the past few years.
