@@ -1,5 +1,12 @@
 ---
-layout: post
+tags:
+  - Javascript
+  - CSS
+  - HTML
+  - Less
+  - Go
+  - SASS
+  - Dependencies
 ---
 # Front End web app development 101
 
@@ -63,7 +70,7 @@ so my `$GOPATH` is set accordingly:
 First of all, let's create the project and stash it in a git repository to keep
 track of what I'm doing:
 
-```shell
+```bash
 mkdir -p ${GOPATH}/src/github.com/mathie/style_guide
 cd ${GOPATH}/src/github.com/mathie/style_guide
 cat > README.md << EOF
@@ -104,7 +111,7 @@ func main() {
 
 That's it. I can run the application server directly with:
 
-```shell
+```bash
 go run main.go
 ```
 
@@ -176,7 +183,7 @@ Create a starting point for `package.json` in the project root:
 Now I've got enough basics to stop `npm` from warning me about missing bits, I
 can add my first development dependency:
 
-```shell
+```bash
 npm install --save bower
 ```
 
@@ -310,13 +317,13 @@ It's pretty straightforward, with two things happening:
 
 The latter allows, more sensible imports inside a less file, to be able to:
 
-```less
+```css
 @import 'bootstrap/less/bootstrap.less';
 ```
 
 instead of:
 
-```less
+```css
 @import '../../../bower_components/bootstrap/less/bootstrap.less';
 ```
 

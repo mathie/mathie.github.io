@@ -8,6 +8,33 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://woss.name"
 twitter_username: mathie
 github_username:  mathie
+timezone: London
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
+
+# GitHub mandated settings
+safe: true
+lsi: false
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "draft"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "page"
+    values:
+      layout: "default"
