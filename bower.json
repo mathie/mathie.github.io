@@ -1,0 +1,17 @@
+{
+  "name": "mathie.github.io",
+  "version": "1.0.0",
+  "homepage": "http://woss.name/",
+  "authors": [
+    "Graeme Mathieson <mathie@woss.name>"
+  ],
+  "description": "Notes from a Messy Desk",
+  "license": "CC BY-SA 3.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
