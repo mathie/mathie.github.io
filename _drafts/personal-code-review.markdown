@@ -11,8 +11,9 @@ it with GitHub since, despite it centralising a distributed system, sometimes
 the conversation around code is just as important as the code itself. (Now I
 think about it, a distributed issue tracking system which stashes its data,
 meta-data and history in an orphan branch would be pretty cool.) I've been a
-user, and proponent, of Git, since my friend Mark did a talk on it at the
-Scottish Ruby User Group, and convinced us all it was better than Subversion.
+user, and proponent, of Git, since [my friend Mark](http://www.sirena.org.uk)
+did a talk on it at the [Scottish Ruby User Group](http://scotrug.org/), and
+convinced us all it was better than Subversion.
 
 Fundamentally, git (or any other version control system) gives us a couple of
 useful features:
@@ -79,7 +80,7 @@ This is how I attempt to achieve that.
 It's hard. I'm as scatter-brained as it comes. When I'm hacking on a bit of
 code, I'll often spot something entirely unrelated that *needs* fixing. *Right
 now*. If I'm being exceptionally well disciplined, I resist the urge, make a
-note on my todo list (an 'internal' interruption on Pomodoro parlance) and
+note on my todo list (an 'internal' interruption in Pomodoro parlance) and
 carry on with what I'm supposed to be doing.
 
 ## A Rabbit hole full of yaks
@@ -169,7 +170,7 @@ up earlier, but it's one of these things I take for granted now. The 'index'
 (the place where changes are staged prior to commit) is a place for you to
 compose a commit into a cohesive whole before committing it. This offers you
 the opportunity to gradually add changes to the index, create a cohesive whole,
-review it, then finally commit to that hand-crafted, artisinal change. It's the
+review it, then finally commit to that hand-crafted, artisanal change. It's the
 difference between git and prior version control systems I've used (RCS, CVS,
 Subversion) because it has a staging area between what you're working on, and
 what you're committing.
@@ -182,7 +183,7 @@ tend to just accept the one that shows up first, then accept all the other
 changes atomically associated with that hunk.
 
 When you've accepted all the hunks associated with that change, you can review
-the proposed comit with `git diff --cached`. This is your chance to cast a
+the proposed commit with `git diff --cached`. This is your chance to cast a
 final eye over the change, make sure it's complete, makes sense in isolation,
 and doesn't have unrelated changes. This is also your chance for a personal
 code review:
@@ -196,7 +197,7 @@ code review:
 * Have you accidentally left in any debugging code from while you were
   implementing it?
 
-* Does the code look pretty? Is there any trailing whitespace, or duplicate
+* Does the code look pretty? Is there any trailing white space, or duplicate
   carriage returns, or missing carriage returns for that matter? Are things
   lined up nicely?
 
@@ -237,4 +238,59 @@ is), keeping your dirty working tree intact:
 
     git checkout -b shiny-refactoring master
 
+then use `git add --patch`, `git diff --cached` and `git commit` to build up
+and review atomic commits on the new branch for your shiny refactoring.
 
+If your current working tree's changes will not cleanly apply to master, then
+the easiest way to deal with it is to temporarily stash them, and pop them from
+the stash afterwards.
+
+    git stash save --include-untracked
+    git checkout -b shiny-refactoring master
+    git stash pop
+
+You'll still need to resolve the conflicts yourself, though.
+
+When things get a bit more complicated, `git add --patch` still has your back.
+When you've got an intertwined set of changes which are close to each other in
+the source, but are semantically unrelated, it's a bit more effort to unpick
+them into individual commits. There are two scenarios here.
+
+If you have two unrelated changes in the same fragment, but they're only in the
+same fragment because they share some context, then you can hit `s`. The
+fragment will be split into smaller constituent fragments and you'll be asked
+if you'd like to stage each one individually.
+
+If the code is seriously intertwined, then you can ask git to fire up your
+favourite editor with the patch fragment in question. You can then *edit* that
+patch to the version you want to stage. If the patch is adding a line that you
+don't want to add, delete that line from the patch. If the patch is removing a
+line that you don't want removed, turn it into a context line (by turning the
+leading `-` into a space). This can be a bit finickity, but when you need to do
+it, it's awesome.
+
+I've had a couple of people pushing back a little on this work flow (usually
+when I'm in the driving seat while pairing) over the past few years.
+
+The first was from a long-time eXtreme Programmer, who rightly pointed out,
+"but doesn't that mean you're committing untested code?" Even if the entire
+working tree has a passing test suite, the fragment that I'm staging for commit
+might not. It's a fair point and one I occasionally have some angst over. If
+I'm feeling that angst, then there is a workaround. At the point where I have a
+set of changes staged and ready to commit, I can tweak the work flow to:
+
+    git stash save --keep-index --include-untracked
+    rake test # Or whatever your testing strategy is
+    git commit
+    git stash pop
+
+This will stash away the changes that aren't staged for commit, then run my
+full suite of tests, so I can be sure I've got a passing test suite for this
+individual commit.
+
+The other argument I hear is, "why bother?" Well, that's really the point of
+this article. I think it's important to tell stories with my code: each commit
+should tell an individual story, and each patch/pull-request should tell a
+single (albeit larger) story, too.
+
+(Not that I always listen to my own advice, of course.)
