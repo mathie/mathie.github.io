@@ -19,23 +19,21 @@
 
   <section class="well feedback">
     <h4>Feedback</h4>
-    <p>
-      I'm trying an experiment. Rather than having a traditional comment system,
-      I'm soliciting feedback in the GitHub Way. If there's something not quite
-      right about this article, please
-      <a href="https://github.com/mathie/mathie.github.io/issues/new?title={{ include.post.title | url_escape }}">raise a new issue</a>
-      on GitHub.  Better still, if you can fix it yourself:
-      <a href="https://github.com/mathie/mathie.github.io/blob/master/{{ include.post.path }}">the source to this article is on GitHub</a>.
-      Fork it, make your changes and send me a pull request!
-    </p>
 
-    <p>
-      Of course, if you'd just like to get in touch, I would genuinely love to
-      hear from you. Seriously, it would make my day. I can be contacted by
-      email
-      (<a href="mailto:mathie@woss.name?subject=Followup%20to%20{{ include.post.title | url_escape }}">mathie@woss.name</a>)
-      or Twitter (<a href="https://twitter.com/mathie">@mathie</a>).
-    </p>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'wossname'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
     <div class="row">
       <p class="col-md-5 col-lg-6">
