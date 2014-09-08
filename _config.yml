@@ -20,12 +20,13 @@ defaults:
   -
     scope:
       path: ""
+      type: post
     values:
-      layout: default
+      layout: post
   -
     scope:
       path: ""
-      type: post
+      type: draft
     values:
       layout: post
 
