@@ -3,10 +3,16 @@ default: build
 clean:
 	rm -rf _site
 
-build:
+distclean: clean
+	rm -rf node_modules
+
+setup:
+	npm install
+
+build: setup
 	bundle exec jekyll build
 
-serve:
+serve: setup
 	bundle exec jekyll serve --watch --future --drafts --unpublished
 
 publish: clean build

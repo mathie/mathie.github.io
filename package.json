@@ -1,0 +1,18 @@
+{
+  "name": "mathie.github.io",
+  "version": "1.0.0",
+  "description": "Notes from a Messy Desk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathie/mathie.github.io.git"
+  },
+  "author": "Graeme Mathieson <mathie@woss.name>",
+  "license": "CC BY-SA 3.0",
+  "bugs": {
+    "url": "https://github.com/mathie/mathie.github.io/issues"
+  },
+  "homepage": "http://woss.name/",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
