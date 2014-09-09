@@ -1,7 +1,12 @@
 <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting" class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
   <header>
     <hgroup class="page-header">
-      <h1><a href="{{ include.post.url }}" itemprop="name headline">{{ include.post.title }}</a></h1>
+      <h1>
+        <a href="{{ include.post.url }}" itemprop="name headline">{{ include.post.title }}</a>
+        {% if include.post.subtitle %}
+          <small>{{ include.post.subtitle }}</small>
+        {% endif %}
+      </h1>
 
       <p class="text-muted">
         {% include datestamp.html post=include.post %}
