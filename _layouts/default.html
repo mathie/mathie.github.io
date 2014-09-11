@@ -202,6 +202,8 @@
           var time = $(this);
           time.html("about " + moment(time.attr('datetime')).fromNow());
         });
+
+        $('table').addClass('table table-striped table-bordered');
       });
     </script>
   </body>
