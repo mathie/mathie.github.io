@@ -30,7 +30,7 @@ from:
   support (some of) the same extensions.
 
 You can find the source to this post on GitHub:
-[posts/2014-09-10-markdown-cheat-sheet.markdown](https://github.com/mathie/mathie.github.io/blob/master/\_posts/2014-09-10-markdown-cheat-cheet.markdown),
+[posts/2014-09-10-markdown-cheat-sheet.markdown](https://github.com/mathie/mathie.github.io/blob/master/\_posts/2014-09-10-markdown-cheat-sheet.markdown),
 which shows off all the examples in their source form.
 
 ## Block-level elements
