@@ -23,6 +23,10 @@ from:
   most useful for writing in GitHub, but there are open source parsers which
   support (some of) the same extensions.
 
+You can find the source to this post on GitHub:
+[posts/2014-09-10-markdown-cheat-sheet.markdown](https://github.com/mathie/mathie.github.io/blob/master/\_posts/2014-09-10-markdown-cheat-cheet.markdown),
+which shows off all the examples in their source form.
+
 ## Block-level elements
 
 Block elements are those that affect the overall semantic structure of the
@@ -351,10 +355,12 @@ output:
 * A reference-style link: `[linked text][link label]` in the source text.
   Somewhere else in the source text, there should be a definition of the link
   label, on a line by itself, of the form: `[link label]:
-  <http://www.example.com/> (Link Title)`. In principle, the URL doesn't need
-  to be surrounded by `<>` and the link title can be surrounded by quotes
-  instead, or omitted entirely, but I like them best that way. With the
-  combination of both, it'll turn links into the same as the first example.
+  http://www.example.com/ "Link Title"`. Some Markdown parsers (Day One, for
+  example) are liberal in how you format the reference -- my personal
+  preference was to have the URL in `<>` brackets, and to have the link title
+  in `()` parentheses. [kramdown][] doesn't hold with that sort of thing,
+  though, so no angle brackets and using quotes for the title seem the most
+  portable option.
 
   Reference-style links also have a shortcut: `[link label][]` is equivalent to
   `[link label][link label]`. i.e. if the link text is the same as the label,
@@ -364,10 +370,12 @@ output:
 
 #### Footnotes
 
-I love footnotes. It comes from reading too many Terry Practchett novels[^1], I
-suspect. They are an extension, but they're available in Day One. No sign of
-them working with GitHub flavoured Markdown, unfortunately. The syntax for
-referring to a footnote is:
+I love footnotes. It comes from reading too many Terry Pratchett
+novels[^1][^2], I suspect. They are an extension, but they're available in Day
+One. No sign of them working with GitHub flavoured Markdown, unfortunately.
+With the [kramdown][] Markdown parser (used on this here blog), footnotes work,
+but nested footnotes (ala Pratchett) don't[^3]. The syntax for referring to a
+footnote is:
 
     This is pointing[^1] to a footnote.
 
@@ -397,16 +405,20 @@ writing this document in).
 
 I've noticed in Day One, at least, that footnote definitions need to be
 separate paragraphs — splitting with a single newline doesn't appear to
-work[^3].
+work[^4].
+
+[kramdown]: http://kramdown.gettalong.org "A fast, pure-Ruby Markdown-superset converter"
 
 [^1]: Sometimes the most fun part of the Discworld novels are the asides in the
-  footnotes[^2].
+      footnotes.
 
 [^2]: Speaking of which, I should re-read some Discworld novels. @todo Look to
-  see if there's a cheap place to buy all the early Discworld novels I already
-  have paperback copies of.
+      see if there's a cheap place to buy all the early Discworld novels I
+      already have paperback copies of.
 
-[^3]: This might be a bug, or it might be a feature. Who knows? ;-)
+[^3]: I should submit a GitHub issue to see what other people think...
+
+[^4]: This might be a bug, or it might be a feature. Who knows? ;-)
 
 #### Images
 
@@ -449,9 +461,9 @@ without editing the markup directly. For example:
     * [x] A checked list item.
 
 These can be nested and ordered lists work, too. It would be awesome if Day One
-supported these, too[^4].
+supported these, too[^5].
 
-[^4]: @todo I should submit a feature request!
+[^5]: @todo I should submit a feature request!
 
 ### Auto-linking references
 
