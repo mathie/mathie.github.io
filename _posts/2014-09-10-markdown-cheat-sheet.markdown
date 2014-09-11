@@ -1,9 +1,15 @@
 ---
 title: Markdown Cheat Sheet
+excerpt: |
+  While I remember most of the Markdown syntax that's commonly available (after
+  all, it's "just" like writing plain text email), there are some bits and
+  pieces -- usually extensions to the language -- that I forget. This is my
+  attempt to document them so I'll remember in future.
 ---
-While I remember most of the Markdown syntax that's commonly available in the
-apps I use that support entering text as Markdown, there are some bits and
-pieces I always forget (typically the extensions).
+While I remember most of the Markdown syntax that's commonly available (after
+all, it's "just" like writing plain text email), there are some bits and pieces
+-- usually extensions to the language -- that I forget. This is my attempt to
+document them so I'll remember in future.
 
 ## Sources
 
