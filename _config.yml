@@ -1,9 +1,7 @@
 timezone: Europe/London
 encoding: UTF-8
 
-markdown: redcarpet
-redcarpet:
-  extensions: [ 'autolinks', 'smart', 'no_intra_emphasis', 'superscript' ]
+markdown: kramdown
 
 permalink: /articles/:title/
 
