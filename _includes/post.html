@@ -1,121 +1,26 @@
-<article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting" class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-  <header>
-    <hgroup class="page-header">
-      <h1>
-        <a href="{{ include.post.url }}" itemprop="name headline">{{ include.post.title }}</a>
-        {% if include.post.subtitle %}
-          <small>{{ include.post.subtitle }}</small>
-        {% endif %}
-      </h1>
+<div class="row">
+  <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting" class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+    <header>
+      <hgroup class="page-header">
+        <h1>
+          <a href="{{ include.post.url }}" itemprop="name headline">{{ include.post.title }}</a>
+          {% if include.post.subtitle %}
+            <small>{{ include.post.subtitle }}</small>
+          {% endif %}
+        </h1>
 
-      <p class="text-muted">
-        {% include datestamp.html post=include.post %}
-        <span itemprop="author creator copyrightHolder" itemscope itemtype="http://schema.org/Person">
-          By
-          <a href="https://plus.google.com/u/0/100653048199781266668?rel=author" itemprop="url"><span itemprop="name"><span itemprop="givenName">Graeme</span> <span itemprop="familyName">Mathieson</span></span></a>.
-        </span>
-      </p>
-    </hgroup>
-  </header>
-
-  <section id="article-body" itemprop="text description articleBody">
-    {{ include.content }}
-  </section>
-
-  <section class="well feedback">
-    <h4>Feedback</h4>
-
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'wossname'; // required: replace example with your forum shortname
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
-    <div class="row">
-      <p class="col-md-5 col-lg-6">
-        Or there's the 'traditional' method, by liking the post on your favourite social network:
-      </p>
-      <div class="col-md-7 col-lg-6">
-        <div class="row fb-like" data-href="{{ site.url }}{{ include.post.url }}" data-width="300" data-height="35" data-colorscheme="light" data-layout="standard" data-action="like" data-show-faces="false" data-send="false"></div>
-        <div class="row g-plusone" data-annotation="inline" data-width="300" data-href="{{ site.url }}{{ include.post.url }}"></div>
-        <div class="row twitter-share">
-          <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.url}}{{ include.post.url }}" data-via="mathie">Tweet</a>
-        </div>
-      </div>
-    </div>
-
-    <h4>More to read</h4>
-
-    <p>
-      If you've enjoyed this article, perhaps you'd like to peruse some
-      <a href="/articles/">other things I've written</a>. If you're
-      particularly keen, you could
-      <a href="https://twitter.com/mathie">follow me on Twitter</a>, or check
-      out <a href="https://github.com/mathie">some of my code on GitHub</a>.
-    </p>
-
-    <h4>Future updates</h4>
-
-    <p>
-      To be notified of future articles, you can <a href="/feed.xml"
-        title="Notes from a messy desk">subscribe to the feed</a> in your
-      favourite reader (if you've found a suitable replacement since Google
-      Reader was sunset). Or you could sign up to the mailing list:
-    </p>
-
-    <form action="http://woss.us1.list-manage.com/subscribe/post?u=e2954746a3d6f76209fcd2a6a&amp;id=4be5bb3480" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="form-horizontal" novalidate role="form">
-      <div class="form-group">
-        <label for="mce-EMAIL" class="col-md-3 control-label">
-          Email address <abbr title="An email address is required." class="text-danger">*</abbr>
-        </label>
-        <div class="col-md-9">
-          <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="bob.smith@example.com">
-        </div>
-      </div>
-
-      <div class="form-group">
-        <label for="mce-FNAME" class="col-md-3 control-label">First name</label>
-        <div class="col-md-9">
-          <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" placeholder="Bob">
-        </div>
-      </div>
-
-      <div class="form-group">
-        <label for="mce-LNAME" class="col-md-3 control-label">Last name</label>
-        <div class="col-md-9">
-          <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" placeholder="Smith">
-          <span class="help-block">
-            (I promise not to do anything evil with your personal details.)
+        <p class="text-muted">
+          {% include datestamp.html post=include.post %}
+          <span itemprop="author creator copyrightHolder" itemscope itemtype="http://schema.org/Person">
+            By
+            <a href="https://plus.google.com/u/0/100653048199781266668?rel=author" itemprop="url"><span itemprop="name"><span itemprop="givenName">Graeme</span> <span itemprop="familyName">Mathieson</span></span></a>.
           </span>
-        </div>
-      </div>
+        </p>
+      </hgroup>
+    </header>
 
-      <div class="form-group">
-        <div class="col-md-offset-3 col-md-9">
-          <button type="submit" class="btn btn-success">Sign up</button>
-        </div>
-      </div>
-    </form>
-  </section>
-</article>
-
-<script type="text/javascript">
-  window.___gcfg = {lang: 'en-GB'};
-
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-
-  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-</script>
+    <section id="article-body" itemprop="text description articleBody">
+      {{ include.content }}
+    </section>
+  </article>
+</div>
