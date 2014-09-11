@@ -69,6 +69,7 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css" media="screen">
     <link rel="stylesheet" href="/css/bootstrap-lightbox.min.css" media="screen">
     <link rel="stylesheet" href="/css/code.css" media="screen">
+    <link rel="stylesheet" href="/css/bigfoot-default.css" media="screen">
     <style type="text/css">
       html, body {
         height: 100%;
@@ -196,6 +197,7 @@
     <script src="/js/moment.min.js" type="text/javascript"></script>
     <script src="/js/bootstrap.min.js" type="text/javascript"></script>
     <script src="/js/bootstrap-lightbox.min.js" type="text/javascript"></script>
+    <script src="/js/bigfoot.min.js" type="text/javascript"></script>
     <script type="text/javascript">
       $(function() {
         $('time').each(function() {
@@ -203,6 +205,8 @@
           time.html("about " + moment(time.attr('datetime')).fromNow());
         });
       });
+
+      $.bigfoot();
     </script>
   </body>
 </html>
