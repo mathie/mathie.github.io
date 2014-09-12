@@ -115,6 +115,19 @@
       code, pre {
         font-family: "Source Code Pro",Monaco,Menlo,Consolas,"Courier New",monospace;
       }
+
+      .jumbotron {
+        background: url(/img/messy-desk.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50%;
+        color: white;
+        text-shadow: 2px 2px 8px #428bca;
+      }
+
+      .jumbotron a {
+        color: white;
+      }
     </style>
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml">
@@ -154,8 +167,8 @@
     </script>
 
     <div id="wrap">
-      <header class="container">
-        <hgroup class="jumbotron">
+      <header class="jumbotron">
+        <hgroup class="container">
           <h1 class="hidden-xs hidden-sm"><a href="/">Notes from a Messy Desk</a></h1>
           <h1 class="visible-xs visible-sm"><a href="/">woss.name</a></h1>
 
@@ -170,13 +183,18 @@
 
     <footer>
       <div class="container">
-        <p class="text-muted">
+        <p>
           <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Notes from a Messy Desk</span>
           by
           <a xmlns:cc="http://creativecommons.org/ns#" href="http://woss.name/" property="cc:attributionName" rel="cc:attributionURL">Graeme Mathieson</a>
           is licensed under a
           <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
         </p>
+
+        <p class="text-muted">Cover photo is
+          <a href="https://flic.kr/p/71Riia">My Desk</a>, by Jared Eberhardt
+          and is licensed under a
+          <a href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
       </div>
     </footer>
 
