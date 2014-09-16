@@ -123,6 +123,8 @@
         background-position: 50%;
         color: white;
         text-shadow: 2px 2px 8px #428bca;
+        margin-bottom: 0;
+        padding: 30px;
       }
 
       .jumbotron a {
@@ -195,17 +197,17 @@
         </hgroup>
       </header>
 
-      <nav id="breadcrumbs" class="container">
+      <nav id="breadcrumbs">
         <ol class="breadcrumb">
           {% if page.excerpt %}
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{{ site.url }}/articles/" itemprop="url"><span itemprop="title">All Articles</span></a></li>
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><a href="{{ site.url }}{{ page.url }}" itemprop="url"><span itemprop="title">{{ page.title }}</span></a></li>
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><span itemprop="title">{{ page.title }}</span></li>
           {% elsif page.url == '/articles/index.html' %}
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><a href="{{ site.url }}/articles/" itemprop="url"><span itemprop="title">All Articles</span></a></li>
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><span itemprop="title">All Articles</span></li>
           {% else %}
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><span itemprop="title">Home</span></li>
           {% endif %}
         </ol>
       </nav>
