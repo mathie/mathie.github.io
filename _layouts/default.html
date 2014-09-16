@@ -195,6 +195,21 @@
         </hgroup>
       </header>
 
+      <nav id="breadcrumbs" class="container">
+        <ol class="breadcrumb">
+          {% if page.excerpt %}
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{{ site.url }}/articles/" itemprop="url"><span itemprop="title">All Articles</span></a></li>
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><a href="{{ site.url }}{{ page.url }}" itemprop="url"><span itemprop="title">{{ page.title }}</span></a></li>
+          {% elsif page.url == '/articles/index.html' %}
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><a href="{{ site.url }}/articles/" itemprop="url"><span itemprop="title">All Articles</span></a></li>
+          {% else %}
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
+          {% endif %}
+        </ol>
+      </nav>
+
       <section class="container">
         {{ content }}
       </section>
