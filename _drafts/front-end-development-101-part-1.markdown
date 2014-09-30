@@ -1,6 +1,21 @@
 ---
 title: Front End Development 101
 subtitle: (Part 1 of 3)
+toc: |
+  <ul class="affix-top">
+    <li><a href="#project-background">Project Background</a></li>
+    <li><a href="#creating-the-project">Creating the project</a></li>
+    <li><a href="#a-static-file-server">A static file server</a></li>
+    <li>
+      <a href="#installing-client-side-packages">Installing client side packages</a>
+
+      <ul>
+        <li><a href="#installing-node--bower">Installing Node &amp; Bower</a></li>
+        <li><a href="#managing-client-side-dependencies-with-bower">Managing client side dependencies with Bower</a></li>
+      </ul>
+    </li>
+    <li><a href="#installing-grunt">Installing Grunt</a></li>
+  </ul>
 ---
 I could easily be labelled as a "[Ruby on] Rails Developer" and I'm quite
 content with the asset pipeline for managing various front-end web development

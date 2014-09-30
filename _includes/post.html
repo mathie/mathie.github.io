@@ -1,5 +1,14 @@
 <div class="row">
-  <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting" class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+  <div class="col-md-4">
+    {% if include.post.toc %}
+      <nav id="table-of-contents" data-spy="affix" data-offset-top="300">
+        <h1>Contents</h1>
+        {{ include.post.toc }}
+      </nav>
+    {% endif %}
+  </div>
+
+  <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting" class="col-md-8" data-spy="scroll" data-target="#table-of-contents">
     <header>
       <hgroup class="page-header">
         <h1>
