@@ -82,6 +82,10 @@
         padding: 0 0 60px;
       }
 
+      #primary-nav {
+        margin: 0;
+      }
+
       footer {
         border-top: 1px solid #eee;
         height: 60px;
@@ -188,6 +192,54 @@
     </script>
 
     <div id="wrap">
+      <nav id="primary-nav" class="navbar navbar-default" role="navigation">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#primary-nav-navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </div>
+
+          <div class="collapse navbar-collapse" id="primary-nav-navbar">
+            <ul class="nav navbar-nav">
+              {% if page.url == '/index.html' %}
+                <li class="active"><a href="/">Home</a></li>
+              {% else %}
+                <li><a href="/">Home</a></li>
+              {% endif %}
+              <li>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Articles <span class="caret"></span></a>
+
+                <ul class="dropdown-menu" role="menu">
+                  {% for post in site.posts limit: 10 %}
+                    {% if post.url == page.url %}
+                      <li class="active"><a href="{{ post.url }}">{{ post.title }}</a></li>
+                    {% else %}
+                      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                    {% endif %}
+                  {% endfor %}
+                  <li class="divider"></li>
+                  {% if page.url == '/articles/index.html' %}
+                    <li class="active"><a href="/articles/">All articles</a></li>
+                  {% else %}
+                    <li><a href="/articles/">All articles</a></li>
+                  {% endif %}
+                </ul>
+              </li>
+
+              {% if page.url == '/about/index.html' %}
+                <li class="active"><a href="/about">About Graeme</a></li>
+              {% else %}
+                <li><a href="/about">About Graeme</a></li>
+              {% endif %}
+            </ul>
+          </div>
+        </div>
+      </nav>
+
       <header class="jumbotron">
         <hgroup class="container">
           <h1 class="hidden-xs hidden-sm"><a href="/">Notes from a Messy Desk</a></h1>
@@ -201,13 +253,16 @@
         <ol class="breadcrumb">
           {% if page.excerpt %}
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{{ site.url }}/articles/" itemprop="url"><span itemprop="title">All Articles</span></a></li>
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/articles/" itemprop="url"><span itemprop="title">All Articles</span></a></li>
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><span itemprop="title">{{ page.title }}</span></li>
           {% elsif page.url == '/articles/index.html' %}
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><span itemprop="title">All Articles</span></li>
-          {% else %}
+          {% elsif page.url == '/index.html' %}
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><span itemprop="title">Home</span></li>
+          {% else %}
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><span itemprop="title">{{ page.title }}</span></li>
           {% endif %}
         </ol>
       </nav>
