@@ -1,0 +1,80 @@
+---
+layout: default
+title: For Sale
+---
+<div class="row">
+  <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting" class="col-sm-10 col-sm-offset-1">
+    <header>
+      <hgroup class="page-header">
+        <h1>
+          <a href="{{ page.url }}" itemprop="name headline">{{ page.title }}</a>
+        </h1>
+      </hgroup>
+    </header>
+
+    <section id="article-body" itemprop="text description articleBody">
+      <p>
+        We're having a bit of a clear out around the house, and I'm wanting to sell a
+        few bits and pieces to raise cash for shiny <em>new</em> toys. If you're
+        interested in any of the items below, please drop me a line, to
+        <a href="mailto:mathie@woss.name">mathie@woss.name</a> (or hit me
+        up on Twitter <a href="https://twitter.com/mathie">@mathie</a>) and let's see
+        if we can work something out.
+      </p>
+
+      {% for item_hash in site.data.for_sale %}
+        {% assign item = item_hash[1] %}
+
+        <h3 id="{{ item.title | slugify }}">
+          {{ item.title }}
+
+          {% if item.quantity %}
+            (x{{ item.quantity }})
+          {% endif %}
+        </h3>
+
+        <div class="col-md-6 pull-right">
+          <img src="{{ item.image }}" alt="{{ image.title }}" class="img-responsive img-thumbnail">
+        </div>
+
+        <div class="col-md-6">
+          <table>
+            <tbody>
+              <tr>
+                <th>
+                  More details
+                </th>
+                <td>
+                  <a href="{{ item.url }}">{{ item.title }}</a>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  Brand new price
+                </th>
+                <td>
+                  <del>&pound;{{ item.rrp }}</del>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  Your price
+                </th>
+                <td>
+                  &pound;{{ item.price }}
+                  {% if item.quantity %}
+                    each
+                  {% endif %}
+                  (or nearest offer!)
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        {{ item.content | markdownify }}
+      {% endfor %}
+    </section>
+  </article>
+</div>
+
