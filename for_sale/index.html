@@ -32,54 +32,56 @@ excerpt: |
       {% for item_hash in site.data.for_sale %}
         {% assign item = item_hash[1] %}
 
-        <h3 id="{{ item.title | slugify }}">
-          {{ item.title }}
+        <div class="row">
+          <h3 id="{{ item.title | slugify }}">
+            {{ item.title }}
 
-          {% if item.quantity %}
-            (x{{ item.quantity }})
-          {% endif %}
-        </h3>
+            {% if item.quantity %}
+              (x{{ item.quantity }})
+            {% endif %}
+          </h3>
 
-        <div class="col-md-6 pull-right">
-          <img src="{{ item.image }}" alt="{{ image.title }}" class="img-responsive img-thumbnail">
+          <div class="col-md-6 pull-right">
+            <img src="{{ item.image }}" alt="{{ image.title }}" class="img-responsive img-thumbnail">
+          </div>
+
+          <div class="col-md-6">
+            <table>
+              <tbody>
+                <tr>
+                  <th>
+                    More details
+                  </th>
+                  <td>
+                    <a href="{{ item.url }}">{{ item.title }}</a>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    Brand new price
+                  </th>
+                  <td>
+                    <del>&pound;{{ item.rrp }}</del>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    Your price
+                  </th>
+                  <td>
+                    &pound;{{ item.price }}
+                    {% if item.quantity %}
+                      each
+                    {% endif %}
+                    (or nearest offer!)
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          {{ item.content | markdownify }}
         </div>
-
-        <div class="col-md-6">
-          <table>
-            <tbody>
-              <tr>
-                <th>
-                  More details
-                </th>
-                <td>
-                  <a href="{{ item.url }}">{{ item.title }}</a>
-                </td>
-              </tr>
-              <tr>
-                <th>
-                  Brand new price
-                </th>
-                <td>
-                  <del>&pound;{{ item.rrp }}</del>
-                </td>
-              </tr>
-              <tr>
-                <th>
-                  Your price
-                </th>
-                <td>
-                  &pound;{{ item.price }}
-                  {% if item.quantity %}
-                    each
-                  {% endif %}
-                  (or nearest offer!)
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-
-        {{ item.content | markdownify }}
       {% endfor %}
     </section>
   </article>
