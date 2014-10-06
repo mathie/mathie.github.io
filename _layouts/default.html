@@ -235,6 +235,12 @@
               {% else %}
                 <li><a href="/about">About Graeme</a></li>
               {% endif %}
+
+              {% if page.url == '/for_sale/index.html' %}
+                <li class="active"><a href="/for_sale">For Sale</a></li>
+              {% else %}
+                <li><a href="/for_sale">For Sale</a></li>
+              {% endif %}
             </ul>
           </div>
         </div>
