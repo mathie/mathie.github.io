@@ -137,8 +137,11 @@ Here we see the initial request, the response and the second request, but no res
 which translates to:
 
 * the client IP address is `172.17.12.12`. That's the internal IP of my laptop on my home network.
+
 * the client TCP port is `54442`. Both sides of a TCP connection get a port, and the client side usually has a random, unused, high port number chosen for it by the kernel. Each TCP connection gets a different client port, and they're typically not reused for a while after you're done with them.
+
 * the server IP address is `10.11.12.234` which I cleverly remembered to change just now, lest you discover who \[REDACTED\] is. ;)
+
 * the server TCP port is `80`, the well known port for HTTP.
 
 Now, let's look at the second request's connection information:
