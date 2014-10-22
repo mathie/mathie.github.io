@@ -5,6 +5,9 @@ markdown: kramdown
 
 permalink: /articles/:title/
 
+gems:
+  - jekyll-redirect-from
+
 url: http://woss.name
 name: Notes from a Messy Desk
 description: |
