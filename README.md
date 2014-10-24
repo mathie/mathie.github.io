@@ -12,6 +12,10 @@ You can find the old blog at <http://old.woss.name/> and it reflects the
 [old.woss.name](https://github.com/mathie/mathie.github.io/tree/old.woss.name)
 branch.
 
+## CI Status
+
+[ ![Codeship Status for mathie/mathie.github.io](https://www.codeship.io/projects/54843020-3d95-0132-0fb6-028472313e2c/status)](https://www.codeship.io/projects/43305)
+
 ## Bootstrap configuration
 
 The CSS is currently a customised version of
