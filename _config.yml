@@ -40,5 +40,4 @@ exclude:
 
 # GitHub-enforced defaults
 highlighter: pygments
-safe: true
 lsi: false
