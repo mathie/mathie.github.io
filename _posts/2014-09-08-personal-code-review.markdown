@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Personal Code Review
+redirect_from: "/nanowrimo/articles/personal-code-review/"
 excerpt: |
   I have a micro work flow I use when I working with git, usually -- but not
   always -- while I'm developing software. Most git work flows talk about a
