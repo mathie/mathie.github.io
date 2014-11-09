@@ -28,7 +28,9 @@ Fast forward a couple of years, and another client wants an integration with Sag
 So we start from scratch and model SagePay Server's API natively in Ruby. The [sage_pay](https://github.com/mathie/sage_pay) gem is the result of our efforts. There's also an [example Rails application](https://github.com/mathie/sage_pay_rails_example) using most of it's features just so you can see what's happening. Its all available under a liberal license, so you're free to do what you like with it. I'd love to here from you if you use it. I'd also be utterly delighted to accept patches and improvements.
 
 * Grab the source on GitHub: <https://github.com/mathie/sage_pay>
-* Grab the source to the example Rails application: <https://github.com/mathie/sage_pay_rails_example>
+
+* Grab the source to the [example Rails application](https://github.com/mathie/sage_pay_rails_example).
+
 * Install from [Rubygems](http://rubygems.org/gems/sage_pay): `gem install sage_pay`
 
 Documentation is a little sparse so far, so your best bet is to check out the sample app and work from there. I'd be particularly happy to accept pull requests that contain documentation. ;-)
