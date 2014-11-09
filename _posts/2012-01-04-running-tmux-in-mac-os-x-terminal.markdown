@@ -1,5 +1,6 @@
 ---
 title: Running tmux in Mac OS X Terminal
+redirect_from: "/2012/01/04/running-tmux-in-mac-os-x-terminal/"
 updated: 2014-09-16 00:00:00 +00:00
 category: Geekery
 tags:
