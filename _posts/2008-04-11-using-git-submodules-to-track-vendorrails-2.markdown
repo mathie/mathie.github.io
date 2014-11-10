@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Using git submodules to track vendor/rails
-date: 2008-04-11 11:57:40 +01:00
+redirect_from: "/2008/04/11/using-git-submodules-to-track-vendorrails-2/"
 categories:
 - Geekery
 - Ruby and Rails
