@@ -1,6 +1,6 @@
 ---
 title: Capistrano 2 Rocks My World
-redirect_from: "/2007/07/20-capistrano-2-rocks-my-world/"
+redirect_from: "/2007/07/20/capistrano-2-rocks-my-world/"
 categories:
 - Edinburgh Local
 - Geekery
