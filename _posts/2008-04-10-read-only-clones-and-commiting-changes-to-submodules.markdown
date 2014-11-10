@@ -1,6 +1,6 @@
 ---
-title: Read-only clones and commiting changes to submodules
-redirect_from: "/2008/04/10/read-only-clones-and-committing-changes-to-submodules/"
+title: Read-only clones and committing changes to submodules
+redirect_from: "/2008/04/10/read-only-clones-and-commiting-changes-to-submodules/"
 categories:
 - Geekery
 - Mac OS X
