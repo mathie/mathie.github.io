@@ -1,10 +1,12 @@
 ---
 title: Why Ruby (and Rails) is Awesome
-redirect_from: "/2009/01/16/why-ruby-and-rails-is-awesome/"
+redirect_from:
+  - "/2009/01/16/why-ruby-and-rails-is-awesome/"
+  - "/blog/2009/01/16/why-ruby-and-rails-is-awesome.html"
 categories:
-- Edinburgh Local
-- Geekery
-- Ruby and Rails
+  - Edinburgh Local
+  - Geekery
+  - Ruby and Rails
 ---
 I was invited to give a short introduction to Ruby on Rails at [Tech Meetup](http://www.techmeetup.co.uk/) in Edinburgh a couple of days ago.  I'd been racking my brain for days on what to talk about -- 15 minutes is too short for me to give a meaningful introduction to Rails -- and eventually settled on telling a few stories.
 
