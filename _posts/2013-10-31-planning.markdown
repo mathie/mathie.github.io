@@ -1,6 +1,6 @@
 ---
 title: Planning
-redirect_from: "/nanowrimo/planning/"
+redirect_from: "/nanowrimo/articles/planning/"
 category: Meta
 ---
 How did I ever talk myself into getting involved in NanoWriMo? Well, I'd been
