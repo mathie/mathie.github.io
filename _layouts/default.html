@@ -257,17 +257,18 @@
 
       <nav id="breadcrumbs">
         <ol class="breadcrumb">
-          {% if page.excerpt %}
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/articles/" itemprop="url"><span itemprop="title">All Articles</span></a></li>
-            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><span itemprop="title">{{ page.title }}</span></li>
-          {% elsif page.url == '/articles/index.html' %}
+          {% if page.url == '/articles/index.html' %}
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><span itemprop="title">All Articles</span></li>
           {% elsif page.url == '/index.html' %}
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><span itemprop="title">Home</span></li>
           {% else %}
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" itemprop="url"><span itemprop="title">Home</span></a></li>
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/articles/" itemprop="url"><span itemprop="title">All Articles</span></a></li>
+            {% assign category = page.categories.first %}
+            {% if category %}
+            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/categories/{{ category | slugify }}/" itemprop="url"><span itemprop="title">{{ category }}</span></a></li>
+            {% endif %}
             <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active"><span itemprop="title">{{ page.title }}</span></li>
           {% endif %}
         </ol>

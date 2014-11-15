@@ -1,16 +1,12 @@
-<div class="row">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-    {% if include.rule %}
-    <hr>
-    {% endif %}
+{% if include.rule %}
+<hr>
+{% endif %}
 
-    <h3>
-      <a href="{{ include.post.url }}">{{ include.post.title }}</a><br>
-      <small>
-        {% include datestamp.html post=include.post %}
-      </small>
-    </h3>
+<h3>
+  <a href="{{ include.post.url }}">{{ include.post.title }}</a><br>
+  <small>
+    {% include datestamp.html post=include.post %}
+  </small>
+</h3>
 
-    {{ include.post.excerpt | markdownify }}
-  </div>
-</div>
+{{ include.post.excerpt | markdownify }}

@@ -17,6 +17,11 @@ description: |
   [home page](/), but you could always peruse [previous articles](/articles/)
   too.
 
+collections:
+  categories:
+    output: true
+    permalink: /categories/:path/
+
 defaults:
   -
     scope:

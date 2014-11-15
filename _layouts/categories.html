@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="col-sm-3 col-sm-offset-1">
+    <h3>Categories</h3>
+    <ul class="nav nav-pills nav-stacked">
+      {% for cat_hash in site.categories %}
+        {% assign category = cat_hash[0] %}
+        {% assign category_url = category | slugify | prepend: "/categories/" | append: "/" %}
+        {% if page.url == category_url %}
+          <li class="active"><a href="/categories/{{ category | slugify }}/">{{ category }}</a></li>
+        {% else %}
+          <li><a href="/categories/{{ category | slugify }}/">{{ category }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="col-sm-7">
+    {{ content }}
+  </div>
+</div>
