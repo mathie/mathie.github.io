@@ -2,7 +2,7 @@
 title: Why Ruby (and Rails) is Awesome
 redirect_from:
   - "/2009/01/16/why-ruby-and-rails-is-awesome/"
-  - "/blog/2009/01/16/why-ruby-and-rails-is-awesome.html"
+  - "/blog/2009/1/16/why-ruby-and-rails-is-awesome.html"
 categories:
   - Edinburgh Local
   - Geekery
