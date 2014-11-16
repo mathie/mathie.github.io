@@ -1,6 +1,18 @@
 {% if include.post.updated %}
-  First published <time datetime="{{ include.post.date | date_to_xmlschema }}" itemprop="datePublished">on {{ include.post.date | date_to_string }}</time>.
+  First published in
+
+  {% for category in include.post.categories %}
+    <a class="label label-primary" href="/categories/{{ category | slugify }}">{{ category }}</a>
+  {% endfor %}
+
+  <time datetime="{{ include.post.date | date_to_xmlschema }}" itemprop="datePublished">on {{ include.post.date | date_to_string }}</time>.
   Last revised <time datetime="{{ include.post.updated | date_to_xmlschema }}" itemprop="dateModified">on {{ include.post.updated | date_to_string }}</time>.
 {% else %}
-  Published <time datetime="{{ include.post.date | date_to_xmlschema }}" itemprop="dateModified datePublished">on {{ include.post.date | date_to_string }}</time>.
+  Published in
+
+  {% for category in include.post.categories %}
+    <a class="label label-primary" href="/categories/{{ category | slugify }}">{{ category }}</a>
+  {% endfor %}
+
+  <time datetime="{{ include.post.date | date_to_xmlschema }}" itemprop="dateModified datePublished">on {{ include.post.date | date_to_string }}</time>.
 {% endif %}
