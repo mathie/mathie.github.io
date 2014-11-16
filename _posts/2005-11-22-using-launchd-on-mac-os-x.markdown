@@ -1,8 +1,8 @@
 ---
 title: Using launchd on Mac OS X
 redirect_from: "/2005/11/22/using-launchd-on-mac-os-x/"
-categories:
-- Geekery
+category: Ops
+tags: launchd, init, cron, mysql, postgresql,
 ---
 `launchd` is Mac OS X 10.4's replacement for `init`, `cron`, (`x`)`inetd` and all the various startup bits like `/etc/init.d` or `/Library/StartupItems` (as was the preferred way in Mac OS X up to 10.3.x).  It's all replaced with one supervisor daemon which controls the startup (and restart upon failure) of daemons, schedules regular running of tasks and other hoopy things.  I've been reading a little about it at [Introduction to Tiger Terminal part 5](http://www.macdevcenter.com/lpt/a/6332) and <a href="http://developer.apple.com/macosx/launchd.html">Getting started with `launchd`</a> trying to figure out how to make it work for me.  And I came up with settings, that will launch the [Darwin Ports](http://www.darwinports.com/) copies of both MySQL and PostgreSQL on demand, which you can download here: [mysql4.plist](http://woss.name/dist/mysql4.plist) and [postgresql.plist](http://woss.name/dist/postgresql.plist).  Place those files in `/Library/LaunchDaemons` and, to get `launchd` to notice them, run the following:
 

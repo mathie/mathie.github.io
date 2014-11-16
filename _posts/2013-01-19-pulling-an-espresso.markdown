@@ -1,14 +1,8 @@
 ---
 title: Pulling an Espresso
 redirect_from: "/2013/01/19/pulling-an-espresso/"
-categories:
-- Food and drink
-tags:
-- Espresso
-- coffee
-- beans
-- Rancilio Sylvia
-- Rancilio Rocky
+category: Kitchen
+tags: espresso, coffee, coffee beans, rancilio silvia, rancilio rocky
 ---
 Has Bean, my goto place for beans and guides to brewing coffee, doesn't have a guide for pulling espresso (which is fair enough, I suppose, seeing as they're *brew* guides!). So here's what I do. I wrote this note in EverNote a few weeks back, and was showing it to Annabel this morning (in the hopes of getting a coffee in bed!). She suggested I publish it here.
 
@@ -26,7 +20,7 @@ I'm building espressos with a Rancilio Silvia, and I've got a Rancilio Rocky gri
 
 2. Set the grinder to the right setting while it is still empty. Weigh the beans and dump into the grinder. Make sure none get stuck on the guard.
 
-3. Remove the portafilter and dry it off with a cloth. This stops any of the ground coffee from clumping. 
+3. Remove the portafilter and dry it off with a cloth. This stops any of the ground coffee from clumping.
 
 4. Grind the beans directly into the portafilter, giving it a wee shoogle now and then so the grinds stay relatively level.
 

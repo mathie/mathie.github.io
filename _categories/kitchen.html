@@ -1,0 +1,12 @@
+---
+layout: categories
+title: The Kitchen
+excerpt: |
+  Everyone has to have a hobby away from the computer. With a family of four who are always hungry, one of
+  the easiest hobbies to have it mucking around in the kitchen. I keep a sharp set of knives, and I love my
+  cast iron pans!
+---
+
+{% for post in site.categories.kitchen %}
+  {% include post_summary.html post=post %}
+{% endfor %}

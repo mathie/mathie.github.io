@@ -1,0 +1,13 @@
+---
+layout: categories
+title: Ops
+excerpt: |
+  All things related to running, operating, scaling, networking and communicating amongst computers. In
+  other words, pretty much everything that isn't more specifically about
+  [programming](/categories/programming/) them. You'll find everything from playing with databases to
+  sniffing network packets to figure out why an API isn't working as expected.
+---
+
+{% for post in site.categories.ops %}
+  {% include post_summary.html post=post %}
+{% endfor %}

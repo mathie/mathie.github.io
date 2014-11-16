@@ -1,0 +1,11 @@
+---
+layout: categories
+title: Programming
+excerpt: |
+  All things related to writing software, usually following one of my current experiments to see where it
+  leads.
+---
+
+{% for post in site.categories.programming %}
+  {% include post_summary.html post=post %}
+{% endfor %}

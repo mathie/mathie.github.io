@@ -5,19 +5,45 @@ layout: default
   <div class="col-sm-3 col-sm-offset-1">
     <h3>Categories</h3>
     <ul class="nav nav-pills nav-stacked">
+      {% if page.url == '/articles/index.html' %}
+        <li class="active"><a href="/articles/">All articles</a></li>
+      {% else %}
+        <li><a href="/articles/">All articles</a></li>
+      {% endif %}
+
       {% for cat_hash in site.categories %}
         {% assign category = cat_hash[0] %}
         {% assign category_url = category | slugify | prepend: "/categories/" | append: "/" %}
+
         {% if page.url == category_url %}
-          <li class="active"><a href="/categories/{{ category | slugify }}/">{{ category }}</a></li>
+          <li class="active"><a href="{{ category_url }}">{{ category }}</a></li>
         {% else %}
-          <li><a href="/categories/{{ category | slugify }}/">{{ category }}</a></li>
+          <li><a href="{{ category_url }}">{{ category }}</a></li>
         {% endif %}
       {% endfor %}
     </ul>
   </div>
 
   <div class="col-sm-7">
-    {{ content }}
+    <header>
+      <hgroup class="page-header">
+        <h1>
+          <a href="{{ page.url }}" itemprop="name headline">{{ page.title }}</a>
+          {% if page.subtitle %}
+            <small>{{ page.subtitle }}</small>
+          {% endif %}
+        </h1>
+      </hgroup>
+    </header>
+
+    <section id="article-body" itemprop="text description articleBody">
+      {% if page.excerpt %}
+        <div class="lead">
+          {{ page.excerpt | markdownify }}
+        </div>
+      {% endif %}
+
+      {{ content }}
+    </section>
   </div>
 </div>

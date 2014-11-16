@@ -3,10 +3,8 @@ title: How to install a working set of compilers on Mac OS X 10.7 (Lion)
 excerpt: Xcode 4.2 removed GCC, which seems to be causing a bit of confusion. Here's
   a bit of background and a workaround 'til the dust settles.
 redirect_from: "/2012/01/24/how-to-install-a-working-set-of-compilers-on-mac-os-x-10-7-lion/"
-categories:
-- Geekery
-- Mac OS X
-- Ruby and Rails
+category: Ops
+tags: mac os x, lion, compilers, gcc, xcode, clang, llvm
 ---
 With the advent of Xcode 4.2, Apple have removed GCC from the Xcode installer. Up 'til now, when you installed Xcode (say, 4.1), you'd get:
 

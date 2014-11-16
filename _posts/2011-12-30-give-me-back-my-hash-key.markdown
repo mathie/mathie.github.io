@@ -4,16 +4,8 @@ excerpt: Since I switched on "Use option as meta" in my Terminal app, I've lost 
   hash key. Can I have it back, please? Plus a bonus tip for quickly commenting out
   commands at the command line.
 redirect_from: "/2011/12/30/give-me-back-my-hash-key/"
-categories:
-- Geekery
-- Mac OS X
-tags:
-- bash
-- Meta
-- readline
-- inputrc
-- terminal
-- hash key
+category: Ops
+tags: bash, meta, readline, inputrc, terminal, hash key, pound sign
 ---
 This particular tip may have an audience of approximately one, since:
 

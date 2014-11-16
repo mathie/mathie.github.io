@@ -1,0 +1,12 @@
+---
+layout: categories
+title: Writing
+excerpt: |
+  All blog articles are writing, right? Well these ones aren't any more specific than that. There's some
+  thoughts on mental health, some commentary on other articles I've read on the web, and even the odd short
+  story. What a random mixture!
+---
+
+{% for post in site.categories.writing %}
+  {% include post_summary.html post=post %}
+{% endfor %}

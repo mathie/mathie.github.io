@@ -4,15 +4,8 @@ redirect_from:
   - "/2008/04/09/using-git-submodules-to-track-plugins/"
   - "/blog/2008/4/9/using-git-submodules-to-track-plugins.html"
   - "/2008/04/09/using-git-submodules-to-track-vendorrails/"
-categories:
-- Geekery
-- Ruby and Rails
-tags:
-- git
-- rails
-- ruby
-- submodules
-- vendor rails
+category: Programming
+tags: git, ruby, rails, submodules, vendor, piston
 ---
 Since the core Ruby on Rails team is finally actually moving to git, and a
 whole slew of other projects are following in their wake, now seems like a

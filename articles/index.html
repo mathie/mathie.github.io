@@ -1,11 +1,11 @@
 ---
 layout: categories
 title: All articles
+excerpt: |
+  This is the more-or-less complete history of my blog over the past decade. There are a few articles I
+  still haven't ported over -- if there's something missing that you're looking for, please do drop me a
+  note to <mathie@woss.name> and I'll see if I can resurrect it!
 ---
-{% for post in site.posts limit: 1 %}
+{% for post in site.posts %}
   {% include post_summary.html post=post %}
-{% endfor %}
-
-{% for post in site.posts offset: 1 %}
-  {% include post_summary.html post=post rule=true %}
 {% endfor %}

@@ -3,15 +3,8 @@ title: Ruby Timeout Woes, Part 1
 redirect_from: "/2011/08/30/ruby-timeout-woes-part-1/"
 excerpt: in which I discover that the behaviour of Ruby's built in timeout mechanism
   has changed slightly between Ruby 1.8.x and Ruby 1.9.
-categories:
-- Geekery
-- Ruby and Rails
-tags:
-- ruby
-- ruby 1.8
-- ruby 1.9
-- timeout
-- exceptions
+category: Programming
+tags: ruby, rails, timeout, exceptions
 ---
 I seem to be having a bad day with the built in `Timeout` class in Ruby. There are two problems; one is pretty innocuous, the other ... not so much.
 

@@ -5,19 +5,8 @@ excerpt: |
   your home directory in Mac OS X. I've also included a neat cookbook which will
   allow you to use Homebrew as your native packaging system in Chef.
 redirect_from: "/2011/01/23/converging-your-home-directory-with-chef/"
-categories:
-- Geekery
-- Ruby and Rails
-- Software Configuration Management
-tags:
-- Mac OS X
-- ruby
-- chef
-- homebrew
-- tmux
-- configuration
-- rvm
-- tutorial
+category: Ops
+tags: mac os x, ruby, chef, homebrew, tmux, rvm, devops, development
 ---
 In this tutorial, I'll take you through using Chef and Homebrew to manage your
 home directory in Mac OS X. I've also included a neat cookbook which will allow

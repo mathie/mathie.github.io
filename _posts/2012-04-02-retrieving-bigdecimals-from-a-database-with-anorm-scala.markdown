@@ -4,14 +4,8 @@ excerpt: In which I take a long, long time just to retrieve a couple of numbers 
   a DB and display them on a web page. Ah, the joys of learning a new programming
   language, framework and ecosystem, all at once!
 redirect_from: "/2012/04/02/retrieving-bigdecimals-from-a-database-with-anorm-scala/"
-categories:
-- Geekery
-- Scala
-tags:
-- scala
-- anorm
-- bigdecimal
-- postgresql
+category: Programming
+tags: scala, anorm, bigdecimal, postgresql
 ---
 I spent a wee while yesterday kicking the tyres on the [Play 2.0](http://www.playframework.org/)
 framework with Scala. Aside: I think that concurrency/asynchronous processing

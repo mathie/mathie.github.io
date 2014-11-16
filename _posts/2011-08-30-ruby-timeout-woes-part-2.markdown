@@ -3,17 +3,8 @@ title: Ruby Timeout Woes, Part 2
 redirect_from: "/2011/08/30/ruby-timeout-woes-part-2/"
 excerpt: in which I discover how Ruby's Timeout implementation actually works, and
   discover why some of our code inside a timeout block never really times out.
-categories:
-- Geekery
-- Ruby and Rails
-- Work
-tags:
-- ruby
-- timeout
-- exceptions
-- threads
-- bugs
-- delayed job
+category: Programming
+tags: ruby, timeout, exceptions, threads, bugs, delayed job
 ---
 Following on from [Ruby Timeout Woes, Part 1](/articles/ruby-timeout-woes-part-1/), I started digging into how Ruby's timeout mechanism worked this morning, in order to get to the bottom of a bug we've got.
 

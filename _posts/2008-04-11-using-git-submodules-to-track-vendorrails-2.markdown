@@ -1,9 +1,8 @@
 ---
 title: Using git submodules to track vendor/rails
 redirect_from: "/2008/04/11/using-git-submodules-to-track-vendorrails-2/"
-categories:
-- Geekery
-- Ruby and Rails
+category: Programming
+tags: git, submodules, ruby, rails, vendor, edge, stable
 ---
 In a previous post, [Using git submodules to track plugins](http://woss.name/2008/04/09/using-git-submodules-to-track-vendorrails/)
 I introduced the idea of using git submodules as part of your workflow in
