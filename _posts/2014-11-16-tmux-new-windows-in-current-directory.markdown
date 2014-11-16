@@ -1,5 +1,11 @@
 ---
 title: "tmux: New Windows in the Current Working Directory"
+category: Ops
+tags: tmux, path, working directory, screen, cwd, shell, command line
+excerpt: |
+  I could have sworn that tmux used to launch new shells in the current working directory of my active shell
+  when it spawned new windows/panes. In this post, I discover that it wasn't my imagination, that it no
+  longer happens by default, and how I can get the behaviour back again.
 ---
 For a while, [tmux](http://tmux.sourceforge.net) would default to creating new
 windows (and splits) with the shell in the current working directory
