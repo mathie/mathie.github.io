@@ -1,5 +1,8 @@
 <div class="row">
   <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting" class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+
+    {% include pagination.html post=include.post %}
+
     <header>
       <hgroup class="page-header">
         <h1>
@@ -23,5 +26,7 @@
     <section id="article-body" itemprop="text description articleBody">
       {{ include.content }}
     </section>
+
+    {% include pagination.html post=include.post %}
   </article>
 </div>

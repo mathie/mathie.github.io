@@ -1,0 +1,27 @@
+<nav>
+  <ul class="pager">
+    {% if include.post.previous %}
+    <li class="previous">
+      <a href="{{ include.post.previous.url }}" title="{{ include.post.previous.title }}">
+        <span aria-hidden="true">&larr;</span> Older
+      </a>
+    </li>
+    {% else %}
+    <li class="previous disabled">
+      <a href="#" title="No older posts">
+        <span aria-hidden="true">&larr;</span> Older
+      </a>
+    </li>
+    {% endif %}
+
+    {% if include.post.next %}
+    <li class="next">
+      <a href="{{ include.post.next.url }}" title="{{ include.post.next.title | strip_html }}">
+        Newer <span aria-hidden="true">&rarr;</span>
+      </a>
+    </li>
+    {% else %}
+    <li class="next disabled"><a href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
+    {% endif %}
+  </ul>
+</nav>
