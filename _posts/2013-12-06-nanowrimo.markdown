@@ -6,6 +6,8 @@ excerpt: |
   end of the month. I am inordinately pleased about that, even if it pushed me
   off my regular blog/morning pages schedule a little. This is a little
   retrospective on the month.
+category: Writing
+tags: nanowrimo, pragmatic programmers, o'reilly, imposter syndrome
 ---
 November is [National Novel Writing Month](http://nanowrimo.org/) (NaNoWriMo),
 though given its international reach, maybe it should be rebranded as

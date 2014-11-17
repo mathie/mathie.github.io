@@ -1,6 +1,8 @@
 ---
 title: Understanding the Rails Logger
 redirect_from: "/2011/10/12/understanding-the-rails-logger/"
+category: Programming
+tags: ruby, rails, logging, activesupport, atomicity, flushing, buffering, delayed job
 ---
 I’ve lost track of why now, but I’ve spent a bit of time this afternoon trying to understand how the Rails logger works in production. For years we’ve been using a [Hodel 3000 Compliant Logger](http://nubyonrails.com/articles/a-hodel-3000-compliant-logger-for-the-rest-of-us), which is dead straightforward. Recently, though, we switched back to using the built in logger with Rails, which is a little more subtle.
 

@@ -2,6 +2,7 @@
 title: Planning
 redirect_from: "/nanowrimo/articles/planning/"
 category: Writing
+tags: nanowrimo, writing, dns, tcp/ip, ethernet, email, gremlins
 ---
 How did I ever talk myself into getting involved in NanoWriMo? Well, I'd been
 thinking about it for a while, to be honest. I've really been enjoying writing

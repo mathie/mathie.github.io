@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Personal Code Review
 redirect_from: "/nanowrimo/articles/personal-code-review/"
 excerpt: |
   I have a micro work flow I use when I working with git, usually -- but not
   always -- while I'm developing software. Most git work flows talk about a
   larger scale, so I thought I'd share my own, personal, micro work flow.
+category: Programming
+tags: workflow, git, branching, stories, merging
 ---
 Git is a my distributed version control system of choice. I almost always pair
 it with GitHub since, despite it centralising a distributed system, sometimes
