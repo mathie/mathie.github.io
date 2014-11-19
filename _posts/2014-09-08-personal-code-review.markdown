@@ -6,7 +6,12 @@ excerpt: |
   always -- while I'm developing software. Most git work flows talk about a
   larger scale, so I thought I'd share my own, personal, micro work flow.
 category: Programming
-tags: workflow, git, branching, stories, merging
+tags:
+  - workflow
+  - git
+  - branching
+  - stories
+  - merging
 ---
 Git is a my distributed version control system of choice. I almost always pair
 it with GitHub since, despite it centralising a distributed system, sometimes

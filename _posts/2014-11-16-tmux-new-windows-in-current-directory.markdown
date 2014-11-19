@@ -1,7 +1,14 @@
 ---
 title: "tmux: New Windows in the Current Working Directory"
 category: Ops
-tags: tmux, path, working directory, screen, cwd, shell, command line
+tags:
+  - tmux
+  - path
+  - working directory
+  - screen
+  - cwd
+  - shell
+  - command line
 excerpt: |
   I could have sworn that tmux used to launch new shells in the current working directory of my active shell
   when it spawned new windows/panes. In this post, I discover that it wasn't my imagination, that it no

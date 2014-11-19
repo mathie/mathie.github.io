@@ -3,7 +3,13 @@ title: Running tmux in Mac OS X Terminal
 redirect_from: "/2012/01/04/running-tmux-in-mac-os-x-terminal/"
 updated: 2014-09-16 00:00:00 +00:00
 category: Ops
-tags: mac os x, tmux, shell, terminal, screen, launchd
+tags:
+  - mac os x
+  - tmux
+  - shell
+  - terminal
+  - screen
+  - launchd
 ---
 I've been a fan of [screen](http://www.gnu.org/software/screen/) for ... a
 while now. But since I like being one of the cool kids, I've been using

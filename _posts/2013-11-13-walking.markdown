@@ -7,7 +7,14 @@ excerpt: |
   your mental health. It can be an opportunity to relax, to learn, or to
   socialise. Really, you shouldn't read this; you should go for a walk instead!
 category: Writing
-tags: walking, fitness, mindfulness, mental health, health, vitamin d, fresh air
+tags:
+  - walking
+  - fitness
+  - mindfulness
+  - mental health
+  - health
+  - vitamin d
+  - fresh air
 ---
 > This is another NaNoWriMo-based post that I wrote last week while I was on
 > holiday. Since then, I seem to have been focusing on a couple of longer

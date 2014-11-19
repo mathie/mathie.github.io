@@ -2,7 +2,13 @@
 title: Convention for RESTful search in Rails?
 redirect_from: "/2007/07/22/convention-for-restful-search-in-rails/"
 category: Programming
-tags: rest, search, railsconf, ruby, rails, code
+tags:
+  - rest
+  - search
+  - railsconf
+  - ruby
+  - rails
+  - code
 ---
 Back in RailsConf Europe last year, at [David's Keynote](http://woss.name/2006/09/30/railsconf-europe-2006-first-plenary-dhh/), it was said that:
 

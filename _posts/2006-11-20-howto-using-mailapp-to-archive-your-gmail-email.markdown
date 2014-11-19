@@ -2,7 +2,14 @@
 title: "Howto: Using Mail.app to archive your GMail email"
 redirect_from: "/2006/11/20/howto-using-mailapp-to-archive-your-gmail-email/"
 category: Ops
-tags: gmail, mail, mac os x, pop, imap, google apps, dreamhost
+tags:
+  - gmail
+  - mail
+  - mac os x
+  - pop
+  - imap
+  - google apps
+  - dreamhost
 ---
 I'll write this while I have the chance, since my mail inbox will be [strangely quiet](http://woss.name/2006/11/20/omg-extreme-critical-emergency-everythings-broken-people-are-dying/) for the next few hours...
 

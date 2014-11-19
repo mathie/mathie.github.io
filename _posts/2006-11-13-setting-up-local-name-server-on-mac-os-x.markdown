@@ -2,7 +2,14 @@
 title: Setting up a local name server on Mac OS X
 redirect_from: "/2006/11/13/setting-up-local-name-server-on-mac-os-x/"
 category: Ops
-tags: dns, subdomains, ruby, rails, bind, bonjour, mac os x
+tags:
+  - dns
+  - subdomains
+  - ruby
+  - rails
+  - bind
+  - bonjour
+  - mac os x
 ---
 I've been using
 [`account_location`](http://dev.rubyonrails.org/svn/rails/plugins/account_location/)

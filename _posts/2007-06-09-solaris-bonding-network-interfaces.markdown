@@ -2,7 +2,12 @@
 title: "Solaris: Bonding network interfaces"
 redirect_from: "/2007/06/09/solaris-bonding-network-interfaces/"
 category: Ops
-tags: thumper, solaris, dladm, aggregation, networking
+tags:
+  - thumper
+  - solaris
+  - dladm
+  - aggregation
+  - networking
 ---
 I've managed to find a new home for the Thumper.  The noise it's making is driving me absolutely batty, and I have to switch it off at night.  I'm also worried about it overheating as the weather starts to improve.  So I've managed to secure a deal with [Below Zero](http://belowzero.biz/), an ISP based in Edinburgh with an amazing world-class network.  We're going to shift it into the new place tomorrow, so I'm preparing by changing IP addresses before it moves.
 

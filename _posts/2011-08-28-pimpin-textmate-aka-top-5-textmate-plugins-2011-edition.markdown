@@ -5,7 +5,14 @@ excerpt: I've put together a list of the indispensable TextMate plugins that tak
   and Lion full screen support.
 redirect_from: "/2011/08/28/pimpin-textmate-aka-top-5-textmate-plugins-2011-edition/"
 category: Ops
-tags: mac os x, textmate, vim, lion, peepopen, ack, ctags
+tags:
+  - mac os x
+  - textmate
+  - vim
+  - lion
+  - peepopen
+  - ack
+  - ctags
 ---
 All the cool kids are using [Vim](http://www.vim.org/) these days. That's fine, y'all go right ahead, but sorry, it's not really my thing. I'm perfectly happy with [TextMate](http://macromates.com/), thanks.
 

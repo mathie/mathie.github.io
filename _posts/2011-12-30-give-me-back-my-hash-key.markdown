@@ -5,7 +5,14 @@ excerpt: Since I switched on "Use option as meta" in my Terminal app, I've lost 
   commands at the command line.
 redirect_from: "/2011/12/30/give-me-back-my-hash-key/"
 category: Ops
-tags: bash, meta, readline, inputrc, terminal, hash key, pound sign
+tags:
+  - bash
+  - meta
+  - readline
+  - inputrc
+  - terminal
+  - hash key
+  - pound sign
 ---
 This particular tip may have an audience of approximately one, since:
 

@@ -2,7 +2,12 @@
 title: Subversion and NFS file locking
 redirect_from: "/2005/08/25/subversion-and-nfs-file-locking/"
 category: Ops
-tags: subversion, nfs, locking, c, berkeley-db
+tags:
+  - subversion
+  - nfs
+  - locking
+  - c
+  - berkeley-db
 ---
 I should prefix this with a warning:  I know *next to nothing* about file locking and the implications of what I've just done.  However, it now appears to work, and I'm not *too* worried about simultaneous access to my subversion repository since I'm the only one that uses it.  (Even the [web interface](http://woss.name/svn/) is currently running from a read-only mirror of the repository.)
 

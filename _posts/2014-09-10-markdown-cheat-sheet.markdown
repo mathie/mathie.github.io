@@ -6,7 +6,13 @@ excerpt: |
   pieces -- usually extensions to the language -- that I forget. This is my
   attempt to document them so I'll remember in future.
 category: Writing
-tags: markdown, github flavoured markdown, kramdown, html, email
+tags:
+  - markdown
+  - github flavoured markdown
+  - kramdown
+  - html
+  - email
+  - day one
 ---
 While I remember most of the Markdown syntax that's commonly available (after
 all, it's "just" like writing plain text email), there are some bits and pieces

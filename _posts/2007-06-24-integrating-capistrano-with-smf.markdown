@@ -2,7 +2,14 @@
 title: Integrating capistrano with SMF
 redirect_from: "/2007/06/24/integrating-capistrano-with-smf/"
 category: Ops
-tags: ruby, rails, smf, solaris, capistrano, mongrel, rbac
+tags:
+  - ruby
+  - rails
+  - smf
+  - solaris
+  - capistrano
+  - mongrel
+  - rbac
 ---
 I've got a new application I'm in the process of deploying in order to demo for a client (no, it's not ready for everybody else to have a nosy at just yet!) and figured I'd take the opportunity to learn two things:
 

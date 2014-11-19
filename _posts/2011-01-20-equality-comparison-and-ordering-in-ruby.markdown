@@ -2,7 +2,16 @@
 title: Equality, Comparison and Uniqueness in Ruby
 redirect_from: "/2011/01/20/equality-comparison-and-ordering-in-ruby/"
 category: Programming
-tags: ruby, rails, sorting, equality, comparison, hashes, uniqueness, comparable, spaceship
+tags:
+  - ruby
+  - rails
+  - sorting
+  - equality
+  - comparison
+  - hashes
+  - uniqueness
+  - comparable
+  - spaceship
 ---
 Ruby has the `Comparable` module, which, if you implement the spaceship operator `<=>` (winner of "Best Named Operator" 10 years running!) then it will give you a bunch of comparator operators for free (`<`, `<=`, `==`, `>=` and `>`). Win. Enumerable's `#sort` method uses the spaceship operator to do sorting too, so implementing the spaceship gives you a whole bunch of interesting behaviour pretty much for free.
 

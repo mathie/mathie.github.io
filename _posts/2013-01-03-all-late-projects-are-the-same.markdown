@@ -2,7 +2,11 @@
 title: All late projects are the same
 redirect_from: "/2013/01/03/all-late-projects-are-the-same/"
 category: Writing
-tags: project management, lateness, estimation, value
+tags:
+  - project management
+  - lateness
+  - estimation
+  - value
 ---
 This is  the first in a series of posts where I actually digest and write about articles I've read elsewhere. What better way to understand something you've read than try to write about it? Of course, with this blog's track record, it may well be a series of one. :)
 

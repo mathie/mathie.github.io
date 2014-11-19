@@ -2,7 +2,11 @@
 title: OMG! EXTREME CRITICAL EMERGENCY!! EVERYTHING'S BROKEN! People are DYING!
 redirect_from: "/2006/11/20/omg-extreme-critical-emergency-everythings-broken-people-are-dying/"
 category: Ops
-tags: dreamhost, dns, email, gmail
+tags:
+  - dreamhost
+  - dns
+  - email
+  - gmail
 ---
 So my email isn't working this morning.  Somehow the MX record for `woss.name` has, well, disappeared.  Maybe [DreamHost](http://www.dreamhost.com/) got offended that I switched to [GMail](http://mail.google.com/) and decided to get their revenge.  Maybe I buggered something up (I was doing stuff in the DH control panel yesterday afternoon, but I don't *think* I touched `woss.name`).  Or maybe the gremlins got to it.
 

@@ -4,7 +4,16 @@ redirect_from:
   - "/2009/01/16/why-ruby-and-rails-is-awesome/"
   - "/blog/2009/1/16/why-ruby-and-rails-is-awesome.html"
 category: Programming
-tags: edinburgh, talk, slides, ruby, rails, migrations, deployment, velocity, scotland-on-rails
+tags:
+  - edinburgh
+  - talk
+  - slides
+  - ruby
+  - rails
+  - migrations
+  - deployment
+  - velocity
+  - scotland on rails
 ---
 I was invited to give a short introduction to Ruby on Rails at [Tech Meetup](http://www.techmeetup.co.uk/) in Edinburgh a couple of days ago.  I'd been racking my brain for days on what to talk about -- 15 minutes is too short for me to give a meaningful introduction to Rails -- and eventually settled on telling a few stories.
 

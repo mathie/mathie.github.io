@@ -5,7 +5,9 @@ excerpt: |
   It all began with a mouse strolling through the deep, dark, wood. How could
   the Gruffalo live with the shame?
 category: Writing
-tags: fiction, gruffalo
+tags:
+  - fiction
+  - gruffalo
 ---
 > A mouse took a stroll through a deep, dark, wood. A fox saw the mouse, and
 > the mouse looked good.

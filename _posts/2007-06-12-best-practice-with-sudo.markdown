@@ -2,7 +2,12 @@
 title: Best Practice with sudo
 redirect_from: "/2007/06/12/best-practice-with-sudo/"
 category: Ops
-tags: sudo, authorisation, logging, tracking, rbac
+tags:
+  - sudo
+  - authorisation
+  - logging
+  - tracking
+  - rbac
 ---
 I just found this lecture in some documentation I'd been writing for a client.  Clearly I was running through an install, documenting it as I go along, and was filling in time while something happened.  Anyway, I thought I'd share it here:
 

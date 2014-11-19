@@ -7,7 +7,16 @@ excerpt: |
   times while storing them as UTC in MySQL.
 redirect_from: "/2013/01/23/mysql-and-time-zones/"
 category: Programming
-tags: ruby, rails, mysql, timezones, utc, activerecord, timestamp, datetime, conversion
+tags:
+  - ruby
+  - rails
+  - mysql
+  - timezones
+  - utc
+  - activerecord
+  - timestamp
+  - datetime
+  - conversion
 ---
 It turns out that MySQL has support for time zones, but doesn't have the
 necessary information to support named time zones out of the box. The

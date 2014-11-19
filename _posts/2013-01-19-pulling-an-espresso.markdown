@@ -2,7 +2,12 @@
 title: Pulling an Espresso
 redirect_from: "/2013/01/19/pulling-an-espresso/"
 category: Kitchen
-tags: espresso, coffee, coffee beans, rancilio silvia, rancilio rocky
+tags:
+  - espresso
+  - coffee
+  - coffee beans
+  - rancilio silvia
+  - rancilio rocky
 ---
 Has Bean, my goto place for beans and guides to brewing coffee, doesn't have a guide for pulling espresso (which is fair enough, I suppose, seeing as they're *brew* guides!). So here's what I do. I wrote this note in EverNote a few weeks back, and was showing it to Annabel this morning (in the hopes of getting a coffee in bed!). She suggested I publish it here.
 

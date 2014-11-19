@@ -4,7 +4,12 @@ excerpt: In which I learn some useful shortcuts to make life faster with the Vim
   line.
 redirect_from: "/2012/02/13/today-i-learned-vim-command-line-fu/"
 category: Ops
-tags: vim, editors, command line, git, fugitive
+tags:
+  - vim
+  - editors
+  - command line
+  - git
+  - fugitive
 ---
 OK, so this was "Thursday I learned" but I figured I should write it down before I forget again. One of my frustrations with Vim is better learning to use the command line. In this particular instance, I had been searching for a phrase inside a single file and I wanted to instead search for it with `git grep` (using `:Ggrep` from the awesome [fugitive.vim](https://github.com/tpope/vim-fugitive)). Of course, I didn't want to retype the thing I'd already been searching for. Turns out there are a couple of viable options:
 

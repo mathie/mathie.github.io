@@ -2,7 +2,13 @@
 title: Getting Started with a Sun T2000
 redirect_from: "/2006/04/21/getting-started-with-a-sun-t2000/"
 category: Ops
-tags: coolthreads, t2000, sparcstation, hardware, solaris, alom
+tags:
+  - coolthreads
+  - t2000
+  - sparcstation
+  - hardware
+  - solaris
+  - alom
 ---
 This is the first part in hopefully what will become a series on the trials
 and tribulations I have with a [Sun Fire

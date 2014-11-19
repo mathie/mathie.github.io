@@ -2,7 +2,12 @@
 title: Read-only clones and committing changes to submodules
 redirect_from: "/2008/04/10/read-only-clones-and-commiting-changes-to-submodules/"
 category: Programming
-tags: git, submodules, ruby, rails, plugins
+tags:
+  - git
+  - submodules
+  - ruby
+  - rails
+  - plugins
 ---
 Hopefully this will be a shorter article, but I thought I'd get the tip into
 Google before I forget it and have to Google for the answer. :-)

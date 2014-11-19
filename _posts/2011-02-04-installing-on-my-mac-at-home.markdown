@@ -6,7 +6,15 @@ excerpt: This is a short tutorial on connecting back to your home Mac via SSH, t
   example, but it should work for any standard Mac OS X installer.
 redirect_from: "/2011/02/04/installing-on-my-mac-at-home/"
 category: Ops
-tags: installation, mobileme, mac os x, ssh, virtualbox, vagrant, dns, mdns
+tags:
+  - installation
+  - mobileme
+  - mac os x
+  - ssh
+  - virtualbox
+  - vagrant
+  - dns
+  - mdns
 ---
 I'm in the office and I want to start installing some software on my laptop at home so it's ready to try when I get back to my laptop. (The test suite is running and I know the install will take a while, so it can get going while I commute!) In particular, I was looking to try [Vagrant](http://vagrantup.com/), which requires [VirtualBox](http://www.virtualbox.org/).
 

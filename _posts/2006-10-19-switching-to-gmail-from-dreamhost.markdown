@@ -2,7 +2,14 @@
 title: Switching to Gmail from DreamHost
 redirect_from: "/2006/10/19/switching-to-gmail-from-dreamhost/"
 category: Ops
-tags: gmail, email, dreamhost, imap, smtp, dns, google apps
+tags:
+  - gmail
+  - email
+  - dreamhost
+  - imap
+  - smtp
+  - dns
+  - google apps
 ---
 I've been using DreamHost for a number of things over the past couple of years -- web sites (including this one), email, subversion hosting, that kind of thing.  But really, things have been going wrong too often, particularly with email:
 

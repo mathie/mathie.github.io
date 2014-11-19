@@ -4,7 +4,17 @@ redirect_from:
   - "/2010/03/15/updating-the-path-everywhere-on-ubuntu-09-10/"
   - "/blog/2010/3/15/updating-the-path-everywhere-on-ubuntu-0910.html"
 category: Ops
-tags: debian, ubuntu, linux, path, ruby, phusion, sudo, cron, bash
+tags:
+  - debian
+  - ubuntu
+  - linux
+  - path
+  - ruby
+  - phusion
+  - passenger
+  - sudo
+  - cron
+  - bash
 ---
 [Ubuntu](http://www.ubuntu.com/) is my Linux of choice. It has been for a long time. I've been a huge fan of [Debian](http://www.debian.org/) since the late '90s -- I was a Debian Developer stuck in the NM queue for a few years -- but the release cycle was *way* too long for my tastes (which invariably meant I kept most of my systems running testing or unstable). So I switched to Ubuntu pretty early on.
 

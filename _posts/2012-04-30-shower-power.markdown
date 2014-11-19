@@ -2,7 +2,13 @@
 title: Shower Power
 redirect_from: "/2012/04/30/shower-power/"
 category: Programming
-tags: modelling, javascript, abstraction, telling stories, principles, immediacy
+tags:
+  - modelling
+  - javascript
+  - abstraction
+  - telling stories
+  - principles
+  - immediacy
 ---
 A few weeks ago, I watched a talk from CUSEC 2012 by [Bret Victor](http://worrydream.com/) called [Inventing on Principle](http://www.youtube.com/watch?v=PUv66718DII) where he described the principle by which he lives his life. You should go watch the talk now, it's awesome. I'll wait.
 

@@ -2,7 +2,12 @@
 title: Using ssh-agent and screen together
 redirect_from: "/2005/08/17/using-ssh-agent-and-screen-together/"
 category: Ops
-tags: ssh, screen, tmux, ssh-agent, environment
+tags:
+  - ssh
+  - screen
+  - tmux
+  - ssh-agent
+  - environment
 ---
 I've been meaning to 'fix' this for ages.  I use public-key authentication for my [ssh](http://www.openssh.com/) connections wherever possible.  I also use [screen](http://www.gnu.org/software/screen/) all the time.  (If you use ssh regularly and haven't discovered it already, go look now!  There's a bit of a learning curve, but it's well worth it!)  But the <code>SSH_AUTH_SOCK</code> isn't always set correctly inside a screen session, so you can't then use the ssh key on the client computer to authenticate against other hosts.  (Oh, I also have a reasonably strict policy of only ever create SSH keys for hosts that I am actually, physically, at the console of, not for hosts I merely ssh into now and then.  There are, of course, exceptions to this rule!)
 

@@ -6,7 +6,14 @@ excerpt: |
   experiment a little with it, and have some insight on how to learn/teach
   along the way.
 category: Writing
-tags: nanowrimo, pool, tennis, teaching, learning, inner game, outer game
+tags:
+  - nanowrimo
+  - pool
+  - tennis
+  - teaching
+  - learning
+  - inner game
+  - outer game
 ---
 > This is the first of the [NaNoWriMo](http://www.nanowrimo.org/) articles that
 > I've redrafted and turned into a post. Which is why it's a couple of days

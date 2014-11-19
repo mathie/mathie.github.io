@@ -8,7 +8,18 @@ excerpt: Sometimes, when you're writing applications that use a library to talk 
 updated: 2014-10-22 00:00:00 +01:00
 redirect_from: "/2011/03/06/using-tcpflow/"
 category: Ops
-tags: tcpflow, tcpdump, libpcap, tcpip, eventmachine, em-http-request, protocols, networking, apis, twisted, reactor
+tags:
+  - tcpflow
+  - tcpdump
+  - libpcap
+  - tcpip
+  - eventmachine
+  - em-http-request
+  - protocols
+  - networking
+  - apis
+  - twisted
+  - reactor
 ---
 Sometimes, when you're writing applications that use a library to talk over the wire to a remote service, it's difficult to see how the high level API the library exposes translates into the on-the-wire protocol. Funnily enough, I was having that very problem yesterday, so I dug `tcpflow` out my toolbox to better understand what was happening.
 
