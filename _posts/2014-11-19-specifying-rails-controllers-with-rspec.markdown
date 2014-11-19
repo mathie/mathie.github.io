@@ -143,7 +143,7 @@ It does bring up the issue of routes, though: how to we specify that the list
 of widgets is located at `/widgets`? Let's write a couple of quick specs to
 verify the routes. I swither between testing routes being overkill or not. If
 there is client side JavaScript relying on the contract that the routes
-specify, I err on the side of specifying them. It's not too hard, anyway. So,
+provide, I err on the side of specifying them. It's not too hard, anyway. So,
 in `spec/routing/widgets_controller_routing_spec.rb` (that's a mouthful, but
 it's what [rubocop][] recommends):
 
