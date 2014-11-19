@@ -21,10 +21,10 @@ To my mind, Ruby on Rails controllers are a simple beast in the
 Model-View-Controller (MVC) pattern. They simply:
 
 * take an HTTP action (`GET`, `POST`, `PUT` or `DELETE`) for a particular
-  resource. The mapping between the HTTP verb and the resource is handled above
-  the controller, at the routing layer, so by the time it gets down to a
-  controller action, we already know what the desired HTTP action is, and we
-  have an identifier for the resource, where applicable.
+  resource. The mapping between the HTTP verb, the resource, and the
+  corresponding action is handled above the controller, at the routing layer.
+  By the time it gets down to the controller, we already know what the desired
+  action is, and we have an identifier for the resource, where applicable.
 
 * communicate the intent of the action to the underlying model.
 
@@ -45,7 +45,9 @@ between the language and idioms of HTTP, and the underlying model. I should
 probably note at this point that the underlying model isn't necessarily just a
 bunch of `ActiveRecord::Base`-inherited models, it can be composed of service
 layers, aggregate roots, etc. The point is that the controllers are "just"
-about communicating between two other parts of the system.
+about communicating between two other parts of the system (at least that's how
+I always interpreted Jamis Buck's famous [Skinny Controller, Fat Model](http://weblog.jamisbuck.org/2006/10/18/skinny-controller-fat-model)
+post).
 
 That's handy, because it makes them nice and easy to test. I've been brushing
 up on [RSpec][] over the past couple of weeks, learning all about the new
@@ -55,7 +57,7 @@ I'd share what I'd learned about rspec in the form of a worked example.
 We've got a requirement to keep track of Widgets. Widgets are pretty simple
 things: they have a name, and they have a size in millimetres (you wouldn't
 want to get different sized widgets mixed up!). Our client, who manufactures
-these widgets, is looking for a simple web app where he can:
+these widgets, is looking for a simple web app where she can:
 
 * list all widgets;
 
@@ -66,7 +68,10 @@ these widgets, is looking for a simple web app where he can:
 We've been developing their in-house stock management system for a while, so
 we've got an established Ruby on Rails project in which to hang the new
 functionality. It's just going to be a case of extending it with a new model,
-controller, and a couple of actions. And we're all set up with rspec, of course.
+controller, and a couple of actions. And we're all set up with rspec, of
+course. Better still, we're set up with [Guard][], too, so our tests run
+automatically whenever we make a change. You can find the starting point of the
+project on the [initial setup](https://github.com/mathie/widgets/tree/initial-setup) branch.
 
 ## Listing all the widgets
 
@@ -78,7 +83,7 @@ So, our first scenario, in `spec/features/widgets_spec.rb`:
 
 {% highlight ruby %}
 RSpec.feature 'Managing widgets' do
-  # All our subsequent scenarios will be in this feature block
+  # All our subsequent scenarios will be inside this feature block.
 
   scenario 'Finding the list of widgets' do
     visit '/'
@@ -90,15 +95,21 @@ RSpec.feature 'Managing widgets' do
 end
 {% endhighlight %}
 
+I always like to start simple, and from the user's perspective. If I'm going to
+manage a set of widgets, I need to be able to find the page from another
+location. In this scenario, we're checking that there's a 'List Widgets' link
+somewhere on the home page. It saves that embarrassing conversation with the
+client where you've implemented a new feature, but she can't find it.
+
 The first thing to note is that, by default, rspec now no longer creates global
 methods, so Capybara's `feature` DSL method (and RSpec's `describe`, which
 we'll see in a minute) are both defined on the RSpec namespace. Perhaps the
-other thing to note is that I'm just using RSpec feature specs, with
-[Capybara][], instead of Cucumber, which I've advocated in the past? Why? It
-turned out that people rarely read my Cucumber stories, and those that did can
-cope with reading code, too. RSpec features are more succinct, consistent with
-the unit tests, and have fewer unwieldy overheads. You and your team's mileage
-may, of course, vary!
+other thing to note is that I'm just using RSpec feature specs -- with
+[Capybara][] for a nice DSL -- instead of Cucumber, which I've advocated in the
+past? Why? It turned out that people rarely read my Cucumber stories, and those
+that did could cope with reading code, too. RSpec features are more succinct,
+consistent with the unit tests, and have fewer unwieldy overheads. You and your
+team's mileage may, of course, vary!
 
 Finally, there's rspec's new `expect` syntax. Instead of adding methods to a
 global namespace (essentially, defining the `should` and `should_not` methods
@@ -109,31 +120,30 @@ and older, we'd have written:
 current_path.should eq('/widgets')
 {% endhighlight %}
 
-instead we now wrap the object under test with `expect`:
+(which relies on a method called `should` being defined on your object) instead we now wrap the object under test with `expect`:
 
 {% highlight ruby %}
 expect(current_path).to eq('/widgets')
 {% endhighlight %}
 
-It still reads well ("expect current path to equal /widgets" instead of
-"current path should equal /widgets"). Combined with the `allow` decorator
-method, it also gives us a consistent language for mocking, which we'll see
-shortly. To my mind, it also makes it slightly clearer exactly what the object
-under test really is, since it's (necessarily) wrapped in parentheses. I like
-the new syntax.
+It still reads well ("expect current path to equal /widgets" as opposed to the
+older version, "current path should equal /widgets"). Combined with the `allow`
+decorator method, it also gives us a consistent language for mocking, which
+we'll see shortly. To my mind, it also makes it slightly clearer exactly what
+the object under test really is, since it's (necessarily) wrapped in
+parentheses. I like the new syntax.
 
-I always like to start simple, and from the user's perspective. If I'm going to
-manage a set of widgets, I need to be able to find the page from another
-location. In this scenario, we're checking that there's a 'List Widgets' link
-somewhere on the home page. It saves that embarrassing conversation with the
-client where you've implemented a new feature, but she can't find it. Let's
-just assume we've satisfied that, instead of diving into the layout files. :)
+Let's just assume we've implemented this particular scenario, by inserting the following into `app/views/layouts/application.html.erb`:
+
+{% highlight erb %}
+<li><%= link_to 'List widgets', widgets_path %></li>
+{% endhighlight %}
 
 It does bring up the issue of routes, though: how to we specify that the list
 of widgets is located at `/widgets`? Let's write a couple of quick specs to
-verify the routes. (I swither between testing routes being overkill or not. If
+verify the routes. I swither between testing routes being overkill or not. If
 there is client side JavaScript relying on the contract that the routes
-specify, I err on the side of specifying them. It's not too hard, anyway.) So,
+specify, I err on the side of specifying them. It's not too hard, anyway. So,
 in `spec/routing/widgets_controller_routing_spec.rb` (that's a mouthful, but
 it's what [rubocop][] recommends):
 
@@ -201,7 +211,11 @@ RSpec.describe WidgetsController do
 end
 {% endhighlight %}
 
-Then define an empty action in `WidgetsController`:
+Defining a method to perform the action is just one of my habits. It doesn't
+really add much here -- it's just replacing `get :index` with `do_get` -- but
+it helps to remove repetition from testing other actions, and doing it here too
+gives me consistency amongst tests. Now define an empty `index` action in
+`WidgetsController`:
 
 {% highlight ruby %}
 def index
@@ -212,7 +226,7 @@ and create an empty template in `app/views/widgets/index.html.erb`. That's
 enough to make the tests pass. Time to commit the code, and go grab a fresh
 coffee.
 
-Next up, let's specify a scenario for listing some widgets:
+Next up, let's specify a real scenario for listing some widgets:
 
 {% highlight ruby %}
 scenario 'Listing widgets' do
@@ -252,11 +266,11 @@ end
 Run `rake db:migrate` and we're good to go again. Our scenario is now failing
 where we'd expect it to -- the list of widgets are not appearing on the page.
 Let's think a bit about what we actually want here. Having discussed it with
-the client, we're just looking for an unordered list of all the Widgets in the
-system -- no need to think about complex things like ordering, or pagination.
-So we're going to ask the model for a list of all the widgets, and we're going
-to pass that to the template to be rendered. Let's write a controller spec for
-that behaviour, inside our existing describe block:
+the client, we're just looking for a list of all the Widgets in the system --
+no need to think about complex things like ordering, or pagination. So we're
+going to ask the model for a list of all the widgets, and we're going to pass
+that to the template to be rendered. Let's write a controller spec for that
+behaviour, inside our existing describe block:
 
 {% highlight ruby %}
 let(:widget_class) { class_spy('Widget').as_stubbed_const }
@@ -286,12 +300,12 @@ expectations.
 Next up is the ability to replace constants during the test run. You'll see
 that we're defining a test double for the `Widget` class. Calling
 `as_stubbed_const` on that class defines, for the duration of each test, the
-constant `Widget` which is the test double. In the olden days of rspec 2, we'd
-have to either use dependency injection to supply an alternative widget
-(something that's tricky with implicitly instantiated controllers in Rails), or
-we'd have to define a partial test double, where we supply stubbed
-implementations for particular methods. This would be something along the lines
-of:
+constant `Widget` as the test double. In the olden days of rspec 2, we'd have
+to either use dependency injection to supply an alternative widget
+implementation (something that's tricky with implicitly instantiated
+controllers in Rails), or we'd have to define a partial test double, where we
+supply stubbed implementations for particular methods. This would be something
+along the lines of:
 
 {% highlight ruby %}
 before(:each) do
@@ -355,12 +369,15 @@ and, finally, `app/views/widgets/widget.html.erb`:
 <% end %>
 {% endhighlight %}
 
-Our controller tests and our scenarios pass, time to pack up for the day and
-head to the pub for a celebratory beer! In part 2, we'll drive out the
-behaviour of sending a command to the model, and figuring out what to do based
-upon its response.
+Our controller tests and our scenarios pass, time to commit our code, push to
+production, pack up for the day and head to the pub for a celebratory beer! In
+part 2, we'll drive out the behaviour of sending a command to the model, and
+figuring out what to do based upon its response.
 
-[rspec]: <https://relishapp.com/rspec> (RSpec is a Behaviour-Driven Development tool for Ruby programmers.)
-[the rspec book]: <https://pragprog.com/book/achbd/the-rspec-book> (Behaviour-Driven Development with RSpec, Cucumber, and Friends)
-[capybara]: <http://jnicklas.github.io/capybara/> (Test your app with Capybara)
-[rubocop]: <https://github.com/bbatsov/rubocop> (A Ruby static code analyzer, based on the community Ruby style guide.)
+You can find a copy of the code so far on the [part 1 branch](https://github.com/mathie/widgets/tree/part-1) in GitHub.
+
+[rspec]: https://relishapp.com/rspec "RSpec is a Behaviour-Driven Development tool for Ruby programmers."
+[the rspec book]: https://pragprog.com/book/achbd/the-rspec-book "Behaviour-Driven Development with RSpec, Cucumber, and Friends"
+[capybara]: http://jnicklas.github.io/capybara/ "Test your app with Capybara"
+[rubocop]: https://github.com/bbatsov/rubocop "A Ruby static code analyzer, based on the community Ruby style guide."
+[guard]: http://guardgem.org "Guard is a command line tool to easily handle events on file system modifications."
