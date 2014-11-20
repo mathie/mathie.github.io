@@ -244,20 +244,20 @@ for exists, verify that there really is a method which takes the same number of
 arguments. Lets fat-finger our before block:
 
 {% highlight ruby %}
-  before(:each) do
-    allow(widget_class).to receive(:carrot) { widget }
-  end
+before(:each) do
+  allow(widget_class).to receive(:carrot) { widget }
+end
 {% endhighlight %}
 
 Running our tests reveals our mistake:
 
-```
+{% highlight bash %}
 1) WidgetsController POST create checks to see if the operation was a success
    Failure/Error: allow(widget_class).to receive(:carrot) { widget }
      Widget does not implement: carrot
    # ./spec/controllers/widgets_controller_spec.rb:84:in `block (3 levels) in <top (required)>'
    # -e:1:in `<main>'
-```
+{% endhighlight %}
 
 The slight snag is that the object being stubbed needs to be around when it is
 being stubbed, so that rspec can verify the methods really exist. In practice,
