@@ -374,7 +374,9 @@ production, pack up for the day and head to the pub for a celebratory beer! In
 part 2, we'll drive out the behaviour of sending a command to the model, and
 figuring out what to do based upon its response.
 
-You can find a copy of the code so far on the [part 1 branch](https://github.com/mathie/widgets/tree/part-1) in GitHub.
+You can find a copy of the code so far on the [part 1 branch](https://github.com/mathie/widgets/tree/part-1) in GitHub. Once you've
+had that celebratory beer, head across to [part 2](/articles/specifying-rails-controllers-with-rspec-part-2/) to continue our
+exploration of RSpec while implementing a command-style action.
 
 [rspec]: https://relishapp.com/rspec "RSpec is a Behaviour-Driven Development tool for Ruby programmers."
 [the rspec book]: https://pragprog.com/book/achbd/the-rspec-book "Behaviour-Driven Development with RSpec, Cucumber, and Friends"
