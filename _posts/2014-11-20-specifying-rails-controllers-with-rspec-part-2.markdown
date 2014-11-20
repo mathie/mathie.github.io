@@ -328,4 +328,10 @@ end
 
 Done, our unit tests are passing and, better still, it's been enough to make
 the integration test pass, too! Winning. :) Time to commit, push to production,
-and treat ourselve to a takeout pizza for dinner. As with part 1, you can find the code on GitHub, on the [part 2 branch](https://github.com/mathie/widgets/tree/part-2).
+and treat ourselve to a takeout pizza for dinner. As with part 1, you can find
+the code on GitHub, on the [part 2 branch](https://github.com/mathie/widgets/tree/part-2). Tomorrow, let's have a
+look at how to test our model -- right now, since we don't have an integration
+test to demonstrate it, we don't know that widgets without a name do the right
+thing (I can honestly say I haven't tried this project in the browser, but I'm
+confident that submitting a widget without a name is going to raise an
+exception, which isn't the sort of behaviour our client would like.)
