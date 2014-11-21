@@ -2,7 +2,7 @@
 title: Using ssh-agent and screen together
 redirect_from:
   - "/2005/08/17/using-ssh-agent-and-screen-together/"
-  - "/blog/2005/08/17/using-ssh-agent-and-screen-together.html"
+  - "/blog/2005/8/17/using-ssh-agent-and-screen-together.html"
 category: Ops
 tags:
   - ssh
