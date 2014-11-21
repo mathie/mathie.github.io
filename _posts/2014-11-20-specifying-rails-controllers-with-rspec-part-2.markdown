@@ -2,6 +2,15 @@
 title: Specifying Ruby on Rails Controllers with RSpec
 subtitle: "Part 2: Command actions"
 category: Programming
+tags:
+  - ruby
+  - rails
+  - rspec
+  - mocking
+  - capybara
+  - testing
+  - test-driven development
+  - behaviour-driven development
 ---
 
 Back in [part 1](/articles/specifying-rails-controllers-with-rspec/),
