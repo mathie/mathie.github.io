@@ -142,3 +142,24 @@ On the plus side, this code has been useful for modelling invoices in a number
 of subsequent projects, which has been a time saver for a few clients! Of
 course, if you're looking for a full-featured accounting system, your best bet
 would be to check out [FreeAgent](http://freeagent.com/)!
+
+## Conclusion
+
+It's been fun to run through these apps, and to try and remember a bit about
+accounting. It's been a while, and to be honest, I'm not upset that some of the
+minutiae of VAT accounting has leaked out of my head. What has impressed me
+most, though, is how
+[erosion-resistant](https://devcenter.heroku.com/articles/erosion-resistance)
+these code bases have been. I haven't touched any of them in more than three
+years. However, for the most part all I needed to do was install an appropriate
+version of Ruby (1.9.x), run `bundle install` to install the gem dependencies,
+and fire up an app server with `foreman start`. Everything just worked. The
+only problem I ran into was a particular version of devise (1.4.4) having been
+removed from [rubygems.org](http://rubygems.org/), but just tweaking the
+version requirement to `~> 1.4.5` solved that.
+
+The same can't be said of a couple of the other apps I found; anything with a
+dependency on a native extension -- in particular, on libxml, or libv8 -- had
+problems compiling on Mac OS X Yosemite. I can definitely see how building a
+docker image for projects will help prevent erosion in future, something I need
+to investigate in more detail in a future post. :)
