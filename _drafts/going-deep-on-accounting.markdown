@@ -1,7 +1,20 @@
 ---
 title: Going Deep on Accounting
 subtitle: Learning the problem domain through code
+excerpt: |
+  A bit of an archaeology dig in ancient home directories turned up a couple of
+  Rails apps that I built while I was studying for a Diploma in Accounting.
+  Let's see if we can dust them off a little and learn something from them.
 category: Programming
+tags:
+  - accounting
+  - t-tables
+  - cost accounting
+  - usp
+  - freeagent
+  - invoicing
+  - stock
+  - erosion-resistance
 ---
 
 I like to think of it as my personal <abbr title="Unique Selling Point" class="initialism">USP</abbr>:
