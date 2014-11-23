@@ -11,6 +11,8 @@ tags:
   - containers
   - puppet
   - phusion
+  - jekyll
+  - nginx
 ---
 
 I'm a bit behind the times when it comes to containerised deployments. I've
@@ -24,12 +26,12 @@ With Vagrant at my back, and with all the experience I've picked up from
 deploying Puppet I've largely ignored the new hotness that is [Docker][] --
 after all, it's just Solaris Zones, right? ;)
 
-I have to admit, I did have a wee poke around with Docker a few months back,
-but gave up. The trouble is that I'm obstinate: I've paid for a
-[VMWare Fusion][] license, and I'm insisting on using it. The Vagrant support
-for Docker uses [boot2docker][], which only supports [VirtualBox][], so I'm
-left high and dry. I figured it was time to get around that and get a reliable
-way to run docker containers on my Mac OS X laptop.
+I have to admit, I did have a wee poke around with Docker on my laptop a few
+months back, but quickly gave up. The trouble is that I'm obstinate: I've paid
+for a [VMWare Fusion][] license, and I'm insisting on using it. The Vagrant
+support for Docker uses [boot2docker][], which only supports [VirtualBox][], so
+I'm left high and dry. I figured it was time to get around that and figure out
+a reliable way to run docker containers on my Mac OS X laptop.
 
 The trouble, of course, is that Docker is a Linux technology, so it doesn't run
 natively on Mac OS X. So we need a Linux VM to run the containers. Let's just
@@ -45,11 +47,14 @@ So, what do we want from this Linux VM?
   worrying about hard coding IP addresses, or forwarding ports back to the host
   machine.
 
-* Most importantly, it is running a recent stable version of Docker.
+* Most importantly, it should be running a recent stable version of Docker.
 
-* It has (a portion of) the Mac OS X host file system shared with it, so that we can, in turn, share portions of that filesystem with docker containers.
+* It has (a portion of) the Mac OS X host file system shared with it, so that
+  we can, in turn, share portions of that filesystem with docker containers.
 
-You can find the full configuration up on GitHub: [Vagrantfile][]. Let's step through it. All the configuration is wrapped in a standard vagrant configuration block:
+You can find the full configuration up on GitHub: [Vagrantfile][]. Let's step
+through it. All the configuration is wrapped in a standard vagrant
+configuration block:
 
 {% highlight ruby %}
 VAGRANTFILE_API_VERSION = "2"
@@ -78,8 +83,8 @@ end
 {% endhighlight %}
 
 We'll give the box a well-known hostname because, along with installing
-avahi-daemon shortly, that will allow us to refer to the vm by name, instead of
-having to discover its IP address manually:
+`avahi-daemon` shortly, that will allow us to refer to the vm by name, instead
+of having to discover its IP address manually:
 
 {% highlight ruby %}
 config.vm.hostname = 'docker.local'
@@ -92,10 +97,10 @@ convenient, so that we can share folders with docker containers later on:
 config.vm.synced_folder ENV['HOME'], '/mnt'
 {% endhighlight %}
 
-This way, our entire home directory on Mac OS X will be available in `/mnt/` on
+This way, our entire home directory on Mac OS X will be available in `/mnt` on
 the Linux VM. Handy. (I did initially muck around with mounting it on
 `/home/vagrant`, but that turned out to create problems with SSH keys, so I
-punted and mounted it elsewhere.)
+punted and mounted it somewhere neutral.)
 
 Now all we need is a bit of shell magic to provision the machine. Specify a shell script provisioner with:
 
@@ -195,6 +200,9 @@ most recently generated version of this web site. And it's coming from a docker
 container inside a Linux VM running in VMWare Fusion, which is managed by
 Vagrant, which is running on our Mac OS X host. It's amazing it looks so fresh
 after travelling all that distance, eh?
+
+The next step will be to try and serve up something a little more complex --
+say, a simple Rails app -- with multiple containers. But that's for another day.
 
 [Vagrant]: http://vagrantup.com/ "Create and configure lightweight, reproducible, and portable development environments."
 [Puppet]: http://puppetlabs.com "Manage IT infrastructure as code across all environments."
