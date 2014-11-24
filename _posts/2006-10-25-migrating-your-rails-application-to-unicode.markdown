@@ -1,6 +1,8 @@
 ---
 title: Migrating your Rails application to Unicode
-redirect_from: "/2006/10/25/migrating-your-rails-application-to-unicode/"
+redirect_from:
+  - "/2006/10/25/migrating-your-rails-application-to-unicode/"
+  - "/blog/2006/10/25/migrating-your-rails-application-to-unicode.html"
 category: Programming
 tags:
   - unicode
