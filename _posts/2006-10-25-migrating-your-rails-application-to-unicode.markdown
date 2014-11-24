@@ -1,11 +1,13 @@
 ---
 title: Migrating your Rails application to Unicode
+redirect_from: "/2006/10/25/migrating-your-rails-application-to-unicode/"
 category: Programming
 tags:
   - unicode
   - ruby
   - rails
   - mysql
+  - utf8
 ---
 **Update** Make sure you read the comments on this post before considering it.  In particular, [Pete](http://woss.name/2006/10/25/migrating-your-rails-application-to-unicode/#comment-13156) brings up some concerns about applications having data which is already UTF-8, but marked as Latin1 in the database, may cause problems.
 
