@@ -251,10 +251,10 @@ We haven't yet got to the stage where we can serve up these components, though,
 since they are outside the web root. Let's get the CSS sorted, in the next
 part, then worry about the Javascript in a bit.
 
-[bootstrap]: <http://getbootstrap.com/> (Twitter Bootstrap: The most popular front-end framework for developing responsive, mobile first projects on the web)
-[jquery]: <http://jquery.com> (jQuery: Write less, do more)
-[bower]: <http://bower.io> (Bower: A package manager for the web)
-[npm]: <https://www.npmjs.org> (Node Package Manager)
-[nodejs]: <http://nodejs.org> (NodeJS)
-[homebrew]: <http://brew.sh> (Homebrew: The missing package manager for OS X)
-[coffeescript]: <http://coffeescript.org> (CoffeeScript: a little language that compiles into JavaScript)
+[bootstrap]: http://getbootstrap.com/ "Twitter Bootstrap: The most popular front-end framework for developing responsive, mobile first projects on the web"
+[jquery]: http://jquery.com "jQuery: Write less, do more"
+[bower]: http://bower.io "Bower: A package manager for the web"
+[npm]: https://www.npmjs.org "Node Package Manager"
+[nodejs]: http://nodejs.org "NodeJS"
+[homebrew]: http://brew.sh "Homebrew: The missing package manager for OS X"
+[coffeescript]: http://coffeescript.org "CoffeeScript: a little language that compiles into JavaScript"
