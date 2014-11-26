@@ -1,9 +1,23 @@
 ---
 title: Dockerising a Rails App
+excerpt: |
+  Today we're going to explore how to bundle up a sample Ruby on Rails
+  application into Docker images, run containers locally in our development
+  environment, and link the containers together so they can talk to each other.
+  On the way, we'll automate the build with Rake, and discover a little more
+  about how container linking actually works.
 category: Ops
+tags:
+  - docker
+  - ruby
+  - rails
+  - nginx
+  - postgresql
+  - runit
+  - phusion
 ---
 
-Yesterday, we learned how to get [Vagrant, Docker & VMWare Fusion][part-1]
+Last time, we learned how to get [Vagrant, Docker & VMWare Fusion][part-1]
 running locally on our Mac development environment, and even convinced it to
 serve a trivial static blog through nginx. Today, we're going to up our game
 and get a full Ruby on Rails application running in the docker environment,
@@ -124,9 +138,9 @@ ENV PORT 5000
 ENV SECRET_KEY_BASE sekritkey
 {% endhighlight %}
 
-It turns out that we can use environment variables we've set later on in the
-configuration file. We'll make use of this so we don't repeat ourselves when
-specifying the port that the application server will expose:
+It turns out that we can use environment variables we've set here, later on in
+the configuration file. We'll make use of this so we don't repeat ourselves
+when specifying the port that the application server will expose:
 
 {% highlight bash %}
 EXPOSE ${PORT}
@@ -380,13 +394,16 @@ PING chickens (172.17.0.178): 48 data bytes
 
 Winning. This is particularly useful for the likes of nginx, where we can't use
 environment variables in that particular context. Our alternative would have
-been to figure out some sort of template nginx configuration that had
-particular variables we could substitute when the container was run, and that
-would have been too much like hard work!
+been to figure out some sort of template nginx configuration that had variables
+we could substitute when the container was run, and that would have been too
+much like hard work!
 
 ## Running the web front end
 
-So, to recap, now we have two running containers: one for PostgreSQL, and one for the app itself. And we've built two custom containers: one for the app itself, and one with static assets for the web front end. The final piece of the puzzle is to start up the web front end:
+So, to recap, now we have two running containers: one for PostgreSQL, and one
+for the app itself. And we've built two custom containers: one for the app
+itself, and one with static assets for the web front end. The final piece of
+the puzzle is to start up the web front end:
 
 {% highlight bash %}
 docker run -d \
@@ -421,6 +438,12 @@ It feels like it's been a long trek to get here, but we've achieved a lot:
   Personally, I'm most pleased about that, because I hadn't properly understood
   it until now!
 
+I do have one question that you might know the answer to, if you've suffered
+your way through this entire rambling article: in a Docker configuration file,
+what's the difference between `COPY` and `ADD`? The only difference I can see
+is that `ADD` will accept source URLs in addition to files in the image's build
+context. I suspect there's a subtle difference in caching behaviour, but I
+could be way off base!
 
 
 [part-1]: /articles/vagrant-docker-and-vmware-fusion/ "Vagrant, Docker & VMWare Fusion: Oh my!"
@@ -430,3 +453,4 @@ It feels like it's been a long trek to get here, but we've achieved a lot:
 [runit]: http://smarden.org/runit/ "a UNIX init scheme with service supervision"
 [syslog-ng]: http://www.balabit.com/network-security/syslog-ng/opensource-logging-system
 [Dockerfile]: https://github.com/mathie/widgets/tree/master/Dockerfile
+[nginx container]: https://registry.hub.docker.com/_/nginx/ "Official build of nginx at the Docker Registry."
