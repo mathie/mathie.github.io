@@ -96,9 +96,9 @@ the app.
 
 ### The Dockerfile
 
-Let's start building out a [`Dockerfile`][Dockerfile] for our application
-server. First we start with some boilerplate, specifying the image we're
-building on, and that we're maintaining this version:
+Let's start building out a [Dockerfile][Dockerfile] for our application server.
+First we start with some boilerplate, specifying the image we're building on,
+and that we're maintaining this version:
 
 {% highlight bash %}
 FROM phusion/baseimage
@@ -344,7 +344,9 @@ There are a couple of things that we want to manage with rake:
 
 * And, of course, we need to build the images themselves.
 
-Let's create our rake tasks in `lib/tasks/docker.rake` with the following:
+Let's create our rake tasks in
+[lib/tasks/docker.rake](https://github.com/mathie/widgets/blob/master/lib/tasks/docker.rake)
+with the following:
 
 {% highlight ruby %}
 namespace :docker do
@@ -367,7 +369,9 @@ end
 {% endhighlight %}
 
 Now we can run `rake docker:build` to build our pair of docker images, one for
-the web front end, and one for the app itself.
+the web front end, and one for the app itself. If you take a look at the file
+in GitHub, you'll see that I've also added some helper tasks to automate
+running and terminating the containers in the right order with the right links.
 
 ## Container Host Names
 
@@ -452,5 +456,5 @@ could be way off base!
 [Docker Registry]: https://registry.hub.docker.com
 [runit]: http://smarden.org/runit/ "a UNIX init scheme with service supervision"
 [syslog-ng]: http://www.balabit.com/network-security/syslog-ng/opensource-logging-system
-[Dockerfile]: https://github.com/mathie/widgets/tree/master/Dockerfile
+[Dockerfile]: https://github.com/mathie/widgets/blob/master/Dockerfile.app
 [nginx container]: https://registry.hub.docker.com/_/nginx/ "Official build of nginx at the Docker Registry."
