@@ -201,3 +201,4 @@ geeky analogies to describe other therapies?
 [Wind in the Willows]: http://www.amazon.co.uk/gp/product/1405264152/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1405264152&linkCode=as2&tag=mathieoftheen-21&linkId=7LLEWF36PACNM27P "The Wind in the Willows"
 [Eric Berne]: http://www.ericberne.com "Dr. Eric Berne is the author of Games People Play, the groundbreaking book in which he introduces Games and Transactional Analysis to the world."
 [Games People Play]: http://www.amazon.co.uk/gp/product/B002RI9IPG/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B002RI9IPG&linkCode=as2&tag=mathieoftheen-21&linkId=IS2G6GHLKK75GK27 "Games People Play: The Psychology of Human Relationships"
+[Imposter Syndrome]: http://en.wikipedia.org/wiki/Impostor_syndrome "a psychological phenomenon in which people are unable to internalize their accomplishments."
