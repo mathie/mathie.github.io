@@ -162,14 +162,14 @@ Transactions follow a couple of different patterns:
   the first participant is engaged as an Adult <-> Adult, but the respondent is
   really in the Child ego state and responds as they would to a Parent. This transaction often results in conflict.
 
-A "game" is a sequence of transactions that between two parties that lead to a
-predetermined outcome. Though not done consciously, both parties subconsciously
-know the outcome of the game and act their parts in it. Since this behaviour is
-subconscious, it's always enacted between the Parent and Child ego states of
-the participants, since the Adult ego is the conscious awareness. Eric Berne's
-best known book, [Games People Play][] defines a catalogue of well known games,
-describing the roles played in each, and the payoff that the players are
-looking for.
+A "game" is a sequence of transactions that occurs between two or more parties
+and leads to a predetermined outcome. Though not done consciously, both parties
+subconsciously know the outcome of the game and act their parts in it. Since
+this behaviour is subconscious, it's always enacted between the Parent and
+Child ego states of the participants, as the Adult ego is the conscious
+awareness. Eric Berne's best known book, [Games People Play][] defines a
+catalogue of common games, describing the roles played in each, and the payoff
+that the players are looking for.
 
 ## Counselling For Geeks
 
@@ -184,7 +184,7 @@ Compassion-Focused Therapy.
 
 I've had a little experience with most of them over the past year. There are
 many common themes throughout them, but there are some interesting differences,
-too. Different therapies suit different people, so it's interesting to look at
+too. Different therapies suit different people, so it's interesting to contrast
 the different techniques.
 
 And I'd really like to figure out some analogous concepts from computer
