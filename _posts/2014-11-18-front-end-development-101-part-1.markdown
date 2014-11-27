@@ -1,6 +1,6 @@
 ---
 title: Front End Development 101
-subtitle: Part 1 of 3
+subtitle: "Part 1: Goals, Go, Node and Bower"
 category: Programming
 tags:
   - JavaScript

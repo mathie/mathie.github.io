@@ -219,14 +219,24 @@
                       <li class="active">
                         <a href="{{ post.url }}">
                           {{ post.title }}
-                          <span class="badge">{{ post.subtitle }}</span>
+                          {{ if post.subtitle }}
+                            <br>
+                            <small>
+                              {{ post.subtitle }}
+                            </small>
+                          {{ endif }}
                         </a>
                       </li>
                     {% else %}
                       <li>
                         <a href="{{ post.url }}">
                           {{ post.title }}
-                          <span class="badge">{{ post.subtitle }}</span>
+                          {{ if post.subtitle }}
+                            <br>
+                            <small class="text-muted">
+                              {{ post.subtitle }}
+                            </small>
+                          {{ endif }}
                         </a>
                       </li>
                     {% endif %}

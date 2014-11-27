@@ -1,5 +1,6 @@
 ---
 title: Specifying Ruby on Rails Controllers with RSpec
+subtitle: "Part 1: Query-style actions"
 excerpt: |
   RSpec has come a long way since I last used it in anger. Today, I'm starting
   through a worked example on test-driving a Ruby on Rails controller with
