@@ -43,6 +43,9 @@ exclude:
   - LICENSE
   - README.md
 
+sass:
+  style: :compressed
+
 # GitHub-enforced defaults
 highlighter: pygments
 lsi: false
