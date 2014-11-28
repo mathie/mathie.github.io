@@ -1,6 +1,10 @@
 ---
 title: HYPERPOWER!
 subtitle: Putting the caps lock key to work
+excerpt: |
+  Today, we'll figure out how to replace the caps lock key with the (far more
+  useful) HYPER key on Mac OS X, and have a think about the different ways we
+  can put it to use.
 category: Ops
 tags:
   - hyper
