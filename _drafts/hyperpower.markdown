@@ -71,25 +71,14 @@ indication when the caps lock is active in a password field, but still. Let's di
 There we go, that's the caps lock key neutered. Hit it and note that the wee
 light on the top left doesn't come on. Winning.
 
-<div class="row">
-  <div class="col-sm-10 col-sm-offset-1">
-    <a href="#keyboard-preferences-lightbox" data-toggle="lightbox" class="thumbnail text-muted text-center" title="Click for a larger version.">
-      <img src="/img/keyboard-preferences.png" alt="Switching off the Caps Lock key in system preferences.">
-      <small>Click for a larger version.</small>
-    </a>
-  </div>
-</div>
-
-<div id="keyboard-preferences-lightbox" class="lightbox fade" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="lightbox-dialog">
-    <div class="lightbox-content">
-      <img src="/img/keyboard-preferences.png" alt="Kittens!">
-      <div class="lightbox-caption">
-        Switching off the Caps Lock key in system preferences.
-      </div>
-    </div>
-  </div>
-</div>
+<figure class="thumbnail">
+  <img src="/img/keyboard-preferences.png" alt="Switching off the Caps Lock key in system preferences." class="img-responsive">
+  <figcaption class="caption">
+    <p>
+      Switching off the caps lock key in system preferences. Set the value for Caps Lock to "No Action" to completely disable its default behaviour.
+    </p>
+  </figcaption>
+</figure>
 
 ## Putting the Caps Lock Key to Work
 

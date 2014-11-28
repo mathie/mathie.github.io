@@ -39,35 +39,20 @@ here, that should be simpler. :)
 
 ## Images
 
-I've got a clump of code to insert a thumbnail image, which then expands to a
-full size image in a lightbox style modal. It's not terribly elegant -- I could
-probably tidy it up to automatically generate the modal in JS based on the
-thumbnail itself. But it'll do for now.
+I've got a clump of code to insert a thumbnail image. It's not terribly elegant
+but it'll do for now.
 
-    <div class="row">
-      <div class="col-sm-10 col-sm-offset-1">
-        <a href="#kitten-lightbox" data-toggle="lightbox" class="thumbnail text-muted text-center" title="Click for a larger version.">
-          <img src="http://placekitten.com/g/1024/768" alt="Kittens!">
-          <small>Click for a larger version.</small>
-        </a>
-      </div>
-    </div>
-
-    <div id="kitten-lightbox" class="lightbox fade" tabindex="-1" role="dialog" aria-hidden="true">
-      <div class="lightbox-dialog">
-        <div class="lightbox-content">
-          <img src="http://placekitten.com/g/1024/768" alt="Kittens!">
-          <div class="lightbox-caption">
-            Cute Kittens.
-          </div>
-        </div>
-      </div>
-    </div>
+    <figure class="thumbnail">
+      <img src="/img/keyboard-preferences.png" alt="Switching off the Caps Lock key in system preferences." class="img-responsive">
+      <figcaption class="caption">
+        <p>
+          Switching off the caps lock key in system preferences. Set the value for Caps Lock to "No Action" to completely disable its default behaviour.
+        </p>
+      </figcaption>
+    </figure>
 
 Customise the:
 
-* anchor link fragment and id of the lightbox.
+* The image `src` and `alt` tags.
 
-* The image `src` and `alt` tags (in both places).
-
-* The caption inside the lightbox.
+* The caption..
