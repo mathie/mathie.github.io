@@ -18,6 +18,7 @@
       <title>{{ page.title }} | {{ site.name }}</title>
       <meta property="og:title" content="{{ page.title }}">
       <meta name="twitter:title" content="{{ page.title }}">
+      <meta class="swiftype" name="title" data-type="string" content="{{ page.title }}" />
     {% else %}
       <title>{{ site.name }}</title>
       <meta property="og:title" content="{{ site.name }}">
@@ -47,11 +48,13 @@
         <meta name="keywords" content="{{ page.tags | join }}">
         {% for tag in page.tags %}
           <meta property="article:tag" content="{{ tag }}">
+          <meta class="swiftype" name="tags" data-type="string" content="{{ tag }}" />
         {% endfor %}
       {% endif %}
 
       {% if page.date %}
         <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+        <meta class="swiftype" name="published_at" data-type="date" content="{{ page.date | date_to_xmlschema }}" />
 
         {% if page.updated %}
           <meta property="article:modified_time" content="{{ page.updated | date_to_xmlschema }}">
@@ -78,6 +81,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml">
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <meta class="swiftype" name="url" data-type="enum" content="{{ site.url }}{{ page.url }}" />
 
     <meta property="og:image" content="http://www.gravatar.com/avatar/e9ed0907ebed6ba7ac45c3243261b86d.png">
     <meta property="og:image:type" content="image/png">
