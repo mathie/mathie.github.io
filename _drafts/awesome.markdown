@@ -1,0 +1,34 @@
+---
+title: AWESOME!!!1!
+---
+
+I've been reading Roddy Doyle's [Brilliant][] over the past couple of evenings,
+with a view to reading it to our kids, M and Em. We've been looking for ways to
+explain the Black Dog of Depression to the kids, especially after the events of
+the past year. The book is as good as its title boldly states. It explains the
+effects of depression from the perspective of the kids whose parents, or
+family, are suffering from it. I won't lie: it made me cry, because it struck a
+real chord.
+
+But the message hit me literally, too. I'm not a Dubliner, and I've not really
+attached much significance to the word, "brilliant". But I am a geek, and I've
+lived in the geek community for the past couple of decades. We picked a word to
+express brilliance. It was "awesome". We used it to describe things that were
+great; we used it to express joy. We sort of wore it out. Then we became jaded.
+"Awesome" became a derided word. It was used sarcastically. It was used to
+dismiss things that really were awesome.
+
+It's hard to remember whether I stopped using the word 'awesome' because it
+became jaded, or whether I stopped using it because the Black Dog had taken
+hold. Honestly, looking back, I still don't know when the Black Dog took over,
+but it's been a feature of my life for years, now.
+
+I want the Black Dog to fuck right off. I want 'me' back. So, in the hopes that it works just like the book, I'd like to say:
+
+<div class="jumbotron text-center">
+  <h1>AWESOME!!!1!</h1>
+</div>
+
+If enough of us yell it, and believe it, I hope we can chase the Black Dog away.
+
+[Brilliant]: http://www.amazon.co.uk/gp/product/B00IXLVUC0/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00IXLVUC0&linkCode=as2&tag=mathieoftheen-21&linkId=KAPLESSILD6X7A3V
