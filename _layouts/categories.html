@@ -36,7 +36,7 @@ layout: default
       </hgroup>
     </header>
 
-    <section id="article-body" itemprop="text description articleBody">
+    <div id="article-body" itemprop="text description articleBody">
       {% if page.excerpt %}
         <div class="lead">
           {{ page.excerpt | markdownify }}
@@ -44,6 +44,6 @@ layout: default
       {% endif %}
 
       {{ content }}
-    </section>
+    </div>
   </div>
 </div>
