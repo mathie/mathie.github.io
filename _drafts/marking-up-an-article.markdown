@@ -94,7 +94,7 @@ description and the tags:
 (I'll shorten the description from now on, since it gets repeated a few times.
 You get the idea, I'm sure.) Finally, we'll specify the canonical URL for the article, which is the One True Resource Location people should link to when they're sharing your article.
 
-    <link rel="canonical" href="http://woss.name/articles/hyperpower/">
+    <link rel="canonical" href="https://woss.name/articles/hyperpower/">
 
 This is useful if, say, for example, you have individual pages for each
 article, but you also display the latest article on the home page of your site.

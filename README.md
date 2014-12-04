@@ -5,7 +5,7 @@ many incarnations of my blog, and several have tried to carry over the previous
 versions. This time I've decided to start afresh - at best the old content was
 a bit dusty; at worst, it was downright misleading. Time for a fresh start.
 
-You can find the new blog at <http://woss.name/> and it reflects the
+You can find the new blog at <https://woss.name/> and it reflects the
 [master](https://github.com/mathie/mathie.github.io/tree/master) branch.
 
 You can find the old blog at <http://old.woss.name/> and it reflects the

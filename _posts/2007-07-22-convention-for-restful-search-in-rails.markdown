@@ -10,7 +10,7 @@ tags:
   - rails
   - code
 ---
-Back in RailsConf Europe last year, at [David's Keynote](http://woss.name/2006/09/30/railsconf-europe-2006-first-plenary-dhh/), it was said that:
+Back in RailsConf Europe last year, at [David's Keynote](/2006/09/30/railsconf-europe-2006-first-plenary-dhh/), it was said that:
 
 > There are unresolved decisions with respect to the restful controllers. In particular, what should the convention be for searching? A separate action? Or parameters passed to the index action?
 

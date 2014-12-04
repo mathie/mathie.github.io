@@ -17,7 +17,7 @@ I've been using DreamHost for a number of things over the past couple of years -
 
 * I've had incoming messages, from a friend's Yahoo address, turn up over a week late because of an apparent misconfiguration in the spam filtering system.
 
-* I'm still having outgoing messages bounced because they are [regularly listed in Spamcop](http://woss.name/2006/07/17/outgoing-mail-grumps/).  See the linked post for a more balanced discussion of that, but it still doesn't help me communicate with the people who's ISP uses Spamcop!
+* I'm still having outgoing messages bounced because they are [regularly listed in Spamcop](/2006/07/17/outgoing-mail-grumps/).  See the linked post for a more balanced discussion of that, but it still doesn't help me communicate with the people who's ISP uses Spamcop!
 
 * The spam filtering has been going remarkably downhill, with me getting much more spam in my inbox.  This could be something to do with the copy of amavisd dating from June 2003, though I don't know if they update the rules system separately/more frequently.
 
@@ -25,7 +25,7 @@ Umm, oops.  This wasn't actually meant to be a rant about DH's mail service, mor
 
 So, anyway, over the weekend I finally bit the bullet and switched my email to Gmail, using their [Google Apps for your Domain](https://www.google.com/a/) service.  I had expected to try and signup only to be told that it was still a limited beta and that I'd have to wait.  However, after filling in a brief survery, it took me to a page to setup the account.  Excellent!
 
-The switchover was reasonably painless.  I set up the Google side of things, did the verification process to demonstrate that I had control over the domain (uploading a file to <http://woss.name/>) and things were working nicely.  They have a 'test domain' that you can use to push mail into your new account until you've set things up properly (it has already disappeared, so I guess it only hangs around until your MX record is set up).
+The switchover was reasonably painless.  I set up the Google side of things, did the verification process to demonstrate that I had control over the domain (uploading a file to <https://woss.name/>) and things were working nicely.  They have a 'test domain' that you can use to push mail into your new account until you've set things up properly (it has already disappeared, so I guess it only hangs around until your MX record is set up).
 
 Next up was to switch across my configuration at DH.  I configured my existing accounts at woss.name to forward to equivalent addresses at the test domain Google had set up for me.  I then also changed the MX record for woss.name to point to Google, as they described for me.  However, I selected the checkbox that said DH should still accept mail for my domain.  This meant that, while the new MX records were propagating, my email still worked with no downtime.  However, you probably want to remember to switch that off again after the MX records have propagated.
 

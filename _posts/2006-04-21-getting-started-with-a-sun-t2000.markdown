@@ -15,7 +15,7 @@ and tribulations I have with a [Sun Fire
 T2000](http://www.sun.com/servers/coolthreads/t2000/test/overview_a.jsp?name=A)
 over the coming weeks while I have it on trial.  This is going to be an interesting experience; I have used Sun kit extensively in the past -- I was one of the sysadmins for the [Tardis](http://www.tardis.ed.ac.uk/) project while at University, and since then I've run a variety of Internet services on Sun hardware, ranging from a SparcStation 5 (`homer.mathie.cx`, who used to be in the Usenet top 1000 peers, something I consider impressive for that calibre machine sitting behind a 512kb/s leased line) to a Sparc Ultra 30 (initially my desktop machine, eventually `drusilla.wossname.org.uk`, a replacement for `homer`).  So I'm reasonably familiar, if a little rusty, with Sun hardware and Solaris.  OK, OK, `homer` ran Linux, but at least all the Tardis kit was a mixture of Solaris 7 & 8 (with one machine, `brigadier` still running SunOS 4.1.4!).
 
-You can read the entire series of articles by visiting [the Solaris category](http://woss.name/category/geekery/solaris/) of my blog.  Please help me make these articles as useful and informative as possible by making comments and pointing out corrections -- I do intend to redraft and compile them into a complete how-to in the future.
+You can read the entire series of articles by visiting [the Solaris category](/categories/ops/) of my blog.  Please help me make these articles as useful and informative as possible by making comments and pointing out corrections -- I do intend to redraft and compile them into a complete how-to in the future.
 
 ## Unpack the box ##
 

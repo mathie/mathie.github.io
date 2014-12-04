@@ -11,7 +11,7 @@ tags:
 ---
 
 In a previous post,
-[Thumper: Putting Blastwave on ZFS](http://woss.name/articles/thumper-putting-blastwave-on-zfs/),
+[Thumper: Putting Blastwave on ZFS](/articles/thumper-putting-blastwave-on-zfs/),
 I quickly saw some information and jumped to completely the wrong conclusion.
 In the comments, Boyd kindly pointed out that I should probably investigate it
 a little more thoroughly. So I have. Just to recap, effectively I am trying to

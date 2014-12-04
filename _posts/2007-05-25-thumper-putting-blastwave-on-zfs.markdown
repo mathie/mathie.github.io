@@ -53,4 +53,4 @@ Two questions I have at this stage:
 
 **Update** I've researched the matter more thoroughly and it turns out I'd
 jumped to completely the wrong conclusion. Read the next round of investigation
-at: [Thumper: Debugging and not jumping to conclusions](http://woss.name/articles/thumper-debugging-and-not-jumping-to-conclusions/).
+at: [Thumper: Debugging and not jumping to conclusions](/articles/thumper-debugging-and-not-jumping-to-conclusions/).

@@ -183,7 +183,7 @@ Create a starting point for `package.json` in the project root:
   "name": "style_guide",
   "version": "0.1.0",
   "description": "My simple CSS style guide.",
-  "author": "Graeme Mathieson <mathie@woss.name> (http://woss.name/)",
+  "author": "Graeme Mathieson <mathie@woss.name> (https://woss.name/)",
   "homepage": "https://github.com/mathie/style_guide",
   "repository": "https://github.com/mathie/style_guide"
 }
