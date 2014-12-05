@@ -1,5 +1,14 @@
 ---
 title: AWESOME!!!1!
+excerpt: |
+  We need to reclaim the word awesome and use it to chase the Black Dog of
+  Depression away.
+category: Writing
+tags:
+  - depression
+  - black dog
+  - awesome
+  - brilliant
 ---
 
 I've been reading Roddy Doyle's [Brilliant][] over the past couple of evenings,
