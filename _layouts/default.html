@@ -78,15 +78,17 @@
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml">
     <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-    <meta class="swiftype" name="url" data-type="enum" content="{{ site.url }}{{ page.url }}" />
 
     <meta property="og:image" content="http://www.gravatar.com/avatar/e9ed0907ebed6ba7ac45c3243261b86d.png">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="80">
     <meta property="og:image:height" content="80">
 
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    {% assign canonical_url = page.url | replace: 'index.html', '' | prepend: site.url %}
+    <link rel="canonical" href="{{ canonical_url }}">
+    <meta class="swiftype" name="url" data-type="enum" content="{{ canonical_url }}" />
+    <meta property="og:url" content="{{ canonical_url }}">
+
     <meta property="og:locale" content="en_GB">
     <meta property="og:site_name" content="{{ site.name }}">
 
