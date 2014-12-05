@@ -29,9 +29,10 @@
       If the page has an excerpt, assume it's an article/blog post. Otherwise, assume it's a generic page.
     {% endcomment %}
     {% if page.excerpt %}
-      <meta name="description" content="{{ page.excerpt | markdownify | strip_html }}">
-      <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html }}">
-      <meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html }}">
+    {% assign description = page.excerpt | markdownify | strip_html %}
+      <meta name="description" content="{{ description }}">
+      <meta property="og:description" content="{{ description }}">
+      <meta name="twitter:description" content="{{ description }}">
 
       <meta property="og:type" content="article">
       <meta property="article:author" content="https://woss.name/">
@@ -64,9 +65,10 @@
         {% endif %}
       {% endif %}
     {% else %}
-      <meta name="description" content="{{ site.description | markdownify | strip_html }}">
-      <meta property="og:description" content="{{ site.description | markdownify | strip_html }}">
-      <meta name="twitter:description" content="{{ site.description | markdownify | strip_html }}">
+      {% assign description = site.description | markdownify | strip_html %}
+      <meta name="description" content="{{ description }}">
+      <meta property="og:description" content="{{ description }}">
+      <meta name="twitter:description" content="{{ description }}">
       <meta property="og:updated_time" content="{{ site.time | date_to_xmlschema }}">
 
       <meta property="og:type" content="profile">

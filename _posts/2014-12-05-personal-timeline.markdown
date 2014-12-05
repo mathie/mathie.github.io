@@ -1,6 +1,11 @@
 ---
 title: A Personal Timeline
 subtitle: Recording a personal history
+excerpt: |
+  I built a simple web app to enter details of a personal historical timeline,
+  and use [TimelineJS](http://timeline.knightlab.com/) to display the resulting
+  timeline. Mostly, I'm sharing the code just in case it's of use to somebody
+  else.
 category: Programming
 tags:
   - history

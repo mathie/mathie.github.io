@@ -2,7 +2,7 @@
   <ul class="pager">
     {% if include.post.previous %}
     <li class="previous">
-      <a href="{{ include.post.previous.url }}" title="{{ include.post.previous.title }}">
+      <a href="{{ include.post.previous.url }}" title="{{ include.post.previous.title | strip_html }}">
         <span aria-hidden="true">&larr;</span> Older
       </a>
     </li>
