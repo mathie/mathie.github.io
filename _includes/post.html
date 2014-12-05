@@ -1,7 +1,13 @@
 {% include pagination.html post=include.post %}
 
 <div class="row">
-  <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting" class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2">
+  <nav class="col-xs-2 col-md-3">
+    <h2>Contents</h2>
+    <ul class="nav nav-stacked" id="table-of-contents">
+    </ul>
+  </nav>
+
+  <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting" class="col-xs-9 col-md-8">
 
     <header>
       <hgroup class="page-header">
