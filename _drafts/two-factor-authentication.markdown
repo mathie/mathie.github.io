@@ -66,3 +66,24 @@ key fob and a password. The key (pun intended) is that it’s two separate
 factors. It’s not just two passwords (which you write on the same Post-It
 note), or two door keys (which you keep them on the same keyring), which isn’t
 much more secure than one.
+
+Given that we understand two factors are better than one, how does that work in
+practice? We need to enable "two-factor authentication" on all the web apps we
+want to trust (at least those who implement it!). Most (UK, at least) banks
+support this by supplying their customers with a Chip & PIN reader. This is a
+small, battery-powered, device that can communicate with the chip on your
+credit card. When you supply with Chip & PIN reader with a valid PIN for your
+card (which combines something you have -- the card -- with something you know
+-- the PIN) then it responds with a unique code which demonstrates your
+knowledge. This code is, helpfully, short enough that you can then type it into
+a web form to confirm that you are who you claim to be.
+
+Unless you're a credit card provider, though, it's difficult to justify the
+cost of issuing unique cards -- which, if I recall correctly from University
+days, run JVM byte code -- and card readers. On the plus side, most people have
+mobile phones, and there are a couple of standard protocols that enable apps on
+disconnected devices to generate codes that are suitable for two-factor
+authentication. The actual details of these protocols are well beyond the scope
+of this article, but suffice to say they're "good enough" to be trusted by
+security professionals. Which is good enough for me. Mostly, they rely on a
+universal concept of the current time (within a minute or so).
