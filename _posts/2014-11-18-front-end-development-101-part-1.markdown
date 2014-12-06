@@ -248,8 +248,9 @@ This downloads both Bootstrap and jQuery, unpacks them into the
 "consistent set of source files" goal).
 
 We haven't yet got to the stage where we can serve up these components, though,
-since they are outside the web root. Let's get the CSS sorted, in the next
-part, then worry about the Javascript in a bit.
+since they are outside the web root. Let's get the CSS sorted,
+[in the next part](/articles/front-end-development-101-part-2/), then worry
+about the Javascript in a bit.
 
 [bootstrap]: http://getbootstrap.com/ "Twitter Bootstrap: The most popular front-end framework for developing responsive, mobile first projects on the web"
 [jquery]: http://jquery.com "jQuery: Write less, do more"
