@@ -1,6 +1,11 @@
 ---
 title: Front-end Development 101
 subtitle: "Part 2 (of 3): Using Grunt to automate CSS compilation"
+excerpt: |
+  In the second part of this series, I'm taking a look at using Grunt to
+  automate repetitive tasks and to automatically build artefacts when a source
+  file changes. And we'll use Grunt to compile our stylesheets, from our own
+  Less CSS source, and Twitter Bootstrap.
 category: Programming
 tags:
   - JavaScript
