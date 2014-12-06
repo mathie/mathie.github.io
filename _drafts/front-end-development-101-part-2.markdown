@@ -1,12 +1,13 @@
 ---
 title: Front-end Development 101
-subtitle: (Part 2 of 3)
+subtitle: "Part 2 (of 3): Using Grunt to automate CSS compilation"
 category: Programming
 tags:
   - JavaScript
   - Grunt
   - Less
   - CSS
+  - Bootstrap
   - CoffeeScript
   - Go
 ---
@@ -14,7 +15,7 @@ Since I'm playing around with [Go](http://golang.org/) for back end development
 on my current project, I thought I'd investigate current practices for managing
 assets on the front end. This is part 2 of a rambling log of what I learned
 while I was playing around. I'd recommend reading
-[part 1]({{ post_url 2014-11-18-front-end-development-part-1 }}) for some
+[part 1](/articles/front-end-development-101-part-1/) for some
 background if you haven't already.
 
 ## Installing Grunt
@@ -73,13 +74,13 @@ All that remains to do is configure the less task. This code block is inserted
 as part of the JS object that's passed as an argument to `grunt.initConfig()`:
 
 {% highlight coffeescript %}
-    # less tasks for converting less source to CSS.
-    less:
-      options:
-        paths: [ 'bower_components' ]
-      development:
-        files:
-          "public/assets/stylesheets/application.css": "app/assets/stylesheets/application.less"
+# less tasks for converting less source to CSS.
+less:
+  options:
+    paths: [ 'bower_components' ]
+  development:
+    files:
+      "public/assets/stylesheets/application.css": "app/assets/stylesheets/application.less"
 {% endhighlight %}
 
 It's pretty straightforward, with two things happening:
@@ -87,7 +88,7 @@ It's pretty straightforward, with two things happening:
 * The generated file in `public/assets/stylesheets/application.css` is
   generated from the source file, `app/assets/stylesheets/application.less`.
   (It in turn imports other files, but that's our entry point into
-  {{less}}][lesscss]-land.)
+  [less][lesscss]-land.)
 
 * The `bower_components` folder is added to the search path.
 
@@ -165,27 +166,27 @@ Now to configure it, I've added the following configuration inside the
 `grunt.initConfig()` arguments:
 
 {% highlight coffeescript %}
-    # Watch source files for changes and rebuild the associated assets
-    watch:
-      options:
-        livereload: true
-        spawn: false
-      gruntfile:
-        files: [ "Gruntfile.coffee"]
-        options:
-          reload: true
-      stylesheets:
-        files: [
-          "app/assets/stylesheets/**/*.less",
-          "bower_components/**/*.less"
-        ]
-        tasks: [ "less" ]
+# Watch source files for changes and rebuild the associated assets
+watch:
+  options:
+    livereload: true
+    spawn: false
+  gruntfile:
+    files: [ "Gruntfile.coffee"]
+    options:
+      reload: true
+  stylesheets:
+    files: [
+      "app/assets/stylesheets/**/*.less",
+      "bower_components/**/*.less"
+    ]
+    tasks: [ "less" ]
 {% endhighlight %}
 
 and load the module in the main `module.exports` method:
 
 {% highlight coffeescript %}
-  grunt.loadNpmTasks('grunt-contrib-watch')
+grunt.loadNpmTasks('grunt-contrib-watch')
 {% endhighlight %}
 
 This tells it to watch all the less files in `app/assets/stylesheets` and
@@ -209,3 +210,12 @@ so if you've got the browser plugin installed and enabled (I'm using the
 [Google Chrome Live Reload extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei)
 it will automatically refresh your page when the stylesheets have been rebuilt.
 
+## Conclusion
+
+That's it for today. We've figured out how to use Grunt to automate repetitive
+tasks, and we've figured out how to build our stylesheets, starting with
+Twitter Bootstrap as a solid foundation. Not bad. Next time, we'll finish off
+with a whirlwind tour of JavaScript, image optimisation, and a little bit on
+tidying up after ourselves.
+
+[lesscss]: http://lesscss.org "Less is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow variables, mixins, functions and many other techniques that allow you to make CSS that is more maintainable, themable and extendable."
