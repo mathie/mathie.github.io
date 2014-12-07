@@ -1,5 +1,18 @@
 ---
 title: Scotland's Depression
+excerpt: |
+  Everyone has their own take on Scottish independence. Most people I've read,
+  and understood, have had a very personal, often emotionally charged,
+  perspective on independence, based on their own experiences. This is my
+  attempt to relate the issues to my personal experiences of the past year.
+categories: Writing
+tags:
+  - scotland
+  - independence
+  - depression
+  - therapy
+  - counselling
+  - change
 ---
 
 Everyone has their own take on Scottish independence. Most people I've read,
@@ -21,12 +34,12 @@ world, so that you don't have to deal with their problems on top of your own.
 It sounds like a great solution.
 
 But it doesn't work. You wind up losing the support of those relationships.
-Isolation is not a good thing. And these were strong, mutually supportive
+Isolation is not a good thing. And these were strong, mutually supportive,
 relationships that we've built up over the years. Sure, they might have their
 problems, but overall they're a net benefit.
 
 And the main problem: these relationships are not the underlying problem, so
-making big changes around them aren't going to fix the underlying depression.
+making big changes around them isn't going to fix the underlying depression.
 The effect of the change might be to cheer you up for a while -- after all,
 you'll have a new focus, something to do to keep you busy, something new and
 shiny that you're enthusiastic about -- but that'll wear off pretty quickly.
