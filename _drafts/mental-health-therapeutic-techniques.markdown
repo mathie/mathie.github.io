@@ -57,13 +57,17 @@ There are many common strands throughout these therapies. That in itself is
 interesting -- if common ideas flow through several methodologies, it's
 reasonable to figure that they are good ideas.
 
-* Negative Filter
-* Stilling the Mind
+* Negative Filter -- discounting the positive, stroke filter. TDD is bad for our mental health.
+* Stilling the Mind -- mindfulness, meditation, etc.
 * Core Beliefs
 
 ... carry this on another day. What else do I want to talk about?
 
-* CBT was developed by Aaron Beck, maybe mention the David Burns book I've read, talk about the various aspects of CBT
+* CBT was developed by Aaron Beck, maybe mention the David Burns book I've read, talk about the various aspects of CBT.
+
+## Cognitive Behavioural Therapy
+
+
 [^1]: The use of a [protected title](http://www.hcpc-uk.org.uk/aboutregistration/protectedtitles/) (in the UK, at least) means you have to be registered with the Health & Care Professions Council, usually means that you have to have passed particular exams, and that you are fit to practise in that profession. This is good, because if somebody tells you they're a Paramedic, you know you're in safe hands!
 
-[^2]: I made the interesting discovery that you must have a particular protected title in order to access particular publications -- FIXME: Try and find the test that you can only access if you're a consultant psychologist.
+[^2]: I made the interesting discovery that you must have a particular protected title in order to access particular publications and assessment tools. For example, the [Millon Clinical Multiaxial Inventory (MCMI)](http://www.pearsonclinical.com/psychology/products/100000662/millon-clinical-multiaxial-inventory-iii-mcmiiii.html?Pid=PAg505#tab-details) assessment tool is only available to clinicians a doctorate in psychology. (This strikes me as being akin to security through obscurity, but still.)
