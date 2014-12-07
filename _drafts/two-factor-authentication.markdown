@@ -1,5 +1,25 @@
 ---
 title: Two-Factor Authentication
+exceprt: |
+  Two-factor Authentication is a good thing. It increases the security of your
+  accounts on the Internet, while not proving a major inconvenience. Here's a
+  little bit of background, some options for apps that support it, and a plea
+  to 1Password to support it natively!
+category: Ops
+tags:
+  - passwords
+  - authentication
+  - two-factor
+  - authy
+  - duo
+  - google
+  - security
+  - authorisation
+  - banking
+  - credit cards
+  - chip and pin
+  - yubikey
+  - rsa
 ---
 
 The Internet is full of Bad People Who Want To Steal Your Stuff. Well, no, not
