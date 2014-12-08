@@ -5,6 +5,10 @@
 @import 'bootstrap';
 @import 'code';
 
+body {
+  position: relative;
+}
+
 html, body {
   height: 100%;
 }
@@ -68,4 +72,8 @@ code, pre {
 
 #header a {
   color: white;
+}
+
+#table-of-contents.affix {
+  top: 50px;
 }
