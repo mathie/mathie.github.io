@@ -146,6 +146,13 @@ right decision?" What do you think is the right question?
 
 ---
 
+I've occasionally messed around with extreme examples of the conjecture that
+people are fundamentally good, and that they were doing what they believed to
+be the right thing, given their understanding of the world. How does that work
+with Margaret Thatcher? Yep, despite her being vilified for her treatment of
+miners and Scotland, I think she strongly believed in what she was doing, and
+believed she was doing the right thing. How about Hitler (to invoke Godwin)?
+
 I guess the point here is: understand the context in which a decision was made.
 What you're looking at may seem crazy, or silly, or just plain misinformed. But
 the person who wrote it was doing the best they could, given the context in
@@ -153,6 +160,9 @@ which they were operating. Just like you're currently doing the best you can
 given your current context (which might look crazy in retrospect, too). People
 are good, and they're trying to do the right thing. That's the key thing to
 remember, even when it seems unlikely.
+
+Of course, I'm writing what I believe to be right, given my personal context. I
+might be wrong, which might prove I'm right. ;-)
 
 [^1]: With "community", I'm trying to be entirely general: it might be an open source community, or a company, or even a family.
 
