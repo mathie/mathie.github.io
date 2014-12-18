@@ -7,6 +7,8 @@ tags:
   - Planning
   - Review
   - Blame
+  - Context
+  - Environment
 ---
 
 One of my personal favourite phrases that I've seen in the past few years is
@@ -23,10 +25,12 @@ that my own context is getting in the way. I know what a retrospective is, but
 you, in your context, might not! A "retrospective" is a meeting that we hold at
 the end of each period of software development (called a 'sprint') where we
 explore the aspects which went well, and the things we could have done better.
-These meetings are about improving our software development process.
+The goal of the meeting is to tweak the software development process to make
+things better the next time around. These meetings are about improving our
+software development process.
 
 In some ways, it's similar to a post-mortem meeting, but that's usually tied to
-a catastrophic event, and trying to figure out what could be done to prevent it
+a catastrophic event and trying to figure out what could be done to prevent it
 happening again. Both meetings are about trying to improve the overall team's
 process, not trying to blame, nor point out the failings of an individual.
 
@@ -41,11 +45,11 @@ There are a couple of tricky bits to this statement, and they make it all the
 more powerful:
 
 * People are genuinely doing what they believe to be the right thing. They are
-  optimising for what they believe to be the best possible outcome. This
-  doesn't necessarily mean that they did the right thing from *your*
-  perspective, or even from a commonly agreed community[^1] perspective, but
-  they truly did think they were doing the right thing, given the context in
-  which they were operating.
+  optimising for what they believe to be the best possible outcome, as far as
+  they understand the situation. This doesn't necessarily mean that they did
+  the right thing from *your* perspective, or even from a commonly agreed
+  community[^1] perspective. But they truly did think they were doing the right
+  thing, given the context in which they were operating.
 
 * You might not fully appreciate the full context in which they were operating
   at the time.
@@ -60,15 +64,15 @@ Those are two important notions, which I feel the need to reiterate:
 It's easy to think of examples of this from the software development landscape.
 I have taken shortcuts when implementing a particular feature, because we're up
 against a hard deadline imposed by an external stakeholder. I've missed out on
-writing the best possible tests for my code, because I lacked the knowledge of
+writing the best possible tests for my code because I lacked the knowledge of
 the testing framework. I've introduced bugs into production software because I
 didn't fully understand the problem domain.
 
-In some cases (most, I hope!), I've made the right choice, because I had access
-to all the information I needed in order to make the best possible decision.
-And in the situations where I didn't have access to that information, I hope I
+In some cases (I hope!), I've made the right choice, because I had access to
+all the information I needed in order to make the best possible decision. And
+in the situations where I didn't have access to that information, I hope I
 provided my boss with enough context (from my environment) for her to make the
-right decision.
+right decision with her more complete context.
 
 But in some cases, in retrospect, I know I've made poor decisions. In the
 examples I can think of, I thought I was doing the right thing at the time, but
@@ -86,8 +90,8 @@ particular coding choice was made? What was the individual's mental state when
 they wrote that line of code -- is the comment a bit snarky because they'd just
 had an argument with their partner, or had a sleepless night from being up with
 an ill kid? In an ideal world, this sort of context wouldn't impinge on
-indirectly connected environments -- we'd be able to silo off all our separate
-contexts -- but I'm afraid we're all just human.
+indirectly connected environments -- we'd all be able to silo off all our
+separate contexts -- but I'm afraid we're all just human.
 
 The trouble with context is that it's all-encompassing. A single developer,
 writing a line of production code, has the entire history of the business as
@@ -97,18 +101,18 @@ write the `map` implementation in a way that leaked memory (only) in the
 production environment? Worse still, they also have the context of all the
 stuff they don't (yet) know: personally, I'd have known how to write the `map`
 so it didn't leak memory[^3], but what trade off have I made between learning
-that, and incorporating some other context my colleague knows?
+that, and incorporating some other context my colleague already knows?
 
 The trouble with context is that it can get a bit faulty, too. This is the
 fundamental (at least, in my context!) problem with some mental illnesses. As a
 human being, you have *core beliefs*: those things that you've learned from
 your parents at a young age, and that you know to be true. These can be
-positive traits, like hard work, diligence, honour. They can also be less
+positive traits, like hard work, diligence, and honour. They can also be less
 positive, like viewing yourself as 'not good enough', or 'not important'. These
 core beliefs can filter all your other experiences -- meaning that the context
 you build up is biased towards these core beliefs. When your context gets
 messed up like this, you can be still be trying to do what you believe to be
-the right thing, it's just working on faulty information.
+the right thing, you're just working on faulty information.
 
 A popular technique in retrospectives and post-mortems is to try and figure out
 the root cause of a particular problem (called 'root cause analysis') on the
@@ -118,17 +122,17 @@ System -- from where the Lean software development movement borrows many of its
 ideas -- has a technique called the "Five Whys," which keeps asking "why?"
 (Anyone with a toddler will be all-too-familiar with this technique.) The goal
 is to ask deeper questions in order understand the root cause. And the
-important, often forgotten, key is to question the process, not the individual
-people involved. It's not supposed to be a way to assign blame.
+important, sometimes forgotten, key is to question the process, not the
+individual people involved. It's not supposed to be a way to assign blame.
 
 But how about we remember the retrospective prime directive? Let's assume the
 first part is an invariant:
 
 > we understand and truly believe that everyone did the best job they could
 
-The question, instead of why, then becomes, "what was the context in which this
-seemed like the right thing to do?" I wonder if that would be a more useful
-question?
+The question, instead of "why", then becomes, "what was the context in which
+this seemed like the right thing to do?" I wonder if that would be a more
+useful question?
 
 ---
 
@@ -141,6 +145,27 @@ instead we should be asking, "what was the context that made this seem like the
 right decision?" What do you think is the right question?
 
 ---
+
+I'm going to give you a bit of an extreme example, entirely orthogonal to
+software development. Why do people commit suicide? From the outside, it's a
+devastating thing to do, to remove yourself from the human race because you
+(selfishly) decide that you can't cope with your current problems. What does
+that look like from the perspective of the Retrospective Prime Directive? That
+you truly believe the best thing you can do is remove yourself from the
+equation. That you truly believe the world will be a better place without you.
+I'm going to take the view that, in every case, that's a staggeringly gross
+mis-representation of reality that's been built up from the filtering of mental
+illness.
+
+But it makes the point: people in that sort of situation did the best job they
+could, given what they knew at the time, and the situation at hand. Two things
+to take from that:
+
+* understand other people's context; and
+
+* it's pretty scary how mental illness can mess with your own context.
+
+
 
 [^1]: With "community", I'm trying to be entirely general: it might be an open source community, or a company, or even a family.
 
