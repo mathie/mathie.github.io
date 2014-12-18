@@ -146,26 +146,13 @@ right decision?" What do you think is the right question?
 
 ---
 
-I'm going to give you a bit of an extreme example, entirely orthogonal to
-software development. Why do people commit suicide? From the outside, it's a
-devastating thing to do, to remove yourself from the human race because you
-(selfishly) decide that you can't cope with your current problems. What does
-that look like from the perspective of the Retrospective Prime Directive? That
-you truly believe the best thing you can do is remove yourself from the
-equation. That you truly believe the world will be a better place without you.
-I'm going to take the view that, in every case, that's a staggeringly gross
-mis-representation of reality that's been built up from the filtering of mental
-illness.
-
-But it makes the point: people in that sort of situation did the best job they
-could, given what they knew at the time, and the situation at hand. Two things
-to take from that:
-
-* understand other people's context; and
-
-* it's pretty scary how mental illness can mess with your own context.
-
-
+I guess the point here is: understand the context in which a decision was made.
+What you're looking at may seem crazy, or silly, or just plain misinformed. But
+the person who wrote it was doing the best they could, given the context in
+which they were operating. Just like you're currently doing the best you can
+given your current context (which might look crazy in retrospect, too). People
+are good, and they're trying to do the right thing. That's the key thing to
+remember, even when it seems unlikely.
 
 [^1]: With "community", I'm trying to be entirely general: it might be an open source community, or a company, or even a family.
 
