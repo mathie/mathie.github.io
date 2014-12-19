@@ -34,9 +34,10 @@ a catastrophic event and trying to figure out what could be done to prevent it
 happening again. Both meetings are about trying to improve the overall team's
 process, not trying to blame, nor point out the failings of an individual.
 
-I first saw it emblazoned on the wall of a [friendly local company][Neo] who
-were hosting a hack day, but it's taken a few years to really sink in. I now
-have it as a [desktop wallpaper][] on my laptop. Paraphrased, it could be:
+I first saw the Retrospective Prime Directive emblazoned on the wall of a
+[friendly local company][Neo] who were hosting a hack day. But it's taken a few
+years to really sink in. I now have it as a [desktop wallpaper][] on my laptop.
+Paraphrased, it could be:
 
 > Given the context we understood at the time, we did what we believed to be
 > the right thing.
@@ -80,9 +81,7 @@ it's my context -- my understanding of the world -- which was at fault. I've
 taken shortcuts writing code because I thought there was time pressure that
 didn't exist. I've introduced bugs into production software because I've had a
 massive hangover and shouldn't have allowed myself to be anywhere near a `cap
-deploy`. (I feel the need to jump in and defend the last one immediately: the
-context there might have been that I felt a pint or three with a friend was
-necessary, but that I couldn't admit my impairment to the boss the next day!)
+deploy`[^4].
 
 So it's all about context. Do you fully understand the context in which a
 decision was made? Do you really understand the state of the business when a
@@ -99,9 +98,9 @@ their context. They also have their personal lives: marriage, kids, childhood,
 parents, learning, everything. Who can say which perfect storm caused them to
 write the `map` implementation in a way that leaked memory (only) in the
 production environment? Worse still, they also have the context of all the
-stuff they don't (yet) know: personally, I'd have known how to write the `map`
-so it didn't leak memory[^3], but what trade off have I made between learning
-that, and incorporating some other context my colleague already knows?
+stuff they don't (yet) know: personally, I might have known how to write the
+`map` so it didn't leak memory[^3], but what trade off have I made between
+learning that, and incorporating some other context my colleague already knows?
 
 The trouble with context is that it can get a bit faulty, too. This is the
 fundamental (at least, in my context!) problem with some mental illnesses. As a
@@ -149,14 +148,15 @@ right decision?" What do you think is the right question?
 I've occasionally messed around with extreme examples of the conjecture that
 people are fundamentally good, and that they were doing what they believed to
 be the right thing, given their understanding of the world. How does that work
-with Margaret Thatcher? Yep, despite her being vilified for her treatment of
-miners and Scotland, I think she strongly believed in what she was doing, and
-believed she was doing the right thing. How about Hitler (to invoke Godwin)?
+with Margaret Thatcher, for example? Yep, despite her being vilified for her
+treatment of miners, and of Scotland, I think she strongly believed in what she
+was doing, and believed she was doing the right thing. How about Hitler (to
+invoke Godwin)?
 
 I guess the point here is: understand the context in which a decision was made.
 What you're looking at may seem crazy, or silly, or just plain misinformed. But
 the person who wrote it was doing the best they could, given the context in
-which they were operating. Just like you're currently doing the best you can
+which they were operating. Just like you're currently doing the best you can,
 given your current context (which might look crazy in retrospect, too). People
 are good, and they're trying to do the right thing. That's the key thing to
 remember, even when it seems unlikely.
@@ -169,3 +169,5 @@ might be wrong, which might prove I'm right. ;-)
 [^2]: I have to believe that this is an irrefutable truth, and that its either me -- or the other party -- misunderstanding the context which causes conflict.
 
 [^3]: I'm totally making this example up, BTW. I know nothing of leaking maps!
+
+[^4]: I feel the need to jump in and defend the last one immediately: the context there might have been that I felt a pint or three with a friend was necessary, but that I couldn't admit my impairment to the boss the next day!
