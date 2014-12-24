@@ -55,6 +55,11 @@ code, pre {
   font-family: "Source Code Pro",Monaco,Menlo,Consolas,"Courier New",monospace;
 }
 
+.gist-data {
+  max-height: 300px;
+  padding: 20px;
+}
+
 #header {
   background: url(/img/messy-desk.jpg);
   background-size: cover;
