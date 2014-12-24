@@ -1,5 +1,16 @@
 ---
 title: "Keybase: A Web 2.0 of Trust"
+excerpt: |
+  A short introduction to public key cryptography, how the web of trust is
+  formed, and what Keybase brings to the key signing party.
+category: Ops
+tags:
+  - Keybase
+  - PGP
+  - GnuPG
+  - keysigning
+  - cryptography
+  - security
 ---
 
 Ever since [Tim Bray introduced me to Keybase][ongoing1], I've been waiting
