@@ -1,5 +1,10 @@
 ---
 title: The Retrospective Prime Directive
+excerpt: |
+  The Retrospective Prime Directive states: "Regardless of what we discover, we
+  understand and truly believe that everyone did the best job they could, given
+  what they knew at the time, their skills and abilities, the resources
+  available, and the situation at hand." I muse a little on what this means.
 category: Writing
 tags:
   - Agile
@@ -9,6 +14,8 @@ tags:
   - Blame
   - Context
   - Environment
+  - Post-Mortem
+  - Five Whys
 ---
 
 One of my personal favourite phrases that I've seen in the past few years is
@@ -120,7 +127,7 @@ applying a sticking plaster to the current symptom. Toyota's Lean Production
 System -- from where the Lean software development movement borrows many of its
 ideas -- has a technique called the "Five Whys," which keeps asking "why?"
 (Anyone with a toddler will be all-too-familiar with this technique.) The goal
-is to ask deeper questions in order understand the root cause. And the
+is to ask deeper questions in order to understand the root cause. And the
 important, sometimes forgotten, key is to question the process, not the
 individual people involved. It's not supposed to be a way to assign blame.
 
@@ -171,3 +178,6 @@ might be wrong, which might prove I'm right. ;-)
 [^3]: I'm totally making this example up, BTW. I know nothing of leaking maps!
 
 [^4]: I feel the need to jump in and defend the last one immediately: the context there might have been that I felt a pint or three with a friend was necessary, but that I couldn't admit my impairment to the boss the next day!
+
+[desktop wallpaper]: https://github.com/countjocular/retrospective-prime-directive
+[Neo]: http://www.cultivatehq.com
