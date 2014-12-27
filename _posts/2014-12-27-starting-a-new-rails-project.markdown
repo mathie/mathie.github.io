@@ -1,5 +1,19 @@
 ---
 title: Starting a new Rails project
+excerpt: |
+  Since Ruby on Rails 4.2 has just been released, perhaps how is a good time to
+  review creating a shiny new Rails project. In this post we'll go through setting
+  up a new Rails app with RSpec and Guard for testing, and with Twitter Bootstrap
+  for UI styling.
+category: Programming
+tags:
+  - Ruby
+  - Rails
+  - RSpec
+  - Twitter Bootstrap
+  - PostgreSQL
+  - foreman
+  - guard
 ---
 
 Since Ruby on Rails 4.2 has [just been released][42release], perhaps now is a
