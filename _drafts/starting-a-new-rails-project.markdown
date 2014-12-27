@@ -38,7 +38,7 @@ So, let's install Rails through Rubygems:
     $ gem install rails
 
 Now we'll create the new project, and add the generated skeleton as our initial
-git commit:
+[git commit](https://github.com/mathie/perspectives/commit/2972a0d6203217e2e616cb2af9108cc65e14d848):
 
     $ rails new perspectives -d postgresql --skip-keeps --skip-test-unit
     [ ... ]
@@ -66,7 +66,7 @@ test:
   database: perspectives_test
 {% endhighlight %}
 
-Let's create the two databases, generate the initial schema, and commit the
+Let's create the two databases, generate the initial schema, and [commit](https://github.com/mathie/perspectives/commit/ac4c53dd8dc1a899ea7fd496c130776b7658abf4) the
 changes back to git:
 
     $ rake db:create:all
@@ -98,7 +98,7 @@ point we need them after all. `Gemfile` now contains just:
 Since we've removed the turbolinks gem, we'll need to remove the reference to
 it from `app/assets/javascripts/application.js`, lest we start getting errors
 on every page load. Run `bundle install` again to tidy up the lock file, add
-the changes to the index and commit:
+the changes to the index and [commit](https://github.com/mathie/perspectives/commit/db9a3ce07c804d41142ff42ae8cb7fdebc63cb5d):
 
     $ git add .
     $ git commit -m "Tidy up gem dependencies."
@@ -116,7 +116,7 @@ ourselves. In Gemfile, just under the `source` declaration, add:
 ruby File.read(File.expand_path('../.ruby-version', __FILE__)).chomp
 {% endhighlight %}
 
-Again, keeping with small, discrete changes, we'll commit that:
+Again, keeping with small, discrete changes, we'll [commit](https://github.com/mathie/perspectives/commit/e2be1b3d6c5fc709d1f9ab71ce42585c2f193988) that:
 
     $ git add .
     $ git commit -m "Set Ruby version to 2.1.5."
@@ -172,7 +172,7 @@ Now we can run:
     $ foreman start
 
 to start up an application server, and it should allow us to visit
-<http://localhost:5000/>. Commit those changes:
+<http://localhost:5000/>. [Commit those changes](https://github.com/mathie/perspectives/commit/1c4eb1152695e21e7323ec19516b59f24261bbe6):
 
     $ git add .
     $ git commit -m "Unicorn and foreman for the app server."
@@ -233,7 +233,7 @@ Then run the specs:
 
     Randomized with seed 35401
 
-That's working nicely, so let's commit our changes:
+That's working nicely, so let's [commit our changes](https://github.com/mathie/perspectives/commit/e6997c83d5c190a16aabbe1cce3832e04ad7db50):
 
     $ git add .
     $ git commit -m "Add rspec for testing."
@@ -270,7 +270,7 @@ We can now start guard in a new shell, with:
 
 and it'll keep an eye out for file changes, running the appropriate tests for
 us when a file is saved. Hit enter to run all the tests now, just to check it's
-working. Tests passing? Good, let's commit our changes:
+working. Tests passing? Good, let's [commit our changes](https://github.com/mathie/perspectives/commit/81557a41a390fcfba34dcf309cca640d44e6c7b7):
 
     $ git add .
     $ git commit -m "Guard, for automatically running our tests."
@@ -360,7 +360,7 @@ RSpec.feature 'Static pages' do
 end
 {% endhighlight %}
 
-Let's commit our changes and move on to the final stage:
+Let's [commit our changes](https://github.com/mathie/perspectives/commit/e30575db5b7602b241b2cd63d4ddc74b98d3ef87) and move on to the final stage:
 
     $ git add .
     $ git commit -m "Add in a static home page."
@@ -487,9 +487,10 @@ Finally, create a layout suitable for bootstrap, in `app/views/layouts/applicati
 </html>
 {% endhighlight %}
 
-It's a bit of a mouthful, but that's the template I wind up starting with for
-all my new projects. It gives me a nice title, a menu bar, flash messages, and
-a prettily styled body. A good start for putting together the rest of the app.
+It's a bit of a mouthful, but that's the template I wind up starting with for all
+my new projects. It gives me a nice title, a menu bar, flash messages, and a
+prettily styled body. A good start for putting together the rest of the app.
+Finally, [commit that change](https://github.com/mathie/perspectives/commit/aeb9566705fafaae3fb76bfde25654e5960d47bd).
 
 That's about it for getting started on a new Rails project. All in all --
 especially when I crib from another project -- it takes about half an hour to
