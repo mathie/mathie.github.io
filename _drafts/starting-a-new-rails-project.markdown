@@ -430,11 +430,6 @@ Finally, create a layout suitable for bootstrap, in `app/views/layouts/applicati
             <% else %>
               <li><%= link_to 'Home', root_path %></li>
             <% end %>
-            <% if request.path == perspectives_path %>
-              <li class="active"><%= link_to 'All Perspectives', perspectives_path %></li>
-            <% else %>
-              <li><%= link_to 'All Perspectives', perspectives_path %></li>
-            <% end %>
           </ul>
         </div>
       </div>
