@@ -14,7 +14,7 @@ tags:
 ---
 
 Ever since [Tim Bray introduced me to Keybase][ongoing1], I've been waiting
-patiently to get in on the beta. (OK, not so patiently.) At last, yesterday, my
+patiently to get in on the beta. (OK, not so patiently.) At last, last week, my
 invitation came through, and I've been messing around with it since.
 
 So, what's it all about? Secure communication with people you trust. The secure
@@ -22,7 +22,7 @@ communication part isn't anything new. It's using public key cryptography --
 specifically that provided by [GnuPG](https://www.gnupg.org) -- to:
 
 * Allow you to encrypt a message you send to a third party so only they can
-  decode -- read -- it; and
+  decode (read) it; and
 
 * sign a message that you send to a third party, so that they can verify it was
   really you that sent the message, and that the message they're reading hasn't
@@ -64,10 +64,10 @@ having a public key that I trust really belongs to you.
 Sharing public keys themselves is easy enough. There are many public key
 servers which you can publish your key to, most of which (eventually)
 synchronise with each other. From there, it's just a case of asking your
-encryption software to download that key from the servers. In my case, I'll
-demonstrate with the GnuPG command line client, but the same principle applies
-to most PGP implementations, including more friendly GUI tools. I can tell you
-that my key id (a short, unique, identifier for every public key) is
+encryption software to download that key from the servers. In these examples,
+I'll demonstrate with the GnuPG command line client, but the same principle
+applies to most PGP implementations, including more friendly GUI tools. I can
+tell you that my key id (a short, unique, identifier for every public key) is
 `002DC29B`. You can now retrieve that key from the public key servers:
 
     $ gpg --recv-keys 002DC29B
@@ -88,7 +88,7 @@ has been in vain.
 The traditional way to exchange public keys -- and therefore allow trustworthy,
 secure, communication over the Internet -- is to meet in person. We'd meet up,
 prove who we each were to the other's satisfaction (often with some
-Government-issued photographic ID), and exchange bits of bits which had,
+Government-issued photographic ID), and exchange bits of paper which had,
 written or printed, a PGP fingerprint. This is a shorter, easier to verify (and
 type!) representation of your PGP public key. For example, my public key's
 fingerprint is:
@@ -124,10 +124,10 @@ fingerprints, the next step is to verify that the identities on the key are
 accurate. In the case of a photograph, this is easy enough to do, just by
 viewing the image on the key. Does it match the person I just met? In the case
 of email addresses, the easiest way to check is to send an email to each of the
-addresses, encrypted using the public key we're verifying, including some pass
-phrase. If the owner of the key responds with knowledge of the pass phrase,
-then we have successfully confirmed they have control over both the key and the
-email address.
+addresses, encrypted using the public key we're verifying, including some
+particular phrase. If the owner of the key responds with knowledge of the
+phrase, then we have successfully confirmed they have control over both the key
+and the email address.
 
 Once we've verified the authenticity of the key itself, and of the identities
 on it, all that remains is to sign the key. This indicates to our own
@@ -161,9 +161,11 @@ software development[^1], and the distribution of software packages[^2]).
 
 The trouble is that, despite all these systems having been around for a while,
 they've never really reached mainstream acceptance. I suspect, if you've read
-this far you can see why: it's complicated. It relies on a number of protocols,
-and careful verification. You kinda have to trust individuals to follow the
-protocols correctly, and completely, in order to trust what they assert.
+this far, you can see why: it's complicated. It relies on a number of "human"
+protocols (as opposed to RFC-defined protocols that can be implemented entirely
+by software), and careful verification. You kinda have to trust individuals to
+follow the protocols correctly, and completely, in order to trust what they
+assert.
 
 ### Levels of Trust
 
@@ -419,6 +421,8 @@ verification procedures I've been accustomed to in PGP-land. But instead it's
 introduced a new verification method which is much simpler to do, and might
 just be 'good enough' for my needs. I'm still quite excited about Keybase, and
 I'm interested to see where it's going to take secure personal communication.
+If you'd like to track me on Keybase, I'm [mathie](https://keybase.io/mathie)
+(as usual).
 
 [ongoing1]: https://www.tbray.org/ongoing/When/201x/2014/03/19/Keybase
 [two factor authentication]: /articles/two-factor-authentication/
