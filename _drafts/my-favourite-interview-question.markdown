@@ -129,6 +129,28 @@ If you're interested in keeping up to date with progress on my goal, I've put
 together a sign up form (with [LaunchRock][launchrock] which was delightfully
 easy to use!). You can sign up here: [A Sneak Peek at The Internet][sneakpeek].
 
+<div class="jumbotron">
+  <h1 class="text-centered">A Sneak Peek at<br> The Internet</h1>
+
+  <p>
+    If you enjoyed this article, you might be interested in my new project, A
+    Sneak Peek at The Internet. What happens when you enter <a
+    href="https://www.facebook.com">www.facebook.com</a> into your web browser
+    and hit return? A Sneak Peek at The Internet will take you on a deep dive
+    through the network stack, from HTTP, SSL, TCP and IP, all the way down
+    through the data link layer, back up to Facebook's data centres, and then on
+    the return journey back to the browser.
+  </p>
+
+  <p>
+    There's more fun, excitement and peril than a Disneyland rollercoaster!
+  </p>
+
+  <p class="center-block">
+    <a href="http://the-internet.woss.name/" class="btn btn-block btn-lg btn-primary">Sign up to hear more</a>
+  </p>
+</div>
+
 [tcpipillustrated]: http://www.amazon.co.uk/gp/product/0321336313/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0321336313&linkCode=as2&tag=mathieoftheen-21&linkId=3FRUDKLICXTP4TO5
 [bathrubyconf]: http://2015.bathruby.org
 [sneakpeek]: http://the-internet.woss.name/
