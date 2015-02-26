@@ -18,7 +18,7 @@ in that answer. We could talk for hours on how the browser decides whether
 you've entered something which can be turned into a valid URL, or whether it's
 intended to be a search term. From there, we can look at URL construction, then
 deconstruction, to figure out exactly what resource we're looking for. Then it's
-into name resolution, to figure out who we should be talking to.
+on to name resolution, to figure out who we should be talking to.
 
 And then it gets really interesting. We start an HTTP conversation, which is
 encapsulated in a TCP session which is, in turn, encapsulated in a sequence of
@@ -55,10 +55,10 @@ knowledge in some area(s). When you're interviewing, as
 > things -- the top of the T) and also experts (among the best in their field
 > within a narrow discipline -- the vertical leg of the T).
 
-In answering the question, I'll get an inkling about their generalist skills. As
-well as a general overview of the topics, I'll get some insight into their
-ability to structure an answer, communication skills, and problem solving. And I
-get an idea of where their strengths lie:
+From their answer to the question, I'll get an inkling about their generalist
+skills. As well as a general overview of the topics, I'll get some insight into
+their ability to structure an answer, communication skills, and problem solving.
+And I get an idea of where their strengths lie:
 
 * If the answer is largely around the browser itself, how it interprets HTML and
   CSS to render the page, and how it interacts with JavaScript code, I'll have
@@ -68,13 +68,13 @@ get an idea of where their strengths lie:
   HTTP request is serviced, then chances are I'm talking to a seasoned backend
   developer.
 
-* And if we get into the nitty gritty of IP procotols, packets and routing, I've
+* And if we get into the nitty gritty of IP protocols, packets and routing, I've
   found myself an Ops engineer.
 
-This interview question has been sitting with me in my repetoire for the past
-five years now. In the past couple of years, I've been wondering: wouldn't it be
-awesome if more of us[^3] had deeper knowledge of the full stack? While it's
-not necessary to know the wire layout of an ARP[^2] packet, for example, it's
+This interview question has been sitting with me in my repertoire for the past
+five years now. More recently, I've been wondering: wouldn't it be awesome if
+more of us[^3] had a deeper knowledge of the full stack? While it's not
+necessary to know the wire layout of an ARP[^2] packet, for example, it's
 occasionally useful to know what ARP is when you're trying to figure out why two
 computers won't talk to each other.
 
@@ -84,7 +84,7 @@ The classic text for understanding the network layer is [TCP/IP Illustrated
 Volume 1: The Protocols][tcpipillustrated], by W. Richard Stevens. It has been
 revised by Kevin Fall, with a second edition in 2011, and it definitely covers
 all the material, in meticulous depth. But it's not an easy read with all that
-detail, and not necessarily an approachable book.
+detail and, to many, is not an approachable book.
 
 I think there's an untapped market here. As it happens, I'm in the market for
 some new goals in life, so here's my plan. For the next while, I'm going to
@@ -93,7 +93,7 @@ in some interesting level of detail. I'll be covering topics around:
 
 * the high level protocols themselves (HTTP, SMTP, IMAP, SSH, etc);
 
-* securing communication at the transport layer;
+* securing communication at the transport layer (SSL/TLS);
 
 * name resolution at various layers (DNS, ARP, etc);
 
@@ -121,7 +121,7 @@ together a series of short talks for conferences (lightning talks, and I'm
 submitting longer talks to every conference I see issuing a Call For Papers!) on
 various aspects of this overarching theme. I've got some notes together for a
 talk on DNS, for a lightning talk at the [Bath Ruby Conference][bathrubyconf]
-next month, for example. I'd like to turn these talks into short screencasts,
+next month, for example. I'd like to turn these talks into short screen casts,
 too, if you can put up with my accent. ;-)
 
 But the bigger goal is to write a book. I feel that this is an important topic,
@@ -131,15 +131,15 @@ Internet. Wouldn't it be awesome if we all had the confidence to understand how
 the network worked, instead of treating it like a (reliable) bit of cable
 directly connecting each endpoint?
 
-The book is definitely in the *very* early stages. I've got a rough outline, and
-I've got a few thousand words that will fit in ... somewhere (I seem to have an
-unhealthy obsession with DNS!). But it's definitely still at the early stages,
-and I'm expecting it to be a long project. My current working title is, "A Sneak
-Peek at The Internet", though I was inspired by a new title while writing this
-morning: "There and back again: A Packet's Tale."
+The book is definitely in the *very* early stages. I've put together a rough
+outline, and I've written a few thousand words that will fit in ... somewhere (I
+seem to have an unhealthy obsession with DNS). I'm expecting it to be a long
+project! My current working title is, "A Sneak Peek at The Internet", though I
+was inspired by a new title while writing this morning: "There and back again: A
+Packet's Tale."
 
 If you're interested in keeping up to date with progress on my goal, I've put
-together a sign up form (with [LaunchRock][launchrock] which was delightfully
+together a sign-up form (with [LaunchRock][launchrock] which was delightfully
 easy to use!). You can sign up here: [A Sneak Peek at The Internet][sneakpeek].
 
 <div class="jumbotron">
