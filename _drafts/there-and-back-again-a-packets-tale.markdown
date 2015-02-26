@@ -1,14 +1,14 @@
 ---
-title: My Favourite Interview Question
+title: "There and back again: A packet's tale"
 ---
-I haven't done any interviewing for a while[^1] but I went through a
-period of growth in one of the companies I worked for where we were feverishly
-expanding the development team, so we had to be a little more systematic in our
-approach to interviewing. Instead of just having an open conversation with
-candidates to see where it led (which is what I'd previously done in such
-situations), I wound up preparing a 'standard' set of questions. It took a few
-goes, but eventually I settled on a single question for the technical portion
-of the interview:
+
+I haven't done any interviewing for a while[^1] but I went through a period of
+growth in one of the companies I worked for where we were feverishly expanding
+the development team, so we had to be a little more systematic in our approach
+to interviewing. Instead of just having an open conversation with candidates to
+see where it led (which is what I'd previously done in such situations), I wound
+up preparing a 'standard' set of questions. It took a few goes, but eventually I
+settled on a favourite question for the technical portion of the interview:
 
 > When I pull up my favourite Internet browser, type "bbc.co.uk" into the
 > address bar, and press return, what happens?
@@ -21,11 +21,11 @@ deconstruction, to figure out exactly what resource we're looking for. Then it's
 into name resolution, to figure out who we should be talking to.
 
 And then it gets really interesting. We start an HTTP conversation, which is
-encapsulated in a TCP session which, in turn, is encapsulated in a sequence of
+encapsulated in a TCP session which is, in turn, encapsulated in a sequence of
 IP packets, which are, in turn, encapsulated in packets at the data link layer
-(some mixture of Ethernet and/or wireless protocols), which -- finally -- causes
-some bits to fly through the air, travel along a copper wire, or become flashes
-of light through fibre optic.
+(some mixture of Ethernet and/or wireless protocols), which -- finally! --
+causes some bits to fly through the air, travel along a copper wire, or become
+flashes of light through fibre optic.
 
 Now our request emerges -- fully formed again, if it survived the journey -- at
 the data centre. The HTTP request is serviced (on which entire bookshelves have
@@ -41,41 +41,54 @@ It's an exciting story: one of daring journeys, lost packets, unanswerable
 questions, and the teamwork of many disjoint routers, distributed across the
 Internet.
 
+## T-shaped
+
 There are so many different areas involved that it's impossible to answer the
-question fully in an interview situation. But I would expect an interviewee for
-a technical role to have a rough overview of the process involved, and I'd be
-looking for them to have depth of knowledge in some area. When you're
-interviewing, as Valve succinctly put it, you're looking for a 'T' shape.
-Somebody who has a wide breadth of experience, but has depth of experience in
-one particular area. In answering the question, I'll get some idea of where
-their strengths lie:
+question fully in an interview situation. But I hope an interviewee (for a
+technical role) would have a rough overview of the process involved, be able to
+make intelligent inferences as to how some bits work, and have depth of
+knowledge in some area(s). When you're interviewing, as
+[Valve's Employee handbook][valve] (PDF) succinctly put it, you're looking for a
+'T' shape:
+
+> people who are both generalists (highly skilled at a broad set of valuable
+> things -- the top of the T) and also experts (among the best in their field
+> within a narrow discipline -- the vertical leg of the T).
+
+In answering the question, I'll get an inkling about their generalist skills. As
+well as a general overview of the topics, I'll get some insight into their
+ability to structure an answer, communication skills, and problem solving. And I
+get an idea of where their strengths lie:
 
 * If the answer is largely around the browser itself, how it interprets HTML and
   CSS to render the page, and how it interacts with JavaScript code, I'll have
-  an inkling that the candidate is strong on front end work.
+  a hint that the candidate is strong on front end development.
 
 * If they lean more towards the server side, talking in depth about how an
-  HTTP request is serviced, then chances are I'm faced with a backend developer.
+  HTTP request is serviced, then chances are I'm talking to a seasoned backend
+  developer.
 
 * And if we get into the nitty gritty of IP procotols, packets and routing, I've
- found myself an Ops engineer.
+  found myself an Ops engineer.
 
 This interview question has been sitting with me in my repetoire for the past
 five years now. In the past couple of years, I've been wondering: wouldn't it be
-awesome if more developers had deeper knowledge of the full stack? While it's
+awesome if more of us[^3] had deeper knowledge of the full stack? While it's
 not necessary to know the wire layout of an ARP[^2] packet, for example, it's
-often useful to know what ARP is when you're trying to figure out why two
+occasionally useful to know what ARP is when you're trying to figure out why two
 computers won't talk to each other.
+
+## A Sneak Peek at The Internet
 
 The classic text for understanding the network layer is [TCP/IP Illustrated
 Volume 1: The Protocols][tcpipillustrated], by W. Richard Stevens. It has been
-revised by Kevin Fall, with a second edition in 2011. It definitely covers all
-the material, in meticulous depth, but it's not an easy read, not necessarily an
-approachable book.
+revised by Kevin Fall, with a second edition in 2011, and it definitely covers
+all the material, in meticulous depth. But it's not an easy read with all that
+detail, and not necessarily an approachable book.
 
 I think there's an untapped market here. As it happens, I'm in the market for
 some new goals in life, so here's my plan. For the next while, I'm going to
-focus on writing blog posts that explain various areas of the networking stack
+focus on writing articles that explain various areas of the networking stack
 in some interesting level of detail. I'll be covering topics around:
 
 * the high level protocols themselves (HTTP, SMTP, IMAP, SSH, etc);
@@ -88,7 +101,7 @@ in some interesting level of detail. I'll be covering topics around:
   contenders like SCTP & QUIC;
 
 * the underlying Internet Protocol, IPv4 & IPv6, which will encompass topics
-  like routing, tunnelling, firewalling & configuration;
+  like routing, tunneling, firewalls & configuration;
 
 * the physical network layers, like Ethernet, Wifi & cellular;
 
@@ -97,13 +110,13 @@ in some interesting level of detail. I'll be covering topics around:
 * some of the tools that we can use to explore all these concepts.
 
 I might even dive a little into the implementation of a network protocol. For
-some reason -- and it couldn't have been because I was drunk at the time! -- the
-note, "Implement a TCP/IP Stack in Go" appeared one day on my Someday/Maybe todo
-list. Perhaps creating a complete protocol stack is a bit much, but taking a
-look into the Linux kernel to see how things are implemented could be
-insightful.
+some reason -- and it couldn't possibly have been because I was drunk at the
+time! -- the note, "Implement a TCP/IP Stack in Go" appeared one day on my
+Someday/Maybe todo list. Perhaps creating a complete protocol stack is a bit
+much, but taking a look into the Linux kernel to see how things are implemented
+could be insightful.
 
-I'd like to experiment a little with screencasting, too. I'm aiming to put
+I'd like to experiment a little with screen casting, too. I'm aiming to put
 together a series of short talks for conferences (lightning talks, and I'm
 submitting longer talks to every conference I see issuing a Call For Papers!) on
 various aspects of this overarching theme. I've got some notes together for a
@@ -155,7 +168,10 @@ easy to use!). You can sign up here: [A Sneak Peek at The Internet][sneakpeek].
 [bathrubyconf]: http://2015.bathruby.org
 [sneakpeek]: http://the-internet.woss.name/
 [launchrock]: http://launchrock.com/
+[valve]: http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf
 
 [^1]: The mixed blessing of doing contract work instead of being a full time employee for the past few years.
 
 [^2]: Address Resolution Protocol. This is the mechanism used by Ethernet and Wifi networks to figure out who an IP address belongs to. If a host wants to communicate with 10.0.2.34 on the local network, it shouts "who has 10.0.2.34?" to everyone on that network. Hopefully, the owner of that IP address will answer, "I have 10.0.2.34, and my hardware address is 00:11:22:33:44:55."
+
+[^3]: Me included. I wasted my formative years printing out RFCs on a Star LC-10 dot matrix printer, then reading them -- for fun! But I haven't kept up with developments in the past decade, so I'm on a learning journey. And that's kinda the point: that's what I'm getting out of this deal.
