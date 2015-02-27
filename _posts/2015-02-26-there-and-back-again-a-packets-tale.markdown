@@ -1,5 +1,15 @@
 ---
 title: "There and back again: A packet's tale"
+excerpt: |
+  I've got a new goal in life, and a new series of projects to achieve that
+  goal. I'm planning to focus my free time to produce articles, screen casts
+  and, hopefully, eventually, a book. They're all around answering my favourite
+  interview question: "When I pull up my Internet Browser, type 'bbc.co.uk' into
+  the address bar, and press return, what happens?"
+
+  In this article, I explore why I like it as an interview question, and some of
+  the topics I'll be talking about in the coming months.
+category: Internet
 ---
 
 I haven't done any interviewing for a while[^1] but I went through a period of
@@ -142,7 +152,7 @@ If you're interested in keeping up to date with progress on my goal, I've put
 together a sign-up form (with [LaunchRock][launchrock] which was delightfully
 easy to use!). You can sign up here: [A Sneak Peek at The Internet][sneakpeek].
 
-<div class="jumbotron">
+<div class="jumbotron" id="cta">
   <h1 class="text-centered">A Sneak Peek at<br> The Internet</h1>
 
   <p>
