@@ -12,6 +12,14 @@ excerpt: |
 category: Internet
 ---
 
+<div class="alert alert-info alert-dismissable" role="alert">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+
+  <strong>TL;DR</strong> I'm embarking on a new project:
+  <a href="#cta">A Sneak Peek at The Internet</a>. Sign up to be kept in the
+  loop!
+</div>
+
 I haven't done any interviewing for a while[^1] but I went through a period of
 growth in one of the companies I worked for where we were feverishly expanding
 the development team, so we had to be a little more systematic in our approach

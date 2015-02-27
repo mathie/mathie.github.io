@@ -1,0 +1,45 @@
+---
+layout: categories
+title: The Internet
+excerpt: |
+  I've got a new goal in life, and a new series of projects to achieve that
+  goal. I'm planning to focus my free time to produce articles, screen casts
+  and, hopefully, eventually, a book. They're all around answering my favourite
+  interview question: "When I pull up my Internet Browser, type 'bbc.co.uk' into
+  the address bar, and press return, what happens?" These articles are all
+  intended to answer some small part of that question.
+---
+
+<div class="alert alert-info alert-dismissable" role="alert">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+
+  <strong>TL;DR</strong> I'm embarking on a new project:
+  <a href="#cta">A Sneak Peek at The Internet</a>. Sign up to be kept in the
+  loop!
+</div>
+
+{% for post in site.categories.internet %}
+  {% include post_summary.html post=post %}
+{% endfor %}
+
+<div class="jumbotron" id="cta">
+  <h1 class="text-centered">A Sneak Peek at<br> The Internet</h1>
+
+  <p>
+    If you enjoyed this article, you might be interested in my new project, A
+    Sneak Peek at The Internet. What happens when you enter <a
+    href="https://www.facebook.com">www.facebook.com</a> into your web browser
+    and hit return? A Sneak Peek at The Internet will take you on a deep dive
+    through the network stack, from HTTP, SSL, TCP and IP, all the way down
+    through the data link layer, back up to Facebook's data centres, and then on
+    the return journey back to the browser.
+  </p>
+
+  <p>
+    There's more fun, excitement and peril than a Disneyland rollercoaster!
+  </p>
+
+  <p class="center-block">
+    <a href="http://the-internet.woss.name/" class="btn btn-block btn-lg btn-primary">Sign up to hear more</a>
+  </p>
+</div>
