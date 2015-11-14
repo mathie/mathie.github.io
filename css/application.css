@@ -1,0 +1,56 @@
+/* SASS Variable (for when I can SASS)
+
+$color-pri-brown:       #301B06;
+$color-pri-light:       #F7F1E7;
+$color-pri-gold:        #E3BB2E;
+
+$color-sec-red:         #A51B11;
+$color-sec-blue:        #0A77C1;
+$color-sec-green:       #377016;
+
+*/
+
+body {
+  background: #F7F1E7 url('../img/partials/bg-repeat.png') 0 0 repeat;
+  background-size: 128px;
+  font: normal 15px/1.2em 'Merriweather', Georgia, serif;
+  color: #301B06;
+  box-sizing: border-box;
+}
+
+body * + * {
+  box-sizing: border-box;
+}
+
+h1,h2,h3,h6 {
+  font-family: 'Six Caps', Helvetica, Arial, sans-serif;
+}
+
+h4,h5 {
+  font-weight: bold;
+}
+
+a {
+  color: #0A77C1;
+  text-decoration: underline;
+}
+
+main {
+  width: 96%;
+  max-width: 1024px;
+  display: block;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 1080px) {
+  main {
+    width: 85%;
+  }
+}
+
+nav {
+  border: 4px double #301B06;
+  border-left: 0;
+  border-right: 0;
+  padding: 12px;
+}
