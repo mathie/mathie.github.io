@@ -8,7 +8,7 @@ permalink: /articles/:title/
 gems:
   - jekyll-redirect-from
 
-url: https://woss.name
+url: https://mathie.github.io
 name: Notes from a Messy Desk
 description: |
   This is where I (Graeme Mathieson, often known online as
