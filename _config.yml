@@ -47,5 +47,5 @@ sass:
   style: :compressed
 
 # GitHub-enforced defaults
-highlighter: pygments
+highlighter: rouge
 lsi: false
