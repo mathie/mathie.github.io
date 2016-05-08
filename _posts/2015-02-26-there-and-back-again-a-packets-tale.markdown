@@ -154,7 +154,7 @@ easy to use!). You can sign up here: [A Sneak Peek at The Internet][sneakpeek].
 
 [tcpipillustrated]: http://www.amazon.co.uk/gp/product/0321336313/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0321336313&linkCode=as2&tag=mathieoftheen-21&linkId=3FRUDKLICXTP4TO5
 [bathrubyconf]: http://2015.bathruby.org
-[sneakpeek]: http://the-internet.woss.name/
+[sneakpeek]: https://the-internet.io/
 [launchrock]: http://launchrock.com/
 [valve]: http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf
 
